@@ -140,7 +140,7 @@
 4	sabíamos	_	VERB	_	_	0	root	_	_
 5	lo	_	PRON	_	_	4	dobj	_	_
 6	que	_	SCONJ	_	_	11	mark	_	_
-7	nuestros	_	DET	_	_	8	det	_	_
+7	nuestros	_	DET	_	_	8	nmod:poss	_	_
 8	vecinos	_	NOUN	_	_	11	nsubj	_	_
 9	de	_	ADP	_	_	10	case	_	_
 10	Portugal	_	PROPN	_	_	8	nmod	_	_
@@ -158,7 +158,7 @@
 22	tomando	_	VERB	_	_	17	ccomp	_	_
 23	instantáneas	_	NOUN	_	_	22	dobj	_	_
 24	de	_	ADP	_	_	26	case	_	_
-25	sus	_	DET	_	_	26	det	_	_
+25	sus	_	DET	_	_	26	nmod:poss	_	_
 26	calles	_	NOUN	_	_	23	nmod	_	_
 27	por	_	ADP	_	_	28	case	_	_
 28	invasión	_	NOUN	_	_	17	nmod	_	_
@@ -183,7 +183,7 @@
 14	el	_	DET	_	_	15	det	_	_
 15	servicio	_	NOUN	_	_	13	dobj	_	_
 16	en	_	ADP	_	_	18	case	_	_
-17	su	_	DET	_	_	18	det	_	_
+17	su	_	DET	_	_	18	nmod:poss	_	_
 18	reserva	_	NOUN	_	_	13	nmod	_	_
 19	y	_	CONJ	_	_	13	cc	_	_
 20	presentar	_	VERB	_	_	13	conj	_	_
@@ -347,7 +347,7 @@
 19	aportes	_	NOUN	_	_	15	nmod	_	_
 20	,	_	PUNCT	_	_	15	punct	_	_
 21	expresaron	_	VERB	_	_	0	root	_	_
-22	su	_	DET	_	_	23	det	_	_
+22	su	_	DET	_	_	23	nmod:poss	_	_
 23	agradecimiento	_	NOUN	_	_	21	dobj	_	_
 24-25	al	_	_	_	_	_	_	_	_
 24	a	_	ADP	_	_	26	case	_	_
@@ -598,7 +598,7 @@
 2	Tambien	_	ADV	_	_	4	advmod	_	_
 3	podras	_	AUX	_	_	4	aux	_	_
 4	encontrar	_	VERB	_	_	0	root	_	_
-5	nuestro	_	DET	_	_	6	det	_	_
+5	nuestro	_	DET	_	_	6	nmod:poss	_	_
 6	material	_	NOUN	_	_	4	dobj	_	_
 7	en	_	ADP	_	_	8	case	_	_
 8	Conciertos	_	NOUN	_	_	4	nmod	_	_
@@ -625,7 +625,7 @@
 7	a	_	ADP	_	_	8	mwe	_	_
 8	partir	_	ADP	_	_	11	case	_	_
 9	de	_	ADP	_	_	8	mwe	_	_
-10	su	_	DET	_	_	11	det	_	_
+10	su	_	DET	_	_	11	nmod:poss	_	_
 11	obra	_	NOUN	_	_	16	nmod	_	_
 12	infra	_	ADV	_	_	13	advmod	_	_
 13	señalada	_	VERB	_	_	11	acl	_	_
@@ -643,7 +643,7 @@
 25	un	_	DET	_	_	26	det	_	_
 26	desafío	_	NOUN	_	_	23	nmod	_	_
 27	de	_	ADP	_	_	29	case	_	_
-28	su	_	DET	_	_	29	det	_	_
+28	su	_	DET	_	_	29	nmod:poss	_	_
 29	época	_	NOUN	_	_	26	nmod	_	_
 30	:	_	PUNCT	_	_	23	punct	_	_
 31	"	_	PUNCT	_	_	32	punct	_	_
@@ -782,7 +782,7 @@
 13	admirable	_	ADJ	_	_	14	amod	_	_
 14	relación	_	NOUN	_	_	11	dobj	_	_
 15	con	_	ADP	_	_	17	case	_	_
-16	sus	_	DET	_	_	17	det	_	_
+16	sus	_	DET	_	_	17	nmod:poss	_	_
 17	crías	_	NOUN	_	_	14	nmod	_	_
 18-19	deshaciéndose	_	_	_	_	_	_	_	_
 18	deshaciéndo	_	VERB	_	_	11	acl	_	_
@@ -853,7 +853,7 @@
 8	de	_	ADP	_	_	9	case	_	_
 9	comunicación	_	NOUN	_	_	7	nmod	_	_
 10	y	_	CONJ	_	_	4	cc	_	_
-11	su	_	DET	_	_	12	det	_	_
+11	su	_	DET	_	_	12	nmod:poss	_	_
 12	pluralismo	_	NOUN	_	_	4	conj	_	_
 13	.	_	PUNCT	_	_	2	punct	_	_
 
@@ -906,7 +906,7 @@
 45	considera	_	VERB	_	_	36	advcl	_	_
 46	caro	_	ADJ	_	_	45	xcomp	_	_
 47	viendo	_	VERB	_	_	45	acl	_	_
-48	su	_	DET	_	_	49	det	_	_
+48	su	_	DET	_	_	49	nmod:poss	_	_
 49	estado	_	NOUN	_	_	47	dobj	_	_
 50	de	_	ADP	_	_	51	case	_	_
 51	forma	_	NOUN	_	_	49	nmod	_	_
@@ -1019,7 +1019,7 @@
 15	un	_	NUM	_	_	16	nummod	_	_
 16	millón	_	NOUN	_	_	19	nummod	_	_
 17	de	_	ADP	_	_	16	case	_	_
-18	sus	_	DET	_	_	19	det	_	_
+18	sus	_	DET	_	_	19	nmod:poss	_	_
 19	periféricos	_	NOUN	_	_	9	nmod	_	_
 20	para	_	ADP	_	_	21	case	_	_
 21	Xbox	_	PROPN	_	_	19	nmod	_	_
@@ -1057,7 +1057,7 @@
 53	personalizada	_	ADJ	_	_	52	amod	_	_
 54	.	_	PUNCT	_	_	5	punct	_	_
 
-1	Su	_	DET	_	_	2	det	_	_
+1	Su	_	DET	_	_	2	nmod:poss	_	_
 2	clase	_	NOUN	_	_	4	nsubjpass	_	_
 3	es	_	AUX	_	_	4	auxpass	_	_
 4	comparada	_	VERB	_	_	0	root	_	_
@@ -1077,7 +1077,7 @@
 18	es	_	VERB	_	_	19	cop	_	_
 19	único	_	ADJ	_	_	14	advcl	_	_
 20	en	_	ADP	_	_	22	case	_	_
-21	su	_	DET	_	_	22	det	_	_
+21	su	_	DET	_	_	22	nmod:poss	_	_
 22	especie	_	NOUN	_	_	19	nmod	_	_
 23	como	_	ADP	_	_	24	case	_	_
 24	lo	_	PRON	_	_	19	nmod	_	_
@@ -1096,7 +1096,7 @@
 8	de	_	ADP	_	_	9	case	_	_
 9	formación	_	NOUN	_	_	7	nmod	_	_
 10	en	_	ADP	_	_	12	case	_	_
-11	su	_	DET	_	_	12	det	_	_
+11	su	_	DET	_	_	12	nmod:poss	_	_
 12	vida	_	NOUN	_	_	5	nmod	_	_
 13	,	_	PUNCT	_	_	5	punct	_	_
 14	sea	_	VERB	_	_	17	cc	_	_
@@ -1191,7 +1191,7 @@
 21	la	_	DET	_	_	22	det	_	_
 22	continuación	_	NOUN	_	_	12	nmod	_	_
 23	de	_	ADP	_	_	26	case	_	_
-24	su	_	DET	_	_	26	det	_	_
+24	su	_	DET	_	_	26	nmod:poss	_	_
 25	exitosa	_	ADJ	_	_	26	amod	_	_
 26	gira	_	NOUN	_	_	22	nmod	_	_
 27	'	_	PUNCT	_	_	30	punct	_	_
@@ -1254,7 +1254,7 @@
 
 1	¿	_	PUNCT	_	_	6	punct	_	_
 2	Pueden	_	AUX	_	_	6	aux	_	_
-3	sus	_	DET	_	_	5	det	_	_
+3	sus	_	DET	_	_	5	nmod:poss	_	_
 4	propios	_	ADJ	_	_	5	amod	_	_
 5	amigos	_	NOUN	_	_	6	nsubj	_	_
 6	describir	_	VERB	_	_	0	root	_	_
@@ -1280,7 +1280,7 @@
 14	políticas	_	NOUN	_	_	12	dobj	_	_
 15	y	_	CONJ	_	_	12	cc	_	_
 16	controlar	_	VERB	_	_	12	conj	_	_
-17	su	_	DET	_	_	18	det	_	_
+17	su	_	DET	_	_	18	nmod:poss	_	_
 18	ejecución	_	NOUN	_	_	16	dobj	_	_
 19	.	_	PUNCT	_	_	9	punct	_	_
 
@@ -1381,7 +1381,7 @@
 27	población	_	NOUN	_	_	29	nsubj	_	_
 28	exterior	_	ADJ	_	_	27	amod	_	_
 29	da	_	VERB	_	_	19	conj	_	_
-30	sus	_	DET	_	_	31	det	_	_
+30	sus	_	DET	_	_	31	nmod:poss	_	_
 31	condolencias	_	NOUN	_	_	29	dobj	_	_
 32	que	_	PRON	_	_	35	nsubjpass	_	_
 33	solo	_	ADV	_	_	35	advmod	_	_
@@ -1457,7 +1457,7 @@
 6	nada	_	PRON	_	_	5	dobj	_	_
 7	por	_	ADP	_	_	8	case	_	_
 8	fortalecer	_	VERB	_	_	5	acl	_	_
-9	su	_	DET	_	_	10	det	_	_
+9	su	_	DET	_	_	10	nmod:poss	_	_
 10	sistema	_	NOUN	_	_	8	dobj	_	_
 11	financiero	_	ADJ	_	_	10	amod	_	_
 12	.	_	PUNCT	_	_	5	punct	_	_
@@ -1491,7 +1491,7 @@
 27	SUFRA	_	VERB	_	_	23	advcl	_	_
 28	EN	_	ADP	_	_	31	case	_	_
 29	TODOS	_	DET	_	_	31	det	_	_
-30	SUS	_	DET	_	_	31	det	_	_
+30	SUS	_	DET	_	_	31	nmod:poss	_	_
 31	NIVELES	_	NOUN	_	_	27	nmod	_	_
 32	.	_	PUNCT	_	_	4	punct	_	_
 
@@ -1622,14 +1622,14 @@
 18	que	_	SCONJ	_	_	19	mark	_	_
 19	compete	_	VERB	_	_	17	acl:relcl	_	_
 20	a	_	ADP	_	_	22	case	_	_
-21	su	_	DET	_	_	22	det	_	_
+21	su	_	DET	_	_	22	nmod:poss	_	_
 22	tarea	_	NOUN	_	_	19	iobj	_	_
 23	?	_	PUNCT	_	_	4	punct	_	_
 
 1	Y	_	CONJ	_	_	3	cc	_	_
 2	SE	_	PRON	_	_	3	iobj	_	_
 3	DESCONOCEN	_	VERB	_	_	0	root	_	_
-4	SUS	_	DET	_	_	5	det	_	_
+4	SUS	_	DET	_	_	5	nmod:poss	_	_
 5	EFECTOS	_	NOUN	_	_	3	nsubj	_	_
 6	A	_	ADP	_	_	8	case	_	_
 7	LARGO	_	ADJ	_	_	8	amod	_	_
@@ -1741,7 +1741,7 @@
 13	que	_	SCONJ	_	_	14	mark	_	_
 14	iniciara	_	VERB	_	_	12	acl:relcl	_	_
 15	en	_	ADP	_	_	17	case	_	_
-16	su	_	DET	_	_	17	det	_	_
+16	su	_	DET	_	_	17	nmod:poss	_	_
 17	tiempo	_	NOUN	_	_	14	nmod	_	_
 18	el	_	DET	_	_	19	det	_	_
 19	Pacto	_	PROPN	_	_	14	nsubj	_	_
@@ -1857,7 +1857,7 @@
 28	todo	_	PRON	_	_	25	nmod	_	_
 29	,	_	PUNCT	_	_	1	punct	_	_
 30	seguí	_	VERB	_	_	1	parataxis	_	_
-31	tu	_	DET	_	_	32	det	_	_
+31	tu	_	DET	_	_	32	nmod:poss	_	_
 32	vida	_	NOUN	_	_	30	dobj	_	_
 33	,	_	PUNCT	_	_	1	punct	_	_
 34	no	_	ADV	_	_	35	neg	_	_
@@ -1935,7 +1935,7 @@
 14	estudiándo	_	VERB	_	_	11	acl	_	_
 15	la	_	PRON	_	_	14	dobj	_	_
 16	en	_	ADP	_	_	22	case	_	_
-17	sus	_	DET	_	_	22	det	_	_
+17	sus	_	DET	_	_	22	nmod:poss	_	_
 18	"	_	PUNCT	_	_	22	punct	_	_
 19	Buenas	_	PROPN	_	_	22	amod	_	_
 20	y	_	CONJ	_	_	19	cc	_	_
@@ -1944,7 +1944,7 @@
 23	"	_	PUNCT	_	_	22	punct	_	_
 24	,	_	PUNCT	_	_	27	punct	_	_
 25	quizá	_	ADV	_	_	27	advmod	_	_
-26	su	_	DET	_	_	27	det	_	_
+26	su	_	DET	_	_	27	nmod:poss	_	_
 27	obra	_	NOUN	_	_	22	appos	_	_
 28	filológica	_	ADJ	_	_	27	amod	_	_
 29	cumbre	_	NOUN	_	_	27	compound	_	_
@@ -1972,7 +1972,7 @@
 
 1	Destaca	_	VERB	_	_	0	root	_	_
 2	por	_	ADP	_	_	4	case	_	_
-3	su	_	DET	_	_	4	det	_	_
+3	su	_	DET	_	_	4	nmod:poss	_	_
 4	sistema	_	NOUN	_	_	1	nmod	_	_
 5	GPS	_	PROPN	_	_	4	name	_	_
 6	(	_	PUNCT	_	_	7	punct	_	_
@@ -2007,7 +2007,7 @@
 6	ustedes	_	PRON	_	_	4	nmod	_	_
 7	,	_	PUNCT	_	_	4	punct	_	_
 8	son	_	VERB	_	_	11	cop	_	_
-9	nuestros	_	DET	_	_	11	det	_	_
+9	nuestros	_	DET	_	_	11	nmod:poss	_	_
 10	"	_	PUNCT	_	_	11	punct	_	_
 11	clientes	_	NOUN	_	_	4	parataxis	_	_
 12	"	_	PUNCT	_	_	11	punct	_	_
@@ -2035,7 +2035,7 @@
 1	El	_	DET	_	_	2	det	_	_
 2	africano	_	NOUN	_	_	7	nsubj	_	_
 3	a	_	ADP	_	_	6	case	_	_
-4	sus	_	DET	_	_	6	det	_	_
+4	sus	_	DET	_	_	6	nmod:poss	_	_
 5	27	_	NUM	_	_	6	nummod	_	_
 6	años	_	NOUN	_	_	7	nmod	_	_
 7	quiere	_	VERB	_	_	0	root	_	_
@@ -2079,7 +2079,7 @@
 1	"	_	PUNCT	_	_	2	punct	_	_
 2	Quiero	_	VERB	_	_	0	root	_	_
 3	mostrar	_	VERB	_	_	2	xcomp	_	_
-4	mi	_	DET	_	_	5	det	_	_
+4	mi	_	DET	_	_	5	nmod:poss	_	_
 5	satisfacción	_	NOUN	_	_	3	dobj	_	_
 6	por	_	ADP	_	_	8	case	_	_
 7	este	_	DET	_	_	8	det	_	_
@@ -2260,7 +2260,7 @@
 45	dar	_	VERB	_	_	43	advcl	_	_
 46	continuidad	_	NOUN	_	_	45	dobj	_	_
 47	a	_	ADP	_	_	49	case	_	_
-48	su	_	DET	_	_	49	det	_	_
+48	su	_	DET	_	_	49	nmod:poss	_	_
 49	escolaridad	_	NOUN	_	_	45	iobj	_	_
 50	.	_	PUNCT	_	_	6	punct	_	_
 
@@ -2275,7 +2275,7 @@
 8	problema	_	NOUN	_	_	5	nmod	_	_
 9	,	_	PUNCT	_	_	5	punct	_	_
 10	y	_	CONJ	_	_	5	cc	_	_
-11	sus	_	DET	_	_	12	det	_	_
+11	sus	_	DET	_	_	12	nmod:poss	_	_
 12	representantes	_	NOUN	_	_	16	nsubj	_	_
 13	parlamentarios	_	ADJ	_	_	12	amod	_	_
 14	no	_	ADV	_	_	16	neg	_	_
@@ -2316,7 +2316,7 @@
 10	la	_	DET	_	_	11	det	_	_
 11	consola	_	NOUN	_	_	8	nmod	_	_
 12	en	_	ADP	_	_	15	case	_	_
-13	su	_	DET	_	_	15	det	_	_
+13	su	_	DET	_	_	15	nmod:poss	_	_
 14	primer	_	NUM	_	_	15	nummod	_	_
 15	día	_	NOUN	_	_	8	nmod	_	_
 16	en	_	ADP	_	_	18	case	_	_
@@ -2487,7 +2487,7 @@
 
 1	Ahora	_	ADV	_	_	5	advmod	_	_
 2	ya	_	ADV	_	_	5	advmod	_	_
-3	nuestra	_	DET	_	_	4	det	_	_
+3	nuestra	_	DET	_	_	4	nmod:poss	_	_
 4	deuda	_	NOUN	_	_	5	nsubj	_	_
 5	sobrepasa	_	VERB	_	_	0	root	_	_
 6	los	_	DET	_	_	9	det	_	_
@@ -2530,7 +2530,7 @@
 43	desembolso	_	NOUN	_	_	41	dobj	_	_
 44	grande	_	ADJ	_	_	43	amod	_	_
 45	de	_	ADP	_	_	47	case	_	_
-46	nuestras	_	DET	_	_	47	det	_	_
+46	nuestras	_	DET	_	_	47	nmod:poss	_	_
 47	finanzas	_	NOUN	_	_	43	nmod	_	_
 48	.	_	PUNCT	_	_	5	punct	_	_
 
@@ -2637,7 +2637,7 @@
 9	componente	_	NOUN	_	_	7	nsubj	_	_
 10	que	_	SCONJ	_	_	11	mark	_	_
 11	impida	_	VERB	_	_	9	acl:relcl	_	_
-12	su	_	DET	_	_	13	det	_	_
+12	su	_	DET	_	_	13	nmod:poss	_	_
 13	funcionamiento	_	NOUN	_	_	11	dobj	_	_
 14	,	_	PUNCT	_	_	7	punct	_	_
 15	es	_	AUX	_	_	16	auxpass	_	_
@@ -2731,7 +2731,7 @@
 19	alimentos	_	NOUN	_	_	12	conj	_	_
 20	.	_	PUNCT	_	_	5	punct	_	_
 
-1	Tu	_	DET	_	_	2	det	_	_
+1	Tu	_	DET	_	_	2	nmod:poss	_	_
 2	opinión	_	NOUN	_	_	4	nsubj	_	_
 3	es	_	VERB	_	_	4	cop	_	_
 4	importante	_	ADJ	_	_	0	root	_	_
@@ -2859,7 +2859,7 @@
 14	que	_	SCONJ	_	_	16	mark	_	_
 15	pueden	_	AUX	_	_	16	aux	_	_
 16	ejecutar	_	VERB	_	_	13	acl:relcl	_	_
-17	su	_	DET	_	_	18	det	_	_
+17	su	_	DET	_	_	18	nmod:poss	_	_
 18	fichaje	_	NOUN	_	_	16	dobj	_	_
 19	son	_	VERB	_	_	13	cop	_	_
 20	el	_	DET	_	_	22	det	_	_
@@ -2902,7 +2902,7 @@
 57	diariamente	_	ADV	_	_	52	advmod	_	_
 58	el	_	PRON	_	_	52	nsubj	_	_
 59	y	_	CONJ	_	_	58	cc	_	_
-60	su	_	DET	_	_	61	det	_	_
+60	su	_	DET	_	_	61	nmod:poss	_	_
 61	mujer	_	NOUN	_	_	58	conj	_	_
 62	.	_	PUNCT	_	_	4	punct	_	_
 
@@ -2918,7 +2918,7 @@
 10	alguien	_	PRON	_	_	12	nsubj	_	_
 11	le	_	PRON	_	_	12	iobj	_	_
 12	recuerda	_	VERB	_	_	8	advcl	_	_
-13	su	_	DET	_	_	14	det	_	_
+13	su	_	DET	_	_	14	nmod:poss	_	_
 14	pasado	_	NOUN	_	_	12	dobj	_	_
 15	,	_	PUNCT	_	_	16	punct	_	_
 16	dice	_	VERB	_	_	0	root	_	_
@@ -2990,7 +2990,7 @@
 10	construir	_	VERB	_	_	8	acl	_	_
 11	organización	_	NOUN	_	_	10	dobj	_	_
 12	en	_	ADP	_	_	14	case	_	_
-13	su	_	DET	_	_	14	det	_	_
+13	su	_	DET	_	_	14	nmod:poss	_	_
 14	facultad	_	NOUN	_	_	10	nmod	_	_
 15	,	_	PUNCT	_	_	16	punct	_	_
 16	participando	_	VERB	_	_	10	acl	_	_
@@ -3007,7 +3007,7 @@
 27	tejido	_	NOUN	_	_	26	dobj	_	_
 28	vecinal	_	ADJ	_	_	27	amod	_	_
 29	en	_	ADP	_	_	31	case	_	_
-30	su	_	DET	_	_	31	det	_	_
+30	su	_	DET	_	_	31	nmod:poss	_	_
 31	barrio	_	NOUN	_	_	26	nmod	_	_
 32	,	_	PUNCT	_	_	8	punct	_	_
 33	los	_	DET	_	_	34	det	_	_
@@ -3035,7 +3035,7 @@
 55	en	_	ADP	_	_	57	case	_	_
 56	la	_	DET	_	_	57	det	_	_
 57	sociedad	_	NOUN	_	_	54	nmod	_	_
-58	su	_	DET	_	_	59	det	_	_
+58	su	_	DET	_	_	59	nmod:poss	_	_
 59	mensaje	_	NOUN	_	_	54	dobj	_	_
 60	de	_	ADP	_	_	61	case	_	_
 61	odio	_	NOUN	_	_	59	nmod	_	_
@@ -3415,7 +3415,7 @@
 80	debía	_	AUX	_	_	81	aux	_	_
 81	seguir	_	AUX	_	_	82	aux	_	_
 82	conduciendo	_	VERB	_	_	75	ccomp	_	_
-83	su	_	DET	_	_	84	det	_	_
+83	su	_	DET	_	_	84	nmod:poss	_	_
 84	autobús	_	NOUN	_	_	82	dobj	_	_
 85	'	_	PUNCT	_	_	32	punct	_	_
 86	.	_	PUNCT	_	_	16	punct	_	_
@@ -3833,7 +3833,7 @@
 26	vino	_	NOUN	_	_	23	nmod	_	_
 27	expusieron	_	VERB	_	_	14	acl:relcl	_	_
 28	en	_	ADP	_	_	30	case	_	_
-29	sus	_	DET	_	_	30	det	_	_
+29	sus	_	DET	_	_	30	nmod:poss	_	_
 30	ponencias	_	NOUN	_	_	27	nmod	_	_
 31	,	_	PUNCT	_	_	34	punct	_	_
 32	con	_	ADP	_	_	34	case	_	_
@@ -4129,7 +4129,7 @@
 27	dos	_	NUM	_	_	23	conj	_	_
 28	más	_	ADV	_	_	23	advmod	_	_
 29	que	_	CONJ	_	_	31	case	_	_
-30	sus	_	DET	_	_	31	det	_	_
+30	sus	_	DET	_	_	31	nmod:poss	_	_
 31	rivales	_	NOUN	_	_	28	nmod	_	_
 32	no	_	ADV	_	_	33	neg	_	_
 33	ocupa	_	VERB	_	_	9	advcl	_	_
@@ -4186,7 +4186,7 @@
 10	legal	_	ADJ	_	_	9	amod	_	_
 11	.	_	PUNCT	_	_	4	punct	_	_
 
-1	Su	_	DET	_	_	2	det	_	_
+1	Su	_	DET	_	_	2	nmod:poss	_	_
 2	madre	_	NOUN	_	_	5	nsubj	_	_
 3	lo	_	PRON	_	_	5	dobj	_	_
 4	había	_	AUX	_	_	5	aux	_	_
@@ -4227,7 +4227,7 @@
 36	internado	_	NOUN	_	_	33	nmod	_	_
 37	,	_	PUNCT	_	_	42	punct	_	_
 38	donde	_	ADV	_	_	42	advmod	_	_
-39	su	_	DET	_	_	41	det	_	_
+39	su	_	DET	_	_	41	nmod:poss	_	_
 40	otro	_	DET	_	_	41	det	_	_
 41	hijo	_	NOUN	_	_	42	nsubj	_	_
 42	cumplía	_	VERB	_	_	36	acl:relcl	_	_
@@ -4277,7 +4277,7 @@
 38	los	_	DET	_	_	39	det	_	_
 39	agricultores	_	NOUN	_	_	35	dobj	_	_
 40	y	_	CONJ	_	_	39	cc	_	_
-41	nuestra	_	DET	_	_	42	det	_	_
+41	nuestra	_	DET	_	_	42	nmod:poss	_	_
 42	tierra	_	NOUN	_	_	39	conj	_	_
 43	con	_	ADP	_	_	44	case	_	_
 44	campañas	_	NOUN	_	_	35	nmod	_	_
@@ -4307,7 +4307,7 @@
 67	debe	_	AUX	_	_	68	aux	_	_
 68	hacer	_	VERB	_	_	65	acl:relcl	_	_
 69	tras	_	ADP	_	_	71	case	_	_
-70	su	_	DET	_	_	71	det	_	_
+70	su	_	DET	_	_	71	nmod:poss	_	_
 71	error	_	NOUN	_	_	68	nmod	_	_
 72	es	_	VERB	_	_	65	cop	_	_
 73	pedir	_	VERB	_	_	65	csubj	_	_
@@ -4320,19 +4320,19 @@
 80	de	_	ADP	_	_	81	case	_	_
 81	naranja	_	NOUN	_	_	79	nmod	_	_
 82	de	_	ADP	_	_	84	case	_	_
-83	nuestra	_	DET	_	_	84	det	_	_
+83	nuestra	_	DET	_	_	84	nmod:poss	_	_
 84	tierra	_	NOUN	_	_	77	nmod	_	_
 85	que	_	SCONJ	_	_	87	mark	_	_
 86	no	_	ADV	_	_	87	neg	_	_
 87	tienen	_	VERB	_	_	77	acl:relcl	_	_
 88	culpa	_	NOUN	_	_	87	dobj	_	_
 89	de	_	ADP	_	_	91	case	_	_
-90	su	_	DET	_	_	91	det	_	_
+90	su	_	DET	_	_	91	nmod:poss	_	_
 91	escasez	_	NOUN	_	_	88	nmod	_	_
 92	de	_	ADP	_	_	93	case	_	_
 93	ideas	_	NOUN	_	_	91	nmod	_	_
 94	y	_	CONJ	_	_	91	cc	_	_
-95	su	_	DET	_	_	97	det	_	_
+95	su	_	DET	_	_	97	nmod:poss	_	_
 96	enfermiza	_	ADJ	_	_	97	amod	_	_
 97	obsesión	_	NOUN	_	_	91	conj	_	_
 98	por	_	ADP	_	_	99	case	_	_
@@ -4358,7 +4358,7 @@
 13	la	_	PRON	_	_	12	dobj	_	_
 14	y	_	CONJ	_	_	12	cc	_	_
 15	demuestra	_	VERB	_	_	12	conj	_	_
-16	tu	_	DET	_	_	17	det	_	_
+16	tu	_	DET	_	_	17	nmod:poss	_	_
 17	civilidad	_	NOUN	_	_	15	dobj	_	_
 18	.	_	PUNCT	_	_	3	punct	_	_
 
@@ -4402,7 +4402,7 @@
 35	horas	_	NOUN	_	_	31	nmod	_	_
 36	y	_	CONJ	_	_	34	cc	_	_
 37	media	_	NUM	_	_	34	conj	_	_
-38	su	_	DET	_	_	39	det	_	_
+38	su	_	DET	_	_	39	nmod:poss	_	_
 39	liberación	_	NOUN	_	_	31	dobj	_	_
 40	.	_	PUNCT	_	_	9	punct	_	_
 
@@ -4577,7 +4577,7 @@
 4	deseen	_	VERB	_	_	2	acl:relcl	_	_
 5	participar	_	VERB	_	_	4	xcomp	_	_
 6	aportando	_	VERB	_	_	5	acl	_	_
-7	sus	_	DET	_	_	8	det	_	_
+7	sus	_	DET	_	_	8	nmod:poss	_	_
 8	opiniones	_	NOUN	_	_	6	dobj	_	_
 9	han	_	AUX	_	_	10	aux	_	_
 10	ledo	_	X	_	_	0	root	_	_
@@ -5217,14 +5217,14 @@
 12	mostrado	_	VERB	_	_	0	root	_	_
 13	este	_	DET	_	_	14	det	_	_
 14	martes	_	PROPN	_	_	12	nmod	_	_
-15	su	_	DET	_	_	16	det	_	_
+15	su	_	DET	_	_	16	nmod:poss	_	_
 16	respeto	_	NOUN	_	_	12	dobj	_	_
 17	ante	_	ADP	_	_	19	case	_	_
 18	el	_	DET	_	_	19	det	_	_
 19	enfrentamiento	_	NOUN	_	_	12	nmod	_	_
 20	que	_	SCONJ	_	_	21	mark	_	_
 21	tiene	_	VERB	_	_	19	acl:relcl	_	_
-22	su	_	DET	_	_	23	det	_	_
+22	su	_	DET	_	_	23	nmod:poss	_	_
 23	equipo	_	NOUN	_	_	21	nsubj	_	_
 24	en	_	ADP	_	_	25	case	_	_
 25	casa	_	NOUN	_	_	21	nmod	_	_
@@ -5592,7 +5592,7 @@
 21	en	_	ADP	_	_	23	case	_	_
 22	un	_	DET	_	_	23	det	_	_
 23	procesador	_	NOUN	_	_	20	nmod	_	_
-24	su	_	DET	_	_	25	det	_	_
+24	su	_	DET	_	_	25	nmod:poss	_	_
 25	opción	_	NOUN	_	_	20	dobj	_	_
 26	electoral	_	ADJ	_	_	25	amod	_	_
 27	,	_	PUNCT	_	_	28	punct	_	_
@@ -5750,7 +5750,7 @@
 6	tema	_	NOUN	_	_	2	nmod	_	_
 7	,	_	PUNCT	_	_	2	punct	_	_
 8	pero	_	CONJ	_	_	2	cc	_	_
-9	mi	_	DET	_	_	10	det	_	_
+9	mi	_	DET	_	_	10	nmod:poss	_	_
 10	función	_	NOUN	_	_	2	conj	_	_
 11	allí	_	ADV	_	_	10	advmod	_	_
 12	siempre	_	ADV	_	_	10	advmod	_	_
@@ -5819,7 +5819,7 @@
 54	Argentina	_	ADJ	_	_	52	amod	_	_
 55	.	_	PUNCT	_	_	12	punct	_	_
 
-1	Nuestros	_	DET	_	_	2	det	_	_
+1	Nuestros	_	DET	_	_	2	nmod:poss	_	_
 2	colegas	_	NOUN	_	_	6	nsubj	_	_
 3	de	_	ADP	_	_	4	case	_	_
 4	Slashgear	_	PROPN	_	_	2	nmod	_	_
@@ -6459,7 +6459,7 @@
 30	Fueradeleje	_	PROPN	_	_	28	nmod	_	_
 31	.	_	PUNCT	_	_	12	punct	_	_
 
-1	Su	_	DET	_	_	2	det	_	_
+1	Su	_	DET	_	_	2	nmod:poss	_	_
 2	socialización	_	NOUN	_	_	33	dobj	_	_
 3	primaria	_	ADJ	_	_	2	amod	_	_
 4	,	_	PUNCT	_	_	5	punct	_	_
@@ -6484,7 +6484,7 @@
 23	la	_	DET	_	_	24	det	_	_
 24	pronunciación	_	NOUN	_	_	17	conj	_	_
 25	de	_	ADP	_	_	28	case	_	_
-26	su	_	DET	_	_	28	det	_	_
+26	su	_	DET	_	_	28	nmod:poss	_	_
 27	primera	_	ADJ	_	_	28	amod	_	_
 28	frase	_	NOUN	_	_	24	nmod	_	_
 29	con	_	ADP	_	_	30	case	_	_
@@ -6810,7 +6810,7 @@
 7	ha	_	AUX	_	_	8	aux	_	_
 8	manifestado	_	VERB	_	_	46	ccomp	_	_
 9	además	_	ADV	_	_	8	advmod	_	_
-10	su	_	DET	_	_	11	det	_	_
+10	su	_	DET	_	_	11	nmod:poss	_	_
 11	aprecio	_	NOUN	_	_	8	dobj	_	_
 12	por	_	ADP	_	_	14	case	_	_
 13	la	_	DET	_	_	14	det	_	_
@@ -6971,7 +6971,7 @@
 16	mamarias	_	ADJ	_	_	15	amod	_	_
 17	acudan	_	VERB	_	_	8	ccomp	_	_
 18	a	_	ADP	_	_	20	case	_	_
-19	sus	_	DET	_	_	20	det	_	_
+19	sus	_	DET	_	_	20	nmod:poss	_	_
 20	cirujanos	_	NOUN	_	_	17	nmod	_	_
 21	y	_	CONJ	_	_	17	cc	_	_
 22	se	_	PRON	_	_	24	iobj	_	_
@@ -7045,7 +7045,7 @@
 15	)	_	PUNCT	_	_	13	punct	_	_
 16	y	_	CONJ	_	_	6	cc	_	_
 17	en	_	ADP	_	_	19	case	_	_
-18	mi	_	DET	_	_	19	det	_	_
+18	mi	_	DET	_	_	19	nmod:poss	_	_
 19	familia	_	NOUN	_	_	21	nmod	_	_
 20	no	_	ADV	_	_	21	neg	_	_
 21	somos	_	VERB	_	_	6	conj	_	_
@@ -7155,7 +7155,7 @@
 
 1	MALDITA	_	ADJ	_	_	0	root	_	_
 2	SEA	_	VERB	_	_	1	cop	_	_
-3	SU	_	DET	_	_	4	det	_	_
+3	SU	_	DET	_	_	4	nmod:poss	_	_
 4	VIDA	_	NOUN	_	_	1	nsubj	_	_
 5	POR	_	ADP	_	_	6	case	_	_
 6	LO	_	PRON	_	_	1	nmod	_	_
@@ -7198,7 +7198,7 @@
 5	,	_	PUNCT	_	_	4	punct	_	_
 6	este	_	PRON	_	_	9	nsubj	_	_
 7	es	_	VERB	_	_	9	cop	_	_
-8	tu	_	DET	_	_	9	det	_	_
+8	tu	_	DET	_	_	9	nmod:poss	_	_
 9	bar	_	NOUN	_	_	0	root	_	_
 10	.	_	PUNCT	_	_	9	punct	_	_
 
@@ -7309,7 +7309,7 @@
 9	saben	_	VERB	_	_	5	conj	_	_
 10	sacar	_	VERB	_	_	9	xcomp	_	_
 11	todo	_	DET	_	_	14	det	_	_
-12	tu	_	DET	_	_	14	det	_	_
+12	tu	_	DET	_	_	14	nmod:poss	_	_
 13	mejor	_	ADJ	_	_	14	amod	_	_
 14	rendimiento	_	NOUN	_	_	10	dobj	_	_
 15	.	_	PUNCT	_	_	5	punct	_	_
@@ -7367,7 +7367,7 @@
 7	las	_	PRON	_	_	8	dobj	_	_
 8	anulan	_	VERB	_	_	3	conj	_	_
 9	a	_	ADP	_	_	11	case	_	_
-10	su	_	DET	_	_	11	det	_	_
+10	su	_	DET	_	_	11	nmod:poss	_	_
 11	antojo	_	NOUN	_	_	8	nmod	_	_
 12	.	_	PUNCT	_	_	3	punct	_	_
 
@@ -7461,7 +7461,7 @@
 20	Scotex	_	PROPN	_	_	18	nmod	_	_
 21	!	_	PUNCT	_	_	6	punct	_	_
 
-1	Mi	_	DET	_	_	2	det	_	_
+1	Mi	_	DET	_	_	2	nmod:poss	_	_
 2	queja	_	NOUN	_	_	4	nsubj	_	_
 3	principal	_	ADJ	_	_	2	amod	_	_
 4	es	_	VERB	_	_	0	root	_	_
@@ -7696,7 +7696,7 @@
 24	Jaén	_	PROPN	_	_	23	nsubj	_	_
 25	.	_	PUNCT	_	_	3	punct	_	_
 
-1	Su	_	DET	_	_	2	det	_	_
+1	Su	_	DET	_	_	2	nmod:poss	_	_
 2	contenido	_	NOUN	_	_	4	nsubj	_	_
 3	variable	_	ADJ	_	_	2	amod	_	_
 4	hace	_	VERB	_	_	0	root	_	_
@@ -7733,7 +7733,7 @@
 1	Me	_	PRON	_	_	3	iobj	_	_
 2	ha	_	AUX	_	_	3	aux	_	_
 3	gustado	_	VERB	_	_	0	root	_	_
-4	su	_	DET	_	_	5	det	_	_
+4	su	_	DET	_	_	5	nmod:poss	_	_
 5	servicio	_	NOUN	_	_	3	nsubj	_	_
 6	y	_	CONJ	_	_	5	cc	_	_
 7	precio	_	NOUN	_	_	5	conj	_	_
@@ -7803,7 +7803,7 @@
 12	de	_	ADP	_	_	13	case	_	_
 13	Haya	_	PROPN	_	_	11	nmod	_	_
 14	de	_	ADP	_	_	16	case	_	_
-15	sus	_	DET	_	_	16	det	_	_
+15	sus	_	DET	_	_	16	nmod:poss	_	_
 16	certificados	_	NOUN	_	_	9	nmod	_	_
 17	.	_	PUNCT	_	_	7	punct	_	_
 
@@ -8488,7 +8488,7 @@
 41	primera	_	ADJ	_	_	42	amod	_	_
 42	vez	_	NOUN	_	_	3	parataxis	_	_
 43	en	_	ADP	_	_	45	case	_	_
-44	mi	_	DET	_	_	45	det	_	_
+44	mi	_	DET	_	_	45	nmod:poss	_	_
 45	vda	_	NOUN	_	_	42	nmod	_	_
 46	que	_	SCONJ	_	_	50	mark	_	_
 47	una	_	DET	_	_	48	det	_	_
@@ -8502,7 +8502,7 @@
 
 1	Cristina	_	PROPN	_	_	9	nsubj	_	_
 2	,	_	PUNCT	_	_	4	punct	_	_
-3	su	_	DET	_	_	4	det	_	_
+3	su	_	DET	_	_	4	nmod:poss	_	_
 4	mujer	_	NOUN	_	_	1	appos	_	_
 5	,	_	PUNCT	_	_	4	punct	_	_
 6	es	_	VERB	_	_	9	cop	_	_
@@ -8517,7 +8517,7 @@
 15	hacen	_	VERB	_	_	13	acl:relcl	_	_
 16	que	_	SCONJ	_	_	17	mark	_	_
 17	continúes	_	VERB	_	_	15	ccomp	_	_
-18	tu	_	DET	_	_	19	det	_	_
+18	tu	_	DET	_	_	19	nmod:poss	_	_
 19	jornada	_	NOUN	_	_	17	dobj	_	_
 20	laboral	_	ADJ	_	_	19	amod	_	_
 21	con	_	ADP	_	_	23	case	_	_
@@ -8639,7 +8639,7 @@
 6	maitre	_	X	_	_	3	appos	_	_
 7	)	_	PUNCT	_	_	6	punct	_	_
 8	por	_	ADP	_	_	10	case	_	_
-9	su	_	DET	_	_	10	det	_	_
+9	su	_	DET	_	_	10	nmod:poss	_	_
 10	ayuda	_	NOUN	_	_	1	nmod	_	_
 11	para	_	ADP	_	_	14	case	_	_
 12	que	_	SCONJ	_	_	14	mark	_	_
@@ -8665,7 +8665,7 @@
 14	simpatica	_	ADJ	_	_	12	conj	_	_
 15	.	_	PUNCT	_	_	2	punct	_	_
 
-1	Mi	_	DET	_	_	2	det	_	_
+1	Mi	_	DET	_	_	2	nmod:poss	_	_
 2	seguro	_	NOUN	_	_	3	nsubj	_	_
 3	cubre	_	VERB	_	_	0	root	_	_
 4	el	_	DET	_	_	5	det	_	_
@@ -8685,7 +8685,7 @@
 17	las	_	DET	_	_	18	det	_	_
 18	puertas	_	NOUN	_	_	10	nmod	_	_
 19	de	_	ADP	_	_	21	case	_	_
-20	su	_	DET	_	_	21	det	_	_
+20	su	_	DET	_	_	21	nmod:poss	_	_
 21	taller	_	NOUN	_	_	18	nmod	_	_
 22	,	_	PUNCT	_	_	29	punct	_	_
 23-24	al	_	_	_	_	_	_	_	_
@@ -8722,7 +8722,7 @@
 
 1	Estuvimos	_	VERB	_	_	0	root	_	_
 2	almorzando	_	VERB	_	_	1	acl	_	_
-3	mi	_	DET	_	_	4	det	_	_
+3	mi	_	DET	_	_	4	nmod:poss	_	_
 4	esposa	_	NOUN	_	_	1	nsubj	_	_
 5	y	_	CONJ	_	_	4	cc	_	_
 6	yo	_	PRON	_	_	4	conj	_	_
@@ -8826,7 +8826,7 @@
 45	especial	_	ADJ	_	_	52	advmod	_	_
 46	,	_	PUNCT	_	_	49	punct	_	_
 47	en	_	ADP	_	_	49	case	_	_
-48	nuestro	_	DET	_	_	49	det	_	_
+48	nuestro	_	DET	_	_	49	nmod:poss	_	_
 49	caso	_	NOUN	_	_	52	nmod	_	_
 50	,	_	PUNCT	_	_	49	punct	_	_
 51	con	_	ADP	_	_	52	case	_	_
