@@ -13,9 +13,9 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 * Bohnet, Bernd, et al. "Joint morphological and syntactic analysis for richly inflected languages."
   Transactions of the Association for Computational Linguistics 1 (2013): 415-428.
-* Bohnet, Bernd, et al. "Static and Dynamic Feature Selection in Morphosyntactic Analyzers." Under review. 2015.
-* Taulé, Mariona, Maria Antònia Martí, and Marta Recasens.
-  "AnCora: Multilevel Annotated Corpora for Catalan and Spanish." LREC. 2008.
+** Bohnet, Bernd, et al. "Static and Dynamic Feature Selection in Morphosyntactic Analyzers." Under review. 2015.
+*** Taulé, Mariona, Maria Antònia Martí, and Marta Recasens.
+    "AnCora: Multilevel Annotated Corpora for Catalan and Spanish." LREC. 2008.
 
 ===================================
 LEGACY README FILE BELOW
