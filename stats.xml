@@ -85,7 +85,7 @@
     <dep name="appos">8906</dep>
     <dep name="aux">4206</dep>
     <dep name="auxpass">1862</dep>
-    <dep name="case">69428</dep>
+    <dep name="case">67234</dep>
     <dep name="cc">13270</dep>
     <dep name="ccomp">1596</dep>
     <dep name="compound">425</dep>
@@ -97,7 +97,7 @@
     <dep name="det">61364</dep>
     <dep name="dobj">13666</dep>
     <dep name="iobj">7486</dep>
-    <dep name="mark">9426</dep>
+    <dep name="mark">11620</dep>
     <dep name="mwe">2932</dep>
     <dep name="name">7355</dep>
     <dep name="neg">1775</dep>
