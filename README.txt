@@ -10,7 +10,8 @@ automatically using the parsers/taggers in Bohnet et al 2014* and Bohnet et al. 
 treebank and converted automatically to UD standards.
 
 Various heuristics have been added to improve the output of the tagger, fix obvious errors and add features that
-the tagger did not supply.
+the tagger did not supply. The changes for v1.2 (November 2015) were done by Miguel Ballesteros, Dan Zeman, and
+Héctor Martínez Alonso.
 
 The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
@@ -146,7 +147,7 @@ representation for clitics.
 Licenses and terms-of-use
 =========================
 
-For the following languages 
+For the following languages
 
   German, Spanish, French, Indonesian, Italian, Japanese, Korean and Brazilian
   Portuguese
