@@ -198,3 +198,9 @@ Contact
 ryanmcd@google.com
 joakim.nivre@lingfil.uu.se
 slav@google.com
+
+
+Documentation status: stub
+Data source: unknown
+Data available since: UD v1.0
+License: CC BY-NC-SA 3.0 US
