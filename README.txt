@@ -33,6 +33,14 @@ Changelog
   * First release. No lemmas, no features. Dependencies converted from the legacy UD treebank.
 
 
+=== Machine-readable metadata =================================================
+Documentation status: partial
+Data source: automatic conversion + manual check
+Data available since: UD v1.0
+License: CC BY-NC-SA 3.0 US
+===============================================================================
+
+
 ===================================
 LEGACY README FILE BELOW
 ===================================
@@ -214,9 +222,3 @@ Contact
 ryanmcd@google.com
 joakim.nivre@lingfil.uu.se
 slav@google.com
-
-
-Documentation status: stub
-Data source: unknown
-Data available since: UD v1.0
-License: CC BY-NC-SA 3.0 US
