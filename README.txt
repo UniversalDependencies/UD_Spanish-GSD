@@ -35,7 +35,7 @@ Changelog
 
 === Machine-readable metadata =================================================
 Documentation status: partial
-Data source: automatic conversion + manual check
+Data source: semi-automatic
 Data available since: UD v1.0
 License: CC BY-NC-SA 3.0 US
 ===============================================================================
