@@ -87,8 +87,8 @@
 23	animación	animación	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
 24	tomado	tomado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	21	acl	_	_
 25	de	de	ADP	_	_	27	case	_	_
-26	EA	ea	PROPN	_	_	27	name	_	_
-27	Sports	sports	PROPN	_	_	24	nmod	_	_
+26	EA	ea	PROPN	_	_	24	nmod	_	_
+27	Sports	sports	PROPN	_	_	26	name	_	_
 28	,	,	PUNCT	_	_	21	punct	_	_
 29	radiosidad	radiosidad	NOUN	_	Gender=Fem|Number=Sing	21	conj	_	_
 30	en	en	ADP	_	_	31	case	_	_
@@ -152,8 +152,8 @@
 10	Portugal	portugal	PROPN	_	_	8	nmod	_	_
 11	hacían	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	5	acl:relcl	_	_
 12	con	con	ADP	_	_	14	case	_	_
-13	Street	street	PROPN	_	_	14	name	_	_
-14	View	view	PROPN	_	Gender=Masc	11	nmod	_	_
+13	Street	street	PROPN	_	_	11	nmod	_	_
+14	View	view	PROPN	_	Gender=Masc	13	name	_	_
 15	:	:	PUNCT	_	_	4	punct	_	_
 16	no	no	ADV	_	_	17	neg	_	_
 17	permitir	permitir	VERB	_	VerbForm=Inf	4	parataxis	_	_
@@ -202,10 +202,10 @@
 26	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	27	det	_	_
 27	documento	documento	NOUN	_	Gender=Masc|Number=Sing	22	conj	_	_
 28	acreditativo	acreditativo	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
-29	con	con	ADP	_	_	31	mwe	_	_
-30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	mwe	_	_
-31	fin	fin	NOUN	_	Gender=Masc|Number=Sing	33	mark	_	_
-32	de	de	ADP	_	_	31	mwe	_	_
+29	con	con	ADP	_	_	33	mark	_	_
+30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	mwe	_	_
+31	fin	fin	NOUN	_	Gender=Masc|Number=Sing	29	mwe	_	_
+32	de	de	ADP	_	_	29	mwe	_	_
 33	cancelar	cancelar	VERB	_	VerbForm=Inf	20	advcl	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	coste	coste	NOUN	_	Gender=Masc|Number=Sing	33	dobj	_	_
@@ -277,8 +277,8 @@
 20	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id es-test-001-s10
-1	Pedro	pedro	PROPN	_	_	2	name	_	_
-2	Alvade	alvade	PROPN	_	_	8	nsubj	_	_
+1	Pedro	pedro	PROPN	_	_	8	nsubj	_	_
+2	Alvade	alvade	PROPN	_	_	1	name	_	_
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	representante	representante	NOUN	_	Number=Sing	2	appos	_	_
 5-6	del	_	_	_	_	_	_	_	_
@@ -304,8 +304,8 @@
 1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	palabras	palabra	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
 3	de	de	ADP	_	_	5	case	_	_
-4	Antonio	antonio	PROPN	_	_	5	name	_	_
-5	Álvarez	álvarez	PROPN	_	_	2	nmod	_	_
+4	Antonio	antonio	PROPN	_	_	2	nmod	_	_
+5	Álvarez	álvarez	PROPN	_	_	4	name	_	_
 6	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	presagiar	presagiar	VERB	_	VerbForm=Inf	6	xcomp	_	_
 8	que	que	SCONJ	_	_	13	mark	_	_
@@ -349,8 +349,8 @@
 9	de	de	ADP	_	_	10	case	_	_
 10	Orituco	orituco	PROPN	_	_	8	nmod	_	_
 11	,	,	PUNCT	_	_	15	punct	_	_
-12	así	así	ADV	_	_	13	mwe	_	_
-13	como	como	CONJ	_	_	1	cc	_	_
+12	así	así	ADV	_	_	1	cc	_	_
+13	como	como	CONJ	_	_	12	mwe	_	_
 14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	beneficiarios	beneficiario	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	_
 16	de	de	ADP	_	_	19	case	_	_
@@ -368,8 +368,8 @@
 27	(	(	PUNCT	_	_	28	punct	_	_
 28	E	e	X	_	_	26	compound	_	_
 29	)	)	PUNCT	_	_	28	punct	_	_
-30	Arturo	arturo	PROPN	_	_	31	name	_	_
-31	Suarez	suarez	PROPN	_	_	26	appos	_	_
+30	Arturo	arturo	PROPN	_	_	26	appos	_	_
+31	Suarez	suarez	PROPN	_	_	30	name	_	_
 32	,	,	PUNCT	_	_	26	punct	_	_
 33	a	a	ADP	_	_	35	case	_	_
 34	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
@@ -377,8 +377,8 @@
 36	Patria	patria	NOUN	_	_	35	appos	_	_
 37	Socialista	socialista	ADJ	_	Number=Sing	36	amod	_	_
 38	ya	ya	X	_	_	26	cc	_	_
-39	Wilmer	wilmer	PROPN	_	_	40	name	_	_
-40	Álvarez	álvarez	PROPN	_	_	26	conj	_	_
+39	Wilmer	wilmer	PROPN	_	_	26	conj	_	_
+40	Álvarez	álvarez	PROPN	_	_	39	name	_	_
 41	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	40	appos	_	_
 42	de	de	ADP	_	_	43	case	_	_
 43	Encomuna	encomuna	PROPN	_	_	41	nmod	_	_
@@ -508,9 +508,9 @@
 15	celebrará	celebrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	12	acl:relcl	_	_
 16	en	en	ADP	_	_	20	case	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-18	Maastricht	maastricht	PROPN	_	_	19	name	_	_
-19	Drama	drama	PROPN	_	_	20	name	_	_
-20	Academy	academy	PROPN	_	_	15	nmod	_	_
+18	Maastricht	maastricht	PROPN	_	_	20	name	_	_
+19	Drama	drama	PROPN	_	_	15	nmod	_	_
+20	Academy	academy	PROPN	_	_	19	name	_	_
 21	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id es-test-001-s17
@@ -550,9 +550,9 @@
 34	de	de	ADP	_	_	36	case	_	_
 35	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
 36	extranjeros	extranjero	NOUN	_	Gender=Masc|Number=Plur	33	nmod	_	_
-37	a	a	ADP	_	_	38	mwe	_	_
-38	través	través	NOUN	_	Gender=Masc|Number=Sing	41	nmod	_	_
-39	de	de	ADP	_	_	38	mwe	_	_
+37	a	a	ADP	_	_	41	nmod	_	_
+38	través	través	NOUN	_	Gender=Masc|Number=Sing	37	mwe	_	_
+39	de	de	ADP	_	_	37	mwe	_	_
 40	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
 41	Asociación	asociación	NOUN	_	_	30	nmod	_	_
 42	de	de	ADP	_	_	43	case	_	_
@@ -631,8 +631,8 @@
 16	etc	etcétera	X	_	_	8	conj	_	_
 17	..	..	PUNCT	_	_	8	punct	_	_
 18	en	en	ADP	_	_	20	case	_	_
-19	Euskal	euskal	PROPN	_	_	20	name	_	_
-20	Herria	herria	PROPN	_	_	4	nmod	_	_
+19	Euskal	euskal	PROPN	_	_	4	nmod	_	_
+20	Herria	herria	PROPN	_	_	19	name	_	_
 21	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id es-test-001-s20
@@ -642,9 +642,9 @@
 4	a	a	ADP	_	_	5	case	_	_
 5	Ibsen	ibsen	NOUN	_	_	3	dobj	_	_
 6	que	que	SCONJ	_	_	16	mark	_	_
-7	a	a	ADP	_	_	8	mwe	_	_
-8	partir	partir	ADP	_	_	11	case	_	_
-9	de	de	ADP	_	_	8	mwe	_	_
+7	a	a	ADP	_	_	11	case	_	_
+8	partir	partir	ADP	_	_	7	mwe	_	_
+9	de	de	ADP	_	_	7	mwe	_	_
 10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	obra	obra	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
 12	infra	infro	ADV	_	_	13	advmod	_	_
@@ -772,17 +772,17 @@
 10	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id es-test-001-s22
-1	Cristiano	cristiano	PROPN	_	Gender=Masc|Number=Sing	2	name	_	_
-2	Ronaldo	ronaldo	PROPN	_	_	9	nsubj	_	_
+1	Cristiano	cristiano	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+2	Ronaldo	ronaldo	PROPN	_	_	1	name	_	_
 3	y	y	CONJ	_	_	2	cc	_	_
-4	Sergio	sergio	PROPN	_	_	5	name	_	_
-5	Ramos	ramos	PROPN	_	_	2	conj	_	_
+4	Sergio	sergio	PROPN	_	_	2	conj	_	_
+5	Ramos	ramos	PROPN	_	_	4	name	_	_
 6	fueron	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
 9	calientes	caliente	ADJ	_	Number=Plur	0	root	_	_
-10	en	en	ADP	_	_	11	mwe	_	_
-11	cuanto	cuanto	ADV	_	_	15	mark	_	_
+10	en	en	ADP	_	_	15	mark	_	_
+11	cuanto	cuanto	ADV	_	_	10	mwe	_	_
 12	a	a	ADP	_	_	13	case	_	_
 13	tanganas	tangana	NOUN	_	Gender=Fem|Number=Plur	15	nmod	_	_
 14	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	iobj	_	_
@@ -820,13 +820,13 @@
 27	"	"	PUNCT	_	_	11	punct	_	_
 28	,	,	PUNCT	_	_	29	punct	_	_
 29	asegura	asegurar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-30	Ayose	ayose	PROPN	_	_	31	name	_	_
-31	Melian	melian	PROPN	_	_	29	nsubj	_	_
+30	Ayose	ayose	PROPN	_	_	29	nsubj	_	_
+31	Melian	melian	PROPN	_	_	30	name	_	_
 32	,	,	PUNCT	_	_	33	punct	_	_
 33	veterinario	veterinario	NOUN	_	Gender=Masc|Number=Sing	31	appos	_	_
 34	de	de	ADP	_	_	36	case	_	_
-35	Palmitos	palmitos	PROPN	_	_	36	name	_	_
-36	Park	park	PROPN	_	_	33	nmod	_	_
+35	Palmitos	palmitos	PROPN	_	_	33	nmod	_	_
+36	Park	park	PROPN	_	_	35	name	_	_
 37	.	.	PUNCT	_	_	29	punct	_	_
 
 # sent_id es-test-001-s24
@@ -1011,8 +1011,8 @@
 10	que	que	SCONJ	_	_	12	mark	_	_
 11	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	pedido	pedir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
-13	José	josé	PROPN	_	_	14	name	_	_
-14	Mourinho	mourinho	PROPN	_	_	12	nsubj	_	_
+13	José	josé	PROPN	_	_	12	nsubj	_	_
+14	Mourinho	mourinho	PROPN	_	_	13	name	_	_
 15	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id es-test-001-s29
@@ -1072,9 +1072,9 @@
 38	a	a	ADP	_	_	39	case	_	_
 39	gusto	gusto	NOUN	_	Gender=Masc|Number=Sing	37	nmod	_	_
 40	,	,	PUNCT	_	_	45	punct	_	_
-41	a	a	ADP	_	_	42	mwe	_	_
-42	pesar	pesar	NOUN	_	VerbForm=Inf	45	nmod	_	_
-43	de	de	ADP	_	_	42	mwe	_	_
+41	a	a	ADP	_	_	45	nmod	_	_
+42	pesar	pesar	NOUN	_	VerbForm=Inf	41	mwe	_	_
+43	de	de	ADP	_	_	41	mwe	_	_
 44	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	45	det	_	_
 45	molestias	molestia	NOUN	_	Gender=Fem|Number=Plur	37	nmod	_	_
 46	que	que	SCONJ	_	_	47	mark	_	_
@@ -1218,11 +1218,11 @@
 12	acompañados	acompañado	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 13	de	de	ADP	_	_	16	case	_	_
 14	Far	far	PROPN	_	_	15	amod	_	_
-15	East	east	PROPN	_	_	16	name	_	_
-16	Movement	movement	PROPN	_	_	12	nmod	_	_
+15	East	east	PROPN	_	_	12	nmod	_	_
+16	Movement	movement	PROPN	_	_	15	name	_	_
 17	y	y	CONJ	_	_	16	cc	_	_
-18	Colette	colette	PROPN	_	_	19	name	_	_
-19	Carr	carr	PROPN	_	_	16	conj	_	_
+18	Colette	colette	PROPN	_	_	16	conj	_	_
+19	Carr	carr	PROPN	_	_	18	name	_	_
 20	en	en	ADP	_	_	22	case	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	continuación	continuación	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
@@ -1231,9 +1231,9 @@
 25	exitosa	exitoso	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
 26	gira	gira	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	_
 27	'	'	PUNCT	_	_	30	punct	_	_
-28	Cherrytree	cherrytree	PROPN	_	_	29	name	_	_
-29	Pop	pop	PROPN	_	_	30	name	_	_
-30	Alternative	alternative	PROPN	_	_	26	appos	_	_
+28	Cherrytree	cherrytree	PROPN	_	_	30	name	_	_
+29	Pop	pop	PROPN	_	_	26	appos	_	_
+30	Alternative	alternative	PROPN	_	_	29	name	_	_
 31	'	'	PUNCT	_	_	30	punct	_	_
 32	,	,	PUNCT	_	_	35	punct	_	_
 33	ahora	ahora	ADV	_	_	35	advmod	_	_
@@ -1272,8 +1272,8 @@
 8	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 9	y	y	CONJ	_	_	3	cc	_	_
 10	viene	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-11	a	a	ADP	_	_	12	mwe	_	_
-12	por	por	ADP	_	_	13	case	_	_
+11	a	a	ADP	_	_	13	case	_	_
+12	por	por	ADP	_	_	11	mwe	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	nmod	_	_
 14	en	en	ADP	_	_	15	case	_	_
 15	Junio	junio	PROPN	_	_	10	nmod	_	_
@@ -1341,9 +1341,9 @@
 13	Arsenal	arsenal	PROPN	_	_	10	nmod	_	_
 14	,	,	PUNCT	_	_	20	punct	_	_
 15-16	al	_	_	_	_	_	_	_	_
-15	a	a	ADP	_	_	17	mwe	_	_
+15	a	a	ADP	_	_	20	mark	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	menos	menos	ADV	_	Degree=Cmp	20	mark	_	_
+17	menos	menos	ADV	_	Degree=Cmp	15	mwe	_	_
 18	eso	ese	PRON	_	Number=Sing|PronType=Dem	20	nsubj	_	_
 19	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	20	iobj	_	_
 20	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	advcl	_	_
@@ -1397,8 +1397,8 @@
 24	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id es-test-001-s45
-1	Radio	radio	PROPN	_	Gender=Masc|Number=Sing	2	name	_	_
-2	Sagua	sagua	PROPN	_	_	4	nsubj	_	_
+1	Radio	radio	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
+2	Sagua	sagua	PROPN	_	_	1	name	_	_
 3	solo	solo	ADV	_	_	4	advmod	_	_
 4	publica	publicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
@@ -1437,8 +1437,8 @@
 38	privilegiado	privilegiado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
 39	grupito	grupito	NOUN	_	Gender=Masc|Number=Sing	35	nmod	_	_
 40	de	de	ADP	_	_	42	case	_	_
-41	Radio	radio	PROPN	_	_	42	name	_	_
-42	Sagua	sagua	PROPN	_	_	39	nmod	_	_
+41	Radio	radio	PROPN	_	_	39	nmod	_	_
+42	Sagua	sagua	PROPN	_	_	41	name	_	_
 43	ya	ya	ADV	_	_	51	mark	_	_
 44	que	que	CONJ	_	_	43	mwe	_	_
 45	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	47	det	_	_
@@ -1490,8 +1490,8 @@
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	arquero	arquero	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	_
 28	--	--	PUNCT	_	_	30	punct	_	_
-29	Jorge	jorge	PROPN	_	_	30	name	_	_
-30	Mendes	mendes	PROPN	_	_	24	appos	_	_
+29	Jorge	jorge	PROPN	_	_	24	appos	_	_
+30	Mendes	mendes	PROPN	_	_	29	name	_	_
 31	--	--	PUNCT	_	_	30	punct	_	_
 32	.	.	PUNCT	_	_	9	punct	_	_
 
@@ -1666,8 +1666,8 @@
 9	niño	niño	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 10	educadores	educador	NOUN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 11	que	que	SCONJ	_	_	15	mark	_	_
-12	ni	ni	CONJ	_	_	13	mwe	_	_
-13	siquiera	siquiera	ADV	_	_	15	neg	_	_
+12	ni	ni	CONJ	_	_	15	neg	_	_
+13	siquiera	siquiera	ADV	_	_	12	mwe	_	_
 14	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 15	reivindicar	reivindicar	VERB	_	VerbForm=Inf	10	acl:relcl	_	_
 16	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	det	_	_
@@ -1707,14 +1707,14 @@
 14	a	a	ADP	_	_	15	case	_	_
 15	instancias	instancia	NOUN	_	Gender=Fem|Number=Plur	13	dobj	_	_
 16	de	de	ADP	_	_	19	case	_	_
-17	Theo	theo	PROPN	_	_	19	name	_	_
-18	Van	ir	PROPN	_	_	19	name	_	_
-19	Gogh	gogh	PROPN	_	_	15	nmod	_	_
+17	Theo	theo	PROPN	_	_	15	nmod	_	_
+18	Van	ir	PROPN	_	_	17	name	_	_
+19	Gogh	gogh	PROPN	_	_	17	name	_	_
 20	,	,	PUNCT	_	_	21	punct	_	_
 21	conocida	conocido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	9	acl	_	_
 22	como	como	ADP	_	_	24	case	_	_
-23	Volpini	volpini	PROPN	_	Gender=Masc|Number=Sing	24	name	_	_
-24	suit	suit	NOUN	_	Number=Sing	21	nmod	_	_
+23	Volpini	volpini	PROPN	_	Gender=Masc|Number=Sing	21	nmod	_	_
+24	suit	suit	NOUN	_	Number=Sing	23	name	_	_
 25	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id es-test-001-s56
@@ -1737,8 +1737,8 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	Osasuna	osasuna	PROPN	_	_	14	nmod	_	_
 18	y	y	CONJ	_	_	5	cc	_	_
-19	en	en	ADP	_	_	20	mwe	_	_
-20	concreto	concreto	ADJ	_	Gender=Masc|Number=Sing	22	advmod	_	_
+19	en	en	ADP	_	_	22	advmod	_	_
+20	concreto	concreto	ADJ	_	Gender=Masc|Number=Sing	19	mwe	_	_
 21	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
 22	fichado	fichar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
 23	a	a	ADP	_	_	26	case	_	_
@@ -1746,8 +1746,8 @@
 25	joven	joven	ADJ	_	Number=Sing	26	amod	_	_
 26	promesa	promesa	NOUN	_	Gender=Fem|Number=Sing	22	dobj	_	_
 27	,	,	PUNCT	_	_	29	punct	_	_
-28	Julen	julen	PROPN	_	_	29	name	_	_
-29	Arellano	arellano	PROPN	_	_	26	appos	_	_
+28	Julen	julen	PROPN	_	_	26	appos	_	_
+29	Arellano	arellano	PROPN	_	_	28	name	_	_
 30	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id es-test-001-s57
@@ -1757,9 +1757,9 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Benfica	benfica	PROPN	_	_	2	nmod	_	_
 6-7	al	_	_	_	_	_	_	_	_
-6	a	a	ADP	_	_	8	mwe	_	_
+6	a	a	ADP	_	_	9	advmod	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	menos	menos	ADV	_	Degree=Cmp	9	advmod	_	_
+8	menos	menos	ADV	_	Degree=Cmp	6	mwe	_	_
 9	una	uno	NUM	_	Gender=Fem|Number=Sing|NumType=Card	10	nummod	_	_
 10	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 11	como	como	ADP	_	_	12	case	_	_
@@ -2025,13 +2025,13 @@
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	_	_	12	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-11	Shakhtar	shakhtar	PROPN	_	Gender=Masc|Number=Sing	12	name	_	_
-12	Donetsk	donetsk	PROPN	_	_	8	nmod	_	_
+11	Shakhtar	shakhtar	PROPN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+12	Donetsk	donetsk	PROPN	_	_	11	name	_	_
 13	que	que	SCONJ	_	_	14	mark	_	_
 14	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 15	a	a	ADP	_	_	17	case	_	_
-16	José	josé	PROPN	_	_	17	name	_	_
-17	Mourinho	mourinho	PROPN	_	_	14	iobj	_	_
+16	José	josé	PROPN	_	_	14	iobj	_	_
+17	Mourinho	mourinho	PROPN	_	_	16	name	_	_
 18	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id es-test-001-s65
@@ -2217,8 +2217,8 @@
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	son	ser	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
 23	de	de	ADP	_	_	25	case	_	_
-24	Enric	enric	PROPN	_	_	25	name	_	_
-25	Montefusco	montefusco	PROPN	_	_	22	nmod	_	_
+24	Enric	enric	PROPN	_	_	22	nmod	_	_
+25	Montefusco	montefusco	PROPN	_	_	24	name	_	_
 26	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id es-test-001-s72
@@ -2283,8 +2283,8 @@
 22	si	si	SCONJ	_	_	24	mark	_	_
 23	no	no	ADV	_	_	24	neg	_	_
 24	llega	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
-25	Alexis	alexis	PROPN	_	_	26	name	_	_
-26	Sánchez	sánchez	PROPN	_	_	24	nsubj	_	_
+25	Alexis	alexis	PROPN	_	_	24	nsubj	_	_
+26	Sánchez	sánchez	PROPN	_	_	25	name	_	_
 27	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id es-test-001-s75
@@ -2319,9 +2319,9 @@
 29	Hospital	hospital	NOUN	_	_	26	nmod	_	_
 30	Universitario	universitario	ADJ	_	Gender=Masc|Number=Sing	29	amod	_	_
 31	Dr.	dr.	PROPN	_	_	29	appos	_	_
-32	Alfredo	alfredo	PROPN	_	_	34	name	_	_
-33	Van	ir	PROPN	_	Number=Plur	34	name	_	_
-34	Grieken	grieken	PROPN	_	_	31	appos	_	_
+32	Alfredo	alfredo	PROPN	_	_	31	appos	_	_
+33	Van	ir	PROPN	_	Number=Plur	32	name	_	_
+34	Grieken	grieken	PROPN	_	_	32	name	_	_
 35	de	de	ADP	_	_	36	case	_	_
 36	Coro	coro	PROPN	_	_	29	nmod	_	_
 37	,	,	PUNCT	_	_	38	punct	_	_
@@ -2939,8 +2939,8 @@
 21	.	.	PUNCT	_	_	15	punct	_	_
 
 # sent_id es-test-001-s96
-1	Ashley	ashley	PROPN	_	_	2	name	_	_
-2	Cole	cole	PROPN	_	_	4	nsubj	_	_
+1	Ashley	ashley	PROPN	_	_	4	nsubj	_	_
+2	Cole	cole	PROPN	_	_	1	name	_	_
 3	no	no	ADV	_	_	4	neg	_	_
 4	descarta	descartar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	jugar	jugar	VERB	_	VerbForm=Inf	4	xcomp	_	_
@@ -2985,8 +2985,8 @@
 44	Premier	premier	PROPN	_	_	45	amod	_	_
 45	League	league	PROPN	_	_	38	nmod	_	_
 46	y	y	CONJ	_	_	45	cc	_	_
-47	en	en	ADP	_	_	48	mwe	_	_
-48	concreto	concreto	ADJ	_	Gender=Masc|Number=Sing	50	advmod	_	_
+47	en	en	ADP	_	_	50	advmod	_	_
+48	concreto	concreto	ADJ	_	Gender=Masc|Number=Sing	47	mwe	_	_
 49	de	de	ADP	_	_	50	case	_	_
 50	Londres	londres	PROPN	_	_	45	conj	_	_
 51	donde	donde	ADV	_	_	52	advmod	_	_
@@ -3275,9 +3275,9 @@
 30	carga	carga	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	_
 31	descarrilado	descarrilado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	28	acl	_	_
 32	en	en	ADP	_	_	34	case	_	_
-33	José	josé	PROPN	_	_	34	name	_	_
-34	León	león	PROPN	_	_	31	nmod	_	_
-35	Suárez	suárez	PROPN	_	_	34	name	_	_
+33	José	josé	PROPN	_	_	31	nmod	_	_
+34	León	león	PROPN	_	_	33	name	_	_
+35	Suárez	suárez	PROPN	_	_	33	name	_	_
 36	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id es-test-001-s103
@@ -3526,8 +3526,8 @@
 86	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id es-test-001-s106
-1	Valenzuela	valenzuela	PROPN	_	_	2	name	_	_
-2	Quiroz	quiroz	PROPN	_	_	3	nsubj	_	_
+1	Valenzuela	valenzuela	PROPN	_	_	3	nsubj	_	_
+2	Quiroz	quiroz	PROPN	_	_	1	name	_	_
 3	anunció	anunciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	_	_	6	mark	_	_
 5	serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	6	auxpass	_	_
@@ -3541,21 +3541,21 @@
 13	en	en	ADP	_	_	15	case	_	_
 14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	aeropuertos	aeropuerto	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
-16	Gregorio	gregorio	PROPN	_	_	17	name	_	_
-17	Luperón	luperón	PROPN	_	_	15	appos	_	_
+16	Gregorio	gregorio	PROPN	_	_	15	appos	_	_
+17	Luperón	luperón	PROPN	_	_	16	name	_	_
 18	,	,	PUNCT	_	_	17	punct	_	_
 19	de	de	ADP	_	_	20	case	_	_
 20	Puerto	puerto	PROPN	_	_	17	conj	_	_
 21	Plata	plata	PROPN	_	_	20	name	_	_
 22	,	,	PUNCT	_	_	17	punct	_	_
-23	María	maría	PROPN	_	_	24	name	_	_
-24	Montez	montez	PROPN	_	_	17	conj	_	_
+23	María	maría	PROPN	_	_	17	conj	_	_
+24	Montez	montez	PROPN	_	_	23	name	_	_
 25	,	,	PUNCT	_	_	17	punct	_	_
 26	de	de	ADP	_	_	27	case	_	_
 27	Barahona	barahona	PROPN	_	_	17	conj	_	_
 28	,	,	PUNCT	_	_	17	punct	_	_
-29	Joaquín	joaquín	PROPN	_	Gender=Masc|Number=Sing	30	name	_	_
-30	Balaguer	balaguer	PROPN	_	_	17	conj	_	_
+29	Joaquín	joaquín	PROPN	_	Gender=Masc|Number=Sing	17	conj	_	_
+30	Balaguer	balaguer	PROPN	_	_	29	name	_	_
 31	,	,	PUNCT	_	_	17	punct	_	_
 32	Higüero	higüero	PROPN	_	_	17	conj	_	_
 33	,	,	PUNCT	_	_	17	punct	_	_
@@ -3664,12 +3664,12 @@
 19	por	por	ADP	_	_	21	case	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	empresario	empresario	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
-22	Oswaldo	oswaldo	PROPN	_	_	23	name	_	_
-23	García	garcía	PROPN	_	_	21	appos	_	_
-24	Jarquín	jarquín	PROPN	_	_	23	name	_	_
+22	Oswaldo	oswaldo	PROPN	_	_	21	appos	_	_
+23	García	garcía	PROPN	_	_	22	name	_	_
+24	Jarquín	jarquín	PROPN	_	_	22	name	_	_
 25	,	,	PUNCT	_	_	18	punct	_	_
-26	Gutiérrez	gutiérrez	PROPN	_	_	27	name	_	_
-27	Candiani	candiani	PROPN	_	_	29	nsubj	_	_
+26	Gutiérrez	gutiérrez	PROPN	_	_	29	nsubj	_	_
+27	Candiani	candiani	PROPN	_	_	26	name	_	_
 28	,	,	PUNCT	_	_	29	punct	_	_
 29	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 30	que	que	SCONJ	_	_	35	mark	_	_
@@ -4098,8 +4098,8 @@
 58	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id es-test-001-s120
-1	Evo	evo	PROPN	_	Number=Sing	2	name	_	_
-2	Morales	morales	PROPN	_	_	3	nsubj	_	_
+1	Evo	evo	PROPN	_	Number=Sing	3	nsubj	_	_
+2	Morales	morales	PROPN	_	_	1	name	_	_
 3	surgió	surgir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	como	como	ADP	_	_	5	case	_	_
 5	líder	líder	NOUN	_	Number=Sing	3	nmod	_	_
@@ -4119,8 +4119,8 @@
 19	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id es-test-001-s121
-1	Roberto	roberto	PROPN	_	Gender=Masc|Number=Sing|VerbForm=Part	2	name	_	_
-2	Henríquez	henríquez	PROPN	_	_	10	nsubj	_	_
+1	Roberto	roberto	PROPN	_	Gender=Masc|Number=Sing|VerbForm=Part	10	nsubj	_	_
+2	Henríquez	henríquez	PROPN	_	_	1	name	_	_
 3	,	,	PUNCT	_	_	4	punct	_	_
 4	titular	titular	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
 5	de	de	ADP	_	_	7	case	_	_
@@ -4191,14 +4191,14 @@
 4	"	"	PUNCT	_	_	3	punct	_	_
 5	escrito	escrito	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 6	por	por	ADP	_	_	8	case	_	_
-7	Nathan	nathan	PROPN	_	_	8	name	_	_
-8	Allen	allen	PROPN	_	_	5	nmod	_	_
+7	Nathan	nathan	PROPN	_	_	5	nmod	_	_
+8	Allen	allen	PROPN	_	_	7	name	_	_
 9	,	,	PUNCT	_	_	8	punct	_	_
-10	Chris	chris	PROPN	_	_	11	name	_	_
-11	Matthews	matthews	PROPN	_	_	8	conj	_	_
+10	Chris	chris	PROPN	_	_	8	conj	_	_
+11	Matthews	matthews	PROPN	_	_	10	name	_	_
 12	y	y	CONJ	_	_	8	cc	_	_
-13	Jake	jake	PROPN	_	_	14	name	_	_
-14	Minton	minton	PROPN	_	_	8	conj	_	_
+13	Jake	jake	PROPN	_	_	8	conj	_	_
+14	Minton	minton	PROPN	_	_	13	name	_	_
 15	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	auxpass	_	_
 16	producido	producir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 17	originalmente	originalmente	ADV	_	_	16	advmod	_	_
@@ -4241,9 +4241,9 @@
 15	encuentros	encuentro	NOUN	_	Gender=Masc|Number=Plur	12	dobj	_	_
 16	,	,	PUNCT	_	_	9	punct	_	_
 17	aunque	aunque	SCONJ	_	_	33	mark	_	_
-18	a	a	ADP	_	_	19	mwe	_	_
-19	pesar	pesar	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
-20	de	de	ADP	_	_	19	mwe	_	_
+18	a	a	ADP	_	_	21	nmod	_	_
+19	pesar	pesar	NOUN	_	Gender=Masc|Number=Sing	18	mwe	_	_
+20	de	de	ADP	_	_	18	mwe	_	_
 21	contar	contar	VERB	_	VerbForm=Inf	33	acl	_	_
 22	con	con	ADP	_	_	24	case	_	_
 23	un	uno	NUM	_	Gender=Masc|Number=Sing|NumType=Card	24	nummod	_	_
@@ -4372,8 +4372,8 @@
 7	de	de	ADP	_	_	8	case	_	_
 8	Torrent	torrent	PROPN	_	_	6	nmod	_	_
 9	,	,	PUNCT	_	_	11	punct	_	_
-10	José	josé	PROPN	_	_	11	name	_	_
-11	Gozalvo	gozalvo	PROPN	_	_	2	appos	_	_
+10	José	josé	PROPN	_	_	2	appos	_	_
+11	Gozalvo	gozalvo	PROPN	_	_	10	name	_	_
 12	,	,	PUNCT	_	_	11	punct	_	_
 13	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	pedido	pedir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -4387,8 +4387,8 @@
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	PSPV	pspv	PROPN	_	_	17	nmod	_	_
 22	,	,	PUNCT	_	_	24	punct	_	_
-23	Jorge	jorge	PROPN	_	_	24	name	_	_
-24	Alarte	alarte	PROPN	_	_	17	appos	_	_
+23	Jorge	jorge	PROPN	_	_	17	appos	_	_
+24	Alarte	alarte	PROPN	_	_	23	name	_	_
 25	,	,	PUNCT	_	_	24	punct	_	_
 26	que	que	SCONJ	_	_	28	mark	_	_
 27	"	"	PUNCT	_	_	28	punct	_	_
@@ -4421,10 +4421,10 @@
 54	"	"	PUNCT	_	_	28	punct	_	_
 55	,	,	PUNCT	_	_	14	punct	_	_
 56-57	al	_	_	_	_	_	_	_	_
-56	a	a	ADP	_	_	58	mwe	_	_
+56	a	a	ADP	_	_	61	mark	_	_
 57	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	58	det	_	_
-58	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	61	mark	_	_
-59	que	que	CONJ	_	_	58	mwe	_	_
+58	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	56	mwe	_	_
+59	que	que	CONJ	_	_	56	mwe	_	_
 60	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	61	aux	_	_
 61	asegurado	asegurar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
 62	que	que	SCONJ	_	_	65	mark	_	_
@@ -4514,8 +4514,8 @@
 18	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
 19	miércoles	miércoles	PROPN	_	_	16	nmod	_	_
 20	,	,	PUNCT	_	_	9	punct	_	_
-21	sin	sin	ADP	_	_	22	mwe	_	_
-22	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	9	cc	_	_
+21	sin	sin	ADP	_	_	9	cc	_	_
+22	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	21	mwe	_	_
 23	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	24	det	_	_
 24	autoridades	autoridad	NOUN	_	Gender=Fem|Number=Plur	31	nsubj	_	_
 25	penitenciarias	penitenciario	ADJ	_	Gender=Fem|Number=Plur	24	amod	_	_
@@ -4574,8 +4574,8 @@
 14	de	de	ADP	_	_	16	case	_	_
 15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	aeropuertos	aeropuerto	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
-17	Jorge	jorge	PROPN	_	_	18	name	_	_
-18	Newbery	newbery	PROPN	_	_	16	appos	_	_
+17	Jorge	jorge	PROPN	_	_	16	appos	_	_
+18	Newbery	newbery	PROPN	_	_	17	name	_	_
 19	de	de	ADP	_	_	21	case	_	_
 20	Buenos	buenos	PROPN	_	_	21	amod	_	_
 21	Aires	aires	PROPN	_	_	18	nmod	_	_
@@ -4813,16 +4813,16 @@
 24	en	en	ADP	_	_	26	case	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	calle	calle	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
-27	Mario	mario	PROPN	_	_	28	name	_	_
-28	Baldera	baldera	PROPN	_	_	26	appos	_	_
+27	Mario	mario	PROPN	_	_	26	appos	_	_
+28	Baldera	baldera	PROPN	_	_	27	name	_	_
 29-30	del	_	_	_	_	_	_	_	_
 29	de	de	ADP	_	_	31	case	_	_
 30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	sector	sector	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	_
 32	"	"	PUNCT	_	_	35	punct	_	_
-33	Juan	juan	PROPN	_	_	34	name	_	_
-34	Alberto	alberto	PROPN	_	_	35	name	_	_
-35	Espínola	espínola	PROPN	_	_	31	appos	_	_
+33	Juan	juan	PROPN	_	_	35	name	_	_
+34	Alberto	alberto	PROPN	_	_	31	appos	_	_
+35	Espínola	espínola	PROPN	_	_	34	name	_	_
 36	"	"	PUNCT	_	_	35	punct	_	_
 37	,	,	PUNCT	_	_	23	punct	_	_
 38	causando	causar	VERB	_	VerbForm=Ger	11	acl	_	_
@@ -4955,8 +4955,8 @@
 8	Indicador	indicador	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 9	IMEF	imef	PROPN	_	_	8	appos	_	_
 10	,	,	PUNCT	_	_	12	punct	_	_
-11	Jonathan	jonathan	PROPN	_	_	12	name	_	_
-12	Heath	heath	PROPN	_	_	2	appos	_	_
+11	Jonathan	jonathan	PROPN	_	_	2	appos	_	_
+12	Heath	heath	PROPN	_	_	11	name	_	_
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	precisó	precisar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 15	que	que	SCONJ	_	_	23	mark	_	_
@@ -5131,15 +5131,15 @@
 32	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id es-test-001-s148
-1	Marie	marie	PROPN	_	_	2	name	_	_
-2	Fuchi	fuchi	PROPN	_	_	12	nsubj	_	_
+1	Marie	marie	PROPN	_	_	12	nsubj	_	_
+2	Fuchi	fuchi	PROPN	_	_	1	name	_	_
 3	,	,	PUNCT	_	_	5	punct	_	_
 4	que	que	SCONJ	_	_	5	mark	_	_
 5	dirigió	dirigir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-7	Kosovo	kosovo	PROPN	_	_	8	name	_	_
-8	Trust	trust	PROPN	_	_	9	name	_	_
-9	Agency	agency	PROPN	_	_	5	dobj	_	_
+7	Kosovo	kosovo	PROPN	_	_	9	name	_	_
+8	Trust	trust	PROPN	_	_	5	dobj	_	_
+9	Agency	agency	PROPN	_	_	8	name	_	_
 10	en	en	ADP	_	_	11	case	_	_
 11	2003-04	2003-04	NUM	_	NumType=Card	5	nmod	_	_
 12	afirma	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -5171,8 +5171,8 @@
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	Comuna	comuna	NOUN	_	_	7	nmod	_	_
 12	,	,	PUNCT	_	_	14	punct	_	_
-13	Jorge	jorge	PROPN	_	Gender=Masc|Number=Sing	14	name	_	_
-14	Rodríguez	rodríguez	PROPN	_	_	5	appos	_	_
+13	Jorge	jorge	PROPN	_	Gender=Masc|Number=Sing	5	appos	_	_
+14	Rodríguez	rodríguez	PROPN	_	_	13	name	_	_
 15	y	y	CONJ	_	_	14	cc	_	_
 16	Morgado	morgado	PROPN	_	_	14	conj	_	_
 17	,	,	PUNCT	_	_	14	punct	_	_
@@ -5216,8 +5216,8 @@
 
 # sent_id es-test-001-s150
 1	Y	y	CONJ	_	_	6	cc	_	_
-2	tal	tal	ADV	_	_	3	mwe	_	_
-3	cual	cual	ADV	_	_	6	advmod	_	_
+2	tal	tal	ADV	_	_	6	advmod	_	_
+3	cual	cual	ADV	_	_	2	mwe	_	_
 4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	dobj	_	_
 5	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	cumplido	cumplir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -5296,60 +5296,60 @@
 2	evento	evento	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 3	también	también	ADV	_	_	4	advmod	_	_
 4	asistirán	asistir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-5	Iván	iván	PROPN	_	_	6	name	_	_
-6	Oñate	oñate	PROPN	_	_	4	nsubj	_	_
+5	Iván	iván	PROPN	_	_	4	nsubj	_	_
+6	Oñate	oñate	PROPN	_	_	5	name	_	_
 7	(	(	PUNCT	_	_	8	punct	_	_
 8	Ecuador	ecuador	PROPN	_	_	6	appos	_	_
 9	)	)	PUNCT	_	_	8	punct	_	_
 10	,	,	PUNCT	_	_	6	punct	_	_
-11	Pablo	pablo	PROPN	_	Gender=Masc|Number=Sing	12	name	_	_
-12	Benítez	benítez	PROPN	_	_	6	conj	_	_
+11	Pablo	pablo	PROPN	_	Gender=Masc|Number=Sing	6	conj	_	_
+12	Benítez	benítez	PROPN	_	_	11	name	_	_
 13	(	(	PUNCT	_	_	15	punct	_	_
 14	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	Salvador	salvador	PROPN	_	_	12	appos	_	_
 16	)	)	PUNCT	_	_	15	punct	_	_
 17	,	,	PUNCT	_	_	6	punct	_	_
-18	Bill	bill	PROPN	_	_	19	name	_	_
-19	Herbert	herbert	PROPN	_	_	6	conj	_	_
+18	Bill	bill	PROPN	_	_	6	conj	_	_
+19	Herbert	herbert	PROPN	_	_	18	name	_	_
 20	(	(	PUNCT	_	_	21	punct	_	_
 21	Escocia	escocia	PROPN	_	_	19	appos	_	_
 22	)	)	PUNCT	_	_	21	punct	_	_
 23	,	,	PUNCT	_	_	6	punct	_	_
-24	Juan	juan	PROPN	_	_	25	name	_	_
-25	Manuel	manuel	PROPN	_	_	26	name	_	_
-26	Rodríguez	rodríguez	PROPN	_	_	6	conj	_	_
-27	Tobal	tobal	PROPN	_	_	26	name	_	_
+24	Juan	juan	PROPN	_	_	26	name	_	_
+25	Manuel	manuel	PROPN	_	_	6	conj	_	_
+26	Rodríguez	rodríguez	PROPN	_	_	25	name	_	_
+27	Tobal	tobal	PROPN	_	_	25	name	_	_
 28	(	(	PUNCT	_	_	29	punct	_	_
 29	España	españa	PROPN	_	_	26	appos	_	_
 30	)	)	PUNCT	_	_	29	punct	_	_
 31	,	,	PUNCT	_	_	6	punct	_	_
-32	John	john	PROPN	_	_	33	name	_	_
-33	Curl	curl	PROPN	_	_	6	conj	_	_
+32	John	john	PROPN	_	_	6	conj	_	_
+33	Curl	curl	PROPN	_	_	32	name	_	_
 34	(	(	PUNCT	_	_	35	punct	_	_
 35	Estados	estados	PROPN	_	_	33	appos	_	_
 36	Unidos	unido	PROPN	_	_	35	amod	_	_
 37	)	)	PUNCT	_	_	35	punct	_	_
 38	,	,	PUNCT	_	_	6	punct	_	_
-39	Francois	francois	PROPN	_	_	40	name	_	_
-40	Migeot	migeot	PROPN	_	_	6	conj	_	_
+39	Francois	francois	PROPN	_	_	6	conj	_	_
+40	Migeot	migeot	PROPN	_	_	39	name	_	_
 41	(	(	PUNCT	_	_	42	punct	_	_
 42	Francia	francia	PROPN	_	_	40	appos	_	_
 43	)	)	PUNCT	_	_	42	punct	_	_
 44	,	,	PUNCT	_	_	6	punct	_	_
-45	Merle	merle	PROPN	_	_	46	name	_	_
-46	Collins	collins	PROPN	_	_	6	conj	_	_
+45	Merle	merle	PROPN	_	_	6	conj	_	_
+46	Collins	collins	PROPN	_	_	45	name	_	_
 47	(	(	PUNCT	_	_	48	punct	_	_
 48	Granada	granada	PROPN	_	_	46	appos	_	_
 49	)	)	PUNCT	_	_	48	punct	_	_
 50	,	,	PUNCT	_	_	6	punct	_	_
-51	Rosa	rosa	PROPN	_	_	52	name	_	_
-52	Chávez	chávez	PROPN	_	_	6	conj	_	_
+51	Rosa	rosa	PROPN	_	_	6	conj	_	_
+52	Chávez	chávez	PROPN	_	_	51	name	_	_
 53	(	(	PUNCT	_	_	54	punct	_	_
 54	Guatemala	guatemala	PROPN	_	_	52	appos	_	_
 55	)	)	PUNCT	_	_	54	punct	_	_
 56	y	y	CONJ	_	_	6	cc	_	_
-57	Arnold	arnold	PROPN	_	_	58	name	_	_
-58	Itwaru	itwaru	PROPN	_	_	6	conj	_	_
+57	Arnold	arnold	PROPN	_	_	6	conj	_	_
+58	Itwaru	itwaru	PROPN	_	_	57	name	_	_
 59	(	(	PUNCT	_	_	60	punct	_	_
 60	Guyana	guyana	PROPN	_	_	58	appos	_	_
 61	)	)	PUNCT	_	_	60	punct	_	_
@@ -5363,8 +5363,8 @@
 5	Real	real	PROPN	_	_	6	amod	_	_
 6	Sociedad	sociedad	PROPN	_	_	2	nmod	_	_
 7	,	,	PUNCT	_	_	9	punct	_	_
-8	Philippe	philippe	PROPN	_	_	9	name	_	_
-9	Montanier	montanier	PROPN	_	_	2	appos	_	_
+8	Philippe	philippe	PROPN	_	_	2	appos	_	_
+9	Montanier	montanier	PROPN	_	_	8	name	_	_
 10	,	,	PUNCT	_	_	9	punct	_	_
 11	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	mostrado	mostrar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -5406,23 +5406,23 @@
 2	1987	1987	NUM	_	NumType=Card	34	nmod	_	_
 3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	médicos	médico	NOUN	_	Gender=Masc|Number=Plur	34	nsubj	_	_
-5	René	rené	PROPN	_	Gender=Masc|Number=Plur	6	name	_	_
-6	Rubinos	rubino	PROPN	_	Gender=Masc|Number=Plur	4	appos	_	_
-7	Ruiz	ruiz	PROPN	_	_	6	name	_	_
+5	René	rené	PROPN	_	Gender=Masc|Number=Plur	4	appos	_	_
+6	Rubinos	rubino	PROPN	_	Gender=Masc|Number=Plur	5	name	_	_
+7	Ruiz	ruiz	PROPN	_	_	5	name	_	_
 8	(	(	PUNCT	_	_	9	punct	_	_
 9	1	1	NUM	_	NumType=Card	6	appos	_	_
 10	)	)	PUNCT	_	_	9	punct	_	_
 11	,	,	PUNCT	_	_	6	punct	_	_
-12	Rafael	rafael	PROPN	_	_	13	name	_	_
-13	Mena	mena	PROPN	_	Number=Sing	6	conj	_	_
-14	Pérez	pérez	PROPN	_	_	13	name	_	_
+12	Rafael	rafael	PROPN	_	_	6	conj	_	_
+13	Mena	mena	PROPN	_	Number=Sing	12	name	_	_
+14	Pérez	pérez	PROPN	_	_	12	name	_	_
 15	(	(	PUNCT	_	_	16	punct	_	_
 16	2	2	NUM	_	NumType=Card	13	appos	_	_
 17	)	)	PUNCT	_	_	16	punct	_	_
 18	y	y	CONJ	_	_	6	cc	_	_
-19	Raúl	raúl	PROPN	_	_	20	name	_	_
-20	Candebat	candebat	PROPN	_	_	6	conj	_	_
-21	Candebat	candebat	PROPN	_	_	20	name	_	_
+19	Raúl	raúl	PROPN	_	_	6	conj	_	_
+20	Candebat	candebat	PROPN	_	_	19	name	_	_
+21	Candebat	candebat	PROPN	_	_	19	name	_	_
 22	(	(	PUNCT	_	_	23	punct	_	_
 23	3	3	NUM	_	NumType=Card	20	appos	_	_
 24	)	)	PUNCT	_	_	23	punct	_	_
@@ -5460,8 +5460,8 @@
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	presencia	presencia	NOUN	_	Gender=Fem|Number=Sing	6	dobj	_	_
 9	de	de	ADP	_	_	11	case	_	_
-10	Carlos	carlos	PROPN	_	_	11	name	_	_
-11	Villagrasa	villagrasa	PROPN	_	_	8	nmod	_	_
+10	Carlos	carlos	PROPN	_	_	8	nmod	_	_
+11	Villagrasa	villagrasa	PROPN	_	_	10	name	_	_
 12	,	,	PUNCT	_	_	13	punct	_	_
 13	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	11	appos	_	_
 14-15	del	_	_	_	_	_	_	_	_
@@ -5534,8 +5534,8 @@
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	distrito	distrito	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
 12	de	de	ADP	_	_	14	case	_	_
-13	Ghazi	ghazi	PROPN	_	_	14	name	_	_
-14	Abad	abad	PROPN	_	_	11	nmod	_	_
+13	Ghazi	ghazi	PROPN	_	_	11	nmod	_	_
+14	Abad	abad	PROPN	_	_	13	name	_	_
 15	de	de	ADP	_	_	16	case	_	_
 16	Kunar	kunar	PROPN	_	_	11	nmod	_	_
 17	haya	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
@@ -5568,9 +5568,9 @@
 # sent_id es-test-001-s157
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	estadio	estadio	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
-3	Diego	diego	PROPN	_	Gender=Masc|Number=Sing	4	name	_	_
-4	Armando	armando	PROPN	_	_	5	name	_	_
-5	Maradona	maradona	PROPN	_	_	2	appos	_	_
+3	Diego	diego	PROPN	_	Gender=Masc|Number=Sing	5	name	_	_
+4	Armando	armando	PROPN	_	_	2	appos	_	_
+5	Maradona	maradona	PROPN	_	_	4	name	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Paternal	paternal	PROPN	_	_	2	nmod	_	_
@@ -5595,9 +5595,9 @@
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	arbitraje	arbitraje	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
 29	de	de	ADP	_	_	32	case	_	_
-30	Juan	juan	PROPN	_	_	31	name	_	_
-31	Pablo	pablo	PROPN	_	Gender=Masc|Number=Sing	32	name	_	_
-32	Pompei	pompei	PROPN	_	_	28	nmod	_	_
+30	Juan	juan	PROPN	_	_	28	nmod	_	_
+31	Pablo	pablo	PROPN	_	Gender=Masc|Number=Sing	30	name	_	_
+32	Pompei	pompei	PROPN	_	_	31	name	_	_
 33	.	.	PUNCT	_	_	9	punct	_	_
 
 # sent_id es-test-001-s158
@@ -5706,8 +5706,8 @@
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	_
 11	de	de	ADP	_	_	13	case	_	_
-12	William	william	PROPN	_	_	13	name	_	_
-13	Monahan	monahan	PROPN	_	_	10	nmod	_	_
+12	William	william	PROPN	_	_	10	nmod	_	_
+13	Monahan	monahan	PROPN	_	_	12	name	_	_
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	escritor	escritor	NOUN	_	Gender=Masc|Number=Sing	13	appos	_	_
 16-17	del	_	_	_	_	_	_	_	_
@@ -5719,8 +5719,8 @@
 21	Infiltrados	infiltrados	PROPN	_	_	18	nmod	_	_
 22	'	'	PUNCT	_	_	21	punct	_	_
 23	y	y	CONJ	_	_	13	cc	_	_
-24	Andrew	andrew	PROPN	_	_	25	name	_	_
-25	Bovell	bovell	PROPN	_	_	13	conj	_	_
+24	Andrew	andrew	PROPN	_	_	13	conj	_	_
+25	Bovell	bovell	PROPN	_	_	24	name	_	_
 26	,	,	PUNCT	_	_	29	punct	_	_
 27	con	con	ADP	_	_	29	case	_	_
 28	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
@@ -5783,8 +5783,8 @@
 9	de	de	ADP	_	_	10	case	_	_
 10	Andalucía	andalucía	PROPN	_	_	8	nmod	_	_
 11	,	,	PUNCT	_	_	13	punct	_	_
-12	Mar	mar	PROPN	_	_	13	name	_	_
-13	Moreno	moreno	PROPN	_	_	2	appos	_	_
+12	Mar	mar	PROPN	_	_	2	appos	_	_
+13	Moreno	moreno	PROPN	_	_	12	name	_	_
 14	,	,	PUNCT	_	_	13	punct	_	_
 15	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 16	declarado	declarar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -5933,8 +5933,8 @@
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	cuerpo	cuerpo	NOUN	_	Gender=Masc|Number=Sing	12	nsubjpass	_	_
 3	de	de	ADP	_	_	5	case	_	_
-4	Mario	mario	PROPN	_	_	5	name	_	_
-5	Bacigaluppi	bacigaluppi	PROPN	_	_	2	nmod	_	_
+4	Mario	mario	PROPN	_	_	2	nmod	_	_
+5	Bacigaluppi	bacigaluppi	PROPN	_	_	4	name	_	_
 6	,	,	PUNCT	_	_	9	punct	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	28	28	NUM	_	NumType=Card	9	nummod	_	_
@@ -6360,9 +6360,9 @@
 4	burlar	burlar	VERB	_	VerbForm=Inf	3	csubj	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	censura	censura	NOUN	_	Gender=Fem|Number=Sing	4	dobj	_	_
-7	a	a	ADP	_	_	8	mwe	_	_
-8	través	través	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
-9	de	de	ADP	_	_	8	mwe	_	_
+7	a	a	ADP	_	_	11	nmod	_	_
+8	través	través	NOUN	_	Gender=Masc|Number=Plur	7	mwe	_	_
+9	de	de	ADP	_	_	7	mwe	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	metáfora	metáfora	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 12	,	,	PUNCT	_	_	3	punct	_	_
@@ -6586,8 +6586,8 @@
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	_
 27	de	de	ADP	_	_	29	case	_	_
-28	Daniel	daniel	PROPN	_	_	29	name	_	_
-29	Ortega	ortega	PROPN	_	_	26	nmod	_	_
+28	Daniel	daniel	PROPN	_	_	26	nmod	_	_
+29	Ortega	ortega	PROPN	_	_	28	name	_	_
 30	realizará	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	23	acl:relcl	_	_
 31	sobre	sobre	ADP	_	_	33	case	_	_
 32	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	33	det	_	_
@@ -6713,9 +6713,9 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	domingo	domingo	PROPN	_	_	3	nmod	_	_
 6	por	por	ADP	_	_	8	case	_	_
-7	Humberto	humberto	PROPN	_	_	8	name	_	_
-8	Moreira	moreira	PROPN	_	_	3	nmod	_	_
-9	Valdés	valdés	PROPN	_	_	8	name	_	_
+7	Humberto	humberto	PROPN	_	_	3	nmod	_	_
+8	Moreira	moreira	PROPN	_	_	7	name	_	_
+9	Valdés	valdés	PROPN	_	_	7	name	_	_
 10	en	en	ADP	_	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Polyforum	polyforum	PROPN	_	_	3	nmod	_	_
@@ -6743,9 +6743,9 @@
 34	Tamaulipas	tamaulipas	PROPN	_	_	31	nmod	_	_
 35	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	iobj	_	_
 36	llama	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
-37	Egidio	egidio	PROPN	_	_	38	name	_	_
-38	Torre	torre	PROPN	_	Number=Sing	36	acl	_	_
-39	Cantú	cantú	PROPN	_	_	38	name	_	_
+37	Egidio	egidio	PROPN	_	_	36	acl	_	_
+38	Torre	torre	PROPN	_	Number=Sing	37	name	_	_
+39	Cantú	cantú	PROPN	_	_	37	name	_	_
 40	.	.	PUNCT	_	_	14	punct	_	_
 
 # sent_id es-test-001-s190
@@ -6766,8 +6766,8 @@
 # sent_id es-test-001-s191
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	gobernador	gobernador	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
-3	Hermes	hermes	PROPN	_	_	4	name	_	_
-4	Binner	binner	PROPN	_	_	2	appos	_	_
+3	Hermes	hermes	PROPN	_	_	2	appos	_	_
+4	Binner	binner	PROPN	_	_	3	name	_	_
 5	encabezó	encabezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
 7	lunes	lunes	PROPN	_	_	5	nmod	_	_
@@ -6844,8 +6844,8 @@
 22	remasterizados	remasterizado	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
 23	digitalmente	digitalmente	ADV	_	_	22	advmod	_	_
 24	por	por	ADP	_	_	26	case	_	_
-25	James	james	PROPN	_	_	26	name	_	_
-26	Guthrie	guthrie	PROPN	_	_	22	nmod	_	_
+25	James	james	PROPN	_	_	22	nmod	_	_
+26	Guthrie	guthrie	PROPN	_	_	25	name	_	_
 27	(	(	PUNCT	_	_	28	punct	_	_
 28	coproductor	coproductor	NOUN	_	Gender=Masc|Number=Sing	26	appos	_	_
 29	de	de	ADP	_	_	31	case	_	_
@@ -6872,8 +6872,8 @@
 49	de	de	ADP	_	_	51	case	_	_
 50	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	_
 51	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	48	nmod	_	_
-52	Storm	storm	PROPN	_	_	53	name	_	_
-53	Thorgerson	thorgerson	PROPN	_	_	48	appos	_	_
+52	Storm	storm	PROPN	_	_	48	appos	_	_
+53	Thorgerson	thorgerson	PROPN	_	_	52	name	_	_
 54	.	.	PUNCT	_	_	13	punct	_	_
 
 # sent_id es-test-001-s193
@@ -7051,8 +7051,8 @@
 2	maratón	maratón	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
 3	que	que	SCONJ	_	_	4	mark	_	_
 4	corrió	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
-5	Alessandra	alessandra	PROPN	_	_	6	name	_	_
-6	Aguilar	aguilar	PROPN	_	_	4	nsubj	_	_
+5	Alessandra	alessandra	PROPN	_	_	4	nsubj	_	_
+6	Aguilar	aguilar	PROPN	_	_	5	name	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	pasada	pasado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	9	amod	_	_
 9	primavera	primavera	NOUN	_	Number=Sing	4	nmod	_	_
@@ -7296,9 +7296,9 @@
 65	monologuistas	monologuista	NOUN	_	Number=Plur	63	nmod	_	_
 66	,	,	PUNCT	_	_	60	punct	_	_
 67	pero	pero	CONJ	_	_	60	cc	_	_
-68	desde	desde	ADP	_	_	69	mwe	_	_
-69	luego	luego	ADV	_	_	72	advmod	_	_
-70	que	que	CONJ	_	_	69	mwe	_	_
+68	desde	desde	ADP	_	_	72	advmod	_	_
+69	luego	luego	ADV	_	_	68	mwe	_	_
+70	que	que	CONJ	_	_	68	mwe	_	_
 71	mal	mal	ADV	_	_	72	advmod	_	_
 72	educados	educado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	60	conj	_	_
 73	nunca	nunca	ADV	_	_	75	neg	_	_
@@ -7347,10 +7347,10 @@
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	7	dobj	_	_
 10	,	,	PUNCT	_	_	15	punct	_	_
-11	a	a	ADP	_	_	13	mwe	_	_
-12	no	no	ADV	_	_	13	mwe	_	_
-13	ser	ser	VERB	_	VerbForm=Inf	15	mark	_	_
-14	que	que	CONJ	_	_	13	mwe	_	_
+11	a	a	ADP	_	_	15	mark	_	_
+12	no	no	ADV	_	_	11	mwe	_	_
+13	ser	ser	VERB	_	VerbForm=Inf	11	mwe	_	_
+14	que	que	CONJ	_	_	11	mwe	_	_
 15	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 16	para	para	ADP	_	_	17	mark	_	_
 17	sacar	sacar	VERB	_	VerbForm=Inf	15	advcl	_	_
@@ -8060,8 +8060,8 @@
 7	en	en	ADP	_	_	8	case	_	_
 8	places	place	X	_	Gender=Masc|Number=Plur	6	nmod	_	_
 9	de	de	ADP	_	_	11	case	_	_
-10	ISAN	isan	PROPN	_	_	11	name	_	_
-11	MENSAJEROS	mensajeros	PROPN	_	_	8	nmod	_	_
+10	ISAN	isan	PROPN	_	_	8	nmod	_	_
+11	MENSAJEROS	mensajeros	PROPN	_	_	10	name	_	_
 12	reciben	recibir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	csubj	_	_
 13	opiniones	opinión	NOUN	_	Gender=Fem|Number=Plur	12	dobj	_	_
 14	positivas	positivo	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	_
@@ -8255,9 +8255,9 @@
 9	,	,	PUNCT	_	_	8	punct	_	_
 10	completa	completo	ADJ	_	Gender=Fem|Number=Sing	8	conj	_	_
 11	,	,	PUNCT	_	_	5	punct	_	_
-12	en	en	ADP	_	_	13	mwe	_	_
-13	cuanto	cuanto	ADV	_	_	16	advmod	_	_
-14	a	a	ADP	_	_	13	mwe	_	_
+12	en	en	ADP	_	_	16	advmod	_	_
+13	cuanto	cuanto	ADV	_	_	12	mwe	_	_
+14	a	a	ADP	_	_	12	mwe	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	higiene	higiene	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
 17	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
@@ -8842,8 +8842,8 @@
 16	.	.	PUNCT	_	_	10	punct	_	_
 
 # sent_id es-test-001-s282
-1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	2	mwe	_	_
-2	poquito	poquito	ADV	_	_	3	advmod	_	_
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	advmod	_	_
+2	poquito	poquito	ADV	_	_	1	mwe	_	_
 3	caro	caro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	pero	pero	CONJ	_	_	3	cc	_	_
@@ -8913,8 +8913,8 @@
 17	Juan	juan	PROPN	_	_	15	appos	_	_
 18	,	,	PUNCT	_	_	21	punct	_	_
 19	de	de	ADP	_	_	21	case	_	_
-20	Pasai	pasai	PROPN	_	_	21	name	_	_
-21	Donibane	donibane	PROPN	_	_	15	nmod	_	_
+20	Pasai	pasai	PROPN	_	_	15	nmod	_	_
+21	Donibane	donibane	PROPN	_	_	20	name	_	_
 
 # sent_id es-test-001-s286
 1	Gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
@@ -8980,8 +8980,8 @@
 23	a	a	ADP	_	_	25	case	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	que	que	SCONJ	_	_	29	mark	_	_
-26	ni	ni	CONJ	_	_	27	mwe	_	_
-27	siquiera	siquiera	ADV	_	_	29	neg	_	_
+26	ni	ni	CONJ	_	_	29	neg	_	_
+27	siquiera	siquiera	ADV	_	_	26	mwe	_	_
 28	llegamos	llegar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	29	aux	_	_
 29	entrar	entrar	VERB	_	VerbForm=Inf	21	acl:relcl	_	_
 30	.	.	PUNCT	_	_	3	punct	_	_
@@ -9087,9 +9087,9 @@
 15	Cliente	cliente	NOUN	_	_	11	nmod	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	iobj	_	_
 17	consigue	conseguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
-18	a	a	ADP	_	_	19	mwe	_	_
-19	través	través	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
-20	de	de	ADP	_	_	19	mwe	_	_
+18	a	a	ADP	_	_	21	nmod	_	_
+19	través	través	NOUN	_	Gender=Masc|Number=Sing	18	mwe	_	_
+20	de	de	ADP	_	_	18	mwe	_	_
 21	profesionales	profesional	NOUN	_	Number=Plur	17	nmod	_	_
 22	independientes	independiente	ADJ	_	Number=Plur	21	amod	_	_
 23	y	y	CONJ	_	_	22	cc	_	_
@@ -9114,8 +9114,8 @@
 41	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	42	det	_	_
 42	profesionales	profesional	NOUN	_	Number=Plur	38	conj	_	_
 43	,	,	PUNCT	_	_	45	punct	_	_
-44	en	en	ADP	_	_	45	mwe	_	_
-45	especial	especial	ADJ	_	Number=Sing	52	advmod	_	_
+44	en	en	ADP	_	_	52	advmod	_	_
+45	especial	especial	ADJ	_	Number=Sing	44	mwe	_	_
 46	,	,	PUNCT	_	_	49	punct	_	_
 47	en	en	ADP	_	_	49	case	_	_
 48	nuestro	nuestro	DET	_	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	49	det	_	_
@@ -9151,8 +9151,8 @@
 1	Tal	tal	ADJ	_	Number=Sing	2	amod	_	_
 2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
 3	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	mwe	_	_
-5	poco	poco	ADV	_	_	6	advmod	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	advmod	_	_
+5	poco	poco	ADV	_	_	4	mwe	_	_
 6	caro	caro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 7	para	para	ADP	_	_	8	case	_	_
 8	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	nmod	_	_
