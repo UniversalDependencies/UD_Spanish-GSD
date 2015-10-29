@@ -1754,7 +1754,7 @@
 
 # sent_id es-dev-001-s68
 1	También	también	ADV	_	_	5	advmod	_	_
-2	suele	soler	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	suele	soler	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	ser	ser	VERB	_	VerbForm=Inf	5	cop	_	_
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	característica	característico	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -1898,7 +1898,7 @@
 
 # sent_id es-dev-001-s72
 1	También	también	ADV	_	_	6	advmod	_	_
-2	comenzó	comenzar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+2	comenzó	comenzar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux	_	_
 3	a	a	ADP	_	_	4	mark	_	_
 4-5	emitirse	_	_	_	_	_	_	_	_
 4	emitir	emitir	VERB	_	VerbForm=Inf	6	cop	_	_
@@ -1915,7 +1915,7 @@
 2	de	de	ADP	_	_	4	case	_	_
 3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	mismos	mismo	NOUN	_	Gender=Masc|Number=Plur	1	nmod	_	_
-5	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
+5	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
 6	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	auxpass	_	_
 7	escrito	escribir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	por	por	ADP	_	_	11	case	_	_
@@ -2250,7 +2250,7 @@
 9	de	de	ADP	_	_	8	case	_	_
 10	cadáveres	cadáver	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
 11	no	no	ADV	_	_	14	neg	_	_
-12	pudieron	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
+12	pudieron	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
 13	ser	ser	AUX	_	VerbForm=Inf	14	auxpass	_	_
 14	enterrados	enterrado	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
 15	,	,	PUNCT	_	_	5	punct	_	_
@@ -2747,7 +2747,7 @@
 4	Federico	federico	PROPN	_	Gender=Masc|Number=Sing	3	appos	_	_
 5	Guillermo	guillermo	PROPN	_	Gender=Masc|Number=Sing	4	name	_	_
 6	I	i	NUM	_	NumType=Card	4	nummod	_	_
-7	pasó	pasar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux	_	_
+7	pasó	pasar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 8	a	a	ADP	_	_	9	mark	_	_
 9	ser	ser	VERB	_	VerbForm=Inf	10	cop	_	_
 10	dispensador	dispensador	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -3683,7 +3683,7 @@
 
 # sent_id es-dev-001-s133
 1	Soundcloud	soundcloud	PROPN	_	_	5	nsubj	_	_
-2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	sido	ser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	plataforma	plataforma	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -5196,7 +5196,7 @@
 26	elegida	elegido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	parataxis	_	_
 27	Ashleigh	ashleigh	PROPN	_	_	26	nsubj	_	_
 28	que	que	PRON	_	PronType=Int,Rel	31	nsubjpass	_	_
-29	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	30	aux	_	_
+29	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	_
 30	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	31	auxpass	_	_
 31	presentada	presentar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	27	acl:relcl	_	_
 32	por	por	ADP	_	_	34	case	_	_
@@ -5720,7 +5720,7 @@
 21	,	,	PUNCT	_	_	2	punct	_	_
 22	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
 23	mercancías	mercancía	NOUN	_	Gender=Fem|Number=Plur	26	nsubjpass	_	_
-24	podrán	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	25	aux	_	_
+24	podrán	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	26	aux	_	_
 25	ser	ser	AUX	_	VerbForm=Inf	26	auxpass	_	_
 26	importadas	importado	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
 27	de	de	ADP	_	_	28	case	_	_
@@ -6139,7 +6139,7 @@
 1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 2	siguientes	siguiente	ADJ	_	Number=Plur	3	amod	_	_
 3	especies	especie	NOUN	_	Gender=Fem|Number=Plur	6	nsubjpass	_	_
-4	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	auxpass	_	_
 6	reconocidas	reconocido	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 7	por	por	ADP	_	_	8	case	_	_
@@ -7493,7 +7493,7 @@
 # sent_id es-dev-001-s262
 1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	cuerpo	cuerpo	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
-3	pasó	pasar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+3	pasó	pasar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
 4	a	a	ADP	_	_	5	mark	_	_
 5-6	llamarse	_	_	_	_	_	_	_	_
 5	llamar	llamar	VERB	_	VerbForm=Inf	7	cop	_	_
@@ -7550,13 +7550,13 @@
 2	cantidad	cantidad	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	jugadores	jugador	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
-5	pude	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	pude	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	ser	ser	VERB	_	VerbForm=Inf	7	cop	_	_
 7	variada	variado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 8	,	,	PUNCT	_	_	7	punct	_	_
 9	pero	pero	CONJ	_	_	7	cc	_	_
 10	siempre	siempre	ADV	_	_	13	advmod	_	_
-11	debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 12	ser	ser	VERB	_	VerbForm=Inf	13	cop	_	_
 13	par	par	NOUN	_	VerbForm=Inf	7	conj	_	_
 14	.	.	PUNCT	_	_	7	punct	_	_
@@ -7752,7 +7752,7 @@
 2	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	tomates	tomate	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
-5	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 6-7	conservarse	_	_	_	_	_	_	_	_
 6	conservar	conservar	VERB	_	VerbForm=Inf	8	cop	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	_	_
@@ -8434,7 +8434,7 @@
 
 # sent_id es-dev-001-s300
 1	También	también	ADV	_	_	4	advmod	_	_
-2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	auxpass	_	_
 4	expuesto	exponer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	en	en	ADP	_	_	7	case	_	_
@@ -9525,7 +9525,7 @@
 30	provincia	provincia	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	_
 31	de	de	ADP	_	_	32	case	_	_
 32	Márquez	márquez	PROPN	_	_	30	nmod	_	_
-33	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
+33	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	aux	_	_
 34	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	35	auxpass	_	_
 35	seleccionado	seleccionado	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	_
 36	como	como	ADP	_	_	38	case	_	_
@@ -9614,9 +9614,9 @@
 
 # sent_id es-dev-001-s339
 1	"	"	PUNCT	_	_	8	punct	_	_
-2	Va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+2	Va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 3	a	a	ADP	_	_	2	mwe	_	_
-4	volver	volver	AUX	_	VerbForm=Inf	6	aux	_	_
+4	volver	volver	AUX	_	VerbForm=Inf	8	aux	_	_
 5	a	a	ADP	_	_	4	mwe	_	_
 6	ser	ser	VERB	_	VerbForm=Inf	8	cop	_	_
 7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -10252,7 +10252,7 @@
 6	XXI	xxi	NUM	_	NumType=Card	5	nummod	_	_
 7	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 8	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	12	nsubjpass	_	_
-9	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+9	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	aux	_	_
 10	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	auxpass	_	_
 11	prácticamente	prácticamente	ADV	_	_	12	advmod	_	_
 12	extinguido	extinguir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
@@ -10488,7 +10488,7 @@
 8	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	10	det	_	_
 9	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
 10	dispositivo	dispositivo	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
-11	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
+11	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
 12	ser	ser	VERB	_	VerbForm=Inf	13	auxpass	_	_
 13	formateado	formatear	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 14	usando	usar	VERB	_	VerbForm=Ger	13	acl	_	_
@@ -11464,7 +11464,7 @@
 6	,	,	PUNCT	_	_	1	punct	_	_
 7	Adnan	adnan	PROPN	_	_	15	nsubj	_	_
 8	Oktar	oktar	PROPN	_	_	7	name	_	_
-9	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 10	vivido	vivir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	cop	_	_
 11	allí	allí	ADV	_	_	15	advmod	_	_
 12	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	14	det	_	_
@@ -12202,7 +12202,7 @@
 10	y	y	CONJ	_	_	8	cc	_	_
 11	por	por	ADP	_	_	12	case	_	_
 12	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	16	nmod	_	_
-13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	auxpass	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	auxpass	_	_
 14	considerada	considerar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	cop	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	base	base	NOUN	_	Number=Sing	5	parataxis	_	_
@@ -12593,7 +12593,7 @@
 31	experiencia	experiencia	PROPN	_	Gender=Fem|Number=Sing	28	nmod	_	_
 32	,	,	PUNCT	_	_	4	punct	_	_
 33	y	y	CONJ	_	_	4	cc	_	_
-34	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	aux	_	_
+34	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	aux	_	_
 35	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	36	auxpass	_	_
 36	desarrollado	desarrollar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
 37	en	en	ADP	_	_	39	case	_	_
@@ -13444,7 +13444,7 @@
 14	entonces	entonces	ADV	_	_	19	advmod	_	_
 15	no	no	ADV	_	_	19	neg	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	iobj	_	_
-17	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	18	aux	_	_
+17	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	aux	_	_
 18	podido	poder	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	aux	_	_
 19	casar	casar	VERB	_	VerbForm=Inf	2	conj	_	_
 20	hasta	hasta	ADP	_	_	21	case	_	_
@@ -13952,7 +13952,7 @@
 # sent_id es-dev-001-s483
 1	En	en	ADP	_	_	2	case	_	_
 2	1582	1582	NUM	_	NumType=Card	5	nmod	_	_
-3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	auxpass	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	auxpass	_	_
 4	nombrado	nombrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	5	cop	_	_
 5	pensionero	pensionero	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	de	de	ADP	_	_	8	case	_	_
@@ -14689,7 +14689,7 @@
 3	y	y	CONJ	_	_	2	cc	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	agricultura	agricultura	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
-6	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 7	sido	ser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	cop	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	base	base	NOUN	_	Number=Sing	0	root	_	_
@@ -15413,7 +15413,7 @@
 41	KGB	kgb	PROPN	_	_	34	appos	_	_
 42	)	)	PUNCT	_	_	41	punct	_	_
 43	que	que	SCONJ	_	_	47	mark	_	_
-44	llegaría	llegar	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	46	aux	_	_
+44	llegaría	llegar	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	47	aux	_	_
 45	a	a	ADP	_	_	46	mark	_	_
 46	ser	ser	VERB	_	VerbForm=Inf	47	cop	_	_
 47	jefe	jefe	NOUN	_	Gender=Masc|Number=Sing	31	acl:relcl	_	_
@@ -15745,13 +15745,13 @@
 33	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 34	único	único	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	_
 35	día	día	NOUN	_	Gender=Masc|Number=Sing	38	nsubjpass	_	_
-36	debía	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	37	aux	_	_
+36	debía	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	38	aux	_	_
 37	ser	ser	AUX	_	VerbForm=Inf	38	auxpass	_	_
 38	intercalado	intercalar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	_
 39	donde	donde	ADV	_	_	45	advmod	_	_
 40	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 41	mes	mes	NOUN	_	Gender=Masc|Number=Sing	45	nsubj	_	_
-42	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	43	aux	_	_
+42	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	45	aux	_	_
 43	sido	ser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	45	cop	_	_
 44	anteriormente	anteriormente	ADV	_	_	45	advmod	_	_
 45	insertado	insertado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	38	acl:relcl	_	_
@@ -16579,7 +16579,7 @@
 4	y	y	CONJ	_	_	3	cc	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	canto	canto	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
-7	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+7	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 8	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	auxpass	_	_
 9	guiados	guiar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 10	por	por	ADP	_	_	11	case	_	_
@@ -17361,7 +17361,7 @@
 24	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id es-dev-002-s104
-1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	auxpass	_	_
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	auxpass	_	_
 2	ordenado	ordenado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	cop	_	_
 3	sacerdote	sacerdote	NOUN	_	VerbForm=Inf	0	root	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -18696,7 +18696,7 @@
 9	finita	finito	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
 10	,	,	PUNCT	_	_	6	punct	_	_
 11	ésta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	15	nsubj	_	_
-12	tenía	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+12	tenía	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
 13	que	que	CONJ	_	_	14	mark	_	_
 14	ser	ser	VERB	_	VerbForm=Inf	15	cop	_	_
 15	inmensa	inmenso	ADJ	_	Number=Sing	0	root	_	_
@@ -20361,7 +20361,7 @@
 
 # sent_id es-dev-002-s211
 1	No	no	ADV	_	_	3	neg	_	_
-2	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	puedo	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	estar	estar	VERB	_	VerbForm=Inf	5	cop	_	_
 4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
 5	contento	contento	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -22037,7 +22037,7 @@
 15	señal	señal	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 16	a	a	ADP	_	_	12	case	_	_
 17	transmitir	transmitir	VERB	_	VerbForm=Inf	16	acl	_	_
-18	deberá	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	aux	_	_
+18	deberá	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	aux	_	_
 19	ser	ser	VERB	_	VerbForm=Inf	20	cop	_	_
 20	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	0	root	_	_
 21	que	que	CONJ	_	_	23	case	_	_
@@ -22329,7 +22329,7 @@
 13	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 14	y	y	CONJ	_	_	13	cc	_	_
 15	que	que	SCONJ	_	_	19	mark	_	_
-16	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	17	aux	_	_
+16	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	aux	_	_
 17	ser	ser	VERB	_	VerbForm=Inf	19	cop	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	reto	reto	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
@@ -22425,7 +22425,7 @@
 29	Juan	juan	PROPN	_	Number=Sing	35	nsubj	_	_
 30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	Bueno	bueno	PROPN	_	_	29	appos	_	_
-32	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	33	aux	_	_
+32	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	35	aux	_	_
 33	llegado	llegar	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	35	aux	_	_
 34	a	a	ADP	_	_	35	mark	_	_
 35	tener	tener	VERB	_	VerbForm=Inf	5	conj	_	_
@@ -22973,7 +22973,7 @@
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	gruta	gruta	NOUN	_	Gender=Fem|Number=Sing	6	nsubjpass	_	_
 3	también	también	ADV	_	_	6	advmod	_	_
-4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	auxpass	_	_
 6	usada	usar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	experimentalmente	experimentalmente	ADV	_	_	6	advmod	_	_
@@ -23681,7 +23681,7 @@
 21	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id es-dev-002-s310
-1	Ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
+1	Ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 2	sido	ser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	cop	_	_
 3	internacional	internacional	ADJ	_	Number=Sing	0	root	_	_
 4	con	con	ADP	_	_	6	case	_	_
@@ -24380,7 +24380,7 @@
 7	,	,	PUNCT	_	_	3	punct	_	_
 8	en	en	ADP	_	_	9	case	_	_
 9	1977	1977	NUM	_	NumType=Card	13	nmod	_	_
-10	volvió	volver	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
+10	volvió	volver	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux	_	_
 11	a	a	ADP	_	_	12	mark	_	_
 12	ser	ser	VERB	_	VerbForm=Inf	13	cop	_	_
 13	sede	sede	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -24575,7 +24575,7 @@
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	det	_	_
 21	que	que	PRON	_	PronType=Int,Rel	27	nmod	_	_
 22	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	iobj	_	_
-23	tuvo	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux	_	_
+23	tuvo	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	aux	_	_
 24	que	que	CONJ	_	_	23	mwe	_	_
 25	volver	volver	AUX	_	VerbForm=Inf	27	aux	_	_
 26	a	a	ADP	_	_	25	mwe	_	_
@@ -24884,7 +24884,7 @@
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Banksia	banksia	PROPN	_	_	6	nsubj	_	_
 3	epica	epico	PROPN	_	Gender=Fem|Number=Sing	2	amod	_	_
-4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	podido	poder	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux	_	_
 6	tolerar	tolerar	VERB	_	VerbForm=Inf	0	root	_	_
 7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
@@ -25204,7 +25204,7 @@
 30	complejas	complejo	ADJ	_	Gender=Fem|Number=Plur	29	amod	_	_
 31	o	o	CONJ	_	_	29	cc	_	_
 32	que	que	SCONJ	_	_	36	mark	_	_
-33	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
+33	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	aux	_	_
 34	ser	ser	VERB	_	VerbForm=Inf	36	cop	_	_
 35	potencialmente	potencialmente	ADV	_	_	36	advmod	_	_
 36	peligrosas	peligroso	ADJ	_	Gender=Fem|Number=Plur	29	conj	_	_
@@ -25526,7 +25526,7 @@
 3	de	de	ADP	_	_	2	case	_	_
 4	unidades	unidad	NOUN	_	Gender=Fem|Number=Plur	8	nsubjpass	_	_
 5	vendidas	vender	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	4	acl	_	_
-6	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
+6	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 7	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	auxpass	_	_
 8	conseguido	conseguir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	en	en	ADP	_	_	11	case	_	_
@@ -27138,7 +27138,7 @@
 7	CDs	cds	X	_	_	3	nmod	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	audio	audio	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
-10	podrán	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	11	aux	_	_
+10	podrán	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	12	aux	_	_
 11	ser	ser	AUX	_	VerbForm=Inf	12	auxpass	_	_
 12	usadas	usar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 13	con	con	ADP	_	_	15	case	_	_
@@ -27160,7 +27160,7 @@
 7	flujo	flujo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	datos	dato	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
-10	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 11	ser	ser	AUX	_	VerbForm=Inf	12	auxpass	_	_
 12	elaborado	elaborar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 13	y	y	CONJ	_	_	12	cc	_	_
@@ -27698,7 +27698,7 @@
 42	de	de	ADP	_	_	43	case	_	_
 43	Ethelberto	ethelberto	PROPN	_	_	41	nmod	_	_
 44	no	no	ADV	_	_	47	neg	_	_
-45	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	46	aux	_	_
+45	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	47	aux	_	_
 46	haber	haber	AUX	_	VerbForm=Inf	47	aux	_	_
 47	empezado	empezar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	38	ccomp	_	_
 48	antes	antes	ADV	_	_	50	advmod	_	_
@@ -28740,7 +28740,7 @@
 6	que	que	SCONJ	_	_	11	mark	_	_
 7	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	8	det	_	_
 8	internos	interno	NOUN	_	Gender=Masc|Number=Plur	11	nsubjpass	_	_
-9	hubieran	haber	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
+9	hubieran	haber	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
 10	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	auxpass	_	_
 11	atacados	atacar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	17	advcl	_	_
 12	cuando	cuando	SCONJ	_	_	13	mark	_	_
@@ -29507,7 +29507,7 @@
 38	continuación	continuación	NOUN	_	Gender=Fem|Number=Sing	43	nmod	_	_
 39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	muerte	muerte	NOUN	_	Gender=Fem|Number=Sing	43	nsubj	_	_
-41	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	aux	_	_
+41	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	aux	_	_
 42	ser	ser	VERB	_	VerbForm=Inf	43	cop	_	_
 43	repentina	repenna	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	_
 44	.	.	PUNCT	_	_	7	punct	_	_
@@ -29648,7 +29648,7 @@
 4	diciembre	diciembre	PROPN	_	_	2	nmod	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	2011	2011	NUM	_	NumType=Card	4	nmod	_	_
-7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	auxpass	_	_
+7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	auxpass	_	_
 8	elegido	elegir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	cop	_	_
 9	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 10-11	del	_	_	_	_	_	_	_	_
@@ -30525,7 +30525,7 @@
 11	por	por	ADP	_	_	13	case	_	_
 12	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	det	_	_
 13	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	20	nmod	_	_
-14	vino	venir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
+14	vino	venir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	aux	_	_
 15	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	representación	representación	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
 17	a	a	ADP	_	_	20	case	_	_
@@ -31072,7 +31072,7 @@
 7	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	pecados	pecado	NOUN	_	Gender=Masc|Number=Plur	6	dobj	_	_
 9	por	por	ADP	_	_	12	case	_	_
-10	haber	haber	AUX	_	VerbForm=Inf	11	aux	_	_
+10	haber	haber	AUX	_	VerbForm=Inf	12	aux	_	_
 11	estado	estar	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	aux	_	_
 12	enseñando	enseñar	VERB	_	VerbForm=Ger	8	advcl	_	_
 13	y	y	CONJ	_	_	12	cc	_	_
@@ -31663,7 +31663,7 @@
 14	de	de	ADP	_	_	15	case	_	_
 15	ayer	ayer	ADV	_	_	13	advmod	_	_
 16	y	y	CONJ	_	_	11	cc	_	_
-17	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
+17	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
 18	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	auxpass	_	_
 19	enviada	enviar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	11	conj	_	_
 20	por	por	ADP	_	_	21	case	_	_
@@ -32626,7 +32626,7 @@
 40-41	al	_	_	_	_	_	_	_	_
 40	a	a	ADP	_	_	44	case	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
-42	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	43	auxpass	_	_
+42	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	44	auxpass	_	_
 43	llamado	llamado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	44	cop	_	_
 44	negro	negro	ADJ	_	Gender=Masc|Number=Sing	39	amod	_	_
 45	.	.	PUNCT	_	_	27	punct	_	_
@@ -32964,7 +32964,7 @@
 23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	víctima	víctima	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
 25	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	iobj	_	_
-26	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	aux	_	_
+26	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	_
 27	hacer	hacer	VERB	_	VerbForm=Inf	28	cop	_	_
 28	permanente	permanente	ADJ	_	Number=Sing	0	root	_	_
 29	.	.	PUNCT	_	_	28	punct	_	_
@@ -34739,7 +34739,7 @@
 
 # sent_id es-dev-003-s197
 1	Dave	dave	PROPN	_	_	4	nsubjpass	_	_
-2	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	aux	_	_
+2	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	aux	_	_
 3	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	auxpass	_	_
 4	asesinado	asesinar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	también	también	ADV	_	_	4	advmod	_	_
@@ -35015,7 +35015,7 @@
 2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 3	ratonas	ratona	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
 4	australianas	australiano	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_
-5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	auxpass	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	auxpass	_	_
 6	denominadas	denominado	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	9	cop	_	_
 7	en	en	ADP	_	_	8	case	_	_
 8	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
@@ -35399,7 +35399,7 @@
 
 # sent_id es-dev-003-s221
 1	Se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	iobj	_	_
-2	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	encontrar	encontrar	VERB	_	VerbForm=Inf	4	cop	_	_
 4	comercializada	comercializado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 5	en	en	ADP	_	_	6	case	_	_
@@ -35619,7 +35619,7 @@
 25	de	de	ADP	_	_	26	case	_	_
 26	vista	vista	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	_
 27	,	,	PUNCT	_	_	24	punct	_	_
-28	debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
+28	debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	_
 29	ser	ser	VERB	_	VerbForm=Inf	31	cop	_	_
 30	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	diálogo	diálogo	NOUN	_	Gender=Masc|Number=Sing	19	acl:relcl	_	_
@@ -37237,7 +37237,7 @@
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	operación	operación	NOUN	_	Gender=Fem|Number=Sing	30	nsubj	_	_
 26	no	no	ADV	_	_	30	neg	_	_
-27	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	aux	_	_
+27	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	30	aux	_	_
 28	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	30	auxpass	_	_
 29	oficialmente	oficialmente	ADV	_	_	30	advmod	_	_
 30	confirmada	confirmado	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	15	advcl	_	_
@@ -37637,7 +37637,7 @@
 1	Mayte	mayte	PROPN	_	_	6	nsubjpass	_	_
 2	y	y	CONJ	_	_	1	cc	_	_
 3	María	maría	PROPN	_	_	1	conj	_	_
-4	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	auxpass	_	_
+4	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	auxpass	_	_
 5	renombradas	renombrado	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	6	cop	_	_
 6	Baccara	baccara	PROPN	_	_	0	root	_	_
 7	,	,	PUNCT	_	_	6	punct	_	_
@@ -38503,7 +38503,7 @@
 
 # sent_id es-dev-003-s327
 1	Me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
-2	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 3	parecido	parecer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
 4	muy	mucho	ADV	_	_	5	advmod	_	_
 5	serios	serio	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
@@ -41197,7 +41197,7 @@
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	perforación	perforación	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	_
 15	manual	manual	ADJ	_	Number=Sing	14	amod	_	_
-16	dejó	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
+16	dejó	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
 17	de	de	ADP	_	_	18	mark	_	_
 18	ser	ser	VERB	_	VerbForm=Inf	19	cop	_	_
 19	necesaria	necesario	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -41760,7 +41760,7 @@
 # sent_id es-dev-003-s437
 1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
-3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	sido	ser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
 5	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	0	root	_	_
 6	de	de	ADP	_	_	7	case	_	_
@@ -42697,7 +42697,7 @@
 2	-	-	PUNCT	_	_	1	punct	_	_
 3	Sotelo	sotelo	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	_
 4	solo	solo	ADV	_	_	7	advmod	_	_
-5	consigue	conseguir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
+5	consigue	conseguir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 6	ser	ser	VERB	_	VerbForm=Inf	7	cop	_	_
 7	diputado	diputado	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 8	por	por	ADP	_	_	10	case	_	_
@@ -42813,7 +42813,7 @@
 30	Soma	soma	PROPN	_	_	28	nmod	_	_
 31	o	o	CONJ	_	_	30	cc	_	_
 32	Iwaki	iwaki	PROPN	_	_	30	conj	_	_
-33	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	_
+33	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	aux	_	_
 34	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	36	auxpass	_	_
 35	prácticamente	prácticamente	ADV	_	_	36	advmod	_	_
 36	borradas	borrada	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	25	acl:relcl	_	_
