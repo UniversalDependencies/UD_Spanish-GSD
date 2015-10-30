@@ -3847,7 +3847,7 @@
 6	italiano	italiano	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 7	,	,	PUNCT	_	_	5	punct	_	_
 8	Giovanni	giovanni	PROPN	_	_	5	appos	_	_
-9	da	dar	ADP	_	_	10	fixed	_	_
+9	da	dar	ADP	_	_	10	case	_	_
 10	Verrazzano	verrazzano	PROPN	_	_	8	nmod	_	_
 11	(	(	PUNCT	_	_	13	punct	_	_
 12	también	también	ADV	_	_	13	advmod	_	_
@@ -7097,7 +7097,7 @@
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	World	world	PROPN	_	_	3	parataxis	_	_
 10	Series	series	PROPN	_	_	9	name	_	_
-11	by	by	ADP	_	_	12	fixed	_	_
+11	by	by	ADP	_	_	12	case	_	_
 12	Renault	renault	PROPN	_	_	9	nmod	_	_
 13	con	con	ADP	_	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -7456,7 +7456,7 @@
 15	régimen	régimen	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	Primo	primo	PROPN	_	_	15	nmod	_	_
-18	de	de	ADP	_	_	19	fixed	_	_
+18	de	de	ADP	_	_	19	case	_	_
 19	Rivera	rivera	PROPN	_	_	17	name	_	_
 20	,	,	PUNCT	_	_	23	punct	_	_
 21	como	como	ADP	_	_	23	case	_	_
@@ -7902,7 +7902,7 @@
 27	de	de	ADP	_	_	28	case	_	_
 28	Champs	champs	PROPN	_	_	26	nmod	_	_
 29	-	-	PUNCT	_	_	32	punct	_	_
-30	sur	sur	ADP	_	_	32	fixed	_	_
+30	sur	sur	ADP	_	_	32	case	_	_
 31	-	-	PUNCT	_	_	30	punct	_	_
 32	Tarentaine	tarentaine	PROPN	_	_	28	nmod	_	_
 33	-	-	PUNCT	_	_	32	punct	_	_
@@ -10320,7 +10320,7 @@
 
 # sent_id es-dev-001-s364
 1	Still	still	PROPN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
-2	on	on	ADP	_	_	3	fixed	_	_
+2	on	on	ADP	_	_	3	case	_	_
 3	Top	top	PROPN	_	_	1	nmod	_	_
 4	--	--	PUNCT	_	_	1	punct	_	_
 5	The	the	DET	_	PronType=Ind	7	det	_	_
@@ -21467,7 +21467,7 @@
 10	como	como	ADP	_	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	Palais	palais	PROPN	_	_	9	nmod	_	_
-13	De	de	ADP	_	_	14	fixed	_	_
+13	De	de	ADP	_	_	14	case	_	_
 14	Glace	glace	PROPN	_	_	12	nmod	_	_
 15	y	y	CONJ	_	_	12	cc	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -21924,7 +21924,7 @@
 47	Gore	gore	PROPN	_	_	45	nmod	_	_
 48	o	o	CONJ	_	_	45	cc	_	_
 49	Hamdi	hamdi	PROPN	_	_	45	conj	_	_
-50	v.	v.	ADP	_	_	51	fixed	_	_
+50	v.	v.	ADP	_	_	51	case	_	_
 51	Rumsfeld	rumsfeld	PROPN	_	_	49	nmod	_	_
 52	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -27888,7 +27888,7 @@
 19	batuta	batuta	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 20	de	de	ADP	_	_	21	case	_	_
 21	Nikolaus	nikolaus	PROPN	_	_	19	nmod	_	_
-22	von	von	ADP	_	_	23	fixed	_	_
+22	von	von	ADP	_	_	23	case	_	_
 23	Pacassi	pacassi	PROPN	_	_	21	name	_	_
 24	,	,	PUNCT	_	_	28	punct	_	_
 25	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	28	nsubj	_	_
@@ -30263,7 +30263,7 @@
 18	a	a	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	Museo	museo	PROPN	_	_	15	nmod	_	_
-21	del	del	ADP	_	_	22	fixed	_	_
+21	del	del	ADP	_	_	22	case	_	_
 22	Prado	prado	PROPN	_	_	20	nmod	_	_
 23	para	para	ADP	_	_	25	case	_	_
 24	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
@@ -32540,7 +32540,7 @@
 11	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	pedido	pedir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	_
 13	Jonathan	jonathan	PROPN	_	_	12	nsubj	_	_
-14	Dos	dos	ADP	_	_	15	fixed	_	_
+14	Dos	dos	ADP	_	_	15	case	_	_
 15	Santos	santos	PROPN	_	_	13	name	_	_
 16	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -33602,7 +33602,7 @@
 9	(	(	PUNCT	_	_	10	punct	_	_
 10	NBA	nba	PROPN	_	_	2	appos	_	_
 11	Executive	executive	PROPN	_	_	10	name	_	_
-12	of	of	ADP	_	_	14	fixed	_	_
+12	of	of	ADP	_	_	14	case	_	_
 13	the	the	DET	_	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
 14	Year	year	PROPN	_	Number=Sing	11	nmod	_	_
 15	Award	award	PROPN	_	_	10	name	_	_
@@ -33819,7 +33819,7 @@
 30	de	de	ADP	_	_	31	case	_	_
 31	Monthureux	monthureux	PROPN	_	_	29	nmod	_	_
 32	-	-	PUNCT	_	_	35	punct	_	_
-33	sur	sur	ADP	_	_	35	fixed	_	_
+33	sur	sur	ADP	_	_	35	case	_	_
 34	-	-	PUNCT	_	_	33	punct	_	_
 35	Saône	saône	PROPN	_	_	31	nmod	_	_
 36	.	.	PUNCT	_	_	8	punct	_	_
@@ -38910,7 +38910,7 @@
 11	Tarde	tarde	PROPN	_	_	10	dobj	_	_
 12	,	,	PUNCT	_	_	4	punct	_	_
 13	Folha	folha	PROPN	_	_	4	conj	_	_
-14	de	de	ADP	_	_	16	fixed	_	_
+14	de	de	ADP	_	_	16	case	_	_
 15	São	são	PROPN	_	_	13	nmod	_	_
 16	Paulo	paulo	PROPN	_	Gender=Masc|Number=Sing	15	name	_	_
 17	,	,	PUNCT	_	_	4	punct	_	_
@@ -39830,7 +39830,7 @@
 4	protección	protección	NOUN	_	Gender=Fem|Number=Sing	3	dobj	_	_
 5	en	en	ADP	_	_	6	case	_	_
 6	Josefina	josefina	PROPN	_	_	3	nmod	_	_
-7	de	de	ADP	_	_	8	fixed	_	_
+7	de	de	ADP	_	_	8	case	_	_
 8	Beauharnais	beauharnais	PROPN	_	_	6	name	_	_
 9	y	y	CONJ	_	_	3	cc	_	_
 10	,	,	PUNCT	_	_	11	punct	_	_
@@ -40592,7 +40592,7 @@
 9	seis	6	NUM	_	Number=Plur|NumType=Card	10	nummod	_	_
 10	números	número	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
 11	(	(	PUNCT	_	_	13	punct	_	_
-12	Del	del	ADP	_	_	13	fixed	_	_
+12	Del	del	ADP	_	_	13	case	_	_
 13	31	31	NUM	_	NumType=Card	10	nmod	_	_
 14-15	al	_	_	_	_	_	_	_	_
 14	a	a	ADP	_	_	16	case	_	_
@@ -41363,7 +41363,7 @@
 21	de	de	ADP	_	_	23	case	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	Sociedad	sociedad	PROPN	_	_	18	nmod	_	_
-24	de	de	ADP	_	_	26	fixed	_	_
+24	de	de	ADP	_	_	26	case	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	Industria	industria	PROPN	_	_	23	nmod	_	_
 27	Química	química	PROPN	_	Gender=Fem|Number=Sing	26	amod	_	_
@@ -43522,7 +43522,7 @@
 30	,	,	PUNCT	_	_	31	punct	_	_
 31	María	maría	PROPN	_	_	28	appos	_	_
 32	Dolores	dolores	PROPN	_	Gender=Masc|Number=Plur	31	name	_	_
-33	de	de	ADP	_	_	34	fixed	_	_
+33	de	de	ADP	_	_	34	case	_	_
 34	Cospedal	cospedal	PROPN	_	_	31	name	_	_
 35	,	,	PUNCT	_	_	31	punct	_	_
 36	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
@@ -45110,9 +45110,9 @@
 12	Cheekwood	cheekwood	PROPN	_	_	2	appos	_	_
 13	Botanical	botanical	PROPN	_	_	12	amod	_	_
 14	Garden	garden	PROPN	_	_	12	name	_	_
-15	and	and	CONJ	_	_	14	fixed	_	_
+15	and	and	CONJ	_	_	14	cc	_	_
 16	Museum	museum	PROPN	_	_	12	conj	_	_
-17	of	of	ADP	_	_	18	fixed	_	_
+17	of	of	ADP	_	_	18	case	_	_
 18	Art	art	PROPN	_	_	16	nmod	_	_
 19	)	)	PUNCT	_	_	12	punct	_	_
 20	,	,	PUNCT	_	_	2	punct	_	_
@@ -45269,7 +45269,7 @@
 23	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	24	det	_	_
 24	Bass	bass	PROPN	_	_	22	dobj	_	_
 25	Kick	kick	PROPN	_	_	22	xcomp	_	_
-26	in	in	ADP	_	_	28	fixed	_	_
+26	in	in	ADP	_	_	28	case	_	_
 27	Miami	miami	PROPN	_	_	22	nmod	_	_
 28	Bitch	bitch	PROPN	_	_	27	name	_	_
 29	"	"	PUNCT	_	_	22	punct	_	_
@@ -45497,7 +45497,7 @@
 38	llamado	llamado	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	40	cop	_	_
 39	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	pudeur	pudeur	PROPN	_	_	24	acl	_	_
-41	ou	ou	CONJ	_	_	40	fixed	_	_
+41	ou	ou	CONJ	_	_	40	cc	_	_
 42	l'	l'	DET	_	Gender=Masc|Number=Sing|PronType=Ind	43	det	_	_
 43	impudeur	impudeur	PROPN	_	Gender=Masc|Number=Sing	40	conj	_	_
 44	(	(	PUNCT	_	_	47	punct	_	_
