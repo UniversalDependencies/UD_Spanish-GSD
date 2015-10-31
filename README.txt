@@ -25,6 +25,9 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 Changelog
 
 2015-11-15 v1.2
+  * Ensured AUX are not heads.
+  * Applied type-based POS changes for function words.
+  * Changed mwe and name relations to left-headed.
   * Added morphology features (tagger + heuristic rules and semi-automatic fixes).
   * Added lemmas (lemmatizer + heuristic rules).
 2015-05-15 v1.1
@@ -38,7 +41,7 @@ Documentation status: partial
 Data source: semi-automatic
 Data available since: UD v1.0
 License: CC BY-NC-SA 3.0 US
-Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Zeman, Daniel
+Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Zeman, Daniel; Silveira, Natalia
 ===============================================================================
 
 
