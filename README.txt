@@ -42,8 +42,10 @@ Data source: semi-automatic
 Data available since: UD v1.0
 License: CC BY-NC-SA 3.0 US
 Genre: news blog
-Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel
+Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim
 ===============================================================================
+(Original treebank contributors: Quirmbach-Brundage, Yvonne; LaMontagne, Adam; Souček, Milan; Järvinen, Timo; Radici, Alessandra)
+
 
 
 ===================================
