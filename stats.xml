@@ -9,7 +9,7 @@
   </size>
   <lemmas unique="35923" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
   <forms unique="45580" /><!-- de, ,, el, ., la, en, y, a, que, los, se, un, por, con, una -->
-  <fusions unique="856" /><!-- del, al, convertirse, verse, hacerse, darle, hacerlo, convirtiéndose, dedicarse, quedarse, ponerse, casarse, encontrarse, presentarse, haberse -->
+  <fusions unique="856" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
   <tags unique="16">
     <tag name="ADJ">24895</tag><!-- primero, nuevo, mismo, gran, mayor, buen, principal, segundo, último, mejor -->
