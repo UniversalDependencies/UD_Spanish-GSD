@@ -44,6 +44,7 @@ Data available since: UD v1.0
 License: CC BY-NC-SA 3.0 US
 Genre: blog news reviews wiki
 Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim
+Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
 (Original treebank contributors: Quirmbach-Brundage, Yvonne; LaMontagne, Adam; Souček, Milan; Järvinen, Timo; Radici, Alessandra)
 
