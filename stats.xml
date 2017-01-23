@@ -16,7 +16,7 @@
     <tag name="ADP">71076</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
     <tag name="ADV">12523</tag><!-- no, más, también, mucho, donde, ya, además, así, después, sólo -->
     <tag name="AUX">6043</tag><!-- haber, ser, poder, estar, deber, ir, tener, comenzar, volver, seguir -->
-    <tag name="CONJ">13822</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
+    <tag name="CCONJ">13822</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
     <tag name="DET">60872</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="NOUN">77530</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, país -->
     <tag name="NUM">11017</tag><!-- dos, 2010, tres, 0, 3, cuatro, 1, 6, 2, 10 -->
@@ -42,8 +42,7 @@
     <feat name="Degree" value="Abs" upos="ADJ,DET,PRON">42</feat><!-- muchísimo, buenísimas, Santísima, muchisimo, muchísimas, aceleradísimo, altísima, altísimo, bellísima, buenísima -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,PRON">2052</feat><!-- más, mayor, menos, mejor, mejores, menor, mayores, menores, peor, peores -->
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
-    <feat name="Foreign" value="Foreign" upos="X">1</feat><!-- secondez -->
-    <feat name="Foreign" value="Fscript" upos="PROPN,X">68</feat><!-- μm, 天下第一, TΔS, ː, Γαρμπή, Γρηγορᾶς, ΔG, ΔH, ΖΒΖ, Καίτη -->
+    <feat name="Foreign" value="Yes" upos="PROPN,X">69</feat><!-- μm, 天下第一, TΔS, secondez, ː, Γαρμπή, Γρηγορᾶς, ΔG, ΔH, ΖΒΖ -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">68248</feat><!-- la, una, las, esta, parte, población, ciudad, personas, primera, familia -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">90193</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">590</feat><!-- sería, podría, habría, podrían, tendría, serían, debería, gustaría, estaría, haría -->
@@ -57,7 +56,8 @@
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB,X">2001</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,SYM,VERB,X">466</feat><!-- te, ², os, tu, tienes, puedes, tú, usted, vosotros, ti -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,SYM,VERB,X">41981</feat><!-- se, es, su, fue, lo, sus, ha, le, son, eran -->
-    <feat name="Polite" value="Pol" upos="PRON">13</feat><!-- usted, ustedes -->
+    <feat name="Polarity" value="Neg" upos="ADJ,ADP,ADV,CCONJ,PROPN,X">1764</feat><!-- no, nunca, ni, tampoco, jamás, not, gran, o, para, sino -->
+    <feat name="Polite" value="Form" upos="PRON">13</feat><!-- usted, ustedes -->
     <feat name="Poss" value="Yes" upos="DET,PRON">4482</feat><!-- su, sus, mi, nuestra, cuya, nuestros, cuyo, nuestro, tu, mis -->
     <feat name="PrepCase" value="Npr" upos="DET,PRON">8235</feat><!-- se, lo, la, me, los, nos, te, las, os -->
     <feat name="PrepCase" value="Pre" upos="PRON">54</feat><!-- sí, mí, ti -->
@@ -65,8 +65,8 @@
     <feat name="PronType" value="Dem" upos="DET,PRON">2912</feat><!-- este, esta, estos, ese, esto, tanto, estas, esa, eso, éste -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">3360</feat><!-- uno, otros, otras, otro, una, cualquier, algunos, varios, muchos, otra -->
     <feat name="PronType" value="Int,Rel" upos="DET,PRON">1701</feat><!-- que, cual, quien, qué, quienes, cuya, cuales, cuyo, quién, cuyas -->
-    <feat name="PronType" value="Neg" upos="DET,PRON">246</feat><!-- nada, ningún, nadie, ninguna, ninguno, ningun, niguna -->
-    <feat name="PronType" value="Prs" upos="DET,PRON">14307</feat><!-- se, su, lo, sus, le, la, me, los, nos, les -->
+    <feat name="PronType" value="Neg" upos="DET,PRON">247</feat><!-- nada, ningún, nadie, ninguna, ninguno, ningun, Ellos, niguna -->
+    <feat name="PronType" value="Prs" upos="DET,PRON">14306</feat><!-- se, su, lo, sus, le, la, me, los, nos, les -->
     <feat name="PronType" value="Tot" upos="DET,PRON">1200</feat><!-- todo, todos, cada, toda, todas, ambos, ambas -->
     <feat name="Reflex" value="Yes" upos="PRON">5394</feat><!-- se, me, nos, sí, te, consigo, os -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">812</feat><!-- será, podrá, podrán, serán, tendrá, estará, hará, permitirá, tendrán, contará -->
@@ -83,11 +83,11 @@
     <dep name="acl">5608</dep>
     <dep name="acl:relcl">5338</dep>
     <dep name="advcl">4266</dep>
-    <dep name="advmod">9629</dep>
+    <dep name="advmod">11394</dep>
     <dep name="amod">23010</dep>
     <dep name="appos">8898</dep>
     <dep name="aux">4195</dep>
-    <dep name="auxpass">1860</dep>
+    <dep name="aux:pass">1860</dep>
     <dep name="case">67203</dep>
     <dep name="cc">13233</dep>
     <dep name="ccomp">1589</dep>
@@ -95,19 +95,19 @@
     <dep name="conj">17199</dep>
     <dep name="cop">6323</dep>
     <dep name="csubj">701</dep>
-    <dep name="csubjpass">7</dep>
+    <dep name="csubj:pass">7</dep>
     <dep name="dep">1197</dep>
     <dep name="det">61212</dep>
-    <dep name="dobj">13623</dep>
+    <dep name="fixed">2883</dep>
+    <dep name="flat">7273</dep>
     <dep name="iobj">7464</dep>
     <dep name="mark">11586</dep>
-    <dep name="mwe">2883</dep>
-    <dep name="name">7273</dep>
-    <dep name="neg">1765</dep>
-    <dep name="nmod">64170</dep>
+    <dep name="nmod">39276</dep>
     <dep name="nsubj">15829</dep>
-    <dep name="nsubjpass">1182</dep>
+    <dep name="nsubj:pass">1182</dep>
     <dep name="nummod">7253</dep>
+    <dep name="obj">13623</dep>
+    <dep name="obl">24894</dep>
     <dep name="parataxis">1668</dep>
     <dep name="punct">47565</dep>
     <dep name="root">16013</dep>
