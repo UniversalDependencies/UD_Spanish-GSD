@@ -24,6 +24,8 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 Changelog
 
+2017-03-01 v2.0
+  * Converted to UD v2 guidelines.
 2015-11-15 v1.2
   * Removed duplicite sentences (train overlapped with dev/test, removed from dev/test).
   * Ensured AUX are not heads.
