@@ -1,3 +1,20 @@
+=== Machine-readable metadata =================================================
+Data available since: UD v1.0
+License: CC BY-NC-SA 3.0 US
+Includes text: yes
+Genre: blog news reviews wiki
+Lemmas: automatic
+UPOS: converted from manual
+XPOS: not available
+Features: automatic
+Relations: converted from manual
+Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim
+Contributing: here
+Contact: zeman@ufal.mff.cuni.cz
+Paragraphs to web: 2
+===============================================================================
+(Original treebank contributors: Quirmbach-Brundage, Yvonne; LaMontagne, Adam; Souček, Milan; Järvinen, Timo; Radici, Alessandra)
+
 The Spanish UD is converted from the content head version of the universal
 dependency treebank v2.0 (legacy):
 
@@ -38,17 +55,6 @@ Changelog
 2015-01-15 v1.0
   * First release. No lemmas, no features. Dependencies converted from the legacy UD treebank.
 
-
-=== Machine-readable metadata =================================================
-Documentation status: partial
-Data source: semi-automatic
-Data available since: UD v1.0
-License: CC BY-NC-SA 3.0 US
-Genre: blog news reviews wiki
-Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim
-Contact: zeman@ufal.mff.cuni.cz
-===============================================================================
-(Original treebank contributors: Quirmbach-Brundage, Yvonne; LaMontagne, Adam; Souček, Milan; Järvinen, Timo; Radici, Alessandra)
 
 
 
