@@ -1,26 +1,10 @@
-=== Machine-readable metadata =================================================
-Data available since: UD v1.0
-License: CC BY-NC-SA 3.0 US
-Includes text: yes
-Genre: blog news reviews wiki
-Lemmas: automatic
-UPOS: converted from manual
-XPOS: not available
-Features: automatic
-Relations: converted from manual
-Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim
-Contributing: here
-Contact: zeman@ufal.mff.cuni.cz
-Paragraphs to web: 2
-===============================================================================
-(Original treebank contributors: Quirmbach-Brundage, Yvonne; LaMontagne, Adam; Souček, Milan; Järvinen, Timo; Radici, Alessandra)
+# Summary
 
-The Spanish UD is converted from the content head version of the universal
-dependency treebank v2.0 (legacy):
+The Spanish UD is converted from the content head version of the [universal
+dependency treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 
-https://code.google.com/p/uni-dep-tb/
 
-The README for that project is included here.
+# Introduction
 
 In addition to converting dependencies from the legacy UD treebank, token level morphology features have been added
 automatically using the parsers/taggers in Bohnet et al 2014* and Bohnet et al. 2015** trained on the Ancora***
@@ -39,22 +23,21 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
   "AnCora: Multilevel Annotated Corpora for Catalan and Spanish." LREC. 2008.
 
 
-Changelog
+# Changelog
 
-2017-03-01 v2.0
+* 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
-2015-11-15 v1.2
+* 2015-11-15 v1.2
   * Removed duplicite sentences (train overlapped with dev/test, removed from dev/test).
   * Ensured AUX are not heads.
   * Applied type-based POS changes for function words.
   * Changed mwe and name relations to left-headed.
   * Added morphology features (tagger + heuristic rules and semi-automatic fixes).
   * Added lemmas (lemmatizer + heuristic rules).
-2015-05-15 v1.1
+* 2015-05-15 v1.1
   * Second release.
-2015-01-15 v1.0
+* 2015-01-15 v1.0
   * First release. No lemmas, no features. Dependencies converted from the legacy UD treebank.
-
 
 
 
@@ -239,3 +222,21 @@ Contact
 ryanmcd@google.com
 joakim.nivre@lingfil.uu.se
 slav@google.com
+
+
+=== Machine-readable metadata =================================================
+Data available since: UD v1.0
+License: CC BY-NC-SA 3.0 US
+Includes text: yes
+Genre: blog news reviews wiki
+Lemmas: automatic
+UPOS: converted from manual
+XPOS: not available
+Features: automatic
+Relations: converted from manual
+Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim
+Contributing: here
+Contact: zeman@ufal.mff.cuni.cz
+Paragraphs to web: 2
+===============================================================================
+(Original treebank contributors: Quirmbach-Brundage, Yvonne; LaMontagne, Adam; Souček, Milan; Järvinen, Timo; Radici, Alessandra)
