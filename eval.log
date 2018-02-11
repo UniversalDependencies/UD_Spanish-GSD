@@ -1,0 +1,41 @@
+Sun Feb 11 20:53:57 CET 2018
+perl -I perllib/lib/perl5 -I tools tools/evaluate_treebank.pl --verbose UD_Spanish-GSD
+Running the following version of tools/evaluate_treebank.pl:
+commit c1cb17aec6a5505b56b885f578dc6b1093bb4b30
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sun Feb 11 20:27:50 2018 +0100
+Switched to branch 'master'
+Your branch is up-to-date with 'origin/master'.
+Evaluating the following revision of UD_Spanish-GSD:
+commit 189287c6ad58f649d187be4613fc6d2e744fb6a3
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat Nov 11 14:10:47 2017 +0100
+Size: counted 431587 of 431587 words (nodes).
+Size: min(0, log((N/1000)**2)) = 12.1349382248968.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Found more than 10000 training words.
+Split: Found at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 0.4.
+Universal POS tags: 16 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.8.
+Features: 240104 out of 431587 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 28 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.8.
+Udapi: found 10867 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 431587 words.
+Genres: found 4 out of 14 known.
+(weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
+(weight=0.0769230769230769) * (score{genres}=0.285714285714286) = 0.021978021978022
+(weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
+(weight=0.256410256410256) * (score{size}=0.878356118218257) = 0.225219517491861
+(weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
+(weight=0.0769230769230769) * (score{tags}=0.752941176470588) = 0.0579185520361991
+(weight=0.307692307692308) * (score{udapi}=0.748208356600176) = 0.230217955876977
+(weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
+(TOTAL score=0.694724206773218) * (availability=1) * (validity=1) = 0.694724206773218
+STARS = 3.5
+UD_Spanish-GSD	0.694724206773218	3.5
+Switched to branch 'dev'
+Your branch is up-to-date with 'origin/dev'.
