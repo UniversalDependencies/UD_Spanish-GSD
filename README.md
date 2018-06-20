@@ -237,6 +237,5 @@ Relations: converted from manual
 Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim
 Contributing: here
 Contact: zeman@ufal.mff.cuni.cz
-Paragraphs to web: 2
 ===============================================================================
 (Original treebank contributors: Quirmbach-Brundage, Yvonne; LaMontagne, Adam; Souček, Milan; Järvinen, Timo; Radici, Alessandra)
