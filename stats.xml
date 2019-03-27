@@ -10,7 +10,7 @@
     <dev><sentences>1400</sentences><tokens>36464</tokens><words>37151</words><fused>685</fused></dev>
     <test><sentences>426</sentences><tokens>11733</tokens><words>12000</words><fused>267</fused></test>
   </size>
-  <lemmas unique="35923" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
+  <lemmas unique="35876" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
   <forms unique="45580" /><!-- de, ,, el, ., la, en, y, a, que, los, se, un, por, con, una -->
   <fusions unique="856" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -18,7 +18,7 @@
     <tag name="ADJ">24895</tag><!-- primero, nuevo, mismo, gran, mayor, buen, principal, segundo, último, mejor -->
     <tag name="ADP">71076</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
     <tag name="ADV">12488</tag><!-- no, más, también, mucho, donde, ya, además, así, después, sólo -->
-    <tag name="AUX">5378</tag><!-- haber, ser, poder, estar, deber, ir, tener, corresponder, este, querer -->
+    <tag name="AUX">10984</tag><!-- ser, haber, poder, estar, deber, ir, tener, corresponder, querer, volver -->
     <tag name="CCONJ">13822</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
     <tag name="DET">60857</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">38</tag><!-- sí, él -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">47525</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
     <tag name="SCONJ">8101</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1652</tag><!-- %, ², km, $, º, °, a, €, m, ª -->
-    <tag name="VERB">41656</tag><!-- ser, tener, hacer, estar, encontrar, dar, haber, decir, llegar, ver -->
+    <tag name="VERB">36050</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ver -->
     <tag name="X">1985</tag><!-- ex, hab, 's, etc., ya, c, ², x, d, i -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -86,12 +86,12 @@
   <deps unique="32">
     <dep name="acl">2855</dep>
     <dep name="acl:relcl">5296</dep>
-    <dep name="advcl">7103</dep>
+    <dep name="advcl">7102</dep>
     <dep name="advmod">11349</dep>
     <dep name="amod">23009</dep>
     <dep name="appos">8773</dep>
-    <dep name="aux">3565</dep>
-    <dep name="aux:pass">1825</dep>
+    <dep name="aux">3616</dep>
+    <dep name="aux:pass">1850</dep>
     <dep name="case">67199</dep>
     <dep name="cc">13233</dep>
     <dep name="ccomp">1589</dep>
@@ -111,10 +111,10 @@
     <dep name="nsubj:pass">1182</dep>
     <dep name="nummod">7254</dep>
     <dep name="obj">13623</dep>
-    <dep name="obl">24896</dep>
+    <dep name="obl">24897</dep>
     <dep name="parataxis">1668</dep>
     <dep name="punct">47565</dep>
     <dep name="root">16013</dep>
-    <dep name="xcomp">2091</dep>
+    <dep name="xcomp">2015</dep>
   </deps>
 </treebank>
