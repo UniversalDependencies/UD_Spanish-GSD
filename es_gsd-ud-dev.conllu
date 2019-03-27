@@ -10745,7 +10745,7 @@
 9	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
 10	dispositivo	dispositivo	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
 11	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
-12	ser	ser	VERB	_	VerbForm=Inf	13	aux:pass	_	_
+12	ser	ser	AUX	_	VerbForm=Inf	13	aux:pass	_	_
 13	formateado	formatear	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 14	usando	usar	VERB	_	VerbForm=Ger	13	advcl	_	_
 15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	17	det	_	_
