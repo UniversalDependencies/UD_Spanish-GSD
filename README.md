@@ -25,6 +25,8 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2019-05-01 v2.4
+  * Automatically fixed some auxiliary verbs and copulas.
 * 2018-07-01 v2.2
   * Fixed acl-->advcl under VERB ([https://github.com/UniversalDependencies/UD_French-GSD/issues/4](https://github.com/UniversalDependencies/UD_French-GSD/issues/4))
 * 2017-03-01 v2.0
