@@ -3,8 +3,8 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Spanish-GSD:
-commit 05194748dd801651815201ce89d2cd9fe1a467d9
-Merge: 776e8cf b209729
+commit c07bf87f3a2d821ebc2f604c9204017439b3a2d0
+Merge: f8fe926 04871cb
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 431587 of 431587 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.1349382248968.
@@ -15,28 +15,79 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 240104 out of 431587 total words have one or more features.
+Features: 240105 out of 431587 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 28 out of 37 found in the corpus.
+Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
-Udapi: found 4739 bugs.
+Udapi: found 4726 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 431587 words.
 Genres: found 4 out of 17 known.
 validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-dev.conllu
-*** PASSED ***
+[Line 288 Sent es-dev-001-s12 Node 17]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ'
+[Line 340 Sent es-dev-001-s14 Node 9]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (9:que:mark --> 8:la:det)
+[Line 845 Sent es-dev-001-s36 Node 2]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 844 Sent es-dev-001-s36 Node 2]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (2:hizo:cop --> 1:Se:iobj)
+[Line 845 Sent es-dev-001-s36 Node 2]: [L5 Syntax cop-lemma] 'hacer' is not a copula in language [es]
+[Line 956 Sent es-dev-001-s39 Node 24]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (24:que:mark --> 23:con:case)
+[Line 1071 Sent es-dev-001-s42 Node 16]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
+[Line 1191 Sent es-dev-001-s48 Node 11]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 1192 Sent es-dev-001-s48 Node 11]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (11:quedar:cop --> 12:se:iobj)
+...suppressing further errors regarding Syntax
+[Line 6060 Sent es-dev-001-s206 Node 28]: [L5 Morpho aux-lemma] 'corresponder' is not an auxiliary verb in language [es]
+[Line 31265 Sent es-dev-003-s46 Node 14]: [L5 Morpho aux-lemma] 'venir' is not an auxiliary verb in language [es]
+[Line 38868 Sent es-dev-003-s310 Node 3]: [L5 Morpho aux-lemma] 'encuentro' is not an auxiliary verb in language [es]
+Morpho errors: 3
+Syntax errors: 342
+*** FAILED *** with 345 errors
+Exit code: 1
 validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-test.conllu
-*** PASSED ***
+[Line 66 Sent es-dev-003-s416 Node 16]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
+[Line 67 Sent es-dev-003-s416 Node 18]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (18:ser:cop --> 17:de:mark)
+[Line 386 Sent es-dev-003-s428 Node 12]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ'
+[Line 515 Sent es-dev-003-s432 Node 6]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ'
+[Line 610 Sent es-dev-003-s435 Node 10]: [L3 Syntax leaf-punct] 'punct' not expected to have children (10:/:punct --> 11:km:dep)
+[Line 738 Sent es-dev-003-s440 Node 25]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (25:que:mark --> 23:a:case)
+[Line 739 Sent es-dev-003-s440 Node 25]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (25:que:mark --> 24:el:det)
+[Line 837 Sent es-dev-003-s444 Node 4]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ'
+[Line 1194 Sent es-dev-003-s457 Node 2]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ'
+...suppressing further errors regarding Syntax
+Syntax errors: 76
+*** FAILED *** with 76 errors
+Exit code: 1
 validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-train.conllu
-*** PASSED ***
-Validity: 1
+[Line 224 Sent es-train-001-s5 Node 9]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'PROPN'
+[Line 343 Sent es-train-001-s10 Node 13]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'PROPN'
+[Line 605 Sent es-train-001-s19 Node 20]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'NOUN'
+[Line 746 Sent es-train-001-s23 Node 23]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'VERB'
+[Line 746 Sent es-train-001-s23 Node 23]: [L5 Syntax cop-lemma] 'morir' is not a copula in language [es]
+[Line 803 Sent es-train-001-s26 Node 4]: [L3 Syntax rel-upos-nummod] 'nummod' should be 'NUM' but it is 'ADJ'
+[Line 857 Sent es-train-001-s28 Node 11]: [L3 Syntax rel-upos-cop] 'cop' should be 'AUX' or 'PRON'/'DET' but it is 'ADJ'
+[Line 857 Sent es-train-001-s28 Node 11]: [L5 Syntax cop-lemma] 'llamado' is not a copula in language [es]
+[Line 979 Sent es-train-001-s31 Node 18]: [L3 Syntax leaf-mark-case] 'mark' not expected to have children (18:que:mark --> 17:lo:det)
+...suppressing further errors regarding Syntax
+[Line 8981 Sent es-train-001-s278 Node 11]: [L5 Morpho aux-lemma] 'negar' is not an auxiliary verb in language [es]
+[Line 25141 Sent es-train-002-s289 Node 7]: [L5 Morpho aux-lemma] 'seguir' is not an auxiliary verb in language [es]
+[Line 31973 Sent es-train-003-s10 Node 6]: [L5 Morpho aux-lemma] 'morir' is not an auxiliary verb in language [es]
+[Line 34424 Sent es-train-003-s93 Node 1]: [L5 Morpho aux-lemma] 'soler' is not an auxiliary verb in language [es]
+[Line 54296 Sent es-train-004-s286 Node 11]: [L5 Morpho aux-lemma] 'soler' is not an auxiliary verb in language [es]
+[Line 60711 Sent es-train-004-s492 Node 70]: [L5 Morpho aux-lemma] 'volver' is not an auxiliary verb in language [es]
+[Line 80931 Sent es-train-006-s152 Node 28]: [L5 Morpho aux-lemma] 'corresponder' is not an auxiliary verb in language [es]
+[Line 101827 Sent es-train-007-s335 Node 13]: [L5 Morpho aux-lemma] 'noche' is not an auxiliary verb in language [es]
+[Line 156126 Sent es-train-011-s162 Node 3]: [L5 Morpho aux-lemma] 'volver' is not an auxiliary verb in language [es]
+...suppressing further errors regarding Morpho
+Morpho errors: 25
+Syntax errors: 3690
+*** FAILED *** with 3715 errors
+Exit code: 1
+Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.235294117647059) = 0.0180995475113122
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
 (weight=0.256410256410256) * (score{size}=0.878356118218257) = 0.225219517491861
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.890195951221886) = 0.273906446529811
-(weight=0.0769230769230769) * (score{udeprels}=0.605405405405405) = 0.0465696465696466
-(TOTAL score=0.738154132461605) * (availability=1) * (validity=1) = 0.738154132461605
-STARS = 3.5
-UD_Spanish-GSD	0.738154132461605	3.5
+(weight=0.307692307692308) * (score{udapi}=0.89049716511387) = 0.273999127727345
+(weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
+(TOTAL score=0.73991001532234) * (availability=1) * (validity=0.01) = 0.0073991001532234
+STARS = 0
+UD_Spanish-GSD	0.0073991001532234	0
