@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_Spanish-GSD:
-commit b5851bea689549326ff2d760a56c2ae275189df3
+commit 5fd42ede8fbace59cb56eeb8cf230c7c5a535b31
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 12 17:46:33 2019 +0100
+Date:   Sun May 10 18:45:40 2020 +0200
 Size: counted 431587 of 431587 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.1349382248968.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -37,8 +37,8 @@ validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-dev.conllu
 [Line 31265 Sent es-dev-003-s46 Node 14]: [L5 Morpho aux-lemma] 'venir' is not an auxiliary verb in language [es]
 [Line 38868 Sent es-dev-003-s310 Node 3]: [L5 Morpho aux-lemma] 'encuentro' is not an auxiliary verb in language [es]
 Morpho errors: 3
-Syntax errors: 342
-*** FAILED *** with 345 errors
+Syntax errors: 343
+*** FAILED *** with 346 errors
 Exit code: 1
 validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-test.conllu
 [Line 66 Sent es-dev-003-s416 Node 16]: [L3 Syntax rel-upos-aux] 'aux' should be 'AUX' but it is 'VERB'
@@ -76,8 +76,8 @@ validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-train.conllu
 [Line 156126 Sent es-train-011-s162 Node 3]: [L5 Morpho aux-lemma] 'volver' is not an auxiliary verb in language [es]
 ...suppressing further errors regarding Morpho
 Morpho errors: 25
-Syntax errors: 3690
-*** FAILED *** with 3715 errors
+Syntax errors: 3689
+*** FAILED *** with 3714 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
