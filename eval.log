@@ -1,11 +1,11 @@
-Running the following version of tools/evaluate_treebank.pl:
-commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
+Running the following version of UD tools:
+commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Apr 21 19:02:58 2018 +0200
+Date:   Thu May 6 20:16:19 2021 +0200
 Evaluating the following revision of UD_Spanish-GSD:
-commit 5fd42ede8fbace59cb56eeb8cf230c7c5a535b31
+commit 3ebb9edd60700dad21e9705ad0bba14248a39bb5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 10 18:45:40 2020 +0200
+Date:   Wed Nov 11 20:16:03 2020 +0100
 Size: counted 431587 of 431587 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.1349382248968.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,6 +19,8 @@ Features: 240105 out of 431587 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
+Udapi:
+               TOTAL       4732
 Udapi: found 4732 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 431587 words.
 Genres: found 4 out of 17 known.
