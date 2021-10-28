@@ -74,7 +74,7 @@
 7	Guayaquil	guayaquil	PROPN	_	_	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	_
 9	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
-10	escrita	escrito	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+10	escrita	escribir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 11	en	en	ADP	_	_	13	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	fuste	fuste	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
@@ -10240,7 +10240,7 @@
 14	de	de	ADP	_	_	16	case	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	Fundación	fundación	PROPN	_	_	13	nmod	_	_
-17	escritas	escrito	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	10	acl	_	_
+17	escritas	escribir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	10	acl	_	_
 18	por	por	ADP	_	_	19	case	_	_
 19	Isaac	isaac	PROPN	_	_	17	obl	_	_
 20	Asimov	asimov	PROPN	_	_	19	flat	_	SpaceAfter=No
@@ -38487,7 +38487,7 @@
 25	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	38	nsubj:pass	_	_
 26	epónimo	epónimo	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	25	punct	_	_
-28	escrito	escrito	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	25	acl	_	_
+28	escrito	escribir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	25	acl	_	_
 29	y	y	CCONJ	_	_	30	cc	_	_
 30	producido	producir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	28	conj	_	_
 31	por	por	ADP	_	_	32	case	_	_

@@ -1121,7 +1121,7 @@
 8	,	,	PUNCT	_	_	10	punct	_	_
 9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	webcómic	webcómic	NOUN	_	_	6	appos	_	_
-11	escrito	escrito	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
+11	escrito	escribir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
 12	por	por	ADP	_	_	13	case	_	_
 13	Scott	scott	PROPN	_	_	11	obl	_	_
 14	Ramsoomair	ramsoomair	PROPN	_	_	13	flat	_	SpaceAfter=No
@@ -8874,7 +8874,7 @@
 2	The	the	DET	_	PronType=Ind	3	det	_	_
 3	Sparrow	sparrow	PROPN	_	_	16	nsubj:pass	_	SpaceAfter=No
 4	"	"	PUNCT	_	_	3	punct	_	_
-5	escrito	escrito	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
+5	escrito	escribir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 6	por	por	ADP	_	_	7	case	_	_
 7	Nathan	nathan	PROPN	_	_	5	obl	_	_
 8	Allen	allen	PROPN	_	_	7	flat	_	SpaceAfter=No
