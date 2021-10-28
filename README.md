@@ -25,6 +25,8 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2021-11-15 v2.9
+  * Fixed some lemmas of participles that are tagged VERB (#12).
 * 2019-11-15 v2.5
   * Google gave permission to drop the "NC" restriction from the license.
     This applies to the UD annotations (not the underlying content, of which Google claims no ownership or copyright).
