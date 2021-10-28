@@ -29980,7 +29980,7 @@
 18	de	de	ADP	_	_	19	case	_	_
 19	que	que	PRON	_	PronType=Int,Rel	21	obl	_	_
 20	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	aux:pass	_	_
-21	hechas	hecho	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	17	ccomp	_	SpaceAfter=No
+21	hechas	hacer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	17	ccomp	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = es-dev-003-s1
