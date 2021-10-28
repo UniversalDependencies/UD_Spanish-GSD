@@ -914,7 +914,7 @@
 18	de	de	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	éxito	éxito	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
-21	obtenido	obtenido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	_
+21	obtenido	obtener	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	_
 22	por	por	ADP	_	_	24	case	_	_
 23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	serie	serie	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	_

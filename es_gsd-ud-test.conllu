@@ -10483,7 +10483,7 @@
 26	electoral	electoral	ADJ	_	Number=Sing	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	28	punct	_	_
 28-29	obteniéndose	_	_	_	_	_	_	_	_
-28	obteniéndo	obteniéndo	VERB	_	VerbForm=Ger	10	advcl	_	_
+28	obteniéndo	obtener	VERB	_	VerbForm=Ger	10	advcl	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	iobj	_	_
 30	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
 31	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	28	nsubj	_	_
