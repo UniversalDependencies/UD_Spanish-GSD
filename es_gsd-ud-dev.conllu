@@ -1064,7 +1064,7 @@
 9	canónica	canónico	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
 10	solía	soler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 11	quedar	quedar	VERB	_	VerbForm=Inf	10	xcomp	_	_
-12	restringida	restringido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	11	advcl	_	_
+12	restringida	restringir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	11	advcl	_	_
 13	a	a	ADP	_	_	15	case	_	_
 14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	áreas	área	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
@@ -1366,7 +1366,7 @@
 # sent_id = es-dev-001-s56
 # text = Marchesini surgido de las divisiones inferiores de River Plate en el que nunca jugó en Primera después de un tiempo pasó a formar filas de Boca Juniors también en sus divisiones inferiores.
 1	Marchesini	marchesini	PROPN	_	_	21	nsubj	_	_
-2	surgido	surgido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	_
+2	surgido	surgir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	divisiones	división	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
@@ -2361,7 +2361,7 @@
 42	de	de	ADP	_	_	43	case	_	_
 43	Zanzíbar	zanzíbar	PROPN	_	_	41	nmod	_	SpaceAfter=No
 44	,	,	PUNCT	_	_	45	punct	_	_
-45	dirigida	dirigido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	41	acl	_	_
+45	dirigida	dirigir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	41	acl	_	_
 46	por	por	ADP	_	_	47	case	_	_
 47	John	john	PROPN	_	_	45	obl	_	_
 48	Okello	okello	PROPN	_	_	47	flat	_	SpaceAfter=No
@@ -2939,7 +2939,7 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	verso	verso	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 6	aparece	aparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-7	dividido	dividido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	advcl	_	_
+7	dividido	dividir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	advcl	_	_
 8	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
 9	o	o	CCONJ	_	_	10	cc	_	_
 10	menos	menos	ADV	_	Degree=Cmp	8	conj	_	_
@@ -3606,7 +3606,7 @@
 1	¿	¿	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Cómo	cómo	ADV	_	_	4	advmod	_	_
 3	habéis	haber	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	vivido	vivido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	vivido	vivir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
 6	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
 7	expectación	expectación	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	SpaceAfter=No
@@ -5319,7 +5319,7 @@
 23	como	como	ADP	_	_	24	case	_	_
 24	resultado	resultado	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_
 25	sale	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	parataxis	_	_
-26	elegida	elegido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	25	xcomp	_	_
+26	elegida	elegir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	25	xcomp	_	_
 27	Ashleigh	ashleigh	PROPN	_	_	25	nsubj	_	_
 28	que	que	PRON	_	PronType=Int,Rel	31	nsubj:pass	_	_
 29	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	31	aux	_	_
@@ -6418,7 +6418,7 @@
 3	son	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	sillarejo	sillarejo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-6	unidos	unido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	advcl	_	_
+6	unidos	unir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	advcl	_	_
 7	con	con	ADP	_	_	8	case	_	_
 8	mortero	mortero	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
@@ -10292,7 +10292,7 @@
 7	parte	parte	NOUN	_	Gender=Fem|Number=Sing	32	obl	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	estar	estar	AUX	_	VerbForm=Inf	10	aux:pass	_	_
-10	prohibido	prohibido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	advcl	_	_
+10	prohibido	prohibir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	advcl	_	_
 11	cantar	cantar	VERB	_	VerbForm=Inf	10	csubj:pass	_	_
 12	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
 13	para	para	SCONJ	_	_	14	mark	_	_
@@ -12332,7 +12332,7 @@
 # text = Una vez emitido el fallo, la aplicación de sanciones quedará en manos de quienes tienen la facultad legal para hacerlo, que en el caso de Juan Molinar y Daniel Karam son dos: el presidente Felipe Calderón y el Congreso de la Unión.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-3	emitido	emitido	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
+3	emitido	emitir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	fallo	fallo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	3	punct	_	_
@@ -13606,7 +13606,7 @@
 35	Memorias	memorias	NOUN	_	_	32	obl	_	_
 36	masculinas	masculina	ADJ	_	Gender=Fem|Number=Plur	35	amod	_	SpaceAfter=No
 37	,	,	PUNCT	_	_	35	punct	_	_
-38	restringidas	restringido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	35	acl	_	_
+38	restringidas	restringir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	35	acl	_	_
 39	a	a	ADP	_	_	42	case	_	_
 40	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	42	det	_	_
 41	Reverendas	reverenda	PROPN	_	_	42	amod	_	_
@@ -13919,7 +13919,7 @@
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	serie	serie	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	emitida	emitido	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	emitida	emitir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	en	en	ADP	_	_	6	case	_	_
 6	Estados	estados	PROPN	_	_	4	obl	_	_
 7	Unidos	unido	PROPN	_	_	6	amod	_	_
@@ -15283,7 +15283,7 @@
 9	sólo	sólo	ADV	_	_	12	advmod	_	_
 10	para	para	ADP	_	_	12	mark	_	_
 11	ser	ser	AUX	_	VerbForm=Inf	12	aux:pass	_	_
-12	interrumpida	interrumpido	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
+12	interrumpida	interrumpir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
 13	cuando	cuando	SCONJ	_	_	16	mark	_	_
 14	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	15	det	_	_
 15	ser	ser	NOUN	_	VerbForm=Inf	16	nsubj	_	_
@@ -16194,7 +16194,7 @@
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	película	película	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-8	dirigida	dirigido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	_
+8	dirigida	dirigir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	_
 9	por	por	ADP	_	_	10	case	_	_
 10	Ken	ken	PROPN	_	_	8	obl	_	_
 11	Loach	loach	PROPN	_	_	10	flat	_	SpaceAfter=No
@@ -20637,7 +20637,7 @@
 45	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	46	amod	_	_
 46	balance	balance	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 47	oficial	oficial	ADJ	_	Number=Sing	46	amod	_	_
-48	difundido	difundido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	46	acl	_	_
+48	difundido	difundir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	46	acl	_	_
 49	por	por	ADP	_	_	51	case	_	_
 50	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	51	det	_	_
 51	agencia	agencia	NOUN	_	Gender=Fem|Number=Sing	48	obl	_	_
@@ -20789,7 +20789,7 @@
 21	átomo	átomo	NOUN	_	Gender=Masc|Number=Sing	17	conj	_	_
 22	de	de	ADP	_	_	23	case	_	_
 23	hidrógeno	hidrógeno	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
-24	unido	unido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	21	acl	_	_
+24	unido	unir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	21	acl	_	_
 25	covalentemente	covalentemente	ADV	_	_	24	advmod	_	_
 26	a	a	ADP	_	_	28	case	_	_
 27	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	28	det	_	_
@@ -22113,7 +22113,7 @@
 17	exigieron	exigir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
 18	que	que	SCONJ	_	_	20	mark	_	_
 19	fuera	ser	AUX	_	VerbForm=Fin	20	aux:pass	_	_
-20	admitido	admitido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	17	ccomp	_	_
+20	admitido	admitir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	17	ccomp	_	_
 21	de	de	ADP	_	_	22	case	_	_
 22	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	_
 23	y	y	CCONJ	_	_	24	cc	_	_
@@ -24855,7 +24855,7 @@
 16	alternativa	alternativa	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
 17	de	de	ADP	_	_	18	case	_	_
 18	diversión	diversión	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
-19	dirigida	dirigido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	_
+19	dirigida	dirigir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	_
 20	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	22	nmod	_	_
 21	a	a	ADP	_	_	22	case	_	_
 22	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
@@ -25520,7 +25520,7 @@
 12	Turner	turner	PROPN	_	_	11	flat	_	_
 13	y	y	CCONJ	_	_	14	cc	_	_
 14	Sigfrido	sigfrido	PROPN	_	_	11	conj	_	_
-15	dirigido	dirigido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
+15	dirigido	dirigir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 16	por	por	ADP	_	_	17	case	_	_
 17	Panizza	panizza	PROPN	_	_	15	obl	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	19	punct	_	_
@@ -26238,7 +26238,7 @@
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	que	que	PRON	_	PronType=Int,Rel	24	obl	_	_
 23	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	_
-24	dirigida	dirigido	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
+24	dirigida	dirigir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	13	acl:relcl	_	_
 25	por	por	ADP	_	_	26	case	_	_
 26	Mario	mario	PROPN	_	_	24	obl	_	_
 27	Gas	gas	PROPN	_	_	26	flat	_	SpaceAfter=No
@@ -32930,7 +32930,7 @@
 5	western	western	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	de	de	ADP	_	_	7	case	_	_
 7	1960	1960	NUM	_	NumType=Card	5	nmod	_	_
-8	dirigido	dirigido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
+8	dirigido	dirigir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
 10	protagonizado	protagonizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	conj	_	_
 11	por	por	ADP	_	_	12	case	_	_
@@ -33410,7 +33410,7 @@
 15	,	,	PUNCT	_	_	18	punct	_	_
 16	y	y	CCONJ	_	_	18	cc	_	_
 17	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
-18	dirigida	dirigido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	conj	_	_
+18	dirigida	dirigir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	conj	_	_
 19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
 20	2012	2012	NUM	_	NumType=Card	18	obl	_	SpaceAfter=No
 21	)	)	PUNCT	_	_	20	punct	_	_
@@ -33990,7 +33990,7 @@
 # sent_id = es-dev-003-s146
 # text = Fue sucedida al año siguiente por su compañero de bancada, Luis Gonzales Posada.
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
-2	sucedida	sucedido	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	sucedida	sucedir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3-4	al	_	_	_	_	_	_	_	_
 3	a	a	ADP	_	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
