@@ -2198,7 +2198,7 @@
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	saga	saga	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 9-10	Tekken.Basándose	_	_	_	_	_	_	_	_
-9	Tekken.Basándo	tekken.basándo	VERB	_	VerbForm=Fin	8	appos	_	_
+9	Tekken.Basándo	tekken.basar	VERB	_	VerbForm=Fin	8	appos	_	_
 10	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	iobj	_	_
 11	en	en	ADP	_	_	13	case	_	_
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
@@ -2552,7 +2552,7 @@
 18	empleos	empleo	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	20	punct	_	_
 20-21	integrándolo	_	_	_	_	_	_	_	_
-20	integrándo	integrándo	VERB	_	VerbForm=Ger	5	conj	_	_
+20	integrándo	integrar	VERB	_	VerbForm=Ger	5	conj	_	_
 21	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
 22-23	al	_	_	_	_	_	_	_	_
 22	a	a	ADP	_	_	24	case	_	_

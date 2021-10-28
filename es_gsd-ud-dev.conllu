@@ -21560,7 +21560,7 @@
 30	anticipación	anticipación	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	_
 32-33	encontrándose	_	_	_	_	_	_	_	_
-32	encontrándo	encontrándo	VERB	_	VerbForm=Ger	17	advcl	_	_
+32	encontrándo	encontrar	VERB	_	VerbForm=Ger	17	advcl	_	_
 33	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	iobj	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	huracán	huracán	NOUN	_	Gender=Masc|Number=Sing	32	nsubj	_	_
@@ -26360,7 +26360,7 @@
 15	oriental	oriental	ADJ	_	Number=Sing	13	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	10	punct	_	_
 17-18	encontrándose	_	_	_	_	_	_	_	_
-17	encontrándo	encontrándo	VERB	_	VerbForm=Ger	10	advcl	_	_
+17	encontrándo	encontrar	VERB	_	VerbForm=Ger	10	advcl	_	_
 18	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	iobj	_	_
 19	principalmente	principalmente	ADV	_	_	17	advmod	_	_
 20	en	en	ADP	_	_	21	case	_	_
@@ -31148,7 +31148,7 @@
 31	/	/	SYM	_	_	32	case	_	_
 32	día	día	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
 33-34	ampliándose	_	_	_	_	_	_	_	SpaceAfter=No
-33	ampliándo	ampliándo	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	3	advcl	_	_
+33	ampliándo	ampliar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	3	advcl	_	_
 34	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	33	iobj	_	_
 35	,	,	PUNCT	_	_	38	punct	_	_
 36	a	a	ADP	_	_	38	case	_	_
