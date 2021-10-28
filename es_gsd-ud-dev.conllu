@@ -1630,7 +1630,7 @@
 1	Cumplieron	cumplir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	plazos	plazo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
-4	previstos	previsto	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	acl	_	_
+4	previstos	prever	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	3	acl	_	_
 5	y	y	CCONJ	_	_	7	cc	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	presupuesto	presupuesto	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
@@ -5872,7 +5872,7 @@
 29	con	con	ADP	_	_	31	case	_	_
 30	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
 31	procedimientos	procedimiento	NOUN	_	Gender=Masc|Number=Plur	28	nmod	_	_
-32	previstos	previsto	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	31	acl	_	_
+32	previstos	prever	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	31	acl	_	_
 33	en	en	ADP	_	_	35	case	_	_
 34	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 35	Ley.	ley.	X	_	_	32	obl	_	_
@@ -7600,7 +7600,7 @@
 
 # sent_id = es-dev-001-s260
 # text = Visto como anticatalanista, cobraron impulso los nacionalismos de izquierdas, opuestos al régimen de Primo de Rivera, como los embriones de Esquerra Republicana de Cataluña.
-1	Visto	visto	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	advcl	_	_
+1	Visto	ver	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	advcl	_	_
 2	como	como	ADP	_	_	3	case	_	_
 3	anticatalanista	anticatalanista	NOUN	_	Number=Sing	1	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_

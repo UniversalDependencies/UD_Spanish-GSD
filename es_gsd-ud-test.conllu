@@ -10210,7 +10210,7 @@
 39	conseguir	conseguir	VERB	_	VerbForm=Inf	34	conj	_	_
 40	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 41	éxito	éxito	NOUN	_	Gender=Masc|Number=Sing	39	obj	_	_
-42	previsto	previsto	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	41	acl	_	_
+42	previsto	prever	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	41	acl	_	_
 43	cuando	cuando	SCONJ	_	_	45	mark	_	_
 44	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	45	iobj	_	_
 45	nominó	nominar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	42	advcl	_	_
