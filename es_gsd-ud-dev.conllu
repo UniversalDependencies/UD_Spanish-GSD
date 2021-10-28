@@ -2890,7 +2890,7 @@
 30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	principio	principio	NOUN	_	Gender=Masc|Number=Sing	28	obl	_	_
 32	y	y	CCONJ	_	_	33	cc	_	_
-33	construidas	construido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	28	conj	_	_
+33	construidas	construir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	28	conj	_	_
 34	a	a	ADP	_	_	36	case	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	vez	vez	NOUN	_	Gender=Fem|Number=Sing	33	obl	_	_
@@ -6160,7 +6160,7 @@
 10	Maverick	maverick	PROPN	_	_	2	obl	_	_
 11	Records	records	PROPN	_	_	10	flat	_	_
 12	y	y	CCONJ	_	_	13	cc	_	_
-13	distribuido	distribuido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
+13	distribuido	distribuir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	conj	_	_
 14	por	por	ADP	_	_	15	case	_	_
 15	Warner	warner	PROPN	_	_	13	obl	_	_
 16	Bros.	bros.	PROPN	_	_	15	flat	_	_
@@ -6179,7 +6179,7 @@
 8	con	con	ADP	_	_	9	case	_	_
 9	Tetuán	tetuán	PROPN	_	_	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	construida	construido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	_	_
+11	construida	construir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	_	_
 12	durante	durante	ADP	_	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	protectorado	protectorado	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
@@ -12820,7 +12820,7 @@
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	concepto	concepto	NOUN	_	Gender=Masc|Number=Sing	4	nsubj:pass	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
-4	atribuido	atribuido	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	atribuido	atribuir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	generalmente	generalmente	ADV	_	_	4	advmod	_	_
 6	a	a	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -14762,7 +14762,7 @@
 20	Villa	villa	PROPN	_	_	16	nmod	_	_
 21	y	y	CCONJ	_	_	22	cc	_	_
 22	Tierra	tierra	PROPN	_	_	20	conj	_	_
-23	seguido	seguido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	16	acl	_	_
+23	seguido	seguir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	16	acl	_	_
 24	en	en	ADP	_	_	27	case	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 26	denomina	denomina	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	_
@@ -17449,7 +17449,7 @@
 # sent_id = es-dev-002-s94
 # text = Está construida en el solar del antiguo foro romano de Caesaraugusta y de la mezquita mayor de Saraqusta, de cuyo minarete todavía perdura la impronta en la torre actual.
 1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	construida	construido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+2	construida	construir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 3	en	en	ADP	_	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	solar	solar	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
@@ -21676,7 +21676,7 @@
 8	red	red	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	centros	centro	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
-11	distribuida	distribuido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	acl	_	SpaceAfter=No
+11	distribuida	distribuir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	acl	_	SpaceAfter=No
 12	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = es-dev-002-s237
@@ -37467,7 +37467,7 @@
 32	final	final	ADJ	_	Gender=Fem|Number=Sing	31	amod	_	_
 33	con	con	ADP	_	_	34	case	_	_
 34	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	31	nmod	_	_
-35	incluido	incluido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	34	acl	_	SpaceAfter=No
+35	incluido	incluir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	34	acl	_	SpaceAfter=No
 36	.	.	PUNCT	_	_	31	punct	_	_
 
 # sent_id = es-dev-003-s265
@@ -38832,7 +38832,7 @@
 45	propiedades	propiedad	NOUN	_	Gender=Fem|Number=Plur	46	nsubj:pass	_	_
 46	confiscadas	confiscar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	40	conj	_	_
 47	o	o	CCONJ	_	_	48	cc	_	_
-48	destruidas	destruido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	46	conj	_	SpaceAfter=No
+48	destruidas	destruir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	46	conj	_	SpaceAfter=No
 49	.	.	PUNCT	_	_	34	punct	_	_
 
 # sent_id = es-dev-003-s309
@@ -41984,7 +41984,7 @@
 2	citado	citado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
 3	castillejo	castillejo	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
-5	construido	construido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
+5	construido	construir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 6	con	con	ADP	_	_	8	case	_	_
 7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	piedras	piedra	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_

@@ -6967,7 +6967,7 @@
 23	que	que	SCONJ	_	_	25	mark	_	_
 24	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	iobj	_	_
 25	encuentren	encontrar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
-26	recluidos	recluido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	25	advcl	_	_
+26	recluidos	recluir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	25	advcl	_	_
 27	en	en	ADP	_	_	29	case	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	Hospital	hospital	NOUN	_	_	26	obl	_	_
@@ -8568,7 +8568,7 @@
 53	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	55	det	_	_
 54	1.035	1035	NUM	_	NumType=Card	55	nummod	_	_
 55	viviendas	vivienda	NOUN	_	Gender=Fem|Number=Plur	62	nsubj	_	_
-56	incluidas	incluido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	55	acl	_	_
+56	incluidas	incluir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	55	acl	_	_
 57	en	en	ADP	_	_	59	case	_	_
 58	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	59	det	_	_
 59	sector	sector	NOUN	_	Gender=Masc|Number=Sing	56	obl	_	_
