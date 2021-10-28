@@ -15761,7 +15761,7 @@
 68	Bretaña	bretaña	PROPN	_	_	63	obl	_	SpaceAfter=No
 69	,	,	PUNCT	_	_	70	punct	_	_
 70-71	convirtiéndose	_	_	_	_	_	_	_	_
-70	convirtiéndo	convirtiéndo	VERB	_	VerbForm=Ger	64	advcl	_	_
+70	convirtiéndo	convertir	VERB	_	VerbForm=Ger	64	advcl	_	_
 71	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	70	iobj	_	_
 72	en	en	ADP	_	_	74	case	_	_
 73	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	74	det	_	_
