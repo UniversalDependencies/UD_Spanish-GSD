@@ -2306,7 +2306,7 @@
 28	epidemia	epidemia	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
 29	de	de	ADP	_	_	30	case	_	_
 30	peste	peste	NOUN	_	Gender=Masc|Number=Sing	28	nmod	_	_
-31	producida	producido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	28	acl	_	_
+31	producida	producir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	28	acl	_	_
 32	por	por	ADP	_	_	34	case	_	_
 33	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	putrefacción	putrefacción	NOUN	_	Gender=Fem|Number=Sing	31	obl	_	_
@@ -2816,7 +2816,7 @@
 10	periódicos	periódico	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
 11	eran	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	22	advcl	_	_
 12	muy	mucho	ADV	_	_	13	advmod	_	_
-13	reducidos	reducido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	11	amod	_	_
+13	reducidos	reducir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	11	amod	_	_
 14	en	en	ADP	_	_	15	case	_	_
 15	razón	razón	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
 16	de	de	ADP	_	_	18	case	_	_
@@ -14096,7 +14096,7 @@
 
 # sent_id = es-dev-001-s480
 # text = Producido por Kenny Ortega, en el documental se muestra la elección de los bailarines, la preparación de varios aspectos del show y la exigencia en la perfección entre otros aspectos.
-1	Producido	producido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	_
+1	Producido	producir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	_
 2	por	por	ADP	_	_	3	case	_	_
 3	Kenny	kenny	PROPN	_	_	1	obl	_	_
 4	Ortega	ortega	PROPN	_	_	3	flat	_	SpaceAfter=No
@@ -37346,7 +37346,7 @@
 35	Renault	renault	PROPN	_	_	32	obl	_	_
 36	8	8	NUM	_	NumType=Card	35	appos	_	_
 37	y	y	CCONJ	_	_	38	cc	_	_
-38	producido	producido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	30	conj	_	_
+38	producido	producir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	30	conj	_	_
 39	entre	entre	ADP	_	_	40	case	_	_
 40	1965	1965	NUM	_	NumType=Card	38	obl	_	_
 41	y	y	CCONJ	_	_	42	cc	_	_
@@ -38489,7 +38489,7 @@
 27	,	,	PUNCT	_	_	25	punct	_	_
 28	escrito	escrito	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	25	acl	_	_
 29	y	y	CCONJ	_	_	30	cc	_	_
-30	producido	producido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	28	conj	_	_
+30	producido	producir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	28	conj	_	_
 31	por	por	ADP	_	_	32	case	_	_
 32	Soja	soja	PROPN	_	_	28	obl	_	_
 33	y	y	CCONJ	_	_	34	cc	_	_
