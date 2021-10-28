@@ -6345,7 +6345,7 @@
 18	Van	ir	PROPN	_	_	17	flat	_	_
 19	Gogh	gogh	PROPN	_	_	17	flat	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	21	punct	_	_
-21	conocida	conocido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	9	acl	_	_
+21	conocida	conocer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	9	acl	_	_
 22	como	como	ADP	_	_	23	case	_	_
 23	Volpini	volpini	PROPN	_	Gender=Masc|Number=Sing	21	obl	_	_
 24	suit	suit	NOUN	_	Number=Sing	23	flat	_	SpaceAfter=No
@@ -6399,7 +6399,7 @@
 9	una	uno	NUM	_	Gender=Fem|Number=Sing|NumType=Card	10	nummod	_	_
 10	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
 11	como	como	ADP	_	_	12	case	_	_
-12	cedido	cedido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	2	advcl	_	_
+12	cedido	ceder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	2	advcl	_	_
 13	(	(	PUNCT	_	_	17	punct	_	SpaceAfter=No
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	año	año	NOUN	_	_	17	obl	_	_
@@ -6446,14 +6446,14 @@
 23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	supranacionalidad	supranacionalidad	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	26	punct	_	_
-26	reconocida	reconocido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	24	acl	_	_
+26	reconocida	reconocer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	24	acl	_	_
 27	por	por	ADP	_	_	29	case	_	_
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	Constitución	constitución	NOUN	_	_	26	obl	_	_
 30	de	de	ADP	_	_	31	case	_	_
 31	1999	1999	NUM	_	NumType=Card	29	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	_
-33	entendida	entendido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	26	conj	_	_
+33	entendida	entender	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	26	conj	_	_
 34	como	como	ADP	_	_	37	case	_	_
 35	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
 36	plena	pleno	ADJ	_	Gender=Fem|Number=Sing	37	amod	_	_
@@ -9423,7 +9423,7 @@
 14	participación	participación	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 15	de	de	ADP	_	_	16	case	_	_
 16	Diariodeavisos.com	diariodeavisos.com	PROPN	_	_	12	nmod	_	_
-17	recogidas	recogido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	12	acl	_	_
+17	recogidas	recoger	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	12	acl	_	_
 18	en	en	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	aviso	aviso	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
@@ -13368,7 +13368,7 @@
 51	bien	bien	ADV	_	_	52	advmod	_	_
 52	servidos	servido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	1	parataxis	_	_
 53	y	y	CCONJ	_	_	54	cc	_	_
-54	atendidos	atendido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	52	conj	_	SpaceAfter=No
+54	atendidos	atender	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	52	conj	_	SpaceAfter=No
 55	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = es-test-001-s292

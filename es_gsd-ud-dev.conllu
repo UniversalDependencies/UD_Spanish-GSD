@@ -1153,7 +1153,7 @@
 11	Cyphostemma	cyphostemma	PROPN	_	_	5	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
 13	bien	bien	ADV	_	_	14	advmod	_	_
-14	conocida	conocido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	5	acl	_	_
+14	conocida	conocer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	5	acl	_	_
 15	como	como	ADP	_	_	17	case	_	_
 16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	planta	planta	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
@@ -3935,7 +3935,7 @@
 10	Verrazzano	verrazzano	PROPN	_	_	8	nmod	_	_
 11	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
 12	también	también	ADV	_	_	13	advmod	_	_
-13	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
+13	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
 14	como	como	ADP	_	_	15	case	_	_
 15	John	john	PROPN	_	Gender=Masc|Number=Sing	13	obl	_	_
 16	Verrazano	verrazano	PROPN	_	Gender=Masc|Number=Sing	15	flat	_	SpaceAfter=No
@@ -5190,7 +5190,7 @@
 7	sociedad	sociedad	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	crímenes	crimen	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
-10	cometidos	cometido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	9	acl	_	_
+10	cometidos	cometer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	9	acl	_	_
 11	por	por	ADP	_	_	13	case	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	tiranía	tiranía	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	SpaceAfter=No
@@ -5402,7 +5402,7 @@
 
 # sent_id = es-dev-001-s186
 # text = Nacido en 1937 en Madrid (España), cursó sus estudios en esa capital y a partir de 1974 se marchó a vivir al campo de Guadalajara.
-1	Nacido	nacido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	_
+1	Nacido	nacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	1937	1937	NUM	_	NumType=Card	1	obl	_	_
 4	en	en	ADP	_	_	5	case	_	_
@@ -6301,7 +6301,7 @@
 3	especies	especie	NOUN	_	Gender=Fem|Number=Plur	6	nsubj:pass	_	_
 4	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 5	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	aux:pass	_	_
-6	reconocidas	reconocido	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+6	reconocidas	reconocer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 7	por	por	ADP	_	_	8	case	_	_
 8	Zill	zill	PROPN	_	_	6	obl	_	_
 9	and	and	X	_	Gender=Masc|Number=Sing	10	cc	_	_
@@ -8284,7 +8284,7 @@
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:pass	_	_
 8	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	aux:pass	_	_
-9	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	como	como	ADP	_	_	11	case	_	_
 11	Mahendraparvata	mahendraparvata	PROPN	_	_	9	obl	_	_
 12	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
@@ -9994,7 +9994,7 @@
 
 # sent_id = es-dev-001-s345
 # text = Debido a esto, varios sectores feministas se manifestaron contra Madonna acusándola de tomar un tema tan delicado como este para ganar fama.
-1	Debido	debido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	9	advcl	_	_
+1	Debido	deber	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	9	advcl	_	_
 2	a	a	ADP	_	_	3	case	_	_
 3	esto	este	PRON	_	Number=Sing|PronType=Dem	1	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
@@ -11041,7 +11041,7 @@
 5	Zsa	zsa	PROPN	_	_	4	flat	_	_
 6	Gabor	gabor	PROPN	_	_	4	flat	_	_
 7	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	8	aux:pass	_	_
-8	sometida	sometido	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+8	sometida	someter	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 9	hoy	hoy	ADV	_	_	8	advmod	_	_
 10	a	a	ADP	_	_	12	case	_	_
 11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -11685,7 +11685,7 @@
 
 # sent_id = es-dev-001-s401
 # text = Nacido en Ankara en 1956, Adnan Oktar ha vivido allí todos sus años escolares.
-1	Nacido	nacido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	15	acl	_	_
+1	Nacido	nacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	15	acl	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	Ankara	ankara	PROPN	_	_	1	obl	_	_
 4	en	en	ADP	_	_	5	case	_	_
@@ -11743,7 +11743,7 @@
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	single	single	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 11	más	más	ADV	_	Degree=Cmp	12	advmod	_	_
-12	vendido	vendido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
+12	vendido	vender	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
 13	nunca	nunca	ADV	_	_	12	advmod	_	_
 14	en	en	ADP	_	_	15	case	_	_
 15	España	españa	PROPN	_	_	12	obl	_	_
@@ -12226,7 +12226,7 @@
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	petición	petición	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
-17	entendida	entendido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	15	acl	_	_
+17	entendida	entender	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	15	acl	_	_
 18	como	como	ADP	_	_	20	case	_	_
 19	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	descripción	descripción	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
@@ -12260,7 +12260,7 @@
 13	,	,	PUNCT	_	_	5	punct	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	21	nsubj	_	_
-16	nacida	nacido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	15	acl	_	_
+16	nacida	nacer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	15	acl	_	_
 17	en	en	ADP	_	_	18	case	_	_
 18	Ramos	ramos	PROPN	_	_	16	obl	_	_
 19	Mejía	mejía	PROPN	_	_	18	flat	_	SpaceAfter=No
@@ -13974,7 +13974,7 @@
 10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	Madres	madres	PROPN	_	_	7	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
-13	establecida	establecido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	_
+13	establecida	establecer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	7	acl	_	_
 14	como	como	ADP	_	_	15	case	_	_
 15	resultado	resultado	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
 16	de	de	ADP	_	_	18	case	_	_
@@ -15197,7 +15197,7 @@
 2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 4	muy	mucho	ADV	_	_	5	advmod	_	_
-5	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+5	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 6	y	y	CCONJ	_	_	7	cc	_	_
 7	querido	querido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
 8	por	por	ADP	_	_	11	case	_	_
@@ -15702,7 +15702,7 @@
 12	Антонович	антонович	X	_	Foreign=Yes|Number=Sing	13	compound	_	_
 13	Гордиевский	гордиевский	X	_	Foreign=Yes	9	appos	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	9	punct	_	_
-15	nacido	nacido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	_
+15	nacido	nacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	10	10	NUM	_	NumType=Card	15	obl	_	_
 18	de	de	ADP	_	_	19	case	_	_
@@ -17272,7 +17272,7 @@
 6	letón	letón	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	9	punct	_	_
 8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	nacido	nacido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
+9	nacido	nacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	acl	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	2	2	NUM	_	NumType=Card	9	obl	_	_
 12	de	de	ADP	_	_	13	case	_	_
@@ -17996,7 +17996,7 @@
 
 # sent_id = es-dev-002-s113
 # text = Nacido en la Isla de Cuba, concretamente en Santa Clara, el 27 de diciembre de 1895, hijo de un oficial del ejército que resultaría muerto en combate.
-1	Nacido	nacido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	cop	_	_
+1	Nacido	nacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	cop	_	_
 2	en	en	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Isla	isla	PROPN	_	Gender=Fem|Number=Sing	20	nmod	_	_
@@ -19086,7 +19086,7 @@
 1	Cada	cada	DET	_	Number=Sing|PronType=Tot	2	det	_	_
 2	disco	disco	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	contenido	contenido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
+4	contenido	contener	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
 5	en	en	ADP	_	_	7	case	_	_
 6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	cartucho	cartucho	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
@@ -19917,7 +19917,7 @@
 1	Catalina	catalina	PROPN	_	Gender=Fem|Number=Sing	21	nsubj	_	_
 2	Cruz	cruz	PROPN	_	_	1	flat	_	_
 3	(	(	PUNCT	_	_	4	punct	_	SpaceAfter=No
-4	nacida	nacido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	acl	_	_
+4	nacida	nacer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	acl	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	13	13	NUM	_	NumType=Card	4	obl	_	_
 7	de	de	ADP	_	_	8	case	_	_
@@ -20182,7 +20182,7 @@
 
 # sent_id = es-dev-002-s191
 # text = Nacido el 8 de abril de 1939 en el Bronx, Nueva York, O'Brien asistió a la Escuela Virgen de Solaz y luego el Seminario St.Joseph 's College, donde recibió su Bachillerato en Artes en 1961, un Postgrado en Divinidad en 1964, y un Postgrado en Artes en 1965.
-1	Nacido	nacido	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
+1	Nacido	nacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	8	8	NUM	_	NumType=Card	1	obl	_	_
 4	de	de	ADP	_	_	5	case	_	_
@@ -20444,7 +20444,7 @@
 20	en	en	ADP	_	_	22	case	_	_
 21	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 22	cartas	carta	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
-23	reconocidas	reconocido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	22	acl	_	_
+23	reconocidas	reconocer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	22	acl	_	_
 24	por	por	ADP	_	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	Estado	estado	NOUN	_	_	23	obl	_	_
@@ -21729,7 +21729,7 @@
 16	)	)	PUNCT	_	_	11	punct	_	_
 17	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	aux:pass	_	_
 18	posteriormente	posteriormente	ADV	_	_	19	advmod	_	_
-19	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+19	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 20	como	como	ADP	_	_	22	case	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	sala	sala	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	_
@@ -22234,7 +22234,7 @@
 4	de	de	ADP	_	_	5	case	_	_
 5	Formación	formación	PROPN	_	_	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	7	punct	_	_
-7	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
+7	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
 8	por	por	ADP	_	_	10	case	_	_
 9	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	siglas	sigla	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
@@ -22398,7 +22398,7 @@
 54	de	de	ADP	_	_	55	case	_	_
 55	reformas	reforma	NOUN	_	Gender=Fem|Number=Plur	53	nmod	_	_
 56	constitucionales	constitucional	ADJ	_	Number=Plur	55	amod	_	_
-57	establecidas	establecido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	50	advcl	_	_
+57	establecidas	establecer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	50	advcl	_	_
 58	en	en	ADP	_	_	60	case	_	_
 59	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	60	det	_	_
 60	Artículo	artículo	NOUN	_	_	57	obl	_	_
@@ -24420,7 +24420,7 @@
 # sent_id = es-dev-002-s319
 # text = Es ofrecido por compañías como VAV Life Sciences.
 1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
-2	ofrecido	ofrecido	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	ofrecido	ofrecer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	por	por	ADP	_	_	4	case	_	_
 4	compañías	compañía	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
 5	como	como	ADP	_	_	6	case	_	_
@@ -24577,7 +24577,7 @@
 18	y	y	CCONJ	_	_	19	cc	_	_
 19	cantante	cantante	NOUN	_	Number=Sing	16	conj	_	_
 20	argentino	argentino	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
-21	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	16	acl	_	_
+21	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	16	acl	_	_
 22	por	por	ADP	_	_	23	mark	_	_
 23	interpretar	interpretar	VERB	_	VerbForm=Inf	21	advcl	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
@@ -24991,7 +24991,7 @@
 11	con	con	ADP	_	_	13	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	cronograma	cronograma	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-14	establecido	establecido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	SpaceAfter=No
+14	establecido	establecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	10	punct	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	iobj	_	_
 17	realizarán	realizar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	7	ccomp	_	_
@@ -25728,7 +25728,7 @@
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 14	iranio	iranio	ADJ	_	Gender=Masc|Number=Sing	13	amod	_	_
-15	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	_
+15	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	_
 16	como	como	ADP	_	_	18	case	_	_
 17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	escitas	escita	NOUN	_	Number=Plur	15	obl	_	SpaceAfter=No
@@ -26944,7 +26944,7 @@
 6	capacidad	capacidad	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	4	punct	_	_
 8	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
-9	promovido	promovido	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	promovido	promover	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	para	para	ADP	_	_	11	mark	_	_
 11	profesionalizar	profesionalizar	VERB	_	VerbForm=Inf	9	advcl	_	_
 12	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
@@ -28154,7 +28154,7 @@
 1	En	en	ADP	_	_	3	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	área	área	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
-4	conocida	conocido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	3	acl	_	_
+4	conocida	conocer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	3	acl	_	_
 5	como	como	ADP	_	_	6	case	_	_
 6	Mesoamérica	mesoamérica	PROPN	_	_	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
@@ -30038,7 +30038,7 @@
 3	sería	ser	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
 5	tarde	tarde	ADV	_	_	3	advmod	_	_
-6	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
+6	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
 7	por	por	ADP	_	_	10	case	_	_
 8	ser	ser	AUX	_	VerbForm=Inf	10	cop	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -34115,7 +34115,7 @@
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	familia	familia	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 14	Rosaceae	rosaceae	ADV	_	_	15	advmod	_	_
-15	conocido	conocido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	_
+15	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	_
 16	comunmente	comunmente	ADV	_	_	15	advmod	_	_
 17	en	en	ADP	_	_	18	case	_	_
 18	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
@@ -35377,7 +35377,7 @@
 6	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
 7	Foster	foster	PROPN	_	_	1	flat	_	_
 8	(	(	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	nacido	nacido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	_
+9	nacido	nacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	10	10	NUM	_	NumType=Card	9	obl	_	_
 12	de	de	ADP	_	_	13	case	_	_
@@ -35687,7 +35687,7 @@
 20	muelleri	muelleri	PROPN	_	_	19	amod	_	SpaceAfter=No
 21	)	)	PUNCT	_	_	7	punct	_	_
 22	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	_
-23	conocidas	conocido	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
+23	conocidas	conocer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 24	por	por	ADP	_	_	27	case	_	_
 25	ser	ser	AUX	_	VerbForm=Inf	27	cop	_	_
 26	altamente	altamente	ADV	_	_	27	advmod	_	_
@@ -35815,7 +35815,7 @@
 3	aerolínea	aerolínea	NOUN	_	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
 4	estatal	estatal	ADJ	_	Number=Sing	3	amod	_	_
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
-6	conocida	conocido	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	conocida	conocer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	como	como	ADP	_	_	10	case	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
@@ -37128,7 +37128,7 @@
 3	y	y	CCONJ	_	_	4	cc	_	_
 4	registro	registro	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
 5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
-6	establecido	establecido	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	establecido	establecer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 7	en	en	ADP	_	_	8	case	_	_
 8	diciembre	diciembre	PROPN	_	_	6	obl	_	_
 9	de	de	ADP	_	_	10	case	_	_
@@ -38116,7 +38116,7 @@
 
 # sent_id = es-dev-003-s286
 # text = Debido a la continua amenaza de los indios, no pudieron recuperarse los de la caballería durante dos días.
-1	Debido	debido	VERB	_	VerbForm=Ger	5	case	_	_
+1	Debido	deber	VERB	_	VerbForm=Ger	5	case	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 4	continua	continuo	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
@@ -39040,7 +39040,7 @@
 2	Toni	toni	PROPN	_	Gender=Masc|Number=Sing	1	flat	_	_
 3	Abreu	abreu	PROPN	_	_	1	flat	_	_
 4	(	(	PUNCT	_	_	5	punct	_	SpaceAfter=No
-5	nacido	nacido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	appos	_	_
+5	nacido	nacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	appos	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	13	13	NUM	_	NumType=Card	5	obl	_	_
 8	de	de	ADP	_	_	9	case	_	_
@@ -40068,7 +40068,7 @@
 14	recobrar	recobrar	VERB	_	VerbForm=Inf	12	advcl	_	_
 15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	territorios	territorio	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
-17	perdidos	perdido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	_
+17	perdidos	perder	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	_
 18	en	en	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	mar	mar	PROPN	_	Number=Sing	17	obl	_	_
