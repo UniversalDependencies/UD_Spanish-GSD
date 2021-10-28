@@ -8628,7 +8628,7 @@
 # sent_id = es-dev-001-s299
 # text = Fue descubierto en 1952.
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
-2	descubierto	descubierto	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	en	en	ADP	_	_	4	case	_	_
 4	1952	1952	NUM	_	NumType=Card	2	obl	_	SpaceAfter=No
 5	.	.	PUNCT	_	_	2	punct	_	_
@@ -10829,7 +10829,7 @@
 15	HZ	hz	PROPN	_	_	12	appos	_	SpaceAfter=No
 16	)	)	PUNCT	_	_	15	punct	_	SpaceAfter=No
 17	,	,	PUNCT	_	_	18	punct	_	_
-18	descubierto	descubierto	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	_
+18	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	_
 19	por	por	ADP	_	_	20	case	_	_
 20	Walter	walter	PROPN	_	_	18	obl	_	_
 21	Baade	baade	PROPN	_	Number=Sing	20	flat	_	_
@@ -14041,7 +14041,7 @@
 32	veces	vez	NOUN	_	Gender=Fem|Number=Plur	30	obl	_	_
 33	en	en	ADP	_	_	34	case	_	_
 34	envases	envase	NOUN	_	Gender=Masc|Number=Plur	30	obl	_	_
-35	recubiertos	recubierto	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	34	acl	_	_
+35	recubiertos	recubrir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	34	acl	_	_
 36	de	de	ADP	_	_	37	case	_	_
 37	resina	resina	NOUN	_	Gender=Fem|Number=Sing	35	obl	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	30	punct	_	_
@@ -40283,7 +40283,7 @@
 # sent_id = es-dev-003-s354
 # text = Fue descubierto en la tumba de San Cuthbert en la Catedral de Durham, cuando fue abierta en el 1104.
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
-2	descubierto	descubierto	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	en	en	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	tumba	tumba	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
@@ -40298,7 +40298,7 @@
 14	,	,	PUNCT	_	_	17	punct	_	_
 15	cuando	cuando	SCONJ	_	_	17	mark	_	_
 16	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux:pass	_	_
-17	abierta	abierto	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
+17	abierta	abrir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	2	advcl	_	_
 18	en	en	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	1104	1104	NUM	_	NumType=Card	17	obl	_	SpaceAfter=No

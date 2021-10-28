@@ -3640,7 +3640,7 @@
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	investigación	investigación	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
 13	y	y	CCONJ	_	_	14	cc	_	_
-14	abierto	abierto	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	9	conj	_	_
+14	abierto	abrir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	9	conj	_	_
 15	juicio	juicio	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
 16	oral	oral	ADJ	_	Number=Sing	15	amod	_	_
 17	contra	contra	ADP	_	_	19	case	_	_
