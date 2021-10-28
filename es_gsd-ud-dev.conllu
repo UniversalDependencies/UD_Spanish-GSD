@@ -6,7 +6,7 @@
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 5	nuevas	nuevo	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
 6	corrientes	corriente	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
-7	aprendidas	aprendido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	6	acl	_	_
+7	aprendidas	aprender	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	6	acl	_	_
 8	en	en	ADP	_	_	9	case	_	_
 9	Apulia	apulia	PROPN	_	_	7	obl	_	_
 10	sobre	sobre	ADP	_	_	11	case	_	_
