@@ -306,15 +306,15 @@
 35	.	.	PUNCT	_	_	8	punct	_	_
 
 # sent_id = es-dev-001-s13
-# text = Lite - Brite permite que el artista cree dibujos iluminados usando estanquillas multicolores de plástico en un tablero negro.
-1	Lite	lite	PROPN	_	_	4	nsubj	_	_
-2	-	-	PUNCT	_	_	1	punct	_	_
+# text = Lite-Brite permite que el artista cree dibujos iluminados usando estanquillas multicolores de plástico en un tablero negro.
+1	Lite	lite	PROPN	_	_	4	nsubj	_	SpaceAfter=No
+2	-	-	PUNCT	_	_	1	punct	_	SpaceAfter=No
 3	Brite	brite	PROPN	_	_	1	flat	_	_
 4	permite	permitir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	_	_	8	mark	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	artista	artista	NOUN	_	Number=Sing	8	nsubj	_	_
-8	cree	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+8	cree	crear	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 9	dibujos	dibujo	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
 10	iluminados	iluminado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	9	amod	_	_
 11	usando	usar	VERB	_	VerbForm=Ger	8	xcomp	_	_
@@ -1600,7 +1600,7 @@
 17	Liberal	liberal	PROPN	_	Number=Sing	16	amod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	11	punct	_	_
 19	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	iobj	_	_
-20	crea	creer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
+20	crea	crear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	parataxis	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	red	red	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
 23	con	con	ADP	_	_	25	case	_	_
@@ -20911,10 +20911,10 @@
 12	ordenador	ordenador	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	3	punct	_	_
 14	mejor	mejor	ADV	_	_	15	advmod	_	_
-15	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+15	ve	ir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
 17-19	compratelo	_	_	_	_	_	_	_	_
-17	compra	compro	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
+17	compra	compro	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	15	conj	_	_
 18	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	17	iobj	_	_
 19	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	obj	_	_
 20	en	en	ADP	_	_	22	case	_	_
