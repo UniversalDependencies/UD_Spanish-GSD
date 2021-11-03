@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit ca3b862e9e2871c76cd91bf78ffb089c0c60184d
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 6 20:16:19 2021 +0200
+Date:   Tue Nov 2 22:17:19 2021 +0100
 Evaluating the following revision of UD_Spanish-GSD:
-commit 3ebb9edd60700dad21e9705ad0bba14248a39bb5
+commit b0b40e2c8d5cb2b943fbd298958b93287f90fe83
+Merge: f5e44c7 e8d1283
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 11 20:16:03 2020 +0100
 Size: counted 431587 of 431587 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.1349382248968.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -20,8 +20,8 @@ Features: source of annotation (from README) factor is 0.4.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL       4732
-Udapi: found 4732 bugs.
+               TOTAL       4731
+Udapi: found 4731 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 431587 words.
 Genres: found 4 out of 17 known.
 validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-dev.conllu
@@ -78,8 +78,8 @@ validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-train.conllu
 [Line 156126 Sent es-train-011-s162 Node 3]: [L5 Morpho aux-lemma] 'volver' is not an auxiliary verb in language [es]
 ...suppressing further errors regarding Morpho
 Morpho errors: 25
-Syntax errors: 3689
-*** FAILED *** with 3714 errors
+Syntax errors: 3688
+*** FAILED *** with 3713 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
@@ -88,8 +88,8 @@ Validity: 0.01
 (weight=0.256410256410256) * (score{size}=0.878356118218257) = 0.225219517491861
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.89035814331757) = 0.273956351790021
+(weight=0.307692307692308) * (score{udapi}=0.890381313616953) = 0.273963481112909
 (weight=0.0769230769230769) * (score{udeprels}=0.627027027027027) = 0.0482328482328482
-(TOTAL score=0.739867239385017) * (availability=1) * (validity=0.01) = 0.00739867239385017
+(TOTAL score=0.739874368707904) * (availability=1) * (validity=0.01) = 0.00739874368707904
 STARS = 0
-UD_Spanish-GSD	0.00739867239385017	0
+UD_Spanish-GSD	0.00739874368707904	0
