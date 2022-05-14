@@ -3834,7 +3834,7 @@
 
 # sent_id = es-dev-004-s42
 # text = No obstante, por el capricho de sus patrones, el tuvo que trabajar también con materiales más convencionales.
-1	No	no	ADV	_	_	14	cc	_	_
+1	No	no	ADV	_	_	12	cc	_	_
 2	obstante	obstante	ADJ	_	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	6	punct	_	_
 4	por	por	ADP	_	_	6	case	_	_
@@ -3844,16 +3844,16 @@
 8	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	patrones	patrón	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	_
-11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	nsubj	_	_
-12	tuvo	tener	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	14	aux	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nsubj	_	_
+12	tuvo	tener	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
 13	que	que	CCONJ	_	_	14	mark	_	_
-14	trabajar	trabajar	VERB	_	VerbForm=Inf	0	root	_	_
-15	también	también	ADV	_	_	14	advmod	_	_
+14	trabajar	trabajar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+15	también	también	ADV	_	_	12	advmod	_	_
 16	con	con	ADP	_	_	17	case	_	_
 17	materiales	material	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	_
 18	más	más	ADV	_	Degree=Cmp	19	advmod	_	_
 19	convencionales	convencional	ADJ	_	Number=Plur	17	amod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	14	punct	_	_
+20	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = es-dev-004-s43
 # text = Se le condenó a cadena perpetua.
@@ -4406,10 +4406,10 @@
 # sent_id = es-dev-004-s64
 # text = Lo que tenéis que hacer es pagar a la gente y no engañar tanto.
 1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	0	root	_	_
-2	que	que	SCONJ	_	_	5	mark	_	_
-3	tenéis	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	que	que	CCONJ	_	_	3	fixed	_	_
-5	hacer	hacer	VERB	_	VerbForm=Inf	1	acl:relcl	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	tenéis	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+4	que	que	CCONJ	_	_	5	mark	_	_
+5	hacer	hacer	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
 7	pagar	pagar	VERB	_	VerbForm=Inf	1	csubj	_	_
 8	a	a	ADP	_	_	10	case	_	_
@@ -4777,7 +4777,7 @@
 # sent_id = es-test-001-s7
 # text = Para disfrutar de Fast & Go, estos dos colectivos tendrán que contratar el servicio en su reserva y presentar el libro de familia u otro documento acreditativo con el fin de cancelar el coste del servicio en el momento de la recogida del vehículo.
 1	Para	para	ADP	_	_	2	mark	_	_
-2	disfrutar	disfrutar	VERB	_	VerbForm=Inf	13	advcl	_	_
+2	disfrutar	disfrutar	VERB	_	VerbForm=Inf	11	advcl	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Fast	fast	PROPN	_	_	2	obl	_	_
 5	&	&	CCONJ	_	_	6	cc	_	_
@@ -4785,10 +4785,10 @@
 7	,	,	PUNCT	_	_	2	punct	_	_
 8	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	10	det	_	_
 9	dos	dos	NUM	_	Number=Plur|NumType=Card	10	nummod	_	_
-10	colectivos	colectivo	NOUN	_	Gender=Masc|Number=Plur	13	nsubj	_	_
-11	tendrán	tener	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	13	aux	_	_
-12	que	que	CCONJ	_	_	11	fixed	_	_
-13	contratar	contratar	VERB	_	VerbForm=Inf	0	root	_	_
+10	colectivos	colectivo	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
+11	tendrán	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+12	que	que	CCONJ	_	_	13	mark	_	_
+13	contratar	contratar	VERB	_	VerbForm=Inf	11	xcomp	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
 16	en	en	ADP	_	_	18	case	_	_
@@ -4825,7 +4825,7 @@
 45	de	de	ADP	_	_	47	case	_	_
 46	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
 47	vehículo	vehículo	NOUN	_	Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
-48	.	.	PUNCT	_	_	13	punct	_	_
+48	.	.	PUNCT	_	_	11	punct	_	_
 
 # sent_id = es-test-001-s8
 # text = Empezamos a hablar más de compartir música que de piratearla, y comenzamos a decir que descargamos música gratuita en vez de manera ilegal.
@@ -5946,14 +5946,14 @@
 # sent_id = es-test-001-s41
 # text = "Si tengo que dejar el FC Barcelona, volveré al Arsenal, al menos eso me gustaría.
 1	"	"	PUNCT	_	_	10	punct	_	SpaceAfter=No
-2	Si	si	SCONJ	_	_	5	mark	_	_
-3	tengo	tener	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	que	que	CCONJ	_	_	3	fixed	_	_
-5	dejar	dejar	VERB	_	VerbForm=Inf	10	advcl	_	_
+2	Si	si	SCONJ	_	_	3	mark	_	_
+3	tengo	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	que	que	CCONJ	_	_	5	mark	_	_
+5	dejar	dejar	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	FC	fc	PROPN	_	Gender=Masc|Number=Sing	5	obj	_	_
 8	Barcelona	barcelona	PROPN	_	_	7	flat	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	5	punct	_	_
+9	,	,	PUNCT	_	_	3	punct	_	_
 10	volveré	volver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 11-12	al	_	_	_	_	_	_	_	_
 11	a	a	ADP	_	_	13	case	_	_
@@ -6531,12 +6531,12 @@
 5	rendi	rendi	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
 6	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	5	iobj	_	_
 7	,	,	PUNCT	_	_	1	punct	_	_
-8	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
 9	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	12	iobj	_	_
-10	va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
-11	a	a	ADP	_	_	10	fixed	_	_
-12	pasar	pasar	VERB	_	VerbForm=Inf	1	parataxis	_	_
-13	nada	nada	PRON	_	Number=Sing|PronType=Neg	12	nsubj	_	SpaceAfter=No
+10	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+11	a	a	ADP	_	_	12	mark	_	_
+12	pasar	pasar	VERB	_	VerbForm=Inf	10	xcomp	_	_
+13	nada	nada	PRON	_	Number=Sing|PronType=Neg	10	nsubj	_	SpaceAfter=No
 14	...	...	PUNCT	_	_	1	punct	_	_
 15	con	con	ADP	_	_	16	case	_	_
 16	vos	tú	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	18	obl	_	_
@@ -8741,17 +8741,17 @@
 21	y	y	CCONJ	_	_	23	cc	_	_
 22	Sócrates	sócrates	PROPN	_	_	23	nsubj	_	_
 23	considera	considerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
-24	que	que	SCONJ	_	_	32	mark	_	SpaceAfter=No
+24	que	que	SCONJ	_	_	30	mark	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	27	punct	_	_
 26	con	con	ADP	_	_	27	case	_	_
 27	ellas	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	32	obl	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	27	punct	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	iobj	_	_
-30	va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
-31	a	a	ADP	_	_	30	fixed	_	_
-32	cumplir	cumplir	VERB	_	VerbForm=Inf	23	ccomp	_	_
+30	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	ccomp	_	_
+31	a	a	ADP	_	_	32	mark	_	_
+32	cumplir	cumplir	VERB	_	VerbForm=Inf	30	xcomp	_	_
 33	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	32	nsubj	_	_
+34	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	_
 35	de	de	ADP	_	_	36	mark	_	_
 36	bajar	bajar	VERB	_	VerbForm=Inf	34	advcl	_	_
 37	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	38	det	_	_
@@ -9083,10 +9083,10 @@
 26	que	que	SCONJ	_	_	28	mark	_	_
 27	"	"	PUNCT	_	_	28	punct	_	SpaceAfter=No
 28	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	ccomp	_	_
-29	que	que	SCONJ	_	_	32	mark	_	_
-30	tiene	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	aux	_	_
-31	que	que	CCONJ	_	_	30	fixed	_	_
-32	hacer	hacer	VERB	_	VerbForm=Inf	28	acl:relcl	_	_
+29	que	que	SCONJ	_	_	30	mark	_	_
+30	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
+31	que	que	CCONJ	_	_	32	mark	_	_
+32	hacer	hacer	VERB	_	VerbForm=Inf	30	xcomp	_	_
 33	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
 34	no	no	ADV	_	Polarity=Neg	35	advmod	_	_
 35	ofender	ofender	VERB	_	VerbForm=Inf	28	csubj	_	_
@@ -12047,11 +12047,11 @@
 53	queja	queja	NOUN	_	Gender=Fem|Number=Sing	52	obj	_	_
 54	de	de	ADP	_	_	55	case	_	_
 55	nada	nada	PRON	_	Number=Sing|PronType=Neg	53	nmod	_	SpaceAfter=No
-56	,	,	PUNCT	_	_	60	punct	_	_
-57	tampoco	tampoco	ADV	_	Polarity=Neg	60	advmod	_	_
-58	voy	ir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	60	aux	_	_
-59	a	a	ADP	_	_	58	fixed	_	_
-60	decir	decir	VERB	_	VerbForm=Inf	47	parataxis	_	_
+56	,	,	PUNCT	_	_	58	punct	_	_
+57	tampoco	tampoco	ADV	_	Polarity=Neg	58	advmod	_	_
+58	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	47	parataxis	_	_
+59	a	a	ADP	_	_	60	mark	_	_
+60	decir	decir	VERB	_	VerbForm=Inf	58	xcomp	_	_
 61	que	que	SCONJ	_	_	63	mark	_	_
 62	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	63	aux	_	_
 63	nacido	nacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	60	ccomp	_	_

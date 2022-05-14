@@ -3788,35 +3788,35 @@
 9	familia	familia	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	3	punct	_	_
 11	sí	sí	SCONJ	_	_	12	mark	_	_
-12	vienes	vién	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	advcl	_	_
+12	vienes	vién	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 13	con	con	ADP	_	_	14	case	_	_
 14	niños	niño	NOUN	_	Gender=Masc|Number=Plur	12	obl	_	_
 15	pequeños	pequeño	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	iobj	_	_
 17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
-18	van	ir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
-19	a	a	ADP	_	_	18	fixed	_	_
-20	pasar	pasar	VERB	_	VerbForm=Inf	3	parataxis	_	_
+18	van	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
+19	a	a	ADP	_	_	20	mark	_	_
+20	pasar	pasar	VERB	_	VerbForm=Inf	18	xcomp	_	_
 21	a	a	ADP	_	_	22	case	_	_
 22	tope	tope	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = es-dev-001-s135
 # text = "Tenemos que apelar a los Estados miembros para que ofrezcan ayuda económica.
-1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Tenemos	tener	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	que	que	CCONJ	_	_	2	fixed	_	_
-4	apelar	apelar	VERB	_	VerbForm=Inf	0	root	_	_
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	que	que	CCONJ	_	_	4	mark	_	_
+4	apelar	apelar	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	a	a	ADP	_	_	7	case	_	_
 6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	Estados	estado	NOUN	_	_	4	obj	_	_
 8	miembros	miembro	NOUN	_	Gender=Masc|Number=Plur	7	appos	_	_
 9	para	para	ADP	_	_	11	case	_	_
 10	que	que	SCONJ	_	_	11	mark	_	_
-11	ofrezcan	ofrecer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+11	ofrezcan	ofrecer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 12	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
 13	económica	económico	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = es-dev-001-s136
 # text = Se han descrito las siguientes subespecies:
@@ -9838,10 +9838,10 @@
 
 # sent_id = es-dev-001-s339
 # text = "Va a volver a ser una mujer normal, creando un precedente para millones de mujeres pobres y maltratadas en Pakistan", remarcó el doctor Syed.
-1	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
-2	Va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	a	a	ADP	_	_	2	fixed	_	_
-4	volver	volver	VERB	_	VerbForm=Inf	25	ccomp	_	_
+1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
+2	Va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	ccomp	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	volver	volver	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	a	a	ADP	_	_	4	fixed	_	_
 6	ser	ser	AUX	_	VerbForm=Inf	8	cop	_	_
 7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -9860,7 +9860,7 @@
 20	maltratadas	maltratado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	18	conj	_	_
 21	en	en	ADP	_	_	22	case	_	_
 22	Pakistan	pakistan	PROPN	_	_	17	nmod	_	SpaceAfter=No
-23	"	"	PUNCT	_	_	4	punct	_	SpaceAfter=No
+23	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	25	punct	_	_
 25	remarcó	remarcar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
@@ -14179,14 +14179,14 @@
 43	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	45	aux	_	_
 44	absolutamente	absolutamente	ADV	_	_	45	advmod	_	_
 45	convencida	convencido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	40	ccomp	_	_
-46	que	que	PRON	_	PronType=Int,Rel	53	mark	_	_
+46	que	que	PRON	_	PronType=Int,Rel	51	mark	_	_
 47	en	en	ADP	_	_	49	case	_	_
 48	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	_
 49	Argentina	argentina	PROPN	_	_	53	obl	_	_
-50	no	no	ADV	_	Polarity=Neg	53	advmod	_	_
-51	vamos	ir	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	53	aux	_	_
-52	a	a	ADP	_	_	51	fixed	_	_
-53	permitir	permitir	VERB	_	VerbForm=Inf	45	ccomp	_	_
+50	no	no	ADV	_	Polarity=Neg	51	advmod	_	_
+51	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	45	ccomp	_	_
+52	a	a	ADP	_	_	53	mark	_	_
+53	permitir	permitir	VERB	_	VerbForm=Inf	51	xcomp	_	_
 54	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	55	det	_	_
 55	constitución	constitución	NOUN	_	Gender=Fem|Number=Sing	53	obj	_	_
 56	de	de	ADP	_	_	58	case	_	_
@@ -17604,11 +17604,11 @@
 2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	comercio	comercio	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+5	comercio	comercio	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	fenicio	fenicio	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
-7	va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+7	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	a	a	ADP	_	_	9	mark	_	_
-9	preferir	preferir	VERB	_	VerbForm=Inf	0	root	_	_
+9	preferir	preferir	VERB	_	VerbForm=Inf	7	xcomp	_	_
 10	utilizar	utilizar	VERB	_	VerbForm=Inf	9	xcomp	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	ruta	ruta	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
@@ -17617,7 +17617,7 @@
 15	través	través	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	Gibraltar	gibraltar	PROPN	_	_	15	nmod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	9	punct	_	_
+18	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = es-dev-002-s99
 # text = Por lo tanto resulta no un triángulo de amor sino un rectángulo que se compone de Feliciano, Dominica, María Juana y José.
@@ -19122,22 +19122,22 @@
 
 # sent_id = es-dev-002-s152
 # text = Además, si la luz tiene una velocidad finita, ésta tenía que ser inmensa.
-1	Además	además	ADV	_	_	15	advmod	_	SpaceAfter=No
-2	,	,	PUNCT	_	_	15	punct	_	_
+1	Además	además	ADV	_	_	12	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	12	punct	_	_
 3	si	si	SCONJ	_	_	6	mark	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	luz	luz	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
-6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
+6	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	velocidad	velocidad	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
 9	finita	finito	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	6	punct	_	_
-11	ésta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	15	nsubj	_	_
-12	tenía	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
+11	ésta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	12	nsubj	_	_
+12	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 13	que	que	CCONJ	_	_	14	mark	_	_
-14	ser	ser	AUX	_	VerbForm=Inf	15	cop	_	_
-15	inmensa	inmenso	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	15	punct	_	_
+14	ser	ser	AUX	_	VerbForm=Inf	12	cop	_	_
+15	inmensa	inmenso	ADJ	_	Number=Sing	12	xcomp	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = es-dev-002-s153
 # text = Las precipitaciones tanto invernales como en la primavera permanecen como nieve a mas de 4,500 msnm, y por solo semanas debido al templado clima del extenso valle al pie del mismo.
@@ -19858,16 +19858,16 @@
 # text = Es probable que el fichaje del entrenador tenga que esperar según El Correo, pero suena bien que lo entrene un míster que no haya pertenecido a la historia del Athletic en toda su vida.
 1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 2	probable	probable	ADJ	_	Number=Sing	0	root	_	_
-3	que	que	SCONJ	_	_	11	mark	_	_
+3	que	que	SCONJ	_	_	9	mark	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	fichaje	fichaje	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
+5	fichaje	fichaje	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
 6-7	del	_	_	_	_	_	_	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	entrenador	entrenador	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
-9	tenga	tener	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
-10	que	que	CCONJ	_	_	9	fixed	_	_
-11	esperar	esperar	VERB	_	VerbForm=Inf	2	csubj	_	_
+9	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
+10	que	que	CCONJ	_	_	11	mark	_	_
+11	esperar	esperar	VERB	_	VerbForm=Inf	9	xcomp	_	_
 12	según	según	ADP	_	_	14	case	_	_
 13	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	Correo	correo	PROPN	_	_	11	obl	_	SpaceAfter=No
@@ -21391,7 +21391,7 @@
 1	Después	después	ADV	_	_	4	mark	_	_
 2	que	que	SCONJ	_	_	1	fixed	_	_
 3	B.B.	b.b.	X	_	_	4	nsubj	_	_
-4	va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+4	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 5	a	a	ADP	_	_	7	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	cama	cama	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
@@ -21614,18 +21614,18 @@
 20	)	)	PUNCT	_	_	13	punct	_	_
 21	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
 22	informado	informar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	60	ccomp	_	_
-23	de	de	ADP	_	_	29	mark	_	_
-24	que	que	SCONJ	_	_	29	mark	_	_
-25	"	"	PUNCT	_	_	29	punct	_	SpaceAfter=No
+23	de	de	ADP	_	_	27	mark	_	_
+24	que	que	SCONJ	_	_	27	mark	_	_
+25	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
 26	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	iobj	_	_
-27	va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	aux	_	_
-28	a	a	ADP	_	_	27	fixed	_	_
-29	tomar	tomar	VERB	_	VerbForm=Inf	22	advcl	_	_
+27	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	_
+28	a	a	ADP	_	_	29	mark	_	_
+29	tomar	tomar	VERB	_	VerbForm=Inf	27	xcomp	_	_
 30	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	29	obj	_	SpaceAfter=No
-32	"	"	PUNCT	_	_	29	punct	_	_
+32	"	"	PUNCT	_	_	27	punct	_	_
 33	para	para	SCONJ	_	_	34	mark	_	_
-34	analizar	analizar	VERB	_	VerbForm=Inf	29	advcl	_	_
+34	analizar	analizar	VERB	_	VerbForm=Inf	27	advcl	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	oferta	oferta	NOUN	_	Gender=Fem|Number=Sing	34	obj	_	_
 37	de	de	ADP	_	_	38	case	_	_
@@ -21635,7 +21635,7 @@
 41	morosos	moroso	ADJ	_	Gender=Masc|Number=Plur	40	amod	_	_
 42	de	de	ADP	_	_	43	case	_	_
 43	Argentina	argentina	PROPN	_	_	36	nmod	_	SpaceAfter=No
-44	,	,	PUNCT	_	_	29	punct	_	_
+44	,	,	PUNCT	_	_	27	punct	_	_
 45	con	con	ADP	_	_	47	case	_	_
 46	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	47	det	_	_
 47	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	52	obl	_	_
@@ -21643,7 +21643,7 @@
 49	país	país	NOUN	_	Gender=Masc|Number=Sing	52	nsubj	_	_
 50	"	"	PUNCT	_	_	52	punct	_	SpaceAfter=No
 51	podrá	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	52	aux	_	_
-52	salir	salir	VERB	_	VerbForm=Inf	29	parataxis	_	_
+52	salir	salir	VERB	_	VerbForm=Inf	27	parataxis	_	_
 53	adelante	adelante	ADV	_	_	52	advmod	_	_
 54	de	de	ADP	_	_	56	case	_	_
 55	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	56	det	_	_
@@ -23588,13 +23588,13 @@
 35	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 36	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	37	amod	_	_
 37	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	_
-38	que	que	SCONJ	_	_	42	mark	_	_
+38	que	que	SCONJ	_	_	40	mark	_	_
 39	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	42	obj	_	_
-40	iba	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	42	aux	_	_
-41	a	a	ADP	_	_	40	fixed	_	_
-42	hacer	hacer	VERB	_	VerbForm=Inf	37	acl:relcl	_	_
+40	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	37	acl:relcl	_	_
+41	a	a	ADP	_	_	42	mark	_	_
+42	hacer	hacer	VERB	_	VerbForm=Inf	40	xcomp	_	_
 43	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	44	det	_	_
-44	vehículo	vehículo	NOUN	_	Gender=Masc|Number=Sing	42	nsubj	_	SpaceAfter=No
+44	vehículo	vehículo	NOUN	_	Gender=Masc|Number=Sing	40	nsubj	_	SpaceAfter=No
 45	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = es-dev-002-s292
@@ -24656,17 +24656,17 @@
 18	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
 19	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	28	obl	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	patriarca	patriarca	NOUN	_	Gender=Masc|Number=Sing	28	nsubj	_	_
+21	patriarca	patriarca	NOUN	_	Gender=Masc|Number=Sing	27	nsubj	_	_
 22	de	de	ADP	_	_	23	case	_	_
 23	Turnovó	turnovó	PROPN	_	_	21	nmod	_	_
 24	y	y	CCONJ	_	_	26	cc	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	Papa	papa	PROPN	_	_	21	conj	_	_
-27	tuvieron	tener	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	28	aux	_	_
+27	tuvieron	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 28-29	aprobarlo	_	_	_	_	_	_	_	_
-28	aprobar	aprobar	VERB	_	VerbForm=Inf	4	parataxis	_	_
+28	aprobar	aprobar	VERB	_	VerbForm=Inf	27	xcomp	_	_
 29	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	28	obj	_	_
-30	conjuntamente	conjuntamente	ADV	_	_	28	advmod	_	SpaceAfter=No
+30	conjuntamente	conjuntamente	ADV	_	_	27	advmod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = es-dev-002-s328
@@ -25117,9 +25117,9 @@
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	det	_	_
 21	que	que	PRON	_	PronType=Int,Rel	25	obl	_	_
 22	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	iobj	_	_
-23	tuvo	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux	_	_
-24	que	que	CCONJ	_	_	23	fixed	_	_
-25	volver	volver	VERB	_	VerbForm=Inf	9	parataxis	_	_
+23	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	_	_
+24	que	que	CCONJ	_	_	25	mark	_	_
+25	volver	volver	VERB	_	VerbForm=Inf	23	xcomp	_	_
 26	a	a	ADP	_	_	25	fixed	_	_
 27	citar	citar	VERB	_	VerbForm=Inf	25	xcomp	_	_
 28	a	a	ADP	_	_	30	case	_	_
@@ -27402,15 +27402,15 @@
 # text = El tema, que va acompañado de un vídeo documental, es la canción favorita del nuevo álbum del frontman de la banda, Orlando Weeks, según ha indicado al semanario británico.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	tema	tema	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	SpaceAfter=No
-3	,	,	PUNCT	_	_	6	punct	_	_
-4	que	que	SCONJ	_	_	6	mark	_	_
-5	va	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
-6	acompañado	acompañar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl:relcl	_	_
+3	,	,	PUNCT	_	_	5	punct	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+6	acompañado	acompañar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	xcomp	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	vídeo	vídeo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 10	documental	documental	ADJ	_	Number=Sing	9	amod	_	SpaceAfter=No
-11	,	,	PUNCT	_	_	6	punct	_	_
+11	,	,	PUNCT	_	_	5	punct	_	_
 12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	canción	canción	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -28593,13 +28593,13 @@
 7	absoluta	absoluto	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 8	parlamentaria	parlamentario	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 9	y	y	CCONJ	_	_	4	cc	_	_
-10	tendría	tener	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	12	aux	_	_
+10	tendría	tener	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	ccomp	_	_
 11	que	que	CCONJ	_	_	12	mark	_	_
 12-13	formarse	_	_	_	_	_	_	_	_
-12	formar	formar	VERB	_	VerbForm=Inf	4	ccomp	_	_
+12	formar	formar	VERB	_	VerbForm=Inf	10	xcomp	_	_
 13	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	iobj	_	_
 14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
-15	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+15	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	coalición	coalición	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	4	punct	_	_
@@ -29459,15 +29459,15 @@
 9	de	de	ADP	_	_	10	case	_	_
 10	voluntarios	voluntario	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	8	punct	_	_
-12	tuvo	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
+12	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	que	que	CCONJ	_	_	14	mark	_	_
-14	recurrir	recurrir	VERB	_	VerbForm=Inf	0	root	_	_
+14	recurrir	recurrir	VERB	_	VerbForm=Inf	12	xcomp	_	_
 15-16	al	_	_	_	_	_	_	_	_
 15	a	a	ADP	_	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	reclutamiento	reclutamiento	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
 18	forzoso	forzoso	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
-19	.	.	PUNCT	_	_	14	punct	_	_
+19	.	.	PUNCT	_	_	12	punct	_	_
 
 # sent_id = es-dev-002-s482
 # text = El Palacio Municipal con un justo equilibrio hace contraste en otra de sus esquinas.
@@ -29545,10 +29545,10 @@
 
 # sent_id = es-dev-002-s484
 # text = Gieco tuvo que cambiar la letra de seis canciones y eliminar otras tres.
-1	Gieco	gieco	PROPN	_	_	4	nsubj	_	_
-2	tuvo	tener	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+1	Gieco	gieco	PROPN	_	_	2	nsubj	_	_
+2	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	que	que	CCONJ	_	_	4	mark	_	_
-4	cambiar	cambiar	VERB	_	VerbForm=Inf	0	root	_	_
+4	cambiar	cambiar	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	letra	letra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	de	de	ADP	_	_	9	case	_	_
@@ -29558,7 +29558,7 @@
 11	eliminar	eliminar	VERB	_	VerbForm=Inf	4	conj	_	_
 12	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	13	det	_	_
 13	tres	tres	NUM	_	Number=Plur|NumType=Card	11	obj	_	SpaceAfter=No
-14	.	.	PUNCT	_	_	4	punct	_	_
+14	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = es-dev-002-s485
 # text = El CPE (Equipo Local del Cliente) es un equipo de telecomunicaciones usado tanto en interiores como en exteriores para originar, encaminar o terminar una comunicación.
@@ -32612,13 +32612,13 @@
 
 # sent_id = es-dev-003-s93
 # text = Además no tienes que pagar matriculas.
-1	Además	además	ADV	_	_	5	advmod	_	_
-2	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
-3	tienes	tener	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	que	que	CCONJ	_	_	3	fixed	_	_
-5	pagar	pagar	VERB	_	VerbForm=Inf	0	root	_	_
+1	Además	además	ADV	_	_	3	advmod	_	_
+2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
+3	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	que	que	CCONJ	_	_	5	mark	_	_
+5	pagar	pagar	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	matriculas	matricula	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
-7	.	.	PUNCT	_	_	5	punct	_	_
+7	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = es-dev-003-s94
 # text = Lo mismo ocurre debido a agitaciones del vehículo en movimiento.
@@ -33362,7 +33362,7 @@
 16	N	n	X	_	_	15	appos	_	SpaceAfter=No
 17	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
 18	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
-19	,	,	PUNCT	_	_	10	punct	_	_
+19	,	,	PUNCT	_	_	22	punct	_	_
 20	que	que	SCONJ	_	_	22	mark	_	_
 21	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	_	_
 22	vinculado	vinculado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	acl:relcl	_	_
@@ -39901,9 +39901,9 @@
 21	dispositivos	dispositivo	NOUN	_	Gender=Masc|Number=Plur	18	obj	_	_
 22	de	de	ADP	_	_	23	case	_	_
 23	hardware	hardware	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
-24	que	que	PRON	_	PronType=Int,Rel	26	nsubj:pass	_	_
-25	vayan	ir	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	aux:pass	_	_
-26	compilados	compilar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	21	acl:relcl	_	_
+24	que	que	PRON	_	PronType=Int,Rel	25	nsubj:pass	_	_
+25	vayan	ir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
+26	compilados	compilar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	25	xcomp	_	_
 27	dentro	dentro	ADV	_	_	30	case	_	_
 28-29	del	_	_	_	_	_	_	_	_
 28	de	de	ADP	_	_	27	fixed	_	_
