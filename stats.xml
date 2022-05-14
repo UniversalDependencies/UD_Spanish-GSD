@@ -5,24 +5,24 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>16013</sentences><tokens>423346</tokens><words>431587</words><fused>8219</fused></total>
-    <train><sentences>14187</sentences><tokens>375149</tokens><words>382436</words><fused>7267</fused></train>
+    <total><sentences>16013</sentences><tokens>423344</tokens><words>431585</words><fused>8219</fused></total>
+    <train><sentences>14187</sentences><tokens>375147</tokens><words>382434</words><fused>7267</fused></train>
     <dev><sentences>1400</sentences><tokens>36464</tokens><words>37151</words><fused>685</fused></dev>
     <test><sentences>426</sentences><tokens>11733</tokens><words>12000</words><fused>267</fused></test>
   </size>
-  <lemmas unique="35509" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
-  <forms unique="45580" /><!-- de, ,, el, ., la, en, y, a, que, los, se, un, por, con, una -->
+  <lemmas unique="35508" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
+  <forms unique="45579" /><!-- de, ,, el, ., la, en, y, a, que, los, se, un, por, con, una -->
   <fusions unique="856" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">24896</tag><!-- primero, nuevo, mismo, gran, mayor, buen, principal, segundo, último, mejor -->
     <tag name="ADP">71076</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
     <tag name="ADV">12488</tag><!-- no, más, también, mucho, donde, ya, además, así, después, sólo -->
-    <tag name="AUX">11006</tag><!-- ser, haber, poder, estar, deber, ir, tener, corresponder, querer, volver -->
+    <tag name="AUX">10754</tag><!-- ser, haber, poder, estar, deber, corresponder, querer, volver, soler, venir -->
     <tag name="CCONJ">13822</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
     <tag name="DET">60857</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">38</tag><!-- sí, él -->
-    <tag name="NOUN">77530</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, país -->
+    <tag name="NOUN">77532</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, país -->
     <tag name="NUM">11017</tag><!-- dos, 2010, tres, 0, 3, cuatro, 1, 6, 2, 10 -->
     <tag name="PART">35</tag><!-- hola, ex, re, co, ir, l, abandono, adio, ficha, gram -->
     <tag name="PRON">14036</tag><!-- él, que, yo, uno, este, cual, tú, todo, quien, otro -->
@@ -30,8 +30,8 @@
     <tag name="PUNCT">47525</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
     <tag name="SCONJ">8101</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1652</tag><!-- %, ², km, $, º, °, a, €, m, ª -->
-    <tag name="VERB">36028</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, conocer -->
-    <tag name="X">1985</tag><!-- ex, hab, 's, etc., ya, c, ², x, d, i -->
+    <tag name="VERB">36280</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
+    <tag name="X">1981</tag><!-- ex, hab, 's, etc., ya, c, ², x, d, i -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="46">
@@ -46,7 +46,7 @@
     <feat name="Degree" value="Abs" upos="ADJ,DET,PRON">42</feat><!-- muchísimo, buenísimas, Santísima, muchisimo, muchísimas, aceleradísimo, altísima, altísimo, bellísima, buenísima -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,PRON">2052</feat><!-- más, mayor, menos, mejor, mejores, menor, mayores, menores, peor, peores -->
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
-    <feat name="Foreign" value="Yes" upos="PROPN,X">69</feat><!-- μm, 天下第一, TΔS, secondez, ː, Γαρμπή, Γρηγορᾶς, ΔG, ΔH, ΖΒΖ -->
+    <feat name="Foreign" value="Yes" upos="NOUN,PROPN,X">70</feat><!-- μm, 天下第一, TΔS, nɔrsk, nɔʂːk, secondez, Γαρμπή, Γρηγορᾶς, ΔG, ΔH -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">68249</feat><!-- la, una, las, esta, parte, población, ciudad, personas, primera, familia -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">90193</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">592</feat><!-- sería, podría, habría, podrían, tendría, serían, debería, gustaría, estaría, haría -->
@@ -54,7 +54,7 @@
     <feat name="Mood" value="Ind" upos="AUX,VERB">28058</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">1220</feat><!-- sea, haya, sean, tenga, pueda, puedan, fuese, fuera, hubiera, crea -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">53210</feat><!-- los, las, sus, son, dos, años, eran, han, personas, otros -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157321</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157320</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
     <feat name="NumType" value="Card" upos="DET,NUM,PRON">11964</feat><!-- dos, 2010, tres, 0, tanto, cuatro, 3, 1, 2, muchos -->
     <feat name="NumType" value="Ord" upos="ADJ">941</feat><!-- primera, primer, segundo, segunda, primeros, primeras, tercera, tercer, cuarto, cuarta -->
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB,X">2001</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->
@@ -89,10 +89,10 @@
     <dep name="advcl">7102</dep>
     <dep name="advmod">11349</dep>
     <dep name="amod">23010</dep>
-    <dep name="appos">8771</dep>
-    <dep name="aux">3616</dep>
-    <dep name="aux:pass">1850</dep>
-    <dep name="case">67199</dep>
+    <dep name="appos">8770</dep>
+    <dep name="aux">3367</dep>
+    <dep name="aux:pass">1849</dep>
+    <dep name="case">67195</dep>
     <dep name="cc">13233</dep>
     <dep name="ccomp">1589</dep>
     <dep name="compound">419</dep>
@@ -102,10 +102,10 @@
     <dep name="csubj:pass">7</dep>
     <dep name="dep">1197</dep>
     <dep name="det">61214</dep>
-    <dep name="fixed">2883</dep>
+    <dep name="fixed">2770</dep>
     <dep name="flat">7399</dep>
     <dep name="iobj">7464</dep>
-    <dep name="mark">11589</dep>
+    <dep name="mark">11706</dep>
     <dep name="nmod">39274</dep>
     <dep name="nsubj">15829</dep>
     <dep name="nsubj:pass">1182</dep>
@@ -114,8 +114,8 @@
     <dep name="obl">24897</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">1668</dep>
-    <dep name="punct">47565</dep>
+    <dep name="punct">47564</dep>
     <dep name="root">16013</dep>
-    <dep name="xcomp">2016</dep>
+    <dep name="xcomp">2266</dep>
   </deps>
 </treebank>
