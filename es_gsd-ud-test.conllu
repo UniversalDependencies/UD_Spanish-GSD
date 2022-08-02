@@ -421,14 +421,14 @@
 1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	organismo	organismo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	maneja	manejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	mas	más	ADV	_	_	6	advmod	_	CorrectForm=más
+4	mas	más	ADV	_	Typo=Yes	6	advmod	_	CorrectForm=más
 5	de	de	ADP	_	_	4	case	_	_
 6	cinco	cinco	NUM	_	Number=Plur|NumType=Card	7	nummod	_	_
 7	mil	mil	NUM	_	Number=Plur|NumType=Card	8	nummod	_	_
 8	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
 9	privadas	privado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	publicas	público	ADJ	_	Gender=Fem|Number=Plur	9	conj	_	CorrectForm=públicas
+11	publicas	público	ADJ	_	Gender=Fem|Number=Plur|Typo=Yes	9	conj	_	CorrectForm=públicas
 12	y	y	CCONJ	_	_	13	cc	_	_
 13	extranjeras	extranjero	ADJ	_	Gender=Fem|Number=Plur	9	conj	_	_
 14	en	en	ADP	_	_	16	case	_	_
@@ -436,7 +436,7 @@
 16	territorio	territorio	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 17	chino	chino	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_
-19	ademas	además	ADV	_	_	22	advmod	_	CorrectForm=además
+19	ademas	además	ADV	_	Typo=Yes	22	advmod	_	CorrectForm=además
 20	de	de	ADP	_	_	19	fixed	_	_
 21	que	que	SCONJ	_	_	22	mark	_	_
 22	realiza	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
@@ -444,7 +444,7 @@
 24	de	de	ADP	_	_	25	case	_	_
 25	mercados	mercado	NOUN	_	Gender=Masc|Number=Plur	23	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	27	punct	_	_
-27	deteccion	detección	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	CorrectForm=detección
+27	deteccion	detección	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	23	conj	_	CorrectForm=detección
 28	de	de	ADP	_	_	29	case	_	_
 29	nichos	nicho	NOUN	_	Gender=Masc|Number=Plur	27	nmod	_	_
 30	de	de	ADP	_	_	31	case	_	_
@@ -455,9 +455,9 @@
 35	relacionado	relacionar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	34	acl	_	_
 36	con	con	ADP	_	_	37	case	_	_
 37	productos	producto	NOUN	_	Gender=Masc|Number=Plur	35	obl	_	_
-38	carnicos	cárnico	ADJ	_	Gender=Masc|Number=Plur	37	amod	_	SpaceAfter=No|CorrectForm=cárnicos
+38	carnicos	cárnico	ADJ	_	Gender=Masc|Number=Plur|Typo=Yes	37	amod	_	CorrectForm=cárnicos|SpaceAfter=No
 39	,	,	PUNCT	_	_	40	punct	_	_
-40	agricolas	agrícola	ADJ	_	VerbForm=Ger	38	conj	_	CorrectForm=agrícolas
+40	agricolas	agrícola	ADJ	_	Typo=Yes|VerbForm=Ger	38	conj	_	CorrectForm=agrícolas
 41	y	y	CCONJ	_	_	42	cc	_	_
 42	pesqueros	pesquero	ADJ	_	Gender=Masc|Number=Plur	38	conj	_	SpaceAfter=No
 43	.	.	PUNCT	_	_	3	punct	_	_
@@ -943,11 +943,11 @@
 # text = Además se acuso a las burocracias medicas y el gobierno de encubrimiento.
 1	Además	además	ADV	_	_	3	advmod	_	_
 2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	iobj	_	_
-3	acuso	acusar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	CorrectForm=acusó
+3	acuso	acusar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=acusó
 4	a	a	ADP	_	_	6	case	_	_
 5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	burocracias	burocracia	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
-7	medicas	medico	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	CorrectForm=médicas
+7	medicas	médico	ADJ	_	Gender=Fem|Number=Plur|Typo=Yes	6	amod	_	CorrectForm=médicas
 8	y	y	CCONJ	_	_	10	cc	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
@@ -960,7 +960,7 @@
 1	En	en	ADP	_	_	3	case	_	_
 2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	taberna	taberna	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
-4	escribío	escribir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	CorrectForm=escribió
+4	escribío	escribir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=escribió
 5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	det	_	_
 6	encontrado	encontrado	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	4	obj	_	_
 7	y	y	CCONJ	_	_	9	cc	_	_
@@ -1206,7 +1206,7 @@
 1	Milio	milio	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	Rodríguez	rodríguez	PROPN	_	_	1	flat	_	_
 3	Cueto	cueto	PROPN	_	Gender=Masc|Number=Sing	1	flat	_	_
-4	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	CorrectForm=está
+4	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=está
 5	licenciado	licenciar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	4	advcl	_	_
 6	en	en	ADP	_	_	7	case	_	_
 7	Literatura	literatura	NOUN	_	_	5	obl	_	_
@@ -1598,7 +1598,7 @@
 1	Calvo	calvo	PROPN	_	_	5	nsubj	_	_
 2	-	-	PUNCT	_	_	1	punct	_	_
 3	Sotelo	sotelo	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	_
-4	solo	sólo	ADV	_	_	5	advmod	_	CorrectForm=sólo
+4	solo	sólo	ADV	_	Typo=Yes	5	advmod	_	CorrectForm=sólo
 5	consigue	conseguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
 7	diputado	diputado	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	5	xcomp	_	_
@@ -1612,7 +1612,7 @@
 # sent_id = es-dev-003-s472
 # text = Tan solo un jugador de los Bears ha llegado a jugar en la NBA, y sólamente lo hizo en 18 partidos, en 1990.
 1	Tan	tanto	ADV	_	_	2	advmod	_	_
-2	solo	sólo	ADV	_	_	9	advmod	_	CorrectForm=sólo
+2	solo	sólo	ADV	_	Typo=Yes	9	advmod	_	CorrectForm=sólo
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	jugador	jugador	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
 5	de	de	ADP	_	_	7	case	_	_
@@ -1944,7 +1944,7 @@
 20	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	21	nsubj	_	_
 21	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
-23	sarten	sartén	NOUN	_	Gender=Fem|Number=Sing	21	obj	_	CorrectForm=sartén
+23	sarten	sartén	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	21	obj	_	CorrectForm=sartén
 24	por	por	ADP	_	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	mango	mango	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
@@ -1962,7 +1962,7 @@
 38	que	que	SCONJ	_	_	39	mark	_	_
 39	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	acl:relcl	_	_
 40	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
-41	sarten	sartén	NOUN	_	Gender=Fem|Number=Sing	39	obj	_	CorrectForm=sartén
+41	sarten	sartén	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	39	obj	_	CorrectForm=sartén
 42	por	por	ADP	_	_	44	case	_	_
 43	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
 44	mango	mango	NOUN	_	Gender=Masc|Number=Sing	39	obl	_	SpaceAfter=No
@@ -4642,7 +4642,7 @@
 # text = Sin ir mas lejos, en Santa Cruz, prendieron fuego el auto de una periodista.
 1	Sin	sin	ADP	_	_	2	mark	_	_
 2	ir	ir	VERB	_	VerbForm=Inf	10	advcl	_	_
-3	mas	más	ADV	_	_	4	advmod	_	CorrectForm=más
+3	mas	más	ADV	_	Typo=Yes	4	advmod	_	CorrectForm=más
 4	lejos	lejos	ADV	_	_	2	advmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	en	en	ADP	_	_	8	case	_	_
@@ -4918,7 +4918,7 @@
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	club	club	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
 11	sevillista	sevillista	ADJ	_	Number=Sing	10	amod	_	_
-12	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	CorrectForm=está
+12	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	13	aux	_	CorrectForm=está
 13	peinando	peinar	VERB	_	VerbForm=Ger	7	ccomp	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	mercado	mercado	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
@@ -5228,8 +5228,8 @@
 # sent_id = es-test-001-s19
 # text = * Tambien podras encontrar nuestro material en Conciertos, Fiestas, Txarlas, Jornadas, etc.. en Euskal Herria.
 1	*	*	PUNCT	_	_	4	punct	_	_
-2	Tambien	también	ADV	_	_	4	advmod	_	CorrectForm=También
-3	podras	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	4	aux	_	CorrectForm=podrás
+2	Tambien	también	ADV	_	Typo=Yes	4	advmod	_	CorrectForm=También
+3	podras	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Typo=Yes|VerbForm=Fin	4	aux	_	CorrectForm=podrás
 4	encontrar	encontrar	VERB	_	VerbForm=Inf	0	root	_	_
 5	nuestro	nuestro	DET	_	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 6	material	material	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
@@ -5470,7 +5470,7 @@
 18	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
 19	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
 20	de	de	ADP	_	_	21	case	_	_
-21	escandalos	escándalo	NOUN	_	Gender=Masc|Number=Plur	19	nmod	_	CorrectForm=escándalos
+21	escandalos	escándalo	NOUN	_	Gender=Masc|Number=Plur|Typo=Yes	19	nmod	_	CorrectForm=escándalos
 22	y	y	CCONJ	_	_	23	cc	_	_
 23-24	unirse	_	_	_	_	_	_	_	_
 23	unir	unir	VERB	_	VerbForm=Inf	17	conj	_	_
@@ -5478,7 +5478,7 @@
 25-26	al	_	_	_	_	_	_	_	_
 25	a	a	ADP	_	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-27	circulo	circulo	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	CorrectForm=círculo
+27	circulo	círculo	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	23	obl	_	CorrectForm=círculo
 28	corrupto	corrupto	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
 29-30	del	_	_	_	_	_	_	_	_
 29	de	de	ADP	_	_	31	case	_	_
@@ -5629,7 +5629,7 @@
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	esto	este	PRON	_	Number=Sing|PronType=Dem	6	nsubj	_	_
 5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	_	_
-6	profundizara	profundizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	CorrectForm=profundizará
+6	profundizara	profundizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=profundizará
 7	con	con	ADP	_	_	9	case	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
@@ -6023,11 +6023,11 @@
 # text = Radio Sagua solo publica estas cosas policiacas para consumo exterior, como es el caso de facebook donde ponen una nota sobre el accidente y la población exterior da sus condolencias que solo son leídas por este privilegiado grupito de Radio Sagua ya que los pobres familiares y amigos no tenemos ni computadoras ni internet para recibir los pésames.
 1	Radio	radio	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	Sagua	sagua	PROPN	_	_	1	flat	_	_
-3	solo	sólo	ADV	_	_	4	advmod	_	CorrectForm=sólo
+3	solo	sólo	ADV	_	Typo=Yes	4	advmod	_	CorrectForm=sólo
 4	publica	publicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	6	det	_	_
 6	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	_
-7	policiacas	policiaco	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	CorrectForm=policíacas
+7	policiacas	policiaco	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
 8	para	para	ADP	_	_	9	case	_	_
 9	consumo	consumo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 10	exterior	exterior	ADJ	_	Number=Sing	9	amod	_	SpaceAfter=No
@@ -6053,7 +6053,7 @@
 30	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
 31	condolencias	condolencia	NOUN	_	Gender=Fem|Number=Plur	29	obj	_	_
 32	que	que	PRON	_	PronType=Int,Rel	35	nsubj:pass	_	_
-33	solo	sólo	ADV	_	_	35	advmod	_	CorrectForm=sólo
+33	solo	sólo	ADV	_	Typo=Yes	35	advmod	_	CorrectForm=sólo
 34	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	aux:pass	_	_
 35	leídas	leído	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	31	acl:relcl	_	_
 36	por	por	ADP	_	_	39	case	_	_
@@ -6434,7 +6434,7 @@
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	camino	camino	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
 13	que	que	SCONJ	_	_	14	mark	_	_
-14	iniciara	iniciar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	acl:relcl	_	CorrectForm=iniciará
+14	iniciara	iniciar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	12	acl:relcl	_	CorrectForm=iniciará
 15	en	en	ADP	_	_	17	case	_	_
 16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
@@ -6522,12 +6522,12 @@
 
 # sent_id = es-test-001-s60
 # text = Quedate tranquilo, rendite, no te va a pasar nada... con vos no es la cosa, dale, olvidate de todo, seguí tu vida, no pasa nada".
-1-2	Quedate	_	_	_	_	_	_	_	CorrectForm=Quédate
+1-2	Quedate	_	_	_	Typo=Yes	_	_	_	CorrectForm=Quédate
 1	Queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	iobj	_	_
 3	tranquilo	tranquilo	ADJ	_	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
-5-6	rendite	_	_	_	_	_	_	_	SpaceAfter=No|CorrectForm=réndite
+5-6	rendite	_	_	_	Typo=Yes	_	_	_	CorrectForm=réndite|SpaceAfter=No
 5	rendi	rendi	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
 6	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	5	iobj	_	_
 7	,	,	PUNCT	_	_	1	punct	_	_
@@ -7323,7 +7323,7 @@
 # text = El centrocampista dara seguramente la alternativa a Gerard.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	centrocampista	centrocampista	NOUN	_	Number=Sing	3	nsubj	_	_
-3	dara	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	CorrectForm=dará
+3	dara	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=dará
 4	seguramente	seguramente	ADV	_	_	3	advmod	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	alternativa	alternativa	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
@@ -7985,7 +7985,7 @@
 37	,	,	PUNCT	_	_	36	punct	_	_
 38	necesitará	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	28	acl:relcl	_	_
 39	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	periodo	periodo	NOUN	_	Gender=Masc|Number=Sing	38	obj	_	CorrectForm=período
+40	periodo	período	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	38	obj	_	CorrectForm=período
 41	de	de	ADP	_	_	42	case	_	_
 42	recuperación	recuperación	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	_
 43	de	de	ADP	_	_	45	case	_	_
@@ -8379,7 +8379,7 @@
 62	nación	nación	NOUN	_	Gender=Fem|Number=Sing	59	nmod	_	SpaceAfter=No
 63	,	,	PUNCT	_	_	68	punct	_	_
 64	no	no	ADV	_	Polarity=Neg	68	advmod	_	_
-65	solo	sólo	ADV	_	_	68	advmod	_	CorrectForm=sólo
+65	solo	sólo	ADV	_	Typo=Yes	68	advmod	_	CorrectForm=sólo
 66	de	de	ADP	_	_	68	case	_	_
 67	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	68	det	_	_
 68	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	59	conj	_	SpaceAfter=No
@@ -9164,7 +9164,7 @@
 # text = La principal caracteristica de herramientas como esta es la tolerancia, prácticala y demuestra tu civilidad.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 2	principal	principal	ADJ	_	Number=Sing	3	amod	_	_
-3	caracteristica	característica	NOUN	_	Gender=Fem|Number=Sing	0	root	_	CorrectForm=característica
+3	caracteristica	característica	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=característica
 4	de	de	ADP	_	_	5	case	_	_
 5	herramientas	herramienta	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
 6	como	como	ADP	_	_	7	case	_	_
@@ -11290,7 +11290,7 @@
 9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	conexiones	conexión	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
 11	de	de	ADP	_	_	12	case	_	_
-12	video	vídeo	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	CorrectForm=vídeo
+12	video	vídeo	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	10	nmod	_	CorrectForm=vídeo
 13	HD	hd	X	_	_	12	appos	_	_
 14	en	en	ADP	_	_	17	case	_	_
 15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -12002,7 +12002,7 @@
 8	numerosas	numeroso	ADJ	_	Gender=Fem|Number=Plur	9	amod	_	_
 9	ocasiones	ocasión	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	_
 10	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
-11	solo	sólo	ADV	_	_	13	advmod	_	CorrectForm=sólo
+11	solo	sólo	ADV	_	Typo=Yes	13	advmod	_	CorrectForm=sólo
 12	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	ido	ir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	parataxis	_	_
 14	5	5	NUM	_	NumType=Card	13	obl	_	SpaceAfter=No
@@ -12028,12 +12028,12 @@
 34	o	o	CCONJ	_	_	37	cc	_	_
 35	bien	bien	ADV	_	_	34	fixed	_	_
 36	de	de	ADP	_	_	37	case	_	_
-37	menu	menú	NOUN	_	Gender=Masc|Number=Sing	33	conj	_	CorrectForm=menú
+37	menu	menú	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	33	conj	_	CorrectForm=menú
 38	(	(	PUNCT	_	_	42	punct	_	SpaceAfter=No
 39	siempre	siempre	ADV	_	_	42	advmod	_	_
 40	en	en	ADP	_	_	42	case	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
-42	salon	salón	NOUN	_	Gender=Masc|Number=Sing	33	nmod	_	CorrectForm=salón
+42	salon	salón	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	33	nmod	_	CorrectForm=salón
 43	de	de	ADP	_	_	44	case	_	_
 44	arriba	arriba	ADV	_	_	42	advmod	_	SpaceAfter=No
 45	)	)	PUNCT	_	_	42	punct	_	_
@@ -12140,7 +12140,7 @@
 13	Y	y	CCONJ	_	_	14	cc	_	_
 14	GENTE	gente	NOUN	_	_	12	conj	_	_
 15	DE	de	ADP	_	_	16	case	_	_
-16	AREAS	área	NOUN	_	_	14	nmod	_	SpaceAfter=No|CorrectForm=ÁREAS
+16	AREAS	área	NOUN	_	Typo=Yes	14	nmod	_	CorrectForm=ÁREAS|SpaceAfter=No
 17	,	,	PUNCT	_	_	1	punct	_	_
 18	OS	tú	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	19	iobj	_	_
 19	ECHO	echo	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
@@ -12555,7 +12555,7 @@
 18	aún	aún	ADV	_	_	19	advmod	_	_
 19	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	Paris	parís	PROPN	_	_	19	obj	_	CorrectForm=París
+21	Paris	parís	PROPN	_	Typo=Yes	19	obj	_	CorrectForm=París
 22	Dakar	dakar	PROPN	_	_	21	flat	_	_
 
 # sent_id = es-test-001-s228
@@ -12625,16 +12625,16 @@
 1	Es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	_	_	5	case	_	_
 3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
-4	mas	más	ADV	_	_	5	advmod	_	CorrectForm=más
+4	mas	más	ADV	_	Typo=Yes	5	advmod	_	CorrectForm=más
 5	bonito	bonito	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 6	que	que	SCONJ	_	_	9	mark	_	_
 7	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	9	nsubj	_	_
 8	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	encontrar	encontrar	VERB	_	VerbForm=Inf	5	acl:relcl	_	_
 10	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
-11	solo	sólo	ADV	_	_	13	advmod	_	CorrectForm=sólo
+11	solo	sólo	ADV	_	Typo=Yes	13	advmod	_	CorrectForm=sólo
 12	en	en	ADP	_	_	13	case	_	_
-13	Africa	áfrica	PROPN	_	_	9	obl	_	CorrectForm=África
+13	Africa	áfrica	PROPN	_	Typo=Yes	9	obl	_	CorrectForm=África
 14	sinó	sinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cc	_	_
 15	en	en	ADP	_	_	18	case	_	_
 16	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	18	det	_	_
@@ -12669,7 +12669,7 @@
 # text = Yo no pretendia que me devolvieran el dinero.
 1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
-3	pretendia	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	CorrectForm=pretendía
+3	pretendia	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=pretendía
 4	que	que	SCONJ	_	_	6	mark	_	_
 5	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	iobj	_	_
 6	devolvieran	devolvir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
@@ -12686,7 +12686,7 @@
 5	,	,	PUNCT	_	_	15	punct	_	_
 6	pero	pero	CCONJ	_	_	15	cc	_	_
 7	a	a	ADP	_	_	8	case	_	_
-8	mi	yo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	iobj	_	SpaceAfter=No|CorrectForm=mí
+8	mi	yo	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs|Typo=Yes	15	iobj	_	CorrectForm=mí|SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	personalmente	personalmente	ADV	_	_	15	advmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	10	punct	_	_
@@ -12702,7 +12702,7 @@
 # text = Las habitaciones tenian las paredes desconchadas, no funcionaba el aire acondicionado en ninguna de las habitaciones, con lo fresquito que es Jaén.
 1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	habitaciones	habitación	NOUN	_	Gender=Fem|Number=Plur	3	nsubj	_	_
-3	tenian	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	CorrectForm=tenían
+3	tenian	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=tenían
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	paredes	pared	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
 6	desconchadas	desconchado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	3	xcomp	_	SpaceAfter=No
@@ -12744,7 +12744,7 @@
 # sent_id = es-test-001-s236
 # text = Si estas buscando una iglesia en Fresno, ya la has encontrado.
 1	Si	si	SCONJ	_	_	3	mark	_	_
-2	estas	estar	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	CorrectForm=estás
+2	estas	estar	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	3	aux	_	CorrectForm=estás
 3	buscando	buscar	VERB	_	VerbForm=Ger	12	advcl	_	_
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	iglesia	iglesia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
@@ -12763,7 +12763,7 @@
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	90s	90s	NUM	_	NumType=Card	5	obl	_	_
 4	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	iobj	_	_
-5	abandono	abandonar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No|CorrectForm=abandonó
+5	abandono	abandonar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=abandonó|SpaceAfter=No
 6	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = es-test-001-s238
@@ -12783,7 +12783,7 @@
 2	habitaciones	habitación	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
 3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	tan	tanto	ADV	_	_	5	advmod	_	_
-5	calidas	cálido	ADJ	_	Gender=Fem|Number=Plur	0	root	_	CorrectForm=cálidas
+5	calidas	cálido	ADJ	_	Gender=Fem|Number=Plur|Typo=Yes	0	root	_	CorrectForm=cálidas
 6	como	como	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	trato	trato	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
@@ -12891,14 +12891,14 @@
 2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	casa	casa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 4	extraordinaria	extraordinario	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
-5	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	CorrectForm=está
+5	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	3	parataxis	_	CorrectForm=está
 6	en	en	ADP	_	_	8	case	_	_
 7	pleno	pleno	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
 8	Parque	parque	PROPN	_	_	5	obl	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	Cabañeros	cabañeros	PROPN	_	_	8	nmod	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	telefono	teléfono	NOUN	_	Gender=Masc|Number=Sing	3	parataxis	_	CorrectForm=teléfono
+12	telefono	teléfono	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	3	parataxis	_	CorrectForm=teléfono
 13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 14	675611884	67561188	NUM	_	NumType=Card	12	nsubj	_	_
 
