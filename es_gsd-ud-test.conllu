@@ -6522,12 +6522,12 @@
 
 # sent_id = es-test-001-s60
 # text = Quedate tranquilo, rendite, no te va a pasar nada... con vos no es la cosa, dale, olvidate de todo, seguí tu vida, no pasa nada".
-1-2	Quedate	_	_	_	Typo=Yes	_	_	_	CorrectForm=Quédate
+1-2	Quedate	_	_	_	_	_	_	_	CorrectForm=Quédate
 1	Queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	iobj	_	_
 3	tranquilo	tranquilo	ADJ	_	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	1	punct	_	_
-5-6	rendite	_	_	_	Typo=Yes	_	_	_	CorrectForm=réndite|SpaceAfter=No
+5-6	rendite	_	_	_	_	_	_	_	CorrectForm=réndite|SpaceAfter=No
 5	rendi	rendi	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
 6	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	5	iobj	_	_
 7	,	,	PUNCT	_	_	1	punct	_	_

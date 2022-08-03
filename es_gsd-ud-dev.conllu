@@ -11138,7 +11138,7 @@
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	esfuerzo	esfuerzo	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
 23	de	de	ADP	_	_	24	mark	_	_
-24-26	llevarselo	_	_	_	Typo=Yes	_	_	_	CorrectForm=llevárselo|SpaceAfter=No
+24-26	llevarselo	_	_	_	_	_	_	_	CorrectForm=llevárselo|SpaceAfter=No
 24	llevar	llevar	VERB	_	VerbForm=Inf	22	advcl	_	_
 25	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	iobj	_	_
 26	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
