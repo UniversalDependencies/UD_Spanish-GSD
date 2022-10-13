@@ -9141,7 +9141,7 @@
 48	,	,	PUNCT	_	_	50	punct	_	_
 49	como	como	ADP	_	_	50	case	_	_
 50	consecuencia	consecuencia	NOUN	_	Gender=Fem|Number=Sing	41	obl	_	_
-51	principalmente	principalmente	ADV	_	_	54	punct	_	_
+51	principalmente	principalmente	ADV	_	_	54	advmod	_	_
 52-53	del	_	_	_	_	_	_	_	_
 52	de	de	ADP	_	_	54	case	_	_
 53	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	_

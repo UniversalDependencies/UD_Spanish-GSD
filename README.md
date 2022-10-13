@@ -25,6 +25,8 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed: deprel punct occurs only with UPOS PUNCT.
 * 2021-11-15 v2.9
   * Fixed some lemmas of participles that are tagged VERB (#12).
 * 2019-11-15 v2.5
