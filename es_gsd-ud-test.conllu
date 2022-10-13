@@ -11835,7 +11835,7 @@
 7	de	de	ADP	_	_	8	case	_	_
 8	CO2	co2	X	_	_	6	nmod	_	_
 9	de	de	ADP	_	_	12	case	_	_
-10	hasta	hasta	ADP	_	_	11	advmod	_	_
+10	hasta	hasta	ADP	_	_	11	case	_	_
 11	149	149	NUM	_	NumType=Card	12	nummod	_	_
 12	gramos	gramo	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
 13	por	por	ADP	_	_	14	case	_	_

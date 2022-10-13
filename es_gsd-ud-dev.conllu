@@ -18074,7 +18074,7 @@
 12	víctima	víctima	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 13	aseguró	asegurar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	que	que	SCONJ	_	_	35	mark	_	_
-15	hacia	hacia	ADP	_	_	17	advmod	_	_
+15	hacia	hacia	ADP	_	_	17	case	_	_
 16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
 17	ocho	ocho	NUM	_	Gender=Fem|Number=Plur|NumType=Card	35	obl	_	_
 18	de	de	ADP	_	_	20	case	_	_
@@ -18723,7 +18723,7 @@
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	renovación	renovación	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
 24	tardan	tardar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
-25	hasta	hasta	ADP	_	_	26	advmod	_	_
+25	hasta	hasta	ADP	_	_	26	case	_	_
 26	tres	tres	NUM	_	Number=Plur|NumType=Card	27	nummod	_	_
 27	meses	mes	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	SpaceAfter=No
 28	?	?	PUNCT	_	_	4	punct	_	_
@@ -19247,7 +19247,7 @@
 7	casa	casa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	y	y	CCONJ	_	_	9	cc	_	_
 9	otras	otro	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	4	conj	_	_
-10	hasta	hasta	ADP	_	_	11	advmod	_	_
+10	hasta	hasta	ADP	_	_	11	case	_	_
 11	20	20	NUM	_	NumType=Card	12	nummod	_	_
 12	personas	persona	NOUN	_	Gender=Fem|Number=Plur	1	parataxis	_	_
 13	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
