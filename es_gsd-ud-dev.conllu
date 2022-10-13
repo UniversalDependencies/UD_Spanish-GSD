@@ -1068,7 +1068,7 @@
 13	a	a	ADP	_	_	15	case	_	_
 14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	áreas	área	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
-16	bajo	bajo	ADJ	_	_	17	case	_	_
+16	bajo	bajo	ADP	_	_	17	case	_	_
 17	control	control	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
 18	normando	normar	ADJ	_	VerbForm=Ger	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	_
