@@ -29367,7 +29367,7 @@
 
 # sent_id = es-dev-002-s479
 # text = C. Mientras tanto, Hidrieo había cumplido su parte enviando a Chipre 40 navíos y 8.000 mercenarios bajo el mando del ateniense Foción y el líder chipriota Evágoras II.
-1	C.	c.	X	_	_	7	punct	_	_
+1	C.	c.	X	_	_	7	discourse	_	_
 2	Mientras	mientras	ADV	_	_	7	advmod	_	_
 3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
@@ -33042,7 +33042,7 @@
 17	personas	persona	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
 18	por	por	ADP	_	_	19	case	_	_
 19	km	km	NOUN	_	Gender=Masc	17	nmod	_	SpaceAfter=No
-20	²	²	X	_	_	5	punct	_	SpaceAfter=No
+20	²	²	SYM	_	_	19	amod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = es-dev-003-s111

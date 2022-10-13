@@ -1301,7 +1301,7 @@
 17	personas	persona	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
 18	por	por	ADP	_	_	19	case	_	_
 19	km	km	SYM	_	Gender=Masc	17	nmod	_	SpaceAfter=No
-20	²	²	X	_	_	19	punct	_	SpaceAfter=No
+20	²	²	SYM	_	_	19	amod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = es-dev-003-s462
