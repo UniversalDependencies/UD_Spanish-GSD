@@ -25,10 +25,10 @@
     <tag name="NOUN">77532</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, país -->
     <tag name="NUM">11017</tag><!-- dos, 2010, tres, 0, 3, cuatro, 1, 6, 2, 10 -->
     <tag name="PART">35</tag><!-- hola, ex, re, co, ir, l, abandono, adio, ficha, gram -->
-    <tag name="PRON">14036</tag><!-- él, que, yo, uno, este, cual, tú, todo, quien, otro -->
+    <tag name="PRON">14004</tag><!-- él, que, yo, uno, este, cual, tú, todo, quien, otro -->
     <tag name="PROPN">39495</tag><!-- san, unido, españa, juan, madrid, estados, josé, septiembre, julio, enero -->
     <tag name="PUNCT">47529</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
-    <tag name="SCONJ">8101</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
+    <tag name="SCONJ">8133</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1671</tag><!-- %, ², km, $, º, °, a, €, m, ª -->
     <tag name="VERB">36280</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
     <tag name="X">1950</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
@@ -68,7 +68,7 @@
     <feat name="PronType" value="Art" upos="DET">51173</feat><!-- el, la, los, un, las, una, unos, unas, uno -->
     <feat name="PronType" value="Dem" upos="DET,PRON">2912</feat><!-- este, esta, estos, ese, esto, tanto, estas, esa, eso, éste -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">3321</feat><!-- uno, otros, otras, otro, una, cualquier, algunos, varios, muchos, otra -->
-    <feat name="PronType" value="Int,Rel" upos="DET,PRON">1701</feat><!-- que, cual, quien, qué, quienes, cuya, cuales, cuyo, quién, cuyas -->
+    <feat name="PronType" value="Int,Rel" upos="DET,PRON">1669</feat><!-- que, cual, quien, qué, quienes, cuya, cuales, cuyo, quién, cuyas -->
     <feat name="PronType" value="Neg" upos="DET,PRON">246</feat><!-- nada, ningún, nadie, ninguna, ninguno, ningun, niguna -->
     <feat name="PronType" value="Prs" upos="DET,INTJ,PRON">14346</feat><!-- se, su, lo, sus, le, la, me, los, nos, les -->
     <feat name="PronType" value="Rel" upos="DET">1</feat><!-- cuyas -->

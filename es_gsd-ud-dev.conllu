@@ -14179,7 +14179,7 @@
 43	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	45	aux	_	_
 44	absolutamente	absolutamente	ADV	_	_	45	advmod	_	_
 45	convencida	convencido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	40	ccomp	_	_
-46	que	que	PRON	_	PronType=Int,Rel	51	mark	_	_
+46	que	que	SCONJ	_	_	51	mark	_	_
 47	en	en	ADP	_	_	49	case	_	_
 48	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	_
 49	Argentina	argentina	PROPN	_	_	53	obl	_	_
@@ -30579,7 +30579,7 @@
 27	muy	mucho	ADV	_	_	28	advmod	_	_
 28	ingenuo	ingenuo	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
 29	pensar	pensar	VERB	_	VerbForm=Inf	28	csubj	_	_
-30	que	que	PRON	_	PronType=Int,Rel	33	mark	_	_
+30	que	que	SCONJ	_	_	33	mark	_	_
 31	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	33	nsubj	_	_
 32	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	_
 33-34	decirle	_	_	_	_	_	_	_	_
@@ -35059,7 +35059,7 @@
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	posibilidad	posibilidad	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 11	de	de	ADP	_	_	13	case	_	_
-12	que	que	PRON	_	PronType=Int,Rel	13	mark	_	_
+12	que	que	SCONJ	_	_	13	mark	_	_
 13	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 14	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	responsable	responsable	NOUN	_	Number=Sing	13	nsubj	_	_
@@ -35263,7 +35263,7 @@
 42	palestinos	palestino	NOUN	_	Gender=Masc|Number=Plur	39	conj	_	_
 43	antes	antes	ADV	_	_	47	advmod	_	_
 44	de	de	ADP	_	_	43	fixed	_	_
-45	que	que	PRON	_	PronType=Int,Rel	47	mark	_	_
+45	que	que	SCONJ	_	_	47	mark	_	_
 46	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	47	iobj	_	_
 47	establezcan	establecer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
 48	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	49	det	_	_
