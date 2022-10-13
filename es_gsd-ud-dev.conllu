@@ -2686,7 +2686,7 @@
 56	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	57	det	_	_
 57	mismo	mismo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	54	nmod	_	_
 58	un	uno	NUM	_	Gender=Masc|Number=Sing|NumType=Card	59	nummod	_	_
-59	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	63	advmod	_	_
+59	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	63	obl	_	_
 60	de	de	ADP	_	_	61	case	_	_
 61	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	59	nmod	_	_
 62	más	más	ADV	_	Degree=Cmp	63	advmod	_	_
@@ -4421,7 +4421,7 @@
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	_
-14	semi	semi	X	_	_	16	advmod	_	_
+14	semi	semi	X	_	_	16	obl	_	_
 15	-	-	PUNCT	_	_	16	punct	_	_
 16	dulce	dulce	ADJ	_	Number=Sing	9	conj	_	_
 17	o	o	CCONJ	_	_	19	cc	_	_
@@ -5055,7 +5055,7 @@
 
 # sent_id = es-dev-001-s176
 # text = Ella es una chica que suele comportarse como un chico y está en la clase 5-1, Tōma, no tiene relación alguna con las hermanas Minami, aunque tengan el mismo apellido.
-1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	advmod	_	_
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	chica	chica	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -9270,7 +9270,7 @@
 
 # sent_id = es-dev-001-s322
 # text = Si embargo todo salió fenomenal, me ahorré una pasta y las cosas llegaron perfectas.
-1	Si	si	X	_	_	4	advmod	_	_
+1	Si	si	X	_	_	4	obl	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
 3	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	4	nsubj	_	_
 4	salió	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -12168,7 +12168,7 @@
 7	cima	cima	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	a	a	ADP	_	_	12	case	_	_
-10	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	advmod	_	_
+10	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	obl	_	_
 11	4	4	NUM	_	NumType=Card	12	nummod	_	_
 12	metros	metro	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
 13	de	de	ADP	_	_	14	case	_	_
@@ -22662,7 +22662,7 @@
 28	donde	donde	ADV	_	_	30	advmod	_	_
 29	quedo	quedo	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	30	cop	_	_
 30	destruida	destruir	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	26	acl:relcl	_	_
-31	totalmente.	totalmente.	X	_	Gender=Masc|Number=Sing	30	advmod	_	_
+31	totalmente.	totalmente.	X	_	Gender=Masc|Number=Sing	30	obl	_	_
 
 # sent_id = es-dev-002-s504
 # text = En primera instancia se fundó en 1754 terrenos donados por el Marques de la Pica por don Domingo Ortiz de Rozas, pero fue ubicada en otro sitio.
@@ -23253,7 +23253,7 @@
 44	,	,	PUNCT	_	_	46	punct	_	_
 45	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	46	nsubj	_	_
 46	dura	durar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	29	parataxis	_	_
-47	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	48	advmod	_	_
+47	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	48	obl	_	_
 48	cinco	cinco	NUM	_	Number=Plur|NumType=Card	49	nummod	_	_
 49	horas	hora	NOUN	_	Gender=Fem|Number=Plur	46	obl	_	_
 50	y	y	CCONJ	_	_	52	cc	_	_
@@ -31930,7 +31930,7 @@
 1	En	en	ADP	_	_	2	case	_	_
 2	España	españa	PROPN	_	_	3	obl	_	_
 3	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	advmod	_	_
+4	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	obl	_	_
 5	4.700	4700	NUM	_	NumType=Card	6	nummod	_	_
 6	centros	centro	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
