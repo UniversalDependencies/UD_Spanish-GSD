@@ -1068,7 +1068,7 @@
 13	a	a	ADP	_	_	15	case	_	_
 14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	áreas	área	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
-16	bajo	bajo	ADJ	_	_	17	case	_	_
+16	bajo	bajo	ADP	_	_	17	case	_	_
 17	control	control	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
 18	normando	normar	ADJ	_	VerbForm=Ger	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	_	_	10	punct	_	_
@@ -2686,7 +2686,7 @@
 56	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	57	det	_	_
 57	mismo	mismo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	54	nmod	_	_
 58	un	uno	NUM	_	Gender=Masc|Number=Sing|NumType=Card	59	nummod	_	_
-59	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	63	advmod	_	_
+59	cuarto	cuarto	NOUN	_	Gender=Masc|Number=Sing	63	obl	_	_
 60	de	de	ADP	_	_	61	case	_	_
 61	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	59	nmod	_	_
 62	más	más	ADV	_	Degree=Cmp	63	advmod	_	_
@@ -4421,7 +4421,7 @@
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	oscuro	oscuro	ADJ	_	Gender=Masc|Number=Sing	9	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	16	punct	_	_
-14	semi	semi	X	_	_	16	advmod	_	_
+14	semi	semi	X	_	_	16	obl	_	_
 15	-	-	PUNCT	_	_	16	punct	_	_
 16	dulce	dulce	ADJ	_	Number=Sing	9	conj	_	_
 17	o	o	CCONJ	_	_	19	cc	_	_
@@ -5055,7 +5055,7 @@
 
 # sent_id = es-dev-001-s176
 # text = Ella es una chica que suele comportarse como un chico y está en la clase 5-1, Tōma, no tiene relación alguna con las hermanas Minami, aunque tengan el mismo apellido.
-1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	advmod	_	_
+1	Ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	obl	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	chica	chica	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -9141,7 +9141,7 @@
 48	,	,	PUNCT	_	_	50	punct	_	_
 49	como	como	ADP	_	_	50	case	_	_
 50	consecuencia	consecuencia	NOUN	_	Gender=Fem|Number=Sing	41	obl	_	_
-51	principalmente	principalmente	ADV	_	_	54	punct	_	_
+51	principalmente	principalmente	ADV	_	_	54	advmod	_	_
 52-53	del	_	_	_	_	_	_	_	_
 52	de	de	ADP	_	_	54	case	_	_
 53	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	_
@@ -9270,7 +9270,7 @@
 
 # sent_id = es-dev-001-s322
 # text = Si embargo todo salió fenomenal, me ahorré una pasta y las cosas llegaron perfectas.
-1	Si	si	X	_	_	4	advmod	_	_
+1	Si	si	X	_	_	4	obl	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
 3	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	4	nsubj	_	_
 4	salió	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -12168,7 +12168,7 @@
 7	cima	cima	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
 9	a	a	ADP	_	_	12	case	_	_
-10	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	advmod	_	_
+10	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	11	obl	_	_
 11	4	4	NUM	_	NumType=Card	12	nummod	_	_
 12	metros	metro	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
 13	de	de	ADP	_	_	14	case	_	_
@@ -14179,7 +14179,7 @@
 43	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	45	aux	_	_
 44	absolutamente	absolutamente	ADV	_	_	45	advmod	_	_
 45	convencida	convencido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	40	ccomp	_	_
-46	que	que	PRON	_	PronType=Int,Rel	51	mark	_	_
+46	que	que	SCONJ	_	_	51	mark	_	_
 47	en	en	ADP	_	_	49	case	_	_
 48	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	_
 49	Argentina	argentina	PROPN	_	_	53	obl	_	_
@@ -18074,7 +18074,7 @@
 12	víctima	víctima	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 13	aseguró	asegurar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	que	que	SCONJ	_	_	35	mark	_	_
-15	hacia	hacia	ADP	_	_	17	advmod	_	_
+15	hacia	hacia	ADP	_	_	17	case	_	_
 16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
 17	ocho	ocho	NUM	_	Gender=Fem|Number=Plur|NumType=Card	35	obl	_	_
 18	de	de	ADP	_	_	20	case	_	_
@@ -18723,7 +18723,7 @@
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	renovación	renovación	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
 24	tardan	tardar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
-25	hasta	hasta	ADP	_	_	26	advmod	_	_
+25	hasta	hasta	ADP	_	_	26	case	_	_
 26	tres	tres	NUM	_	Number=Plur|NumType=Card	27	nummod	_	_
 27	meses	mes	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	SpaceAfter=No
 28	?	?	PUNCT	_	_	4	punct	_	_
@@ -19247,7 +19247,7 @@
 7	casa	casa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	y	y	CCONJ	_	_	9	cc	_	_
 9	otras	otro	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	4	conj	_	_
-10	hasta	hasta	ADP	_	_	11	advmod	_	_
+10	hasta	hasta	ADP	_	_	11	case	_	_
 11	20	20	NUM	_	NumType=Card	12	nummod	_	_
 12	personas	persona	NOUN	_	Gender=Fem|Number=Plur	1	parataxis	_	_
 13	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	cop	_	_
@@ -22662,7 +22662,7 @@
 28	donde	donde	ADV	_	_	30	advmod	_	_
 29	quedo	quedo	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	30	cop	_	_
 30	destruida	destruir	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	26	acl:relcl	_	_
-31	totalmente.	totalmente.	X	_	Gender=Masc|Number=Sing	30	advmod	_	_
+31	totalmente.	totalmente.	X	_	Gender=Masc|Number=Sing	30	obl	_	_
 
 # sent_id = es-dev-002-s504
 # text = En primera instancia se fundó en 1754 terrenos donados por el Marques de la Pica por don Domingo Ortiz de Rozas, pero fue ubicada en otro sitio.
@@ -23253,7 +23253,7 @@
 44	,	,	PUNCT	_	_	46	punct	_	_
 45	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	46	nsubj	_	_
 46	dura	durar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	29	parataxis	_	_
-47	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	48	advmod	_	_
+47	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	48	obl	_	_
 48	cinco	cinco	NUM	_	Number=Plur|NumType=Card	49	nummod	_	_
 49	horas	hora	NOUN	_	Gender=Fem|Number=Plur	46	obl	_	_
 50	y	y	CCONJ	_	_	52	cc	_	_
@@ -29367,7 +29367,7 @@
 
 # sent_id = es-dev-002-s479
 # text = C. Mientras tanto, Hidrieo había cumplido su parte enviando a Chipre 40 navíos y 8.000 mercenarios bajo el mando del ateniense Foción y el líder chipriota Evágoras II.
-1	C.	c.	X	_	_	7	punct	_	_
+1	C.	c.	X	_	_	7	discourse	_	_
 2	Mientras	mientras	ADV	_	_	7	advmod	_	_
 3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	2	punct	_	_
@@ -30579,7 +30579,7 @@
 27	muy	mucho	ADV	_	_	28	advmod	_	_
 28	ingenuo	ingenuo	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	_
 29	pensar	pensar	VERB	_	VerbForm=Inf	28	csubj	_	_
-30	que	que	PRON	_	PronType=Int,Rel	33	mark	_	_
+30	que	que	SCONJ	_	_	33	mark	_	_
 31	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	33	nsubj	_	_
 32	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	aux	_	_
 33-34	decirle	_	_	_	_	_	_	_	_
@@ -31930,7 +31930,7 @@
 1	En	en	ADP	_	_	2	case	_	_
 2	España	españa	PROPN	_	_	3	obl	_	_
 3	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	advmod	_	_
+4	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	5	obl	_	_
 5	4.700	4700	NUM	_	NumType=Card	6	nummod	_	_
 6	centros	centro	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
@@ -33042,7 +33042,7 @@
 17	personas	persona	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
 18	por	por	ADP	_	_	19	case	_	_
 19	km	km	NOUN	_	Gender=Masc	17	nmod	_	SpaceAfter=No
-20	²	²	X	_	_	5	punct	_	SpaceAfter=No
+20	²	²	SYM	_	_	19	amod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = es-dev-003-s111
@@ -35059,7 +35059,7 @@
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	posibilidad	posibilidad	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 11	de	de	ADP	_	_	13	case	_	_
-12	que	que	PRON	_	PronType=Int,Rel	13	mark	_	_
+12	que	que	SCONJ	_	_	13	mark	_	_
 13	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 14	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
 15	responsable	responsable	NOUN	_	Number=Sing	13	nsubj	_	_
@@ -35263,7 +35263,7 @@
 42	palestinos	palestino	NOUN	_	Gender=Masc|Number=Plur	39	conj	_	_
 43	antes	antes	ADV	_	_	47	advmod	_	_
 44	de	de	ADP	_	_	43	fixed	_	_
-45	que	que	PRON	_	PronType=Int,Rel	47	mark	_	_
+45	que	que	SCONJ	_	_	47	mark	_	_
 46	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	47	iobj	_	_
 47	establezcan	establecer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
 48	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	49	det	_	_

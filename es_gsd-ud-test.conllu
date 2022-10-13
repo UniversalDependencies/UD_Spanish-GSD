@@ -1301,7 +1301,7 @@
 17	personas	persona	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
 18	por	por	ADP	_	_	19	case	_	_
 19	km	km	SYM	_	Gender=Masc	17	nmod	_	SpaceAfter=No
-20	²	²	X	_	_	19	punct	_	SpaceAfter=No
+20	²	²	SYM	_	_	19	amod	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	5	punct	_	_
 
 # sent_id = es-dev-003-s462
@@ -3097,7 +3097,7 @@
 17	estos	este	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	19	nsubj	_	_
 18	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	iobj	_	_
 19	adelantan	adelantar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
-20	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	21	advmod	_	_
+20	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	21	obl	_	_
 21	40	40	NUM	_	NumType=Card	22	nummod	_	_
 22	km	km	NOUN	_	Gender=Masc	19	obj	_	_
 23	hacia	hacia	ADP	_	_	25	case	_	_
@@ -4379,7 +4379,7 @@
 28	productura	productura	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	_
 29	Pascale	pascale	PROPN	_	_	28	appos	_	_
 30	Breugnot	breugnot	PROPN	_	Number=Sing	29	flat	_	_
-31	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	advmod	_	_
+31	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	obl	_	_
 32	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	33	nmod	_	_
 33	antes	antes	ADV	_	_	36	case	_	_
 34	de	de	ADP	_	_	33	fixed	_	_
@@ -5652,7 +5652,7 @@
 9	recibido	recibir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	ccomp	_	_
 10	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
 11	por	por	ADP	_	_	19	case	_	_
-12	nada	nada	PRON	_	Number=Sing|PronType=Neg	15	advmod	_	_
+12	nada	nada	PRON	_	Number=Sing|PronType=Neg	15	obl	_	_
 13	menos	menos	ADV	_	Degree=Cmp	12	advmod	_	_
 14	que	que	CCONJ	_	_	13	fixed	_	_
 15	un	uno	NUM	_	Gender=Masc|Number=Sing|NumType=Card	16	nummod	_	_
@@ -5899,7 +5899,7 @@
 18	/	/	PUNCT	_	_	19	punct	_	_
 19	2012	2012	NUM	_	NumType=Card	17	conj	_	_
 20	ofreciendo	ofrecer	VERB	_	VerbForm=Ger	10	advcl	_	_
-21	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	22	advmod	_	_
+21	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	22	obl	_	_
 22	25	25	NUM	_	NumType=Card	23	nummod	_	_
 23	millones	millón	NOUN	_	Gender=Masc|Number=Plur	25	nummod	_	_
 24	de	de	ADP	_	_	23	case	_	_
@@ -11835,7 +11835,7 @@
 7	de	de	ADP	_	_	8	case	_	_
 8	CO2	co2	X	_	_	6	nmod	_	_
 9	de	de	ADP	_	_	12	case	_	_
-10	hasta	hasta	ADP	_	_	11	advmod	_	_
+10	hasta	hasta	ADP	_	_	11	case	_	_
 11	149	149	NUM	_	NumType=Card	12	nummod	_	_
 12	gramos	gramo	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
 13	por	por	ADP	_	_	14	case	_	_
@@ -12210,7 +12210,7 @@
 23	asegurar	asegurar	VERB	_	VerbForm=Inf	18	conj	_	_
 24	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	iobj	_	_
 25	de	de	ADP	_	_	29	case	_	_
-26	que	que	PRON	_	PronType=Int,Rel	29	mark	_	_
+26	que	que	SCONJ	_	_	29	mark	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	cliente	cliente	NOUN	_	Number=Sing	29	nsubj	_	_
 29	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	_
@@ -13219,7 +13219,7 @@
 
 # sent_id = es-test-001-s282
 # text = Un poquito caro, pero vale mucho la pena;
-1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	advmod	_	_
+1	Un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	obl	_	_
 2	poquito	poquito	ADV	_	_	1	fixed	_	_
 3	caro	caro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
@@ -13458,7 +13458,7 @@
 1	Tal	tal	ADJ	_	Number=Sing	2	amod	_	_
 2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
 3	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
-4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	advmod	_	_
+4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	obl	_	_
 5	poco	poco	ADV	_	_	4	fixed	_	_
 6	caro	caro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 7	para	para	ADP	_	_	8	case	_	_
