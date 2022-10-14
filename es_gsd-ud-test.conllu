@@ -4437,7 +4437,7 @@
 12	después	después	ADV	_	_	14	advmod	_	_
 13	con	con	ADP	_	_	14	case	_	_
 14	Boeing	boeing	PROPN	_	_	9	conj	_	_
-15	727-200	727200	PROPN	_	_	14	nummod	_	SpaceAfter=No
+15	727-200	727200	NUM	_	_	14	nmod	_	SpaceAfter=No
 16	;	;	PUNCT	_	_	1	punct	_	_
 
 # sent_id = es-dev-004-s66
