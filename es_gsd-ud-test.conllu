@@ -4149,14 +4149,14 @@
 19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
 20	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
 21	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
-22	Let	let	PROPN	_	_	20	xcomp	_	_
-23	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	24	det	_	_
-24	Bass	bass	PROPN	_	_	20	obj	_	_
-25	Kick	kick	PROPN	_	_	22	xcomp	_	_
-26	in	in	ADP	_	_	28	case	_	_
-27	Miami	miami	PROPN	_	_	22	nmod	_	_
-28	Bitch	bitch	PROPN	_	_	27	flat	_	SpaceAfter=No
-29	"	"	PUNCT	_	_	24	punct	_	SpaceAfter=No
+22	Let	let	VERB	_	Foreign=Yes|Mood=Imp|VerbForm=Fin	20	xcomp	_	Lang=en
+23	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	24	det	_	Lang=en
+24	Bass	bass	NOUN	_	Foreign=Yes|Number=Sing	22	iobj	_	Lang=en
+25	Kick	kick	VERB	_	Foreign=Yes|VerbForm=Inf	22	xcomp	_	Lang=en
+26	in	in	ADP	_	Foreign=Yes	28	case	_	Lang=en
+27	Miami	miami	PROPN	_	Foreign=Yes|Number=Sing	28	compound	_	Lang=en
+28	Bitch	bitch	NOUN	_	Foreign=Yes|Number=Sing	25	obl	_	Lang=en|SpaceAfter=No
+29	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
 30	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	18	punct	_	_
 
