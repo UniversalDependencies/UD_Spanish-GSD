@@ -29239,8 +29239,8 @@
 33	Uruguay	uruguay	PROPN	_	_	30	obl	_	_
 34	a	a	ADP	_	_	37	case	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
-36	Triple	triple	PROPN	_	_	37	nummod	_	_
-37	Alianza	alianza	PROPN	_	_	30	iobj	_	SpaceAfter=No
+36	Triple	triple	ADJ	_	_	37	amod	_	_
+37	Alianza	alianza	NOUN	_	_	30	iobj	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	40	punct	_	_
 39	y	y	CCONJ	_	_	40	cc	_	_
 40	Paraguay	paraguay	PROPN	_	_	25	conj	_	SpaceAfter=No
@@ -36968,9 +36968,9 @@
 13	20	20	NUM	_	NumType=Card	14	nummod	_	_
 14	aniversario	aniversario	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	14	punct	_	_
-16	The	the	DET	_	PronType=Ind	18	det	_	_
-17	Five	five	PROPN	_	Number=Sing	18	nummod	_	_
-18	Doctors	doctors	PROPN	_	_	10	appos	_	_
+16	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
+17	Five	five	NUM	_	Foreign=Yes|NumType=Card	18	nummod	_	Lang=en
+18	Doctors	doctor	NOUN	_	Foreign=Yes|Number=Plur	10	appos	_	Lang=en
 19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
 20	1983	1983	NUM	_	NumType=Card	18	nmod	_	SpaceAfter=No
 21	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
