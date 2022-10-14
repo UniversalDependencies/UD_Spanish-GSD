@@ -15,14 +15,14 @@
   <fusions unique="856" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">24981</tag><!-- primero, nuevo, mismo, gran, mayor, segundo, buen, principal, último, mejor -->
+    <tag name="ADJ">24979</tag><!-- primero, nuevo, mismo, gran, mayor, segundo, buen, principal, último, mejor -->
     <tag name="ADP">71079</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
     <tag name="ADV">12497</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
     <tag name="AUX">10746</tag><!-- ser, haber, poder, estar, deber, be, querer, can, saber -->
     <tag name="CCONJ">13829</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
     <tag name="DET">60883</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">38</tag><!-- sí, él -->
-    <tag name="NOUN">77555</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
+    <tag name="NOUN">77551</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
     <tag name="NUM">11060</tag><!-- dos, tres, 2010, 0, 3, cuatro, 1, 6, 2, 10 -->
     <tag name="PART">38</tag><!-- hola, ex, re, co, ir, l, no, abandono, adio, ficha -->
     <tag name="PRON">14008</tag><!-- él, que, yo, uno, este, cual, tú, todo, quien, otro -->
@@ -30,8 +30,8 @@
     <tag name="PUNCT">47528</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
     <tag name="SCONJ">8142</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1666</tag><!-- %, ², km, $, º, °, €, a, m, h -->
-    <tag name="VERB">36325</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
-    <tag name="X">1897</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
+    <tag name="VERB">36332</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
+    <tag name="X">1896</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="51">
@@ -102,7 +102,7 @@
     <dep name="ccomp">1594</dep>
     <dep name="compound">419</dep>
     <dep name="conj">17206</dep>
-    <dep name="cop">5642</dep>
+    <dep name="cop">5605</dep>
     <dep name="csubj">701</dep>
     <dep name="csubj:pass">7</dep>
     <dep name="dep">1193</dep>
@@ -124,6 +124,6 @@
     <dep name="parataxis">1669</dep>
     <dep name="punct">47528</dep>
     <dep name="root">16013</dep>
-    <dep name="xcomp">2969</dep>
+    <dep name="xcomp">3006</dep>
   </deps>
 </treebank>
