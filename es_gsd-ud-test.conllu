@@ -5742,7 +5742,7 @@
 11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	vida	vida	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	5	punct	_	_
-14	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	cc	_	_
+14	sea	sea	CCONJ	_	_	17	cc	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	misma	mismo	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_

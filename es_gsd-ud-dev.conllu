@@ -26735,7 +26735,7 @@
 45	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	46	iobj	_	_
 46	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	SpaceAfter=No
 47	,	,	PUNCT	_	_	50	punct	_	_
-48	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	cc	_	_
+48	sea	sea	CCONJ	_	_	50	cc	_	_
 49	como	como	ADP	_	_	50	case	_	_
 50	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	56	advcl	_	SpaceAfter=No
 51	,	,	PUNCT	_	_	50	punct	_	_
@@ -40493,7 +40493,7 @@
 27	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	21	punct	_	_
 29	ya	ya	ADV	_	_	32	advmod	_	_
-30	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cc	_	_
+30	sea	sea	CCONJ	_	_	29	cc	_	_
 31	por	por	ADP	_	_	32	case	_	_
 32	desinterés	desinterés	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
 33	de	de	ADP	_	_	35	case	_	_
