@@ -9304,7 +9304,7 @@
 
 # sent_id = es-dev-001-s324
 # text = The Edge declaró que el video trataba sobre dejar a las mujeres tomar el control, porque "los hombres lo habían cogido todo mal, en el plano político, económico y social".
-1	The	the	X	_	Gender=Masc|Number=Sing	2	det	_	_
+1	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=en
 2	Edge	edge	X	_	_	3	nsubj	_	_
 3	declaró	declarar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	_	_	7	mark	_	_

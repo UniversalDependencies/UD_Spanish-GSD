@@ -29,6 +29,7 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
   * Fixed: deprel punct occurs only with UPOS PUNCT.
   * Fixed: advmod cannot be used with nominal dependents.
   * Fixed: cc cannot be used with verbal dependents.
+  * Fixed: det can be used only with UPOS DET or PRON.
 * 2021-11-15 v2.9
   * Fixed some lemmas of participles that are tagged VERB (#12).
 * 2019-11-15 v2.5

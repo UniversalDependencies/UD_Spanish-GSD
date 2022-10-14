@@ -20,7 +20,7 @@
     <tag name="ADV">12492</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
     <tag name="AUX">10754</tag><!-- ser, haber, poder, estar, deber, corresponder, querer, volver, soler, venir -->
     <tag name="CCONJ">13829</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
-    <tag name="DET">60860</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
+    <tag name="DET">60865</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">38</tag><!-- sí, él -->
     <tag name="NOUN">77534</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
     <tag name="NUM">11017</tag><!-- dos, 2010, tres, 0, 3, cuatro, 1, 6, 2, 10 -->
@@ -31,7 +31,7 @@
     <tag name="SCONJ">8133</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1671</tag><!-- %, ², km, $, º, °, a, €, m, ª -->
     <tag name="VERB">36273</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
-    <tag name="X">1949</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
+    <tag name="X">1944</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="48">
@@ -41,31 +41,31 @@
     <feat name="Case" value="Com" upos="PRON">8</feat><!-- consigo, conmigo, contigo -->
     <feat name="Case" value="Dat" upos="PRON">870</feat><!-- le, les -->
     <feat name="Case" value="Nom" upos="PRON">92</feat><!-- yo, tú -->
-    <feat name="Definite" value="Def" upos="DET">43523</feat><!-- el, la, los, las -->
+    <feat name="Definite" value="Def" upos="DET">43528</feat><!-- el, la, los, las, the -->
     <feat name="Definite" value="Ind" upos="DET">7651</feat><!-- un, una, unos, unas, uno -->
     <feat name="Degree" value="Abs" upos="ADJ,DET,PRON">42</feat><!-- muchísimo, buenísimas, Santísima, muchisimo, muchísimas, aceleradísimo, altísima, altísimo, bellísima, buenísima -->
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,PRON">2052</feat><!-- más, mayor, menos, mejor, mejores, menor, mayores, menores, peor, peores -->
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
-    <feat name="Foreign" value="Yes" upos="ADP,DET,NOUN,PROPN,X">74</feat><!-- μm, 天下第一, Parc, TΔS, Victoire, de, la, nɔrsk, nɔʂːk, secondez -->
+    <feat name="Foreign" value="Yes" upos="ADP,DET,NOUN,PROPN,X">79</feat><!-- the, μm, 天下第一, Parc, TΔS, Victoire, de, la, nɔrsk, nɔʂːk -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">68240</feat><!-- la, una, las, esta, parte, población, ciudad, personas, primera, familia -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">90194</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">90191</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">604</feat><!-- sería, podría, habría, podrían, tendría, serían, debería, gustaría, estaría, haría -->
     <feat name="Mood" value="Imp" upos="VERB">69</feat><!-- pese, pase, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos, Oiga -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">28098</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">1209</feat><!-- sea, haya, sean, tenga, pueda, puedan, fuese, fuera, hubiera, crea -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">53214</feat><!-- los, las, sus, son, dos, años, eran, han, personas, otros -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157359</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157354</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
     <feat name="NumType" value="Card" upos="DET,NUM,PRON">11964</feat><!-- dos, 2010, tres, 0, tanto, cuatro, 3, 1, 2, muchos -->
     <feat name="NumType" value="Ord" upos="ADJ">941</feat><!-- primera, primer, segundo, segunda, primeros, primeras, tercera, tercer, cuarto, cuarta -->
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB,X">2014</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,SYM,VERB,X">481</feat><!-- te, ², os, tu, tienes, puedes, tú, usted, vosotros, ti -->
-    <feat name="Person" value="3" upos="AUX,DET,INTJ,PRON,SYM,VERB,X">41991</feat><!-- se, es, su, fue, lo, sus, ha, le, son, eran -->
+    <feat name="Person" value="3" upos="AUX,DET,INTJ,PRON,SYM,VERB,X">41990</feat><!-- se, es, su, fue, lo, sus, ha, le, son, eran -->
     <feat name="Polarity" value="Neg" upos="ADJ,ADP,ADV,CCONJ,PROPN,X">1764</feat><!-- no, nunca, ni, tampoco, jamás, not, gran, o, para, sino -->
     <feat name="Polite" value="Form" upos="PRON">13</feat><!-- usted, ustedes -->
     <feat name="Poss" value="Yes" upos="DET,PRON">4482</feat><!-- su, sus, mi, nuestra, cuya, nuestros, cuyo, nuestro, tu, mis -->
     <feat name="PrepCase" value="Npr" upos="PRON">8234</feat><!-- se, lo, la, me, los, nos, te, las, os -->
     <feat name="PrepCase" value="Pre" upos="INTJ,PRON">55</feat><!-- sí, mí, ti -->
-    <feat name="PronType" value="Art" upos="DET">51174</feat><!-- el, la, los, un, las, una, unos, unas, uno -->
+    <feat name="PronType" value="Art" upos="DET">51179</feat><!-- el, la, los, un, las, una, unos, unas, the, uno -->
     <feat name="PronType" value="Dem" upos="DET,PRON">2912</feat><!-- este, esta, estos, ese, esto, tanto, estas, esa, eso, éste -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">3321</feat><!-- uno, otros, otras, otro, una, cualquier, algunos, varios, muchos, otra -->
     <feat name="PronType" value="Int,Rel" upos="DET,PRON">1669</feat><!-- que, cual, quien, qué, quienes, cuya, cuales, cuyo, quién, cuyas -->
