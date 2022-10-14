@@ -383,7 +383,7 @@
 9	contra	contra	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 10	de	de	ADP	_	_	13	case	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	nummod	_	_
+12	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
 13	comunidad	comunidad	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	hermanas	hermana	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
@@ -512,7 +512,7 @@
 3	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	iobj	_	_
 4	por	por	ADP	_	_	7	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	nummod	_	_
+6	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	interpretación	interpretación	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	2	punct	_	_
 9	ya	ya	ADV	_	_	13	mark	_	_
@@ -834,7 +834,7 @@
 1	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	2	iobj	_	_
 2	daremos	dar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	nummod	_	_
+4	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
 5	oportunidad	oportunidad	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 6	para	para	SCONJ	_	_	7	mark	_	_
 7	ver	ver	VERB	_	VerbForm=Inf	2	advcl	_	_
@@ -1191,7 +1191,7 @@
 # sent_id = es-dev-003-s457
 # text = El tercer teclado recitativo retomó los juegos de Dallery.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	nummod	_	_
+2	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
 3	teclado	teclado	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 4	recitativo	recitativo	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
 5	retomó	retomar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2010,11 +2010,11 @@
 6	2000	2000	NUM	_	NumType=Card	4	nmod	_	_
 7	debuta	debutar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	en	en	ADP	_	_	10	case	_	_
-9	Primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	10	nummod	_	_
+9	Primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	10	amod	_	_
 10	División	división	NOUN	_	_	7	obl	_	_
 11	con	con	ADP	_	_	14	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	14	nummod	_	_
+13	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
 14	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 15-16	del	_	_	_	_	_	_	_	_
 15	de	de	ADP	_	_	17	case	_	_
@@ -2165,7 +2165,7 @@
 25	a	a	ADP	_	_	26	mark	_	_
 26	participar	participar	VERB	_	VerbForm=Inf	24	advcl	_	_
 27	como	como	ADP	_	_	29	case	_	_
-28	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	29	nummod	_	_
+28	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	29	amod	_	_
 29	guitarrista	guitarrista	NOUN	_	Number=Sing	26	obl	_	_
 30	en	en	ADP	_	_	32	case	_	_
 31	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
@@ -2298,7 +2298,7 @@
 9	rally	rally	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
 10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-12	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	13	nummod	_	_
+12	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	13	amod	_	_
 13	volante	volante	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
 14	oficial	oficial	ADJ	_	Number=Sing	13	amod	_	_
 15	en	en	ADP	_	_	16	case	_	_
@@ -2323,7 +2323,7 @@
 33	que	que	SCONJ	_	_	50	mark	_	_
 34	en	en	ADP	_	_	37	case	_	_
 35	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
-36	sexto	sexto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	37	nummod	_	_
+36	sexto	sexto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	37	amod	_	_
 37	tramo	tramo	NOUN	_	Gender=Masc|Number=Sing	50	obl	_	_
 38-39	del	_	_	_	_	_	_	_	_
 38	de	de	ADP	_	_	40	case	_	_
@@ -2992,7 +2992,7 @@
 # text = Durante el primer paso, la tabla de símbolos era hecha y almacenada en RAM.
 1	Durante	durante	ADP	_	_	4	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	nummod	_	_
+3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
 4	paso	paso	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -7052,7 +7052,7 @@
 11	consola	consola	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
 12	en	en	ADP	_	_	15	case	_	_
 13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
-14	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	15	nummod	_	_
+14	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	15	amod	_	_
 15	día	día	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
 16	en	en	ADP	_	_	18	case	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -7063,7 +7063,7 @@
 22	recordar	recordar	VERB	_	VerbForm=Inf	5	parataxis	_	_
 23	que	que	SCONJ	_	_	35	mark	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-25	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	26	nummod	_	_
+25	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	26	amod	_	_
 26	lote	lote	NOUN	_	Gender=Masc|Number=Sing	35	nsubj	_	_
 27	que	que	SCONJ	_	_	30	mark	_	_
 28	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	iobj	_	_
@@ -10815,7 +10815,7 @@
 # text = Fue la primera mujer con la que estuvo y en la primera cita le contó todo lo que había pasado.
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	nummod	_	_
+3	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
 4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 5	con	con	ADP	_	_	7	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -10824,7 +10824,7 @@
 9	y	y	CCONJ	_	_	15	cc	_	_
 10	en	en	ADP	_	_	13	case	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	nummod	_	_
+12	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
 13	cita	cita	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
 14	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	15	iobj	_	_
 15	contó	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
@@ -11583,7 +11583,7 @@
 8-9	del	_	_	_	_	_	_	_	_
 8	de	de	ADP	_	_	11	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-10	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	11	nummod	_	_
+10	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
 11	lanzamiento	lanzamiento	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	7	punct	_	_
 13	incluye	incluir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_

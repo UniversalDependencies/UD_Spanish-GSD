@@ -285,7 +285,7 @@
 14	,	,	PUNCT	_	_	15	punct	_	_
 15	actualmente	actualmente	ADV	_	_	11	advmod	_	_
 16	de	de	ADP	_	_	18	case	_	_
-17	3er	3er	ADJ	_	NumType=Ord	18	nummod	_	_
+17	3er	3er	ADJ	_	NumType=Ord	18	amod	_	_
 18	Dan	dan	PROPN	_	_	15	nmod	_	_
 19	en	en	ADP	_	_	21	case	_	_
 20	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	21	det	_	_
@@ -3125,7 +3125,7 @@
 30	europeos	europeo	ADJ	_	Gender=Masc|Number=Plur	27	amod	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	36	punct	_	_
 32	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	_
-33	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	34	nummod	_	_
+33	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	34	amod	_	_
 34	rastas	rasta	NOUN	_	Number=Plur	36	nsubj	_	_
 35	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	36	iobj	_	_
 36	guardaban	guardar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -3943,7 +3943,7 @@
 18	,	,	PUNCT	_	_	5	punct	_	_
 19	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-21	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	22	nummod	_	_
+21	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	22	amod	_	_
 22	europeo	europeo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 23	en	en	ADP	_	_	24	mark	_	_
 24	descubrir	descubrir	VERB	_	VerbForm=Inf	21	advcl	_	_
@@ -4811,7 +4811,7 @@
 20	convirtió	convertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 21	en	en	ADP	_	_	24	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-23	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	24	nummod	_	_
+23	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	24	amod	_	_
 24	bateador	bateador	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
 25	de	de	ADP	_	_	27	case	_	_
 26	40	40	NUM	_	NumType=Card	27	nummod	_	_
@@ -5150,7 +5150,7 @@
 8	de	de	ADP	_	_	12	case	_	_
 9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 10	dos	dos	NUM	_	Number=Plur|NumType=Card	12	nummod	_	_
-11	terceras	tercero	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	12	nummod	_	_
+11	terceras	tercero	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	12	amod	_	_
 12	partes	parte	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -5590,7 +5590,7 @@
 16	errores	error	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
 17	por	por	ADP	_	_	20	case	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-19	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	20	nummod	_	_
+19	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	20	amod	_	_
 20	base	base	NOUN	_	Number=Sing	10	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	_
 22	con	con	ADP	_	_	23	case	_	_
@@ -5600,7 +5600,7 @@
 26	Beltré	beltré	PROPN	_	_	27	nsubj	_	_
 27	quedó	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 28	en	en	ADP	_	_	30	case	_	_
-29	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	30	nummod	_	_
+29	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	30	amod	_	_
 30	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	_
 31	en	en	ADP	_	_	33	case	_	_
 32	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
@@ -5967,7 +5967,7 @@
 8	colocó	colocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 9	oficialmente	oficialmente	ADV	_	_	8	advmod	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-11	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	12	nummod	_	_
+11	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	12	amod	_	_
 12	piedra	piedra	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -6129,7 +6129,7 @@
 17	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	18	det	_	_
 18	productos	producto	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	_
 19	de	de	ADP	_	_	21	case	_	_
-20	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	21	nummod	_	_
+20	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	21	amod	_	_
 21	necesidad	necesidad	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -6362,7 +6362,7 @@
 40	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	41	aux:pass	_	_
 41	reeditadas	reeditar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 42	por	por	ADP	_	_	44	case	_	_
-43	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	44	nummod	_	_
+43	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	44	amod	_	_
 44	vez	vez	NOUN	_	Gender=Fem|Number=Sing	41	obl	_	_
 45	en	en	ADP	_	_	46	case	_	_
 46	CD	cd	NOUN	_	_	41	obl	_	SpaceAfter=No
@@ -7294,7 +7294,7 @@
 # text = En la primera ronda, Francia quedó emparejada con Senegal, Uruguay y Dinamarca, la clasificación no parecía un problema para el combinado de Roger Lemerre, pero la historia fue otra.
 1	En	en	ADP	_	_	4	case	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	nummod	_	_
+3	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
 4	ronda	ronda	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	4	punct	_	_
 6	Francia	francia	PROPN	_	_	7	nsubj	_	_
@@ -7557,7 +7557,7 @@
 42-43	del	_	_	_	_	_	_	_	_
 42	de	de	ADP	_	_	45	case	_	_
 43	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
-44	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	45	nummod	_	_
+44	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	45	amod	_	_
 45	ministro	ministro	NOUN	_	Gender=Masc|Number=Sing	41	nmod	_	_
 46	John	john	PROPN	_	_	45	appos	_	_
 47	Howard	howard	PROPN	_	_	46	flat	_	SpaceAfter=No
@@ -8248,7 +8248,7 @@
 10	creencia	creencia	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 11	en	en	ADP	_	_	14	case	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-13	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	14	nummod	_	_
+13	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	14	amod	_	_
 14	ecuación	ecuación	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
 15	y	y	CCONJ	_	_	17	cc	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -8394,11 +8394,11 @@
 1	Incluido	incluir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 2	en	en	ADP	_	_	5	case	_	_
 3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
-4	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	nummod	_	_
+4	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
 5	disco	disco	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 6	como	como	ADP	_	_	9	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	nummod	_	_
+8	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
 9	corte	corte	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
@@ -8672,8 +8672,8 @@
 4	1982-1983	1982-1983	NUM	_	NumType=Card	2	appos	_	_
 5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-7	octogésima	octogésimo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	8	nummod	_	_
-8	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	9	nummod	_	_
+7	octogésima	octogésimo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	_
+8	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
 9	competición	competición	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
@@ -8988,7 +8988,7 @@
 11	,	,	PUNCT	_	_	15	punct	_	_
 12	en	en	ADP	_	_	15	case	_	_
 13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	15	det	_	_
-14	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	15	nummod	_	_
+14	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	15	amod	_	_
 15	participación	participación	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -9954,7 +9954,7 @@
 # text = Fue el primer disco de un artista de la casa Sun que alcanzó un millón de copias, dicho tema sería interpretado posteriormente por Elvis Presley con un estilo country más marcado, colocándolo nuevamente como un éxito.
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	nummod	_	_
+3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
 4	disco	disco	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	de	de	ADP	_	_	7	case	_	_
 6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -10132,7 +10132,7 @@
 7	mejores	mejor	NOUN	_	Number=Plur	4	obl	_	_
 8	de	de	ADP	_	_	11	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-10	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	11	nummod	_	_
+10	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	11	amod	_	_
 11	División	división	NOUN	_	_	7	nmod	_	_
 12	y	y	CCONJ	_	_	13	cc	_	_
 13	habrá	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	conj	_	_
@@ -10400,7 +10400,7 @@
 # sent_id = es-dev-001-s358
 # text = La primera edición del VHS viene con tarjetas con fotos de los miembros.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	nummod	_	_
+2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
 3	edición	edición	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	_	_	6	case	_	_
@@ -10578,7 +10578,7 @@
 7	Hits	hits	PROPN	_	_	1	appos	_	_
 8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-10	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	11	nummod	_	_
+10	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	11	amod	_	_
 11	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 12	recopilatorio	recopilatorio	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
 13-14	del	_	_	_	_	_	_	_	_
@@ -13784,7 +13784,7 @@
 16	"	"	PUNCT	_	_	15	punct	_	_
 17	de	de	ADP	_	_	20	case	_	_
 18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-19	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	20	nummod	_	_
+19	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	20	amod	_	_
 20	División	división	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
 21	B	b	X	_	_	20	appos	_	_
 22	de	de	ADP	_	_	23	case	_	_
@@ -14470,7 +14470,7 @@
 5	)	)	PUNCT	_	_	3	punct	_	_
 6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	decimotercer	decimotercer	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	nummod	_	_
+8	decimotercer	decimotercer	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
 9	disco	disco	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
@@ -14809,14 +14809,14 @@
 5	y	y	CCONJ	_	_	6	cc	_	_
 6	técnicos	técnico	NOUN	_	Gender=Masc|Number=Plur	4	conj	_	_
 7	de	de	ADP	_	_	9	case	_	_
-8	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	9	nummod	_	_
+8	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
 9	línea	línea	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 10	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = es-dev-002-s5
 # text = La segunda edición de los Seiyū Awards fue celebrada el 8 de marzo del 2008 en el Tokyo 's Otaku shopping de Akihabara.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	nummod	_	_
+2	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
 3	edición	edición	NOUN	_	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
@@ -14943,7 +14943,7 @@
 # text = Será la cuarta temporada de Guardiola en el campo profesional, en el que debutó a finales de 2009, y al ciclista, que destaca por ser un buen rodador.
 1	Será	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	cuarta	cuarto	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	nummod	_	_
+3	cuarta	cuarto	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
 4	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	Guardiola	guardiola	PROPN	_	_	4	nmod	_	_
@@ -15488,7 +15488,7 @@
 3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	lanzada	lanzar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	por	por	ADP	_	_	7	case	_	_
-6	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	nummod	_	_
+6	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	vez	vez	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
 8	en	en	ADP	_	_	9	case	_	_
 9	Japón	japón	PROPN	_	_	4	obl	_	SpaceAfter=No
@@ -15806,7 +15806,7 @@
 # sent_id = es-dev-002-s38
 # text = El segundo prototipo que voló el 28 de mayo de 1963 era la versión navalizada y presentaba flotadores estabilizadores en los soportes del tren de aterrizaje principal.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	nummod	_	_
+2	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
 3	prototipo	prototipo	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
 4	que	que	SCONJ	_	_	5	mark	_	_
 5	voló	volar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
@@ -16144,7 +16144,7 @@
 # text = Para su tercer álbum -- Supersonic decidió crear una distribuidora propia.
 1	Para	para	ADP	_	_	4	case	_	_
 2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
-3	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	nummod	_	_
+3	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
 4	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 5	--	--	PUNCT	_	_	4	punct	_	_
 6	Supersonic	supersonic	PROPN	_	_	7	nsubj	_	_
@@ -16875,7 +16875,7 @@
 10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 11	confirmado	confirmar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 12	como	como	ADP	_	_	14	case	_	_
-13	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	14	nummod	_	_
+13	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
 14	piloto	piloto	NOUN	_	Number=Sing	11	obl	_	_
 15	de	de	ADP	_	_	17	case	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -18497,7 +18497,7 @@
 1	Dotel	dotel	PROPN	_	_	2	nsubj	_	_
 2	lanzó	lanzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
-4	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	nummod	_	_
+4	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	5	amod	_	_
 5	partido	partido	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
 6	con	con	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -18516,7 +18516,7 @@
 20	juego	juego	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
 21	en	en	ADP	_	_	24	case	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
-23	octava	octavo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	24	nummod	_	_
+23	octava	octavo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	24	amod	_	_
 24	entrada	entrada	NOUN	_	Gender=Fem|Number=Sing|VerbForm=Part	17	obl	_	_
 25	contra	contra	ADP	_	_	27	case	_	_
 26	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
@@ -18735,7 +18735,7 @@
 3	banda	banda	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 4	grabó	grabar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
-6	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	7	nummod	_	_
+6	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
 7	demo	demo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 8	en	en	ADP	_	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -19900,7 +19900,7 @@
 # sent_id = es-dev-002-s182
 # text = El segundo lote de aviones recibió la denominación CV - 2B.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	nummod	_	_
+2	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
 3	lote	lote	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	aviones	avión	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
@@ -20326,7 +20326,7 @@
 3	,	,	PUNCT	_	_	2	punct	_	_
 4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	nombrada	nombrar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-6	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	nummod	_	_
+6	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	jefa	jefa	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
 8-9	del	_	_	_	_	_	_	_	_
 8	de	de	ADP	_	_	10	case	_	_
@@ -20885,7 +20885,7 @@
 3	convierte	convertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	_	_	7	case	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-6	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	7	nummod	_	_
+6	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
 7	portal	portal	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 8	inmobiliario	inmobiliario	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 9	que	que	SCONJ	_	_	10	mark	_	_
@@ -20946,7 +20946,7 @@
 14	milita	militar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 15	en	en	ADP	_	_	18	case	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-17	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	18	nummod	_	_
+17	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	18	amod	_	_
 18	división	división	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
 19	mexicana	mexicano	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	9	punct	_	_
@@ -21248,7 +21248,7 @@
 1	Participó	participar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	5	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-4	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	nummod	_	_
+4	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	5	amod	_	_
 5	expedición	expedición	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 6	auxiliadora	auxiliador	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
 7-8	al	_	_	_	_	_	_	_	_
@@ -21739,7 +21739,7 @@
 25	Gabinete	gabinete	NOUN	_	_	22	nmod	_	_
 26	donde	donde	ADV	_	_	30	advmod	_	_
 27	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
-28	Primeros	primeros	ADJ	_	NumType=Ord	29	nummod	_	_
+28	Primeros	primeros	ADJ	_	NumType=Ord	29	amod	_	_
 29	Ministros	ministro	PROPN	_	_	30	nsubj	_	_
 30	celebran	celebrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
 31	reuniones	reunión	NOUN	_	Gender=Fem|Number=Plur	30	obj	_	_
@@ -22287,7 +22287,7 @@
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Juez	juez	NOUN	_	_	3	nmod	_	_
 8	de	de	ADP	_	_	10	case	_	_
-9	Primera	primero	ADJ	_	NumType=Ord	10	nummod	_	_
+9	Primera	primero	ADJ	_	NumType=Ord	10	amod	_	_
 10	Instancia	instancia	NOUN	_	_	7	nmod	_	_
 11	y	y	CCONJ	_	_	13	cc	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -22667,7 +22667,7 @@
 # sent_id = es-dev-002-s504
 # text = En primera instancia se fundó en 1754 terrenos donados por el Marques de la Pica por don Domingo Ortiz de Rozas, pero fue ubicada en otro sitio.
 1	En	en	X	ADP	_	3	case	_	_
-2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	nummod	_	_
+2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
 3	instancia	instancia	NOUN	_	Gender=Fem|Number=Sing	5	dep	_	_
 4	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	iobj	_	_
 5	fundó	fundar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -23680,7 +23680,7 @@
 # sent_id = es-dev-002-s294
 # text = El primer ministro serbio, Pašić, mantuvo durante la guerra dos programas alternativos: uno que coincidía con el del Comité y pretendía la unión de todos los croatas, eslovenos, serbios y macedonios;
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	nummod	_	_
+2	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
 3	ministro	ministro	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 4	serbio	serbio	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	6	punct	_	_
@@ -25096,7 +25096,7 @@
 # sent_id = es-dev-002-s342
 # text = En primera instancia, los denunciantes no se presentaron (supuestamente no habían recibido la citación), por lo que se tuvo que volver a citar a las partes, viéndome obligado así a acudir al juzgado dos veces por cada denuncia.
 1	En	en	ADP	_	_	3	case	_	_
-2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	nummod	_	_
+2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
 3	instancia	instancia	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
@@ -25954,7 +25954,7 @@
 # sent_id = es-dev-002-s370
 # text = El primer premio Gordon Bell lo gararon los investigadores de la División de Procesamiento Paralelo del Laboratorio Nacional de Sandia (Texas) por el trabajo en el hipercubo de la nCube.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	nummod	_	_
+2	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
 3	premio	premio	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
 4	Gordon	gordon	PROPN	_	_	3	appos	_	_
 5	Bell	bell	PROPN	_	_	4	flat	_	_
@@ -26049,7 +26049,7 @@
 6	,	,	PUNCT	_	_	5	punct	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	obj	_	_
 8	de	de	ADP	_	_	10	case	_	_
-9	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	10	nummod	_	_
+9	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	_
 10	consejero	consejero	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 11	y	y	CCONJ	_	_	12	cc	_	_
 12	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
@@ -26897,7 +26897,7 @@
 21	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	18	appos	_	_
 22	de	de	ADP	_	_	25	case	_	_
 23	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
-24	primeras	primero	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	25	nummod	_	_
+24	primeras	primero	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	25	amod	_	_
 25	bandas	banda	NOUN	_	Gender=Fem|Number=Plur	21	nmod	_	_
 26	de	de	ADP	_	_	27	case	_	_
 27	Hardcore	hardcore	PROPN	_	_	25	nmod	_	_
@@ -27056,7 +27056,7 @@
 15	por	por	ADP	_	_	16	mark	_	_
 16	interpretar	interpretar	VERB	_	VerbForm=Inf	14	advcl	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-18	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	19	nummod	_	_
+18	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	19	amod	_	_
 19	papel	papel	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
 20	en	en	ADP	_	_	22	case	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -27965,7 +27965,7 @@
 3	andaluza	andaluz	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	nummod	_	_
+6	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	economía	economía	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	España	españa	PROPN	_	_	7	nmod	_	_
@@ -29490,7 +29490,7 @@
 # sent_id = es-dev-002-s483
 # text = Los primeros cuatro equipos también se han obtenido acceso a la Copa del Emperador, mientras que los dos últimos equipos han jugado en un playoff que vio una cruz desafío divisiones entre los finalistas del 'Campeonato de Fútbol Senior de Japón, creado para la ocasión.
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
-2	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	3	nummod	_	_
+2	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	_
 3	cuatro	cuatro	NUM	_	Number=Plur|NumType=Card	4	nummod	_	_
 4	equipos	equipo	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
 5	también	también	ADV	_	_	8	advmod	_	_
@@ -29757,7 +29757,7 @@
 2	muerte	muerte	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
 3	de	de	ADP	_	_	6	case	_	_
 4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
-5	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	nummod	_	_
+5	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
 6	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
@@ -30080,7 +30080,7 @@
 12	Seguros	seguros	PROPN	_	_	9	nmod	_	_
 13	en	en	ADP	_	_	16	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	16	nummod	_	_
+15	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	16	amod	_	_
 16	Ministerio	ministerio	PROPN	_	_	7	nmod	_	_
 17	de	de	ADP	_	_	18	case	_	_
 18	Trabajo	trabajo	PROPN	_	_	16	nmod	_	_
@@ -30467,7 +30467,7 @@
 2	Pinti	pinti	PROPN	_	_	1	flat	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-5	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	nummod	_	_
+5	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	6	amod	_	_
 6	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
@@ -31081,7 +31081,7 @@
 25	tarde	tarde	ADV	_	_	23	advmod	_	_
 26	anota	anotar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
 27	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
-28	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	29	nummod	_	_
+28	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	29	amod	_	_
 29	gol	gol	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	_
 30	(	(	PUNCT	_	_	31	punct	_	SpaceAfter=No
 31	20	20	NUM	_	NumType=Card	29	appos	_	_
@@ -31214,7 +31214,7 @@
 4	partes	parte	PROPN	_	Gender=Fem|Number=Plur	1	nmod	_	_
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	cuarto	cuarto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	nummod	_	_
+7	cuarto	cuarto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
 8	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 9	grabado	grabar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	_
 10	por	por	ADP	_	_	12	case	_	_
@@ -31537,7 +31537,7 @@
 5	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 6	por	por	ADP	_	_	9	case	_	_
 7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
-8	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	9	nummod	_	_
+8	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
 9	carcasa	carcasa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	5	punct	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -32418,7 +32418,7 @@
 9	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	0	root	_	_
 10	de	de	ADP	_	_	13	case	_	_
 11	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-12	primeras	primero	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	13	nummod	_	_
+12	primeras	primero	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	13	amod	_	_
 13	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
 14	que	que	SCONJ	_	_	16	mark	_	_
 15	voluntariamente	voluntariamente	ADV	_	_	16	advmod	_	_
@@ -34320,7 +34320,7 @@
 # text = En el primer año enamora en la ficción a Laura Azcurra, y en el segundo año enamora, tanto en la ficción como en la vida real, a Agustina Cherri.
 1	En	en	ADP	_	_	4	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	nummod	_	_
+3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
 4	año	año	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 5	enamora	enamora	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	_	_	8	case	_	_
@@ -34333,7 +34333,7 @@
 13	y	y	CCONJ	_	_	18	cc	_	_
 14	en	en	ADP	_	_	17	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-16	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	17	nummod	_	_
+16	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	17	amod	_	_
 17	año	año	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
 18	enamora	enamora	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	23	punct	_	_
@@ -34523,7 +34523,7 @@
 # sent_id = es-dev-003-s164
 # text = La primera versión interactiva fue puesta a disposición de los usuarios generales en junio de 1964;
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	nummod	_	_
+2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
 3	versión	versión	NOUN	_	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
 4	interactiva	interactivo	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
 5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	aux:pass	_	_
@@ -34873,7 +34873,7 @@
 22	Evil	evil	PROPN	_	_	20	appos	_	_
 23	concretamente	concretamente	ADV	_	_	26	advmod	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
-25	cuarta	cuarto	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	26	nummod	_	_
+25	cuarta	cuarto	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	26	amod	_	_
 26	parte	parte	NOUN	_	Gender=Fem|Number=Sing	17	appos	_	_
 27	y	y	CCONJ	_	_	28	cc	_	_
 28	Code	code	PROPN	_	_	26	conj	_	_
@@ -35132,7 +35132,7 @@
 22	1944	1944	NUM	_	NumType=Card	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	7	punct	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
-25	Segundo	segundo	ADJ	_	NumType=Ord	26	nummod	_	_
+25	Segundo	segundo	ADJ	_	NumType=Ord	26	amod	_	_
 26	ejército	ejército	NOUN	_	Gender=Masc|Number=Sing	29	nsubj	_	_
 27	británico	británico	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	_
 28	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	29	aux	_	_
@@ -35811,7 +35811,7 @@
 # sent_id = es-dev-003-s208
 # text = Esta primera aerolínea estatal es conocida como la "Aeroposta Nacional", sólo a los fines jurídicos.
 1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	3	det	_	_
-2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	nummod	_	_
+2	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	3	amod	_	_
 3	aerolínea	aerolínea	NOUN	_	Gender=Fem|Number=Sing	6	nsubj:pass	_	_
 4	estatal	estatal	ADJ	_	Number=Sing	3	amod	_	_
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
@@ -35966,7 +35966,7 @@
 3	participación	participación	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 4	en	en	ADP	_	_	7	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	nummod	_	_
+6	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	campaña	campaña	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
 8-9	al	_	_	_	_	_	_	_	_
 8	a	a	ADP	_	_	10	case	_	_
@@ -36854,7 +36854,7 @@
 14	finalmente	finalmente	ADV	_	_	15	advmod	_	_
 15	zarpó	zarpar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 16	por	por	ADP	_	_	18	case	_	_
-17	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	18	nummod	_	_
+17	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	18	amod	_	_
 18	vez	vez	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	29	29	NUM	_	NumType=Card	15	obl	_	_
@@ -37219,7 +37219,7 @@
 5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	_	_
 6	sitúa	situar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	en	en	ADP	_	_	9	case	_	_
-8	cuarto	cuarto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	nummod	_	_
+8	cuarto	cuarto	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	9	amod	_	_
 9	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 10	en	en	ADP	_	_	12	case	_	_
 11	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
@@ -38146,7 +38146,7 @@
 3	volante	volante	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	y	y	CCONJ	_	_	7	cc	_	_
 5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	det	_	_
-6	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	7	nummod	_	_
+6	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	7	amod	_	_
 7	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
 8	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
 9	Hertha	hertha	PROPN	_	Gender=Fem|Number=Sing|VerbForm=Part	7	nsubj	_	_
@@ -39316,7 +39316,7 @@
 12	Alemania	alemania	PROPN	_	_	10	nmod	_	_
 13	hasta	hasta	ADP	_	_	16	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-15	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	16	nummod	_	_
+15	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	16	amod	_	_
 16	tercio	tercio	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
 17-18	del	_	_	_	_	_	_	_	_
 17	de	de	ADP	_	_	19	case	_	_
@@ -39385,7 +39385,7 @@
 # sent_id = es-dev-003-s328
 # text = En primer lugar, la EPD para un bien no es necesariamente constante;
 1	En	en	ADP	_	_	3	case	_	_
-2	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	nummod	_	_
+2	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	3	amod	_	_
 3	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -39543,7 +39543,7 @@
 6	más	más	ADV	_	Degree=Cmp	5	advmod	_	_
 7	con	con	ADP	_	_	10	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-9	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	10	nummod	_	_
+9	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	_
 10	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 11	que	que	CCONJ	_	_	6	dep	_	_
 12	durante	durante	ADP	_	_	14	case	_	_
@@ -39637,7 +39637,7 @@
 15	sentido	sentido	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	21	punct	_	_
 17	en	en	ADP	_	_	19	case	_	_
-18	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	19	nummod	_	_
+18	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	19	amod	_	_
 19	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
 20	ser	ser	AUX	_	VerbForm=Inf	21	cop	_	_
 21	testimonio	testimonio	NOUN	_	Gender=Masc|Number=Sing	11	xcomp	_	_
@@ -39917,7 +39917,7 @@
 2	subió	subir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	por	por	ADP	_	_	4	case	_	_
 4	vez	vez	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
-5	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	nummod	_	SpaceAfter=No
+5	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	2	punct	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	24	24	NUM	_	NumType=Card	2	obl	_	_
@@ -40004,7 +40004,7 @@
 42-43	del	_	_	_	_	_	_	_	_
 42	de	de	ADP	_	_	45	case	_	_
 43	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	45	det	_	_
-44	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	45	nummod	_	_
+44	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	45	amod	_	_
 45	supuesto	supuesto	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	41	nmod	_	SpaceAfter=No
 46	,	,	PUNCT	_	_	49	punct	_	_
 47	sino	sino	CCONJ	_	_	49	cc	_	_
@@ -40254,7 +40254,7 @@
 # text = Fue el primer poblado de Francia en ser liberado después de la invasión aliada del Día D, el 6 de junio de 1944.
 1	Fue	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	nummod	_	_
+3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
 4	poblado	poblado	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	Francia	francia	PROPN	_	_	4	nmod	_	_
@@ -40639,7 +40639,7 @@
 9	realizaba	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 10	por	por	ADP	_	_	13	case	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-12	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	nummod	_	_
+12	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
 13	planta	planta	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	_
 15	donde	donde	ADV	_	_	16	advmod	_	_
@@ -40717,7 +40717,7 @@
 2	tramo	tramo	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	constituye	constituir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	6	nummod	_	_
+5	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	_
 6	fase	fase	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -40818,7 +40818,7 @@
 # text = En una tercera visita (tras comprobar que el kernel volvía de nuevo tras una prueba mínima), ya en julio, el trato fue más pelota, pero de nuevo se presentaron retrasos.
 1	En	en	ADP	_	_	4	case	_	_
 2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	nummod	_	_
+3	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
 4	visita	visita	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	_
 5	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
 6	tras	tras	ADP	_	_	7	mark	_	_
@@ -40905,7 +40905,7 @@
 # text = Consiguió la séptima plaza en el Trofeo Eric Bompard.
 1	Consiguió	conseguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-3	séptima	séptimo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	nummod	_	_
+3	séptima	séptimo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
 4	plaza	plaza	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 5	en	en	ADP	_	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -41336,7 +41336,7 @@
 2	pude	poder	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	aux	_	_
 3	ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	6	nummod	_	_
+5	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	6	amod	_	_
 6	planta	planta	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	animales	animal	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
