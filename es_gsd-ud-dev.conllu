@@ -16995,7 +16995,7 @@
 12	euros	euro	NOUN	_	_	5	appos	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-15	cuales	cual	PRON	_	Number=Plur|PronType=Int,Rel	16	mark	_	_
+15	cuales	cual	PRON	_	Number=Plur|PronType=Int,Rel	16	obj	_	_
 16	pagaría	pagar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	12	acl:relcl	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 18	Real	real	PROPN	_	Gender=Masc|Number=Sing	19	amod	_	_
@@ -33248,7 +33248,7 @@
 40	gestión	gestión	NOUN	_	Gender=Fem|Number=Sing	41	obl	_	_
 41	elogió	elogiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	acl:relcl	_	_
 42	ya	ya	X	_	_	44	cc	_	_
-43	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	45	mark	_	_
+43	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	45	nsubj	_	_
 44	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	41	conj	_	_
 45	ver	ver	VERB	_	VerbForm=Inf	44	xcomp	_	_
 46	"	"	PUNCT	_	_	47	punct	_	SpaceAfter=No

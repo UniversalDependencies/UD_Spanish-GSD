@@ -2624,7 +2624,7 @@
 34	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	38	punct	_	_
 36	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	_	_
-37	cuales	cual	PRON	_	Number=Plur|PronType=Int,Rel	38	mark	_	_
+37	cuales	cual	PRON	_	Number=Plur|PronType=Int,Rel	38	obj	_	_
 38	considero	considero	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	conj	_	_
 39	muy	mucho	ADV	_	_	40	advmod	_	_
 40	importantes	importante	ADJ	_	Number=Plur	38	xcomp	_	_
@@ -5450,7 +5450,7 @@
 # sent_id = es-test-001-s24
 # text = Una vez electos, los referentes de la oposición al Gobierno Radical K, parecieran olvidar este tipo de escandalos y unirse al circulo corrupto del poder.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	mark	_	_
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 3	electos	electo	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	16	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
@@ -7410,7 +7410,7 @@
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
 42	proceso	proceso	NOUN	_	Gender=Masc|Number=Sing	39	obl	_	_
 43	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	44	det	_	_
-44	vez	vez	NOUN	_	Gender=Fem|Number=Sing	46	mark	_	_
+44	vez	vez	NOUN	_	Gender=Fem|Number=Sing	46	obl	_	_
 45	sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	46	aux:pass	_	_
 46	reparados	reparar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	39	advcl	_	SpaceAfter=No
 47	.	.	PUNCT	_	_	19	punct	_	_
@@ -10471,7 +10471,7 @@
 14	,	,	PUNCT	_	_	20	punct	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	20	mark	_	_
+17	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	20	obj	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	votante	votante	NOUN	_	Number=Sing	20	nsubj	_	_
 20	digita	digitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
@@ -11142,7 +11142,7 @@
 # sent_id = es-test-001-s180
 # text = Una vez indetificado, se descubrió que el conductor del auto acababa de cumplir una condena en la cárcel de Mendoza por un delito relacionado a la venta de drogas.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	mark	_	_
+2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 3	indetificado	indetificar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	6	punct	_	_
 5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	_	_
