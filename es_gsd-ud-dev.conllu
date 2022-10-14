@@ -6057,7 +6057,7 @@
 25	89.43	8.43	NUM	_	NumType=Card	26	nummod	_	_
 26	km	km	NOUN	_	_	28	nsubj	_	SpaceAfter=No
 27	²	²	SYM	_	_	26	dep	_	_
-28	corresponden	corresponder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+28	corresponden	corresponder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
 29	a	a	ADP	_	_	30	case	_	_
 30	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	_
 31	firme	firme	ADJ	_	Number=Sing	30	amod	_	_
@@ -38865,7 +38865,7 @@
 # text = Todos los encuentros son jugados en la nación anfitriona, y los diez seleccionados nacionales Sub - 17 de la CONMEBOL participan en cada edición (a menos que alguna asociación se retire).
 1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	encuentros	encuentro	AUX	_	Gender=Masc|Number=Plur|VerbForm=Fin	5	nsubj:pass	_	_
+3	encuentros	encuentro	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	5	nsubj:pass	_	_
 4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	jugados	jugar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 6	en	en	ADP	_	_	8	case	_	_
