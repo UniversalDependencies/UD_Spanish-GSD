@@ -2810,7 +2810,7 @@
 4	Consulado	consulado	PROPN	_	_	11	obl	_	_
 5	y	y	CCONJ	_	_	8	cc	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	Primer	primer	PROPN	_	_	8	nummod	_	_
+7	Primer	primer	ADJ	_	NumType=Ord	8	amod	_	_
 8	Imperio	imperio	PROPN	_	_	4	conj	_	_
 9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	periódicos	periódico	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
@@ -5935,7 +5935,7 @@
 14	francesa	francés	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
 15	durante	durante	ADP	_	_	18	case	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-17	Segunda	segundo	PROPN	_	Gender=Fem|Number=Sing	18	nummod	_	_
+17	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	18	amod	_	_
 18	Guerra	guerra	PROPN	_	Gender=Fem|Number=Sing	13	nmod	_	_
 19	Mundial	mundial	PROPN	_	_	18	amod	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	25	punct	_	_
@@ -16518,7 +16518,7 @@
 4	subdirector	subdirector	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
 5	de	de	ADP	_	_	8	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-7	Tercera	tercera	PROPN	_	_	8	nummod	_	_
+7	Tercera	tercera	ADJ	_	NumType=Ord	8	amod	_	_
 8	Compañía	compañía	PROPN	_	_	2	nmod	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	Bomberos	bomberos	PROPN	_	Gender=Masc|Number=Plur	8	nmod	_	_
@@ -17791,7 +17791,7 @@
 3	,	,	PUNCT	_	_	23	punct	_	_
 4	en	en	ADP	_	_	7	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	Segunda	segundo	PROPN	_	Gender=Fem|Number=Sing	7	nummod	_	_
+6	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	Conferencia	conferencia	PROPN	_	_	23	obl	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -26810,7 +26810,7 @@
 3	inicio	inicio	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
 4	de	de	ADP	_	_	7	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
-6	Segunda	segundo	PROPN	_	Gender=Fem|Number=Sing	7	nummod	_	_
+6	Segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	Guerra	guerra	PROPN	_	Gender=Fem|Number=Sing	3	nmod	_	_
 8	Mundial	mundial	PROPN	_	Number=Sing	7	amod	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	11	punct	_	_
