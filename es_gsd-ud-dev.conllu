@@ -4243,8 +4243,8 @@
 37	responsable	responsable	NOUN	_	Number=Sing	32	obl	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	43	punct	_	_
 39	por	por	SCONJ	_	_	43	mark	_	_
-40	que	que	X	_	_	39	dep	_	_
-41	és	és	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	43	cop	_	_
+40	que	que	SCONJ	_	_	39	fixed	_	_
+41	és	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	43	cop	_	CorrectForm=es
 42	solo	sólo	ADV	_	_	43	advmod	_	_
 43	eso	ese	PRON	_	Number=Sing|PronType=Dem	27	advcl	_	SpaceAfter=No
 44	,	,	PUNCT	_	_	46	punct	_	_
@@ -9981,7 +9981,7 @@
 27	con	con	ADP	_	_	29	case	_	_
 28	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	estilo	estilo	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
-30	country	country	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	32	cop	_	_
+30	country	country	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Fin	29	nmod	_	_
 31	más	más	ADV	_	Degree=Cmp	32	advmod	_	_
 32	marcado	marcado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	29	acl	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	_	_
@@ -28234,7 +28234,7 @@
 31	alma	alma	NOUN	_	Gender=Fem|Number=Sing	29	obj	_	_
 32	blanca	blanco	ADJ	_	Gender=Fem|Number=Sing	31	amod	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	37	punct	_	_
-34	Soy	ser	PROPN	_	Number=Sing	37	cop	_	_
+34	Soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	37	cop	_	_
 35	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 36	pobre	pobre	ADJ	_	Number=Sing	37	amod	_	_
 37	presidiario	presidiario	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
@@ -29651,8 +29651,8 @@
 6	JAL	jal	PROPN	_	_	3	appos	_	SpaceAfter=No
 7	)	)	PUNCT	_	_	6	punct	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	12	punct	_	_
-9	ambas	ambos	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	12	det	_	_
-10	compañías	compañía	NOUN	_	Gender=Fem|Number=Plur	12	cop	_	_
+9	ambas	ambos	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	10	det	_	_
+10	compañías	compañía	NOUN	_	Gender=Fem|Number=Plur	12	nsubj	_	_
 11	aéreas	aéreo	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	_
 12	miembros	miembro	NOUN	_	Gender=Masc|Number=Plur	18	parataxis	_	_
 13	de	de	ADP	_	_	15	case	_	_
@@ -30915,7 +30915,7 @@
 # sent_id = es-dev-003-s35
 # text = Amalivaca fuel principal héroe cultural de los tamanacos, pueblo indígena de filiación lingüística caribe hoy ya no encontrado..
 1	Amalivaca	amalivaca	PROPN	_	_	4	nsubj	_	_
-2	fuel	fuel	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	4	cop	_	_
+2	fuel	fuel	NOUN	_	Gender=Masc|Number=Sing	1	flat	_	_
 3	principal	principal	ADJ	_	Number=Sing	4	amod	_	_
 4	héroe	héroe	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	cultural	cultural	ADJ	_	Number=Sing	4	amod	_	_
@@ -37963,8 +37963,8 @@
 26	belugas	belugas	PROPN	_	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	_
 28	aunque	aunque	SCONJ	_	_	30	mark	_	_
-29	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
-30	presentes	presente	ADJ	_	Gender=Masc|Number=Plur	7	advcl	_	_
+29	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
+30	presentes	presente	ADJ	_	Gender=Masc|Number=Plur	29	xcomp	_	_
 31	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	33	det	_	_
 32	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	33	det	_	_
 33	especies	especie	NOUN	_	Gender=Fem|Number=Plur	30	obj	_	SpaceAfter=No
@@ -39731,12 +39731,12 @@
 
 # sent_id = es-dev-003-s339
 # text = Empieza siendo horizontal hacia la derecha, posteriormente diagonal hacia abajo a la izquierda forma un amplio arco de circunferencia y, a diferencia de ろ, termina en bucle.
-1	Empieza	empieza	VERB	_	VerbForm=Fin	0	root	_	_
-2	siendo	ser	AUX	_	VerbForm=Ger	9	cop	_	_
-3	horizontal	horizontal	ADJ	_	Number=Sing	9	cop	_	_
+1	Empieza	empezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	siendo	ser	AUX	_	VerbForm=Ger	3	cop	_	_
+3	horizontal	horizontal	ADJ	_	Number=Sing	1	advcl	_	_
 4	hacia	hacia	ADP	_	_	6	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	derecha	derecha	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+6	derecha	derecha	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	6	punct	_	_
 8	posteriormente	posteriormente	ADV	_	_	9	advmod	_	_
 9	diagonal	diagonal	ADJ	_	Number=Sing	1	advcl	_	_
