@@ -12635,7 +12635,7 @@
 11	solo	sólo	ADV	_	_	13	advmod	_	_
 12	en	en	ADP	_	_	13	case	_	_
 13	Africa	áfrica	PROPN	_	Typo=Yes	9	obl	_	CorrectForm=África
-14	sinó	sinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	cc	_	_
+14	sinó	sino	CCONJ	_	Typo=Yes	18	cc	_	CorrectForm=sino
 15	en	en	ADP	_	_	18	case	_	_
 16	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	18	det	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
