@@ -23,7 +23,7 @@
     <tag name="DET">60883</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">38</tag><!-- sí, él -->
     <tag name="NOUN">77541</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
-    <tag name="NUM">11016</tag><!-- dos, 2010, tres, 0, 3, cuatro, 1, 6, 2, 10 -->
+    <tag name="NUM">11039</tag><!-- dos, 2010, tres, 0, 3, cuatro, 1, 6, 2, 10 -->
     <tag name="PART">35</tag><!-- hola, ex, re, co, ir, l, abandono, adio, ficha, gram -->
     <tag name="PRON">14005</tag><!-- él, que, yo, uno, este, cual, tú, todo, quien, otro -->
     <tag name="PROPN">39465</tag><!-- san, unido, españa, juan, madrid, estados, josé, septiembre, julio, enero -->
@@ -31,7 +31,7 @@
     <tag name="SCONJ">8142</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1667</tag><!-- %, ², km, $, º, °, a, €, m, h -->
     <tag name="VERB">36273</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
-    <tag name="X">1933</tag><!-- ex, hab, 's, ya, etc., c, x, i, d, mm -->
+    <tag name="X">1910</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="49">
@@ -56,9 +56,9 @@
     <feat name="Mood" value="Sub" upos="AUX,VERB">1211</feat><!-- sea, haya, sean, tenga, pueda, puedan, fuese, fuera, hubiera, crea -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">53216</feat><!-- los, las, sus, son, dos, años, eran, han, personas, otros -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157366</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
-    <feat name="NumType" value="Card" upos="DET,NUM,PRON">11963</feat><!-- dos, 2010, tres, 0, tanto, cuatro, 3, 1, 2, muchos -->
+    <feat name="NumType" value="Card" upos="DET,NUM,PRON">11986</feat><!-- dos, 2010, tres, 0, tanto, cuatro, 3, 1, 2, muchos -->
     <feat name="NumType" value="Ord" upos="ADJ">943</feat><!-- primera, primer, segundo, segunda, primeros, primeras, tercera, tercer, cuarto, cuarta -->
-    <feat name="Person" value="1" upos="AUX,DET,PRON,VERB,X">2018</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->
+    <feat name="Person" value="1" upos="AUX,DET,NUM,PRON,VERB,X">2018</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,SYM,VERB,X">482</feat><!-- te, ², os, tu, tienes, puedes, tú, usted, vosotros, ti -->
     <feat name="Person" value="3" upos="AUX,DET,INTJ,PRON,SYM,VERB,X">41990</feat><!-- se, es, su, fue, lo, sus, ha, le, son, eran -->
     <feat name="Polarity" value="Neg" upos="ADJ,ADP,ADV,CCONJ,PART,PROPN,X">1764</feat><!-- no, nunca, ni, tampoco, jamás, not, gran, o, para, sino -->

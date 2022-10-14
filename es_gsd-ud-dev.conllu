@@ -2916,7 +2916,7 @@
 # text = Tiene de 38-41 cm de largo de la nariz a la base de la cola.
 1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	_	_	4	case	_	_
-3	38-41	38-41	X	_	_	4	nummod	_	_
+3	38-41	38-41	NUM	_	NumType=Card	4	nummod	_	_
 4	cm	cm	SYM	_	Gender=Masc	1	obl	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	largo	largo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
@@ -2979,7 +2979,7 @@
 12	que	que	SCONJ	_	_	13	mark	_	_
 13	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 14	entre	entre	ADP	_	_	16	case	_	_
-15	970-1.100	90-1100	X	_	_	16	nummod	_	_
+15	970-1.100	90-1100	NUM	_	NumType=Card	16	nummod	_	_
 16	m	m	SYM	_	Gender=Fem	13	obl	_	_
 17	de	de	ADP	_	_	18	case	_	_
 18	profundidad	profundidad	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
