@@ -1388,7 +1388,7 @@
 # sent_id = es-dev-003-s465
 # text = La Facultad de Ciencias jurídicas, políticas, sociales y relaciones internacionales de la Universidad Autónoma Gabriel René Moreno, se encuentra ubicada en la ciudad de Santa Cruz de la Sierra, Bolivia, es una unidad académica fundada en 1879, que desarrolla el servicio público de la educación superior en el campo jurídico, político, social y de relaciones internacionales, con criterios de excelencia académica y responsabilidad social.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	Facultad	facultad	PROPN	_	Gender=Fem|Number=Sing	23	nsubj	_	_
+2	Facultad	facultad	PROPN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Ciencias	ciencia	PROPN	_	Gender=Fem|Number=Plur	2	nmod	_	_
 5	jurídicas	jurídico	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	SpaceAfter=No
@@ -1408,11 +1408,11 @@
 19	Moreno	moreno	PROPN	_	_	17	flat	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	2	punct	_	_
 21	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	iobj	_	_
-22	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
-23	ubicada	ubicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+22	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+23	ubicada	ubicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	22	xcomp	_	_
 24	en	en	ADP	_	_	26	case	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
-26	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_
+26	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	_
 27	de	de	ADP	_	_	29	case	_	_
 28	Santa	santa	PROPN	_	_	29	amod	_	_
 29	Cruz	cruz	PROPN	_	_	26	nmod	_	_
@@ -1421,10 +1421,10 @@
 32	Sierra	sierra	PROPN	_	_	29	nmod	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	_	_
 34	Bolivia	bolivia	PROPN	_	_	26	appos	_	SpaceAfter=No
-35	,	,	PUNCT	_	_	23	punct	_	_
+35	,	,	PUNCT	_	_	22	punct	_	_
 36	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	cop	_	_
 37	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
-38	unidad	unidad	NOUN	_	Gender=Fem|Number=Sing	23	parataxis	_	_
+38	unidad	unidad	NOUN	_	Gender=Fem|Number=Sing	22	parataxis	_	_
 39	académica	académico	ADJ	_	Gender=Fem|Number=Sing	38	amod	_	_
 40	fundada	fundar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	38	acl	_	_
 41	en	en	ADP	_	_	42	case	_	_
@@ -1460,7 +1460,7 @@
 71	y	y	CCONJ	_	_	72	cc	_	_
 72	responsabilidad	responsabilidad	NOUN	_	Gender=Fem|Number=Sing	69	conj	_	_
 73	social	social	ADJ	_	Number=Sing	72	amod	_	SpaceAfter=No
-74	.	.	PUNCT	_	_	23	punct	_	_
+74	.	.	PUNCT	_	_	22	punct	_	_
 
 # sent_id = es-dev-003-s466
 # text = El límite norte se encuentra entre los 6 y 8 grados de latitud y el límite sur lo forma la costa del Atlántico.
@@ -1679,11 +1679,11 @@
 
 # sent_id = es-dev-003-s474
 # text = Parece una empresa fantasma!
-1	Parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
+1	Parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-3	empresa	empresa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+3	empresa	empresa	NOUN	_	Gender=Fem|Number=Sing	1	xcomp	_	_
 4	fantasma	fantasma	NOUN	_	Gender=Fem|Number=Sing	3	appos	_	SpaceAfter=No
-5	!	!	PUNCT	_	_	3	punct	_	_
+5	!	!	PUNCT	_	_	1	punct	_	_
 
 # sent_id = es-dev-003-s475
 # text = Militares, personal de rescate, funcionarios y periodistas corretean por pasillos y oficinas en busca de las últimas noticias que llegan desde la costa, donde ciudades como Soma o Iwaki han sido prácticamente borradas del mapa.
@@ -4146,18 +4146,18 @@
 16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 17	más	más	ADV	_	Degree=Cmp	18	advmod	_	_
 18	popular	popular	ADJ	_	Number=Sing	0	root	_	_
-19	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
-20	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	22	cop	_	_
-21	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
-22	Let	let	PROPN	_	_	6	acl	_	_
+19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
+21	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+22	Let	let	PROPN	_	_	20	xcomp	_	_
 23	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	24	det	_	_
-24	Bass	bass	PROPN	_	_	22	obj	_	_
+24	Bass	bass	PROPN	_	_	20	obj	_	_
 25	Kick	kick	PROPN	_	_	22	xcomp	_	_
 26	in	in	ADP	_	_	28	case	_	_
 27	Miami	miami	PROPN	_	_	22	nmod	_	_
 28	Bitch	bitch	PROPN	_	_	27	flat	_	SpaceAfter=No
-29	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
-30	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+29	"	"	PUNCT	_	_	20	punct	_	SpaceAfter=No
+30	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	18	punct	_	_
 
 # sent_id = es-dev-004-s56
@@ -4386,9 +4386,9 @@
 35	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
 36	muerte	muerte	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
 37	,	,	PUNCT	_	_	24	punct	_	_
-38	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	40	cop	_	_
+38	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	24	acl	_	_
 39	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
-40	pudeur	pudeur	PROPN	_	_	24	acl	_	_
+40	pudeur	pudeur	PROPN	_	_	38	xcomp	_	_
 41	ou	ou	CCONJ	_	_	43	cc	_	_
 42	l'	l'	DET	_	Gender=Masc|Number=Sing|PronType=Ind	43	det	_	SpaceAfter=No
 43	impudeur	impudeur	PROPN	_	Gender=Masc|Number=Sing	40	conj	_	_
@@ -4540,9 +4540,9 @@
 25	pedidos	pedido	NOUN	_	Gender=Masc|Number=Plur|VerbForm=Part	23	obl	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	23	punct	_	_
 27	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	28	iobj	_	_
-28	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
+28	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 29	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
-30	idea	idea	NOUN	_	Gender=Fem|Number=Sing	4	parataxis	_	_
+30	idea	idea	NOUN	_	Gender=Fem|Number=Sing	28	xcomp	_	_
 31	excelente	excelente	ADJ	_	Number=Sing	30	amod	_	_
 32	y	y	CCONJ	_	_	34	cc	_	_
 33	muy	mucho	ADV	_	_	34	advmod	_	_
@@ -4550,7 +4550,7 @@
 35	sobre	sobre	ADP	_	_	36	case	_	_
 36	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	38	obl	_	_
 37	cuando	cuando	SCONJ	_	_	38	mark	_	_
-38	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	30	advcl	_	_
+38	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	28	advcl	_	_
 39	alguna	alguno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	40	det	_	_
 40	duda	duda	NOUN	_	Gender=Fem|Number=Sing	38	obj	_	_
 41	sobre	sobre	ADP	_	_	43	case	_	_

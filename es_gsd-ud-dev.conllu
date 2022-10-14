@@ -1188,9 +1188,9 @@
 9	"	"	PUNCT	_	_	8	punct	_	_
 10	de	de	ADP	_	_	13	case	_	_
 11-12	quedarse	_	_	_	_	_	_	_	_
-11	quedar	quedar	VERB	_	VerbForm=Inf	13	cop	_	_
+11	quedar	quedar	VERB	_	VerbForm=Inf	2	amod	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	iobj	_	_
-13	corto	corto	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
+13	corto	corto	ADJ	_	Gender=Masc|Number=Sing	11	xcomp	_	_
 14	con	con	ADP	_	_	16	case	_	_
 15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	beneficios	beneficio	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
@@ -1926,9 +1926,9 @@
 2	comenzó	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	_	_	4	mark	_	_
 4-5	emitirse	_	_	_	_	_	_	_	_
-4	emitir	emitir	VERB	_	VerbForm=Inf	6	cop	_	_
+4	emitir	emitir	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	iobj	_	_
-6	publicidad	publicidad	NOUN	_	Gender=Fem|Number=Sing	2	xcomp	_	_
+6	publicidad	publicidad	NOUN	_	Gender=Fem|Number=Sing	4	xcomp	_	_
 7	comercial	comercial	ADJ	_	Number=Sing	6	amod	_	_
 8	y	y	CCONJ	_	_	9	cc	_	_
 9	programas	programa	NOUN	_	Gender=Masc|Number=Plur	6	conj	_	_
@@ -2375,15 +2375,15 @@
 
 # sent_id = es-dev-001-s86
 # text = East Milton se encuentra ubicado en las coordenadas.
-1	East	east	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+1	East	east	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	Milton	milton	PROPN	_	_	1	flat	_	_
 3	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	iobj	_	_
-4	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	ubicado	ubicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+4	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ubicado	ubicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	xcomp	_	_
 6	en	en	ADP	_	_	8	case	_	_
 7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	5	punct	_	_
+9	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = es-dev-001-s87
 # text = El tramo es de vía única y está sin electrificar.
@@ -2470,13 +2470,13 @@
 # sent_id = es-dev-001-s90
 # text = Cuando camina, parece lento y cuidadoso.
 1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
-2	camina	camina	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	5	advcl	_	SpaceAfter=No
+2	camina	camina	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	lento	lento	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+4	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	lento	lento	ADJ	_	Gender=Masc|Number=Sing	4	xcomp	_	_
 6	y	y	CCONJ	_	_	7	cc	_	_
 7	cuidadoso	cuidadoso	ADJ	_	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
-8	.	.	PUNCT	_	_	5	punct	_	_
+8	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = es-dev-001-s91
 # text = NH Hoteles tiene 400 hoteles con 59.847 habitaciones en 25 países de Europa, América y África.
@@ -2957,10 +2957,10 @@
 22	y	y	CCONJ	_	_	24	cc	_	_
 23	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
 24	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	conj	_	_
-25	que	que	SCONJ	_	_	28	mark	_	_
+25	que	que	SCONJ	_	_	27	mark	_	_
 26	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	iobj	_	_
-27	denomina	denominar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
-28	cesura	cesura	NOUN	_	Gender=Fem|Number=Sing	24	acl:relcl	_	SpaceAfter=No
+27	denomina	denominar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
+28	cesura	cesura	NOUN	_	Gender=Fem|Number=Sing	27	xcomp	_	SpaceAfter=No
 29	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = es-dev-001-s108
@@ -3183,21 +3183,21 @@
 # sent_id = es-dev-001-s114
 # text = Algunos sectores del Templo se encuentran derruidos, pero en general está conservado.
 1	Algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
-2	sectores	sector	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+2	sectores	sector	NOUN	_	Gender=Masc|Number=Plur	7	nsubj	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Templo	templo	NOUN	_	_	2	nmod	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	iobj	_	_
-7	encuentran	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	derruidos	derruido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
+7	encuentran	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	derruidos	derruido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	7	xcomp	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	14	punct	_	_
 10	pero	pero	CCONJ	_	_	14	cc	_	_
 11	en	en	ADP	_	_	12	case	_	_
 12	general	general	ADJ	_	Number=Sing	14	amod	_	_
 13	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 14	conservado	conservado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	8	conj	_	SpaceAfter=No
-15	.	.	PUNCT	_	_	8	punct	_	_
+15	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = es-dev-001-s115
 # text = La pista "Counting Bodies Like Sheep" se utilizó para el tráiler de la película The Taking of Pelham 123, mientras que la canción "The Outsider" (Apocalypse Mix) se usó en el tráiler de Resident Evil: Afterlife.
@@ -4221,8 +4221,8 @@
 15	cuales	cual	PRON	_	Number=Plur|PronType=Int,Rel	14	ccomp	_	_
 16	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
-18	puestos	puesto	NOUN	_	Gender=Masc|Number=Plur	19	cop	_	_
-19	estratégicos	estratégico	ADJ	_	Gender=Masc|Number=Plur	15	nsubj	_	_
+18	puestos	puesto	VERB	_	Gender=Masc|Number=Plur	15	nsubj	_	_
+19	estratégicos	estratégico	ADJ	_	Gender=Masc|Number=Plur	18	xcomp	_	_
 20	en	en	ADP	_	_	22	case	_	_
 21	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	restaurante	restaurante	NOUN	_	Number=Sing	19	nmod	_	_
@@ -4307,9 +4307,9 @@
 13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
 15	conservador	conservador	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
-16	y	y	CCONJ	_	_	18	cc	_	_
-17	declarado	declarar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	18	cop	_	_
-18	vitalicio	vitalicio	ADJ	_	Gender=Masc|Number=Sing	14	conj	_	_
+16	y	y	CCONJ	_	_	17	cc	_	_
+17	declarado	declarar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	14	conj	_	_
+18	vitalicio	vitalicio	ADJ	_	Gender=Masc|Number=Sing	17	xcomp	_	_
 19	con	con	ADP	_	_	21	case	_	_
 20	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	antecesor	antecesor	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
@@ -4504,12 +4504,12 @@
 6	,	,	PUNCT	_	_	8	punct	_	_
 7	pero	pero	CCONJ	_	_	8	cc	_	_
 8	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
-9	cuando	cuando	SCONJ	_	_	14	mark	_	_
+9	cuando	cuando	SCONJ	_	_	13	mark	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	oponente	oponente	NOUN	_	Number=Sing	14	nsubj	_	_
+11	oponente	oponente	NOUN	_	Number=Sing	13	nsubj	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	iobj	_	_
-13	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
-14	agarrado	agarrado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	8	advcl	_	_
+13	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+14	agarrado	agarrado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	13	xcomp	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	aire	aire	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
@@ -4783,8 +4783,8 @@
 19	vivió	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 20	después	después	ADV	_	_	23	case	_	_
 21	de	de	ADP	_	_	20	fixed	_	_
-22	quedar	quedar	VERB	_	VerbForm=Inf	23	cop	_	_
-23	huérfano	huérfano	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
+22	quedar	quedar	VERB	_	VerbForm=Inf	19	amod	_	_
+23	huérfano	huérfano	ADJ	_	Gender=Masc|Number=Sing	22	xcomp	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = es-dev-001-s166
@@ -7660,9 +7660,9 @@
 3	pasó	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	_	_	5	mark	_	_
 5-6	llamarse	_	_	_	_	_	_	_	_
-5	llamar	llamar	VERB	_	VerbForm=Inf	7	cop	_	_
+5	llamar	llamar	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	iobj	_	_
-7	Guardia	guardia	PROPN	_	_	3	xcomp	_	_
+7	Guardia	guardia	PROPN	_	_	5	xcomp	_	_
 8	Argentina	argentina	PROPN	_	_	7	flat	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -7886,10 +7886,10 @@
 25	de	de	ADP	_	_	27	case	_	_
 26	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	27	det	_	_
 27	Suecia	suecia	PROPN	_	_	24	nmod	_	_
-28	y	y	CCONJ	_	_	31	cc	_	_
+28	y	y	CCONJ	_	_	30	cc	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	iobj	_	_
-30	proclamó	proclamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	31	cop	_	_
-31	rey	rey	NOUN	_	Gender=Masc|Number=Sing	19	conj	_	_
+30	proclamó	proclamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	conj	_	_
+31	rey	rey	NOUN	_	Gender=Masc|Number=Sing	30	xcomp	_	_
 32	de	de	ADP	_	_	34	case	_	_
 33	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	34	det	_	_
 34	suecos	sueco	NOUN	_	Gender=Masc|Number=Plur	31	nmod	_	_
@@ -7923,14 +7923,14 @@
 # sent_id = es-dev-001-s272
 # text = Este tipo de tomates puede conservarse comestible durante largos periodos de tiempo debido a su bajo índice de humedad.
 1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-2	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	tomates	tomate	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
-5	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+5	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6-7	conservarse	_	_	_	_	_	_	_	_
-6	conservar	conservar	VERB	_	VerbForm=Inf	8	cop	_	_
+6	conservar	conservar	VERB	_	VerbForm=Inf	0	root	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	_	_
-8	comestible	comestible	ADJ	_	Number=Sing	0	root	_	_
+8	comestible	comestible	ADJ	_	Number=Sing	6	xcomp	_	_
 9	durante	durante	ADP	_	_	11	case	_	_
 10	largos	largo	ADJ	_	Gender=Masc|Number=Plur	11	amod	_	_
 11	periodos	período	NOUN	_	Gender=Masc|Number=Plur|Typo=Yes	8	nmod	_	CorrectForm=períodos
@@ -7943,7 +7943,7 @@
 18	índice	índice	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
 19	de	de	ADP	_	_	20	case	_	_
 20	humedad	humedad	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	8	punct	_	_
+21	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = es-dev-001-s273
 # text = Afirmó que esta medida es necesaria, aunque antes quiere hablar con todos los partidos políticos.
@@ -8269,9 +8269,9 @@
 31	,	,	PUNCT	_	_	32	punct	_	_
 32	o	o	CCONJ	_	_	27	fixed	_	_
 33	bien	bien	ADV	_	_	27	fixed	_	SpaceAfter=No
-34	,	,	PUNCT	_	_	36	punct	_	_
-35	terminan	terminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	cop	_	_
-36	frustrados	frustrado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	27	conj	_	SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	_
+35	terminan	terminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
+36	frustrados	frustrado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	35	xcomp	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	25	punct	_	_
 
 # sent_id = es-dev-001-s285
@@ -8914,11 +8914,11 @@
 11	rápida	rápido	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	SpaceAfter=No
 12	:	:	PUNCT	_	_	3	punct	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	industria	industria	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
+14	industria	industria	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
 15	textil	textil	ADJ	_	Number=Sing	14	amod	_	_
-16	avanzaba	avanzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	cop	_	_
-17	muy	mucho	ADV	_	_	18	advmod	_	_
-18	rápido	rápido	ADJ	_	Gender=Masc|Number=Sing	3	parataxis	_	_
+16	avanzaba	avanzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
+17	muy	mucho	ADV	_	_	16	advmod	_	_
+18	rápido	rápido	ADJ	_	Gender=Masc|Number=Sing	16	xcomp	_	_
 19	y	y	CCONJ	_	_	23	cc	_	_
 20	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
 21	tejidos	tejido	NOUN	_	Gender=Masc|Number=Plur	23	nsubj	_	_
@@ -9290,17 +9290,17 @@
 # sent_id = es-dev-001-s323
 # text = El municipio de West Orange se encuentra ubicado en las coordenadas.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	municipio	municipio	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+2	municipio	municipio	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	West	west	PROPN	_	_	2	nmod	_	_
 5	Orange	orange	PROPN	_	_	4	flat	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	iobj	_	_
-7	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	ubicado	ubicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+7	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	ubicado	ubicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	xcomp	_	_
 9	en	en	ADP	_	_	11	case	_	_
 10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	8	punct	_	_
+12	.	.	PUNCT	_	_	7	punct	_	_
 
 # sent_id = es-dev-001-s324
 # text = The Edge declaró que el video trataba sobre dejar a las mujeres tomar el control, porque "los hombres lo habían cogido todo mal, en el plano político, económico y social".
@@ -11970,12 +11970,12 @@
 27	y	y	CCONJ	_	_	29	cc	_	_
 28	que	que	SCONJ	_	_	29	mark	_	_
 29	permitan	permitir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	_
-30	que	que	SCONJ	_	_	48	mark	_	SpaceAfter=No
+30	que	que	SCONJ	_	_	47	mark	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	34	punct	_	_
 32-33	al	_	_	_	_	_	_	_	_
 32	a	a	ADP	_	_	34	case	_	_
 33	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	menos	menos	ADV	_	Degree=Cmp	48	advmod	_	SpaceAfter=No
+34	menos	menos	ADV	_	Degree=Cmp	47	advmod	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	34	punct	_	_
 36	entre	entre	ADP	_	_	39	case	_	_
 37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
@@ -11988,8 +11988,8 @@
 44	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	45	det	_	_
 45	superficie	superficie	NOUN	_	Gender=Fem|Number=Sing	42	nmod	_	_
 46	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	47	iobj	_	_
-47	encuentre	encontrar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	cop	_	_
-48	protegida	protegido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	29	ccomp	_	_
+47	encuentre	encontrar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	ccomp	_	_
+48	protegida	protegido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	47	xcomp	_	_
 49	por	por	ADP	_	_	50	case	_	_
 50	restos	resto	NOUN	_	Gender=Masc|Number=Plur	48	nmod	_	_
 51	vegetales	vegetal	ADJ	_	Number=Plur	50	amod	_	SpaceAfter=No
@@ -14084,15 +14084,15 @@
 
 # sent_id = es-dev-001-s479
 # text = Harwood Heights se encuentra ubicada en las coordenadas.
-1	Harwood	harwood	PROPN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+1	Harwood	harwood	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	Heights	heights	PROPN	_	_	1	flat	_	_
 3	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	iobj	_	_
-4	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
-5	ubicada	ubicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+4	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	ubicada	ubicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	4	xcomp	_	_
 6	en	en	ADP	_	_	8	case	_	_
 7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
-8	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	_	5	punct	_	_
+8	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	4	obl	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = es-dev-001-s480
 # text = Producido por Kenny Ortega, en el documental se muestra la elección de los bailarines, la preparación de varios aspectos del show y la exigencia en la perfección entre otros aspectos.
@@ -18807,20 +18807,20 @@
 # text = No me parece adecuado denunciar un delito cometiendo otro, si tan molesto te es acude a cualquier oficina de trabajo cita previa con inspector y denuncias el caso.
 1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
 2	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
-3	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	adecuado	adecuado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-5	denunciar	denunciar	VERB	_	VerbForm=Inf	4	csubj	_	_
+3	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	adecuado	adecuado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	xcomp	_	_
+5	denunciar	denunciar	VERB	_	VerbForm=Inf	3	csubj	_	_
 6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	delito	delito	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
 8	cometiendo	cometer	VERB	_	VerbForm=Ger	5	advcl	_	_
 9	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	obj	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	4	punct	_	_
+10	,	,	PUNCT	_	_	3	punct	_	_
 11	si	si	SCONJ	_	_	13	mark	_	_
 12	tan	tanto	ADV	_	_	13	advmod	_	_
 13	molesto	molesto	ADJ	_	Gender=Masc|Number=Sing	16	advcl	_	_
 14	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	15	iobj	_	_
 15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
-16	acude	acudir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	parataxis	_	_
+16	acude	acudir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	parataxis	_	_
 17	a	a	ADP	_	_	16	case	_	_
 18	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	19	det	_	_
 19	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	16	iobj	_	_
@@ -18834,7 +18834,7 @@
 27	denuncias	denuncia	NOUN	_	Gender=Fem|Number=Plur	16	conj	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	caso	caso	NOUN	_	Gender=Masc|Number=Sing	27	obj	_	SpaceAfter=No
-30	.	.	PUNCT	_	_	4	punct	_	_
+30	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = es-dev-002-s144
 # text = De este modo, reitera que la reducción de la deuda, en forma de quitas o por otros modos "más complejos", llevaría a una rebaja de la calidad de la deuda que "entorpecería la financiación del Estado".
@@ -19757,16 +19757,16 @@
 # sent_id = es-dev-002-s177
 # text = El municipio de Middlecreek se encuentra ubicado en las coordenadas.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	municipio	municipio	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	municipio	municipio	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Middlecreek	middlecreek	PROPN	_	_	2	nmod	_	_
 5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	_	_
-6	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	ubicado	ubicar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+6	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ubicado	ubicar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	xcomp	_	_
 8	en	en	ADP	_	_	10	case	_	_
 9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
-10	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	_	_
+10	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	6	obl	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = es-dev-002-s178
 # text = Los tres diseños de Sabatini de estilo neoclásico eran del mismo tamaño y poseían cerca de setenta pies de altura.
@@ -26850,8 +26850,8 @@
 41	Programa	programa	NOUN	_	_	33	nmod	_	_
 42	de	de	ADP	_	_	43	case	_	_
 43	Eutanasia	eutanasia	NOUN	_	_	41	nmod	_	_
-44	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	45	cop	_	_
-45	T4	t4	PROPN	_	_	41	acl	_	SpaceAfter=No
+44	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	41	acl	_	_
+45	T4	t4	PROPN	_	_	44	xcomp	_	SpaceAfter=No
 46	,	,	PUNCT	_	_	41	punct	_	_
 47	que	que	SCONJ	_	_	48	mark	_	_
 48	funcionó	funcionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	41	acl:relcl	_	_
@@ -27244,9 +27244,9 @@
 28	pasa	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	conj	_	_
 29	a	a	ADP	_	_	32	case	_	_
 30-31	denominarse	_	_	_	_	_	_	_	_
-30	denominar	denominar	VERB	_	VerbForm=Inf	32	cop	_	_
+30	denominar	denominar	VERB	_	VerbForm=Inf	28	obl	_	_
 31	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	iobj	_	_
-32	Mega	megar	PROPN	_	_	28	obl	_	_
+32	Mega	megar	PROPN	_	_	30	xcomp	_	_
 33	TV	tv	PROPN	_	_	32	flat	_	_
 34	transformando	transformar	VERB	_	VerbForm=Ger	32	acl	_	_
 35	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
@@ -28301,7 +28301,7 @@
 4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	simple	simple	ADJ	_	Number=Sing	7	amod	_	_
-7	reflejo	reflejo	NOUN	_	Gender=Masc|Number=Sing	23	advcl	_	_
+7	reflejo	reflejo	NOUN	_	Gender=Masc|Number=Sing	21	advcl	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	ignorancia	ignorancia	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
@@ -28314,10 +28314,10 @@
 17	de	de	ADP	_	_	18	case	_	_
 18	Kent	kent	PROPN	_	_	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	7	punct	_	_
-20	que	que	SCONJ	_	_	23	mark	_	_
-21	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	_
-22	poco	poco	ADV	_	_	23	advmod	_	_
-23	probable	probable	ADJ	_	Number=Sing	0	root	_	_
+20	que	que	SCONJ	_	_	21	mark	_	_
+21	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	poco	poco	ADV	_	_	21	advmod	_	_
+23	probable	probable	ADJ	_	Number=Sing	21	xcomp	_	_
 24	debido	deber	VERB	_	VerbForm=Fin	28	acl	_	_
 25	a	a	ADP	_	_	24	fixed	_	_
 26	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
@@ -28345,7 +28345,7 @@
 48	antes	antes	ADV	_	_	50	advmod	_	_
 49	de	de	ADP	_	_	48	fixed	_	_
 50	589	589	NUM	_	NumType=Card	47	obl	_	SpaceAfter=No
-51	.	.	PUNCT	_	_	23	punct	_	_
+51	.	.	PUNCT	_	_	21	punct	_	_
 
 # sent_id = es-dev-002-s442
 # text = El aeródromo no tiene instalaciones.
@@ -30817,11 +30817,11 @@
 2	rechazó	rechazar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	canción	canción	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
-5	porque	porque	SCONJ	_	_	9	mark	_	_
+5	porque	porque	SCONJ	_	_	8	mark	_	_
 6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
 7	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	iobj	_	_
-8	parecía	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	cop	_	_
-9	parecida	parecido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	advcl	_	_
+8	parecía	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
+9	parecida	parecido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	8	xcomp	_	_
 10	a	a	ADP	_	_	12	case	_	_
 11	"	"	PUNCT	_	_	12	punct	_	SpaceAfter=No
 12	Careful	careful	PROPN	_	_	9	nmod	_	_
@@ -31363,16 +31363,16 @@
 # sent_id = es-dev-003-s49
 # text = El municipio de Venice se encuentra ubicado en las coordenadas.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	municipio	municipio	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	municipio	municipio	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Venice	venice	PROPN	_	_	2	nmod	_	_
 5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	iobj	_	_
-6	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
-7	ubicado	ubicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+6	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+7	ubicado	ubicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	6	xcomp	_	_
 8	en	en	ADP	_	_	10	case	_	_
 9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	coordenadas	coordenada	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
-11	.	.	PUNCT	_	_	7	punct	_	_
+11	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = es-dev-003-s50
 # text = Rocketdyne, quien se había separado de North American en 1955 se volvió a unir en 1984 y fabricó los aviones ligeros de negocios anteriormente conocidos como Aero Commanders, introduciendo los modelos Commander 112 y 114.
@@ -33386,9 +33386,9 @@
 40-41	al	_	_	_	_	_	_	_	_
 40	a	a	ADP	_	_	44	case	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
-42	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	44	aux:pass	_	_
-43	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	44	cop	_	_
-44	negro	negro	ADJ	_	Gender=Masc|Number=Sing	39	amod	_	SpaceAfter=No
+42	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	43	aux:pass	_	_
+43	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
+44	negro	negro	ADJ	_	Gender=Masc|Number=Sing	43	xcomp	_	SpaceAfter=No
 45	.	.	PUNCT	_	_	27	punct	_	_
 
 # sent_id = es-dev-003-s121
@@ -34809,10 +34809,10 @@
 3	de	de	ADP	_	_	4	case	_	_
 4	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	2	punct	_	_
-6	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	cop	_	_
+6	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
 7	10	10	NUM	_	NumType=Card	8	nummod	_	_
-8	años	año	PROPN	_	Gender=Masc|Number=Plur	2	acl	_	SpaceAfter=No
-9	,	,	PUNCT	_	_	8	punct	_	_
+8	años	año	PROPN	_	Gender=Masc|Number=Plur	6	xcomp	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	6	punct	_	_
 10	gozó	gozar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 11	de	de	ADP	_	_	13	case	_	_
 12	gran	gran	ADJ	_	Number=Sing	13	amod	_	_
@@ -34829,10 +34829,10 @@
 22	incluir	incluir	VERB	_	VerbForm=Inf	10	advcl	_	_
 23	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	canción	canción	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No
-25	,	,	PUNCT	_	_	28	punct	_	_
-26	llamada	llamar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	28	cop	_	_
+25	,	,	PUNCT	_	_	26	punct	_	_
+26	llamada	llamar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	24	acl	_	_
 27	San	san	PROPN	_	_	28	amod	_	_
-28	Roque	roque	PROPN	_	_	24	acl	_	SpaceAfter=No
+28	Roque	roque	PROPN	_	_	26	xcomp	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	_
 30	dedicada	dedicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	24	acl	_	_
 31	a	a	ADP	_	_	33	case	_	_
@@ -35781,14 +35781,14 @@
 # text = Todas las ratonas australianas son denominadas en inglés fairy - wrens (chochines hada) aunque no están relacionadas con el verdadero chochín (familia Troglodytidae).
 1	Todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	3	det	_	_
 2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	ratonas	ratona	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
+3	ratonas	ratona	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
 4	australianas	australiano	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_
-5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
-6	denominadas	denominar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	9	cop	_	_
+5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
+6	denominadas	denominar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
 7	en	en	ADP	_	_	8	case	_	_
 8	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
-9	fairy	fairy	PROPN	_	Number=Sing	0	root	_	_
-10	-	-	PUNCT	_	_	9	punct	_	_
+9	fairy	fairy	PROPN	_	Number=Sing	6	xcomp	_	_
+10	-	-	PUNCT	_	_	6	punct	_	_
 11	wrens	wrens	X	_	_	9	appos	_	_
 12	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
 13	chochines	chochín	NOUN	_	Gender=Masc|Number=Plur	9	appos	_	_
@@ -35797,7 +35797,7 @@
 16	aunque	aunque	SCONJ	_	_	19	mark	_	_
 17	no	no	ADV	_	Polarity=Neg	19	advmod	_	_
 18	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
-19	relacionadas	relacionar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	9	advcl	_	_
+19	relacionadas	relacionar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	6	advcl	_	_
 20	con	con	ADP	_	_	23	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 22	verdadero	verdadero	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	_
@@ -35806,7 +35806,7 @@
 25	familia	familia	NOUN	_	Gender=Fem|Number=Sing	23	appos	_	_
 26	Troglodytidae	troglodytidae	PROPN	_	_	25	appos	_	SpaceAfter=No
 27	)	)	PUNCT	_	_	25	punct	_	SpaceAfter=No
-28	.	.	PUNCT	_	_	9	punct	_	_
+28	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = es-dev-003-s208
 # text = Esta primera aerolínea estatal es conocida como la "Aeroposta Nacional", sólo a los fines jurídicos.
@@ -36148,9 +36148,9 @@
 # sent_id = es-dev-003-s221
 # text = Se puede encontrar comercializada en dosis de 10, 20, 40 y 80 mg en forma de comprimidos.
 1	Se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	iobj	_	_
-2	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-3	encontrar	encontrar	VERB	_	VerbForm=Inf	4	cop	_	_
-4	comercializada	comercializado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+2	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	encontrar	encontrar	VERB	_	VerbForm=Inf	0	root	_	_
+4	comercializada	comercializado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	3	xcomp	_	_
 5	en	en	ADP	_	_	6	case	_	_
 6	dosis	dosis	NOUN	_	Gender=Fem	4	nmod	_	_
 7	de	de	ADP	_	_	15	case	_	_
@@ -36166,7 +36166,7 @@
 17	forma	forma	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 18	de	de	ADP	_	_	19	case	_	_
 19	comprimidos	comprimido	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
-20	.	.	PUNCT	_	_	4	punct	_	_
+20	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = es-dev-003-s222
 # text = Se encuentran en Sudamérica: cuenca del río Amazonas.
@@ -39358,10 +39358,10 @@
 # sent_id = es-dev-003-s327
 # text = Me han parecido muy serios a la hora de pedir presupuesto y de terminar una pequeña reparación de electricidad que me hacía falta.
 1	Me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
-2	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-3	parecido	parecer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
-4	muy	mucho	ADV	_	_	5	advmod	_	_
-5	serios	serio	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+2	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+3	parecido	parecer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+4	muy	mucho	ADV	_	_	3	advmod	_	_
+5	serios	serio	ADJ	_	Gender=Masc|Number=Plur	3	xcomp	_	_
 6	a	a	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	hora	hora	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
@@ -39380,7 +39380,7 @@
 21	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	22	iobj	_	_
 22	hacía	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	acl:relcl	_	_
 23	falta	falta	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No
-24	.	.	PUNCT	_	_	5	punct	_	_
+24	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = es-dev-003-s328
 # text = En primer lugar, la EPD para un bien no es necesariamente constante;
