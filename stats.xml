@@ -15,7 +15,7 @@
   <fusions unique="856" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">24988</tag><!-- primero, nuevo, mismo, gran, mayor, segundo, buen, principal, último, mejor -->
+    <tag name="ADJ">24986</tag><!-- primero, nuevo, mismo, gran, mayor, segundo, buen, principal, último, mejor -->
     <tag name="ADP">71079</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
     <tag name="ADV">12497</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
     <tag name="AUX">10746</tag><!-- ser, haber, poder, estar, deber, be, querer, can, saber -->
@@ -30,7 +30,7 @@
     <tag name="PUNCT">47528</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
     <tag name="SCONJ">8142</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1666</tag><!-- %, ², km, $, º, °, €, a, m, h -->
-    <tag name="VERB">36309</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
+    <tag name="VERB">36311</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
     <tag name="X">1897</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -92,7 +92,7 @@
     <dep name="acl">2856</dep>
     <dep name="acl:relcl">5297</dep>
     <dep name="advcl">7109</dep>
-    <dep name="advmod">11167</dep>
+    <dep name="advmod">11166</dep>
     <dep name="amod">24041</dep>
     <dep name="appos">8771</dep>
     <dep name="aux">3344</dep>
@@ -102,7 +102,7 @@
     <dep name="ccomp">1594</dep>
     <dep name="compound">419</dep>
     <dep name="conj">17206</dep>
-    <dep name="cop">5945</dep>
+    <dep name="cop">5793</dep>
     <dep name="csubj">701</dep>
     <dep name="csubj:pass">7</dep>
     <dep name="dep">1193</dep>
@@ -122,8 +122,8 @@
     <dep name="obl">25096</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">1669</dep>
-    <dep name="punct">47527</dep>
+    <dep name="punct">47528</dep>
     <dep name="root">16013</dep>
-    <dep name="xcomp">2666</dep>
+    <dep name="xcomp">2818</dep>
   </deps>
 </treebank>
