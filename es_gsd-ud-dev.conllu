@@ -6551,11 +6551,11 @@
 20	como	como	ADP	_	_	21	case	_	_
 21	parte	parte	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 22	"	"	PUNCT	_	_	27	punct	_	SpaceAfter=No
-23	Cuando	cuando	PROPN	_	_	27	mark	_	_
+23	Cuando	cuando	SCONJ	_	_	27	mark	_	_
 24	Nobuo	nobuo	PROPN	_	_	27	nsubj	_	_
 25	Uematsu	uematsu	PROPN	_	_	24	flat	_	_
-26	era	ser	PROPN	_	Number=Sing	27	cop	_	_
-27	joven	joven	PROPN	_	Number=Sing	21	parataxis	_	SpaceAfter=No
+26	era	ser	AUX	_	Number=Sing	27	cop	_	_
+27	joven	joven	ADJ	_	Number=Sing	21	parataxis	_	SpaceAfter=No
 28	"	"	PUNCT	_	_	27	punct	_	_
 29	(	(	PUNCT	_	_	30	punct	_	SpaceAfter=No
 30	Wen	wen	PROPN	_	Gender=Masc|Number=Sing	27	appos	_	_
