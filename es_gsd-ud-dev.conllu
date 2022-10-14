@@ -37961,8 +37961,8 @@
 24	especial	especial	ADJ	_	Number=Sing	26	amod	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	belugas	belugas	PROPN	_	Gender=Fem|Number=Plur	10	conj	_	SpaceAfter=No
-27	,	,	PUNCT	_	_	30	punct	_	_
-28	aunque	aunque	SCONJ	_	_	30	mark	_	_
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	aunque	aunque	SCONJ	_	_	29	mark	_	_
 29	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 30	presentes	presente	ADJ	_	Gender=Masc|Number=Plur	29	xcomp	_	_
 31	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	33	det	_	_

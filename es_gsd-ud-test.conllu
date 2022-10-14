@@ -12125,8 +12125,8 @@
 
 # sent_id = es-test-001-s205
 # text = MALDITA SEA SU VIDA POR LO QUE ME HAN HECHO LOS VALENCIANOS Y GENTE DE AREAS, OS ECHO LA MALDICION DE POR VIDA QUE SE OS GIRE TODO EN LA VIDA POR LA GRAN PUTADA.
-1	MALDITA	maldita	ADJ	_	Number=Sing	0	root	_	_
-2	SEA	sea	VERB	_	VerbForm=Fin	1	cop	_	_
+1	MALDITA	maldito	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+2	SEA	ser	AUX	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	1	cop	_	_
 3	SU	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	VIDA	vida	NOUN	_	_	1	nsubj	_	_
 5	POR	por	ADP	_	_	6	case	_	_
