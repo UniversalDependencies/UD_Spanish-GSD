@@ -6620,7 +6620,7 @@
 17	sucesor	sucesor	NOUN	_	Gender=Masc|Number=Sing	15	conj	_	_
 18	de	de	ADP	_	_	19	case	_	_
 19	Enrique	enrique	PROPN	_	_	15	nmod	_	_
-20	II	ii	PROPN	_	_	19	nummod	_	_
+20	II	ii	ADJ	_	NumForm=Roman|NumType=Ord	19	amod	_	_
 21	de	de	ADP	_	_	22	case	_	_
 22	Inglaterra	inglaterra	PROPN	_	_	19	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	15	punct	_	_
@@ -17329,7 +17329,7 @@
 19	reinado	reinado	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
 20	de	de	ADP	_	_	21	case	_	_
 21	Alfonso	alfonso	PROPN	_	_	19	nmod	_	_
-22	X	x	PROPN	_	_	21	nummod	_	_
+22	X	x	ADJ	_	NumForm=Roman|NumType=Ord	21	amod	_	_
 23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
 24	1252-1284	1252-1284	NUM	_	NumType=Card	19	appos	_	SpaceAfter=No
 25	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
@@ -24236,7 +24236,7 @@
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	rey	rey	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
 4	Juan	juan	PROPN	_	_	3	appos	_	_
-5	III	iii	PROPN	_	_	4	nummod	_	_
+5	III	iii	ADJ	_	NumForm=Roman|NumType=Ord	4	amod	_	_
 6	(	(	PUNCT	_	_	7	punct	_	SpaceAfter=No
 7	11	11	NUM	_	NumType=Card	3	appos	_	_
 8	de	de	ADP	_	_	9	case	_	_
