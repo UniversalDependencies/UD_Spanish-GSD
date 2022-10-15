@@ -64,7 +64,7 @@
 14	perforación	perforación	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
 15	manual	manual	ADJ	_	Number=Sing	14	amod	_	_
 16	dejó	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-17	de	de	ADP	_	_	18	mark	_	_
+17	de	de	ADP	_	_	19	mark	_	_
 18	ser	ser	AUX	_	VerbForm=Inf	19	cop	_	_
 19	necesaria	necesario	ADJ	_	Gender=Fem|Number=Sing	16	xcomp	_	_
 20	en	en	ADP	_	_	22	case	_	_
@@ -735,8 +735,8 @@
 21	taller	taller	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	28	punct	_	_
 23-24	al	_	_	_	_	_	_	_	_
-23	a	a	ADP	_	_	25	case	_	_
-24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+23	a	a	ADP	_	_	28	case	_	_
+24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 25	que	que	SCONJ	_	_	28	mark	_	_
 26	ni	ni	CCONJ	_	Polarity=Neg	28	advmod	_	_
 27	siquiera	siquiera	ADV	_	_	26	fixed	_	_
@@ -1518,7 +1518,7 @@
 22	,	,	PUNCT	_	_	27	punct	_	_
 23	aunque	aunque	SCONJ	_	_	27	mark	_	_
 24	aún	aún	ADV	_	_	27	advmod	_	_
-25	no	no	ADV	_	Polarity=Neg	26	advmod	_	_
+25	no	no	ADV	_	Polarity=Neg	27	advmod	_	_
 26	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	_
 27	importante	importante	ADJ	_	Number=Sing	17	advcl	_	_
 28	en	en	ADP	_	_	29	case	_	_
@@ -1936,7 +1936,7 @@
 12	realmente	realmente	ADV	_	_	18	advmod	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	empresario	empresario	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
-15	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+15	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
 16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	jefe	jefe	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
@@ -3048,7 +3048,7 @@
 12	en	en	ADP	_	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	socialismo	socialismo	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
-15	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
+15	no	no	ADV	_	Polarity=Neg	17	advmod	_	_
 16	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
 17	posible	posible	ADJ	_	Number=Sing	0	root	_	_
 18	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
@@ -4093,7 +4093,7 @@
 12	393	393	NUM	_	NumType=Card	13	nummod	_	_
 13	habitantes	habitante	NOUN	_	Number=Plur	10	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	18	punct	_	_
-15	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	det	_	_
+15	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
 16	que	que	SCONJ	_	_	18	mark	_	_
 17	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
 18	convierten	convertir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	parataxis	_	_
@@ -4300,7 +4300,7 @@
 14	por	por	ADP	_	_	15	case	_	_
 15	Telefutura	telefutura	PROPN	_	_	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
-17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	det	_	_
+17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
 18	que	que	SCONJ	_	_	19	mark	_	_
 19	ocasionó	ocasionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	parataxis	_	_
 20	leves	leve	ADJ	_	Number=Plur	21	amod	_	_
@@ -4380,7 +4380,7 @@
 29	Pascale	pascale	PROPN	_	_	28	appos	_	_
 30	Breugnot	breugnot	PROPN	_	Number=Sing	29	flat	_	_
 31	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	obl	_	_
-32	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	33	nmod	_	_
+32	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	36	nmod	_	_
 33	antes	antes	ADV	_	_	36	case	_	_
 34	de	de	ADP	_	_	33	fixed	_	_
 35	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
@@ -5058,8 +5058,8 @@
 2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	base	base	NOUN	_	Number=Sing	0	root	_	_
-5	con	con	ADP	_	_	7	case	_	_
-6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+5	con	con	ADP	_	_	9	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 7	que	que	SCONJ	_	_	9	mark	_	_
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	iobj	_	_
 9	creó	crear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
@@ -5320,7 +5320,7 @@
 65	....	....	PUNCT	_	_	72	punct	_	_
 66	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	67	det	_	_
 67	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	72	nsubj	_	_
-68	no	no	ADV	_	Polarity=Neg	70	advmod	_	_
+68	no	no	ADV	_	Polarity=Neg	72	advmod	_	_
 69	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	72	aux	_	_
 70	ser	ser	AUX	_	VerbForm=Inf	72	cop	_	_
 71	auténticamente	auténticamente	ADV	_	_	72	advmod	_	_
@@ -5769,7 +5769,7 @@
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	economía	economía	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
 4	azulgrana	azulgrana	ADJ	_	Number=Sing	3	amod	_	_
-5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
+5	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
 6	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	muy	mucho	ADV	_	_	8	advmod	_	_
 8	boyante	boyante	ADJ	_	Number=Sing	11	advcl	_	SpaceAfter=No
@@ -5962,7 +5962,7 @@
 14	,	,	PUNCT	_	_	20	punct	_	_
 15-16	al	_	_	_	_	_	_	_	_
 15	a	a	ADP	_	_	20	mark	_	_
-16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 17	menos	menos	ADV	_	Degree=Cmp	15	fixed	_	_
 18	eso	ese	PRON	_	Number=Sing|PronType=Dem	20	nsubj	_	_
 19	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	20	iobj	_	_
@@ -6587,7 +6587,7 @@
 17	,	,	PUNCT	_	_	23	punct	_	_
 18	pero	pero	CCONJ	_	_	23	cc	_	_
 19	eso	ese	PRON	_	Number=Sing|PronType=Dem	23	nsubj	_	_
-20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
+20	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
 21	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
 22	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	cop	_	_
 23	impedimento	impedimento	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
@@ -7975,8 +7975,8 @@
 27	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 28	contusiones	contusión	NOUN	_	Gender=Fem|Number=Plur	25	obl	_	_
 29	sufridas	sufrir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	28	acl	_	_
-30	por	por	ADP	_	_	32	case	_	_
-31	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	32	det	_	_
+30	por	por	ADP	_	_	38	case	_	_
+31	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	38	det	_	_
 32	que	que	SCONJ	_	_	38	mark	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	36	punct	_	_
 34	según	según	ADP	_	_	36	case	_	_
@@ -8062,7 +8062,7 @@
 63	marroquí	marroquí	ADJ	_	Number=Sing	62	amod	_	SpaceAfter=No
 64	,	,	PUNCT	_	_	68	punct	_	_
 65	que	que	SCONJ	_	_	68	mark	_	_
-66	no	no	ADV	_	Polarity=Neg	67	advmod	_	_
+66	no	no	ADV	_	Polarity=Neg	68	advmod	_	_
 67	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	68	cop	_	_
 68	más	más	ADV	_	Degree=Cmp	40	acl:relcl	_	_
 69	que	que	CCONJ	_	_	71	case	_	_
@@ -8766,7 +8766,7 @@
 45	por	por	ADP	_	_	46	case	_	_
 46	ciento	ciento	NUM	_	NumType=Card	44	nmod	_	_
 47	y	y	CCONJ	_	_	50	cc	_	_
-48	no	no	ADV	_	Polarity=Neg	49	advmod	_	_
+48	no	no	ADV	_	Polarity=Neg	50	advmod	_	_
 49	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	50	cop	_	_
 50	necesario	necesario	ADJ	_	Gender=Masc|Number=Sing	32	conj	_	_
 51	subir	subir	VERB	_	VerbForm=Inf	50	csubj	_	_
@@ -9112,7 +9112,7 @@
 55	,	,	PUNCT	_	_	61	punct	_	_
 56-57	al	_	_	_	_	_	_	_	_
 56	a	a	ADP	_	_	61	mark	_	_
-57	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	56	det	_	_
+57	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	_
 58	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	56	fixed	_	_
 59	que	que	CCONJ	_	_	56	fixed	_	_
 60	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	61	aux	_	_
@@ -9593,7 +9593,7 @@
 18	encima	encima	ADV	_	_	21	case	_	_
 19-20	del	_	_	_	_	_	_	_	_
 19	de	de	ADP	_	_	18	fixed	_	_
-20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	voltaje	voltaje	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
 22	nominal	nominal	ADJ	_	Number=Sing	21	amod	_	_
 23	y	y	CCONJ	_	_	25	cc	_	_
@@ -9682,7 +9682,7 @@
 29	aunque	aunque	SCONJ	_	_	35	mark	_	_
 30	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	31	det	_	_
 31	impacto	impacto	NOUN	_	Gender=Masc|Number=Sing	35	nsubj	_	_
-32	no	no	ADV	_	Polarity=Neg	33	advmod	_	_
+32	no	no	ADV	_	Polarity=Neg	35	advmod	_	_
 33	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	35	cop	_	_
 34	tan	tanto	ADV	_	_	35	advmod	_	_
 35	traumático	traumático	ADJ	_	Gender=Masc|Number=Sing	14	advcl	_	_
@@ -9787,7 +9787,7 @@
 49	específicos	específico	ADJ	_	Gender=Masc|Number=Plur	48	amod	_	_
 50	que	que	SCONJ	_	_	58	mark	_	SpaceAfter=No
 51	,	,	PUNCT	_	_	52	punct	_	_
-52	indicada	indicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	50	acl	_	_
+52	indicada	indicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	58	acl	_	_
 53	por	por	ADP	_	_	55	case	_	_
 54	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	55	det	_	_
 55	médico	médico	NOUN	_	Gender=Masc|Number=Sing	52	obl	_	SpaceAfter=No
@@ -10403,8 +10403,8 @@
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	guión	guión	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	8	punct	_	_
-4	en	en	ADP	_	_	6	case	_	_
-5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+4	en	en	ADP	_	_	8	case	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 6	que	que	SCONJ	_	_	8	mark	_	_
 7	Depp	depp	PROPN	_	_	8	nsubj	_	_
 8	participó	participar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
@@ -10611,7 +10611,7 @@
 
 # sent_id = es-test-001-s166
 # text = No es necesario registrarse, por lo que directamente seleccionamos las imágenes que queremos utilizar y las subimos a Reel.
-1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 3	necesario	necesario	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 4-5	registrarse	_	_	_	_	_	_	_	SpaceAfter=No
@@ -10817,8 +10817,8 @@
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 3	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	4	amod	_	_
 4	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-5	con	con	ADP	_	_	7	case	_	_
-6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+5	con	con	ADP	_	_	8	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 7	que	que	SCONJ	_	_	8	mark	_	_
 8	estuvo	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
 9	y	y	CCONJ	_	_	15	cc	_	_
@@ -11503,7 +11503,7 @@
 # text = Los azulgrana no fueron los únicos protagonistas que optaron por el silencio.
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	azulgrana	azulgrana	NOUN	_	Number=Sing	7	nsubj	_	_
-3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
+3	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
 4	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 6	únicos	único	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
@@ -11526,8 +11526,8 @@
 7	lunes	lunes	PROPN	_	_	5	obl	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	acto	acto	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
-10	en	en	ADP	_	_	12	case	_	_
-11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
+10	en	en	ADP	_	_	13	case	_	_
+11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 12	que	que	SCONJ	_	_	13	mark	_	_
 13	quedó	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
 14	habilitado	habilitar	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	13	xcomp	_	_
@@ -11645,8 +11645,8 @@
 11	de	de	ADP	_	_	10	case	_	_
 12	euros	euro	NOUN	_	_	7	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	_
-14	por	por	ADP	_	_	16	case	_	_
-15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
+14	por	por	ADP	_	_	17	case	_	_
+15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 16	que	que	SCONJ	_	_	17	mark	_	_
 17	recibe	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 18	792	792	NUM	_	NumType=Card	19	nummod	_	_
@@ -11682,8 +11682,8 @@
 48	de	de	ADP	_	_	47	case	_	_
 49	euros	euro	NOUN	_	_	44	obl	_	SpaceAfter=No
 50	,	,	PUNCT	_	_	54	punct	_	_
-51	por	por	ADP	_	_	53	case	_	_
-52	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	53	det	_	_
+51	por	por	ADP	_	_	54	case	_	_
+52	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	_
 53	que	que	SCONJ	_	_	54	mark	_	_
 54	recibe	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	acl:relcl	_	_
 55	217,8	217.8	NUM	_	NumType=Card	56	nummod	_	_
@@ -12064,7 +12064,7 @@
 70	que	que	CCONJ	_	_	68	fixed	_	_
 71	mal	mal	ADV	_	_	72	advmod	_	_
 72	educados	educado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	60	conj	_	_
-73	nunca	nunca	ADV	_	Polarity=Neg	75	advmod	_	_
+73	nunca	nunca	ADV	_	Polarity=Neg	72	advmod	_	_
 74	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	72	aux	_	_
 75	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	72	cop	_	SpaceAfter=No
 76	.	.	PUNCT	_	_	2	punct	_	_
@@ -12095,7 +12095,7 @@
 8	,	,	PUNCT	_	_	14	punct	_	_
 9	y	y	CCONJ	_	_	14	cc	_	_
 10	que	que	SCONJ	_	_	14	mark	_	_
-11	no	no	ADV	_	Polarity=Neg	12	advmod	_	_
+11	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
 12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	nada	nada	ADV	_	_	14	advmod	_	_
 14	caro	caro	ADJ	_	Gender=Masc|Number=Sing	4	conj	_	SpaceAfter=No
@@ -12197,7 +12197,7 @@
 11	de	de	ADP	_	_	12	case	_	_
 12	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	17	punct	_	_
-14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
+14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	det	_	_
 15	que	que	SCONJ	_	_	17	mark	_	_
 16	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	17	iobj	_	_
 17	permite	permitir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
@@ -12311,7 +12311,7 @@
 5	,	,	PUNCT	_	_	11	punct	_	_
 6	pero	pero	CCONJ	_	_	11	cc	_	_
 7	eso	ese	PRON	_	Number=Sing|PronType=Dem	11	nsubj	_	_
-8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
+8	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
 9	debería	deber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	11	aux	_	_
 10	ser	ser	AUX	_	VerbForm=Inf	11	cop	_	_
 11	excusa	excusar	NOUN	_	Gender=Fem|Number=Plur|VerbForm=Part	2	conj	_	_
@@ -12611,7 +12611,7 @@
 
 # sent_id = es-test-001-s229
 # text = No es él típico restaurante de cinta.
-1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
+1	No	no	ADV	_	Polarity=Neg	5	advmod	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 3	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	det	_	_
 4	típico	típico	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
@@ -12990,7 +12990,7 @@
 3	que	que	SCONJ	_	_	8	mark	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	colchón	colchón	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
-6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
+6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
 7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
 8	cómodo	cómodo	ADJ	_	Gender=Masc|Number=Sing	2	csubj	_	SpaceAfter=No
 9	.	.	PUNCT	_	_	2	punct	_	_
