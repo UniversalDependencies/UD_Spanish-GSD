@@ -7,7 +7,7 @@ dependency treebank v2.0 (legacy)](https://github.com/ryanmcd/uni-dep-tb).
 # Introduction
 
 In addition to converting dependencies from the legacy UD treebank, token level morphology features have been added
-automatically using the parsers/taggers in Bohnet et al 2014* and Bohnet et al. 2015** trained on the Ancora***
+automatically using the parsers/taggers in Bohnet et al (2014) and Bohnet et al. (2015) trained on the Ancora
 treebank and converted automatically to UD standards.
 
 Various heuristics have been added to improve the output of the tagger, fix obvious errors and add features that
@@ -25,6 +25,15 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2022-11-15 v2.11
+  * Fixed: deprel punct occurs only with UPOS PUNCT.
+  * Fixed: advmod cannot be used with nominal dependents.
+  * Fixed: cc cannot be used with verbal dependents.
+  * Fixed: det can be used only with UPOS DET or PRON.
+  * Fixed: mark can be used only with SCONJ.
+  * Fixed: ordinal numerals are attached as amod, not nummod.
+  * Fixed: auxiliaries have UPOS AUX, not VERB or PROPN.
+  * Fixed: function words should be leaves.
 * 2021-11-15 v2.9
   * Fixed some lemmas of participles that are tagged VERB (#12).
 * 2019-11-15 v2.5
