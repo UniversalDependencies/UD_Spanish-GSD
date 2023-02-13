@@ -1123,13 +1123,13 @@
 10	webcómic	webcómic	NOUN	_	_	6	appos	_	_
 11	escrito	escribir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
 12	por	por	ADP	_	_	13	case	_	_
-13	Scott	scott	PROPN	_	_	11	obl	_	_
+13	Scott	scott	PROPN	_	_	11	obl:agent	_	_
 14	Ramsoomair	ramsoomair	PROPN	_	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	6	punct	_	_
 16	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux:pass	_	_
 17	comisionado	comisionar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 18	por	por	ADP	_	_	19	case	_	_
-19	Square	square	PROPN	_	_	17	obl	_	_
+19	Square	square	PROPN	_	_	17	obl:agent	_	_
 20	Enix	enix	PROPN	_	_	19	flat	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	23	nsubj	_	_
@@ -1172,7 +1172,7 @@
 1	Formado	formar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 2	por	por	ADP	_	_	4	case	_	_
 3	tres	tres	NUM	_	Number=Plur|NumType=Card	4	nummod	_	_
-4	localidades	localidad	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	SpaceAfter=No
+4	localidades	localidad	NOUN	_	Gender=Fem|Number=Plur	1	obl:agent	_	SpaceAfter=No
 5	:	:	PUNCT	_	_	6	punct	_	_
 6	3	3	NUM	_	NumType=Card	1	parataxis	_	_
 7	de	de	ADP	_	_	8	case	_	_
@@ -2435,7 +2435,7 @@
 51	por	por	ADP	_	_	54	case	_	_
 52	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	_
 53	anterior	anterior	ADJ	_	Number=Sing	54	amod	_	_
-54	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	47	obl	_	_
+54	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	47	obl:agent	_	_
 55	de	de	ADP	_	_	57	case	_	_
 56	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	57	det	_	_
 57	Junta	junta	NOUN	_	_	54	nmod	_	SpaceAfter=No
@@ -2594,7 +2594,7 @@
 5	leído	leer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	por	por	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	prensa	prensa	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
+8	prensa	prensa	NOUN	_	Gender=Fem|Number=Sing	5	obl:agent	_	_
 9	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	10	det	_	_
 10	expresiones	expresión	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	_
 11-12	del	_	_	_	_	_	_	_	_
@@ -3355,7 +3355,7 @@
 16	pagados	pagar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	conj	_	_
 17	por	por	ADP	_	_	19	case	_	_
 18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	familia	familia	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
+19	familia	familia	NOUN	_	Gender=Fem|Number=Sing	16	obl:agent	_	_
 20	de	de	ADP	_	_	21	case	_	_
 21	acogida	acogida	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	7	punct	_	_
@@ -3416,7 +3416,7 @@
 26	trasero	trasero	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	_
 27	por	por	ADP	_	_	29	case	_	_
 28	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
-29	francotirador	francotirador	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	_
+29	francotirador	francotirador	NOUN	_	Gender=Masc|Number=Sing	23	obl:agent	_	_
 30	alemán	alemán	ADJ	_	Gender=Masc|Number=Sing	29	amod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	23	punct	_	_
 
@@ -4032,7 +4032,7 @@
 11	recorrida	recorrido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	6	acl	_	_
 12	por	por	ADP	_	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	río	río	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
+14	río	río	NOUN	_	Gender=Masc|Number=Sing	11	obl:agent	_	_
 15	Sông	sông	X	_	_	16	compound	_	_
 16	Hương	hương	X	_	_	14	appos	_	_
 17	o	o	CCONJ	_	_	18	cc	_	_
@@ -4298,7 +4298,7 @@
 12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	_
 13	transmitido	transmitir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 14	por	por	ADP	_	_	15	case	_	_
-15	Telefutura	telefutura	PROPN	_	_	13	obl	_	SpaceAfter=No
+15	Telefutura	telefutura	PROPN	_	_	13	obl:agent	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	19	punct	_	_
 17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
 18	que	que	SCONJ	_	_	19	mark	_	_
@@ -4537,7 +4537,7 @@
 22	,	,	PUNCT	_	_	23	punct	_	_
 23	organizados	organizar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	20	acl	_	_
 24	por	por	ADP	_	_	25	case	_	_
-25	pedidos	pedido	NOUN	_	Gender=Masc|Number=Plur|VerbForm=Part	23	obl	_	SpaceAfter=No
+25	pedidos	pedido	NOUN	_	Gender=Masc|Number=Plur|VerbForm=Part	23	obl:agent	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	23	punct	_	_
 27	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	28	iobj	_	_
 28	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
@@ -5659,7 +5659,7 @@
 16	millón	millón	NOUN	_	Gender=Masc|Number=Sing	19	nummod	_	_
 17	de	de	ADP	_	_	16	case	_	_
 18	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
-19	periféricos	periférico	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
+19	periféricos	periférico	NOUN	_	Gender=Masc|Number=Plur	9	obl:agent	_	_
 20	para	para	ADP	_	_	21	case	_	_
 21	Xbox	xbox	PROPN	_	_	19	nmod	_	_
 22	360	360	NUM	_	NumType=Card	21	nummod	_	SpaceAfter=No
@@ -5822,7 +5822,7 @@
 1	Organizado	organizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	advcl	_	_
 2	por	por	ADP	_	_	4	case	_	_
 3	Live	live	PROPN	_	_	4	amod	_	_
-4	Nation	nation	PROPN	_	_	1	obl	_	SpaceAfter=No
+4	Nation	nation	PROPN	_	_	1	obl:agent	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	1	punct	_	_
 6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 7	productores	productor	NOUN	_	Gender=Masc|Number=Plur	12	nsubj:pass	_	_
@@ -6059,7 +6059,7 @@
 36	por	por	ADP	_	_	39	case	_	_
 37	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	39	det	_	_
 38	privilegiado	privilegiado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
-39	grupito	grupito	NOUN	_	Gender=Masc|Number=Sing	35	obl	_	_
+39	grupito	grupito	NOUN	_	Gender=Masc|Number=Sing	35	obl:agent	_	_
 40	de	de	ADP	_	_	41	case	_	_
 41	Radio	radio	PROPN	_	_	39	nmod	_	_
 42	Sagua	sagua	PROPN	_	_	41	flat	_	_
@@ -6449,7 +6449,7 @@
 26	reconocida	reconocer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	24	acl	_	_
 27	por	por	ADP	_	_	29	case	_	_
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
-29	Constitución	constitución	NOUN	_	_	26	obl	_	_
+29	Constitución	constitución	NOUN	_	_	26	obl:agent	_	_
 30	de	de	ADP	_	_	31	case	_	_
 31	1999	1999	NUM	_	NumType=Card	29	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	_	33	punct	_	_
@@ -7448,7 +7448,7 @@
 26	rechazada	rechazar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 27	por	por	ADP	_	_	29	case	_	_
 28	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
-29	renegados	renegado	NOUN	_	Gender=Masc|Number=Plur	26	obl	_	_
+29	renegados	renegado	NOUN	_	Gender=Masc|Number=Plur	26	obl:agent	_	_
 30	libios	libio	ADJ	_	Gender=Masc|Number=Plur	29	amod	_	SpaceAfter=No
 31	.	.	PUNCT	_	_	26	punct	_	_
 
@@ -8334,7 +8334,7 @@
 18	presidida	presidir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	11	acl	_	_
 19	por	por	ADP	_	_	21	case	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	empresario	empresario	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
+21	empresario	empresario	NOUN	_	Gender=Masc|Number=Sing	18	obl:agent	_	_
 22	Oswaldo	oswaldo	PROPN	_	_	21	appos	_	_
 23	García	garcía	PROPN	_	_	22	flat	_	_
 24	Jarquín	jarquín	PROPN	_	_	22	flat	_	SpaceAfter=No
@@ -8876,7 +8876,7 @@
 4	"	"	PUNCT	_	_	3	punct	_	_
 5	escrito	escribir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 6	por	por	ADP	_	_	7	case	_	_
-7	Nathan	nathan	PROPN	_	_	5	obl	_	_
+7	Nathan	nathan	PROPN	_	_	5	obl:agent	_	_
 8	Allen	allen	PROPN	_	_	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
 10	Chris	chris	PROPN	_	_	7	conj	_	_
@@ -9008,7 +9008,7 @@
 4	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux	_	_
 5	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	por	por	ADP	_	_	7	case	_	_
-7	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+7	teléfono	teléfono	NOUN	_	Gender=Masc|Number=Sing	5	obl:agent	_	_
 8	desesperada	desesperado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	xcomp	_	_
 9	porque	porque	SCONJ	_	_	13	mark	_	_
 10	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	_
@@ -9721,7 +9721,7 @@
 18	alcanzados	alcanzar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	xcomp	_	_
 19	por	por	ADP	_	_	21	case	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	agua	agua	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
+21	agua	agua	NOUN	_	Gender=Fem|Number=Sing	18	obl:agent	_	_
 22	y	y	CCONJ	_	_	24	cc	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	gas	gas	NOUN	_	Gender=Masc|Number=Sing	21	conj	_	SpaceAfter=No
@@ -9790,7 +9790,7 @@
 52	indicada	indicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	58	acl	_	_
 53	por	por	ADP	_	_	55	case	_	_
 54	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	55	det	_	_
-55	médico	médico	NOUN	_	Gender=Masc|Number=Sing	52	obl	_	SpaceAfter=No
+55	médico	médico	NOUN	_	Gender=Masc|Number=Sing	52	obl:agent	_	SpaceAfter=No
 56	,	,	PUNCT	_	_	52	punct	_	_
 57	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	58	aux	_	_
 58	retrasar	retrasar	VERB	_	VerbForm=Inf	48	acl:relcl	_	_
@@ -10553,7 +10553,7 @@
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	encabezado	encabezar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	por	por	ADP	_	_	6	case	_	_
-6	Lituania	lituania	PROPN	_	_	4	obl	_	SpaceAfter=No
+6	Lituania	lituania	PROPN	_	_	4	obl:agent	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	8	punct	_	_
 8	Alemania	alemania	PROPN	_	_	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	_	_	10	punct	_	_
@@ -10918,7 +10918,7 @@
 # text = Por otra parte, el delegado del Gobierno ha recordado que el campamento se instaló para atender de urgencia a todas aquellas personas que se habían quedado sin hogar o el suyo estaba seriamente dañado, tras los seísmos del 11 de mayo.
 1	Por	por	ADP	_	_	3	case	_	_
 2	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	3	det	_	_
-3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
+3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	11	obl:agent	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	3	punct	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	delegado	delegado	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
@@ -11464,7 +11464,7 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	domingo	domingo	PROPN	_	_	3	obl	_	_
 6	por	por	ADP	_	_	7	case	_	_
-7	Humberto	humberto	PROPN	_	_	3	obl	_	_
+7	Humberto	humberto	PROPN	_	_	3	obl:agent	_	_
 8	Moreira	moreira	PROPN	_	_	7	flat	_	_
 9	Valdés	valdés	PROPN	_	_	7	flat	_	_
 10	en	en	ADP	_	_	12	case	_	_
@@ -11598,7 +11598,7 @@
 22	remasterizados	remasterizar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
 23	digitalmente	digitalmente	ADV	_	_	22	advmod	_	_
 24	por	por	ADP	_	_	25	case	_	_
-25	James	james	PROPN	_	_	22	obl	_	_
+25	James	james	PROPN	_	_	22	obl:agent	_	_
 26	Guthrie	guthrie	PROPN	_	_	25	flat	_	_
 27	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
 28	coproductor	coproductor	NOUN	_	Gender=Masc|Number=Sing	25	appos	_	_
@@ -11621,7 +11621,7 @@
 45	creados	crear	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	42	acl	_	_
 46	por	por	ADP	_	_	48	case	_	_
 47	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	48	det	_	_
-48	colaborador	colaborador	NOUN	_	Gender=Masc|Number=Sing	45	obl	_	_
+48	colaborador	colaborador	NOUN	_	Gender=Masc|Number=Sing	45	obl:agent	_	_
 49-50	del	_	_	_	_	_	_	_	_
 49	de	de	ADP	_	_	51	case	_	_
 50	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	_
@@ -11891,7 +11891,7 @@
 12	afectados	afectar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	11	acl	_	_
 13	por	por	ADP	_	_	15	case	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	onda	onda	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+15	onda	onda	NOUN	_	Gender=Fem|Number=Sing	12	obl:agent	_	_
 16	gélida	gélido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	15	amod	_	_
 17	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
 18	Casas	casas	PROPN	_	Gender=Fem|Number=Plur	1	ccomp	_	_

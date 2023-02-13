@@ -25,6 +25,8 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Por-nominals under participles changed from obl to obl:agent.
 * 2022-11-15 v2.11
   * Fixed: deprel punct occurs only with UPOS PUNCT.
   * Fixed: advmod cannot be used with nominal dependents.

@@ -89,7 +89,7 @@
     <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,PROPN,SYM,VERB,X">9494</feat><!-- sido, ubicado, conocido, debido, llamado, compuesto, conocida, situada, pasado, hecho -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="38">
+  <deps unique="39">
     <dep name="acl">2858</dep>
     <dep name="acl:relcl">5298</dep>
     <dep name="advcl">7113</dep>
@@ -121,7 +121,8 @@
     <dep name="nsubj:pass">1182</dep>
     <dep name="nummod">6256</dep>
     <dep name="obj">13634</dep>
-    <dep name="obl">25116</dep>
+    <dep name="obl">23575</dep>
+    <dep name="obl:agent">1541</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">1673</dep>
     <dep name="punct">47528</dep>
