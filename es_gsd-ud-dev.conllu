@@ -37,7 +37,7 @@
 9	presentación	presentación	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11-12	transmitiéndose	_	_	_	_	_	_	_	_
-11	transmitiéndo	transmitiéndo	VERB	_	VerbForm=Ger	4	advcl	_	_
+11	transmitiendo	transmitir	VERB	_	VerbForm=Ger	4	advcl	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	iobj	_	_
 13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
 14	dos	dos	NUM	_	Number=Plur|NumType=Card	16	nummod	_	_
@@ -2326,10 +2326,10 @@
 7	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 8	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 9	breve	breve	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
-10	,	,	PUNCT	_	_	11	punct	_	_
-11	pues	pues	CCONJ	_	_	9	ccomp	_	_
+10	,	,	PUNCT	_	_	32	punct	_	_
+11	pues	pues	CCONJ	_	_	32	ccomp	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	sultán	sultán	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:pass	_	_
+13	sultán	sultán	NOUN	_	Gender=Masc|Number=Sing	32	nsubj:pass	_	_
 14	y	y	CCONJ	_	_	16	cc	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
@@ -2347,17 +2347,17 @@
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	élite	élite	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	_
 30	árabe	árabe	ADJ	_	Number=Sing	29	amod	_	_
-31	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
-32	derrocados	derrocar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	mark	_	_
+31	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	32	aux:pass	_	_
+32	derrocados	derrocar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	9	advcl	_	_
 33	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
-34	12	12	NUM	_	NumType=Card	9	obl	_	_
+34	12	12	NUM	_	NumType=Card	32	obl	_	_
 35	de	de	ADP	_	_	36	case	_	_
 36	enero	enero	PROPN	_	_	34	nmod	_	_
 37	de	de	ADP	_	_	38	case	_	_
 38	1964	1964	NUM	_	NumType=Card	36	nmod	_	_
 39	en	en	ADP	_	_	41	case	_	_
 40	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
-41	Revolución	revolución	PROPN	_	_	9	obl	_	_
+41	Revolución	revolución	PROPN	_	_	32	obl	_	_
 42	de	de	ADP	_	_	43	case	_	_
 43	Zanzíbar	zanzíbar	PROPN	_	_	41	nmod	_	SpaceAfter=No
 44	,	,	PUNCT	_	_	45	punct	_	_
@@ -2505,7 +2505,7 @@
 2	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	10	mark	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	letra	letra	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+5	letra	letra	NOUN	_	Gender=Fem|Number=Sing	10	dislocated	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	canción	canción	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
@@ -8992,13 +8992,13 @@
 15	participación	participación	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	15	punct	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	actriz	actriz	NOUN	_	Gender=Fem|Number=Sing	23	nsubj	_	_
+18	actriz	actriz	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
 19	que	que	SCONJ	_	_	20	mark	_	_
-20	doblo	doblo	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+20	doblo	doblar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	18	acl:relcl	_	CorrectForm=dobló
 21	a	a	ADP	_	_	22	case	_	_
 22	Thelma	thelma	PROPN	_	_	20	obj	_	_
-23	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
-24	Florence	florence	PROPN	_	_	23	nsubj	_	_
+23	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	cop	_	_
+24	Florence	florence	PROPN	_	_	3	ccomp	_	_
 25	Stanley	stanley	PROPN	_	_	24	flat	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	3	punct	_	_
 
@@ -9506,7 +9506,7 @@
 12	irlandeses	irlandés	NOUN	_	Gender=Masc|Number=Plur	8	iobj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14-15	debiéndolos	_	_	_	_	_	_	_	_
-14	debiéndo	debiér	VERB	_	VerbForm=Ger	12	acl	_	_
+14	debiendo	deber	VERB	_	VerbForm=Ger	12	acl	_	_
 15	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
 16	traer	traer	VERB	_	VerbForm=Inf	14	xcomp	_	_
 17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
@@ -11138,7 +11138,7 @@
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	esfuerzo	esfuerzo	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
 23	de	de	ADP	_	_	24	mark	_	_
-24-26	llevarselo	_	_	_	_	_	_	_	CorrectForm=llevárselo|SpaceAfter=No
+24-26	llevarselo	_	_	_	Typo=Yes	_	_	_	CorrectForm=llevárselo|SpaceAfter=No
 24	llevar	llevar	VERB	_	VerbForm=Inf	22	advcl	_	_
 25	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	iobj	_	_
 26	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
@@ -11634,7 +11634,7 @@
 # sent_id = es-dev-001-s399
 # text = Sálvate a ti y a nosotros.
 1-2	Sálvate	_	_	_	_	_	_	_	_
-1	Sálva	sálva	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Salva	salvar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	a	a	ADP	_	_	4	case	_	_
 4	ti	tú	PRON	_	Case=Acc|Number=Sing|Person=2|PrepCase=Pre|PronType=Prs	1	obj	_	_
@@ -13853,7 +13853,7 @@
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	Mundo	mundo	NOUN	_	_	21	nmod	_	_
 25-26	únanse	_	_	_	_	_	_	_	_
-25	únan	únan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	parataxis	_	_
+25	unan	unir	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	19	parataxis	_	_
 26	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	iobj	_	_
 27	por	por	ADP	_	_	29	case	_	_
 28	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
@@ -14268,7 +14268,7 @@
 12	entrevistas	entrevista	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	14	punct	_	_
 14-15	diciéndole	_	_	_	_	_	_	_	_
-14	diciéndo	diciér	VERB	_	VerbForm=Ger	9	advcl	_	_
+14	diciendo	decir	VERB	_	VerbForm=Ger	9	advcl	_	_
 15	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	14	iobj	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -14910,7 +14910,7 @@
 36	a	a	ADP	_	_	37	case	_	_
 37	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	35	nmod	_	_
 38-39	imponiéndose	_	_	_	_	_	_	_	_
-38	imponiéndo	imponiéndo	VERB	_	VerbForm=Ger	35	acl	_	_
+38	imponiendo	imponer	VERB	_	VerbForm=Ger	35	acl	_	_
 39	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	38	iobj	_	_
 40	sobre	sobre	ADP	_	_	41	case	_	_
 41	Antonio	antonio	PROPN	_	_	38	obl	_	_
@@ -15761,7 +15761,7 @@
 68	Bretaña	bretaña	PROPN	_	_	63	obl	_	SpaceAfter=No
 69	,	,	PUNCT	_	_	70	punct	_	_
 70-71	convirtiéndose	_	_	_	_	_	_	_	_
-70	convirtiéndo	convertir	VERB	_	VerbForm=Ger	64	advcl	_	_
+70	convirtiendo	convertir	VERB	_	VerbForm=Ger	64	advcl	_	_
 71	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	70	iobj	_	_
 72	en	en	ADP	_	_	74	case	_	_
 73	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	74	det	_	_
@@ -20709,7 +20709,7 @@
 16	así	así	ADV	_	_	18	mark	_	_
 17	que	que	SCONJ	_	_	16	fixed	_	_
 18-19	hazte	_	_	_	_	_	_	_	_
-18	haz	haz	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	4	advcl	_	_
+18	haz	hacer	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	4	advcl	_	_
 19	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	iobj	_	_
 20	con	con	ADP	_	_	21	case	_	_
 21	packs	packs	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
@@ -20913,8 +20913,8 @@
 14	mejor	mejor	ADV	_	_	15	advmod	_	_
 15	ve	ir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
-17-19	compratelo	_	_	_	_	_	_	_	_
-17	compra	compro	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	15	conj	_	_
+17-19	compratelo	_	_	_	Typo=Yes	_	_	_	CorrectForm=cómpratelo
+17	compra	comprar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	15	conj	_	_
 18	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	17	iobj	_	_
 19	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	obj	_	_
 20	en	en	ADP	_	_	22	case	_	_
@@ -21560,7 +21560,7 @@
 30	anticipación	anticipación	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	_
 32-33	encontrándose	_	_	_	_	_	_	_	_
-32	encontrándo	encontrar	VERB	_	VerbForm=Ger	17	advcl	_	_
+32	encontrando	encontrar	VERB	_	VerbForm=Ger	17	advcl	_	_
 33	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	iobj	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	huracán	huracán	NOUN	_	Gender=Masc|Number=Sing	32	nsubj	_	_
@@ -25127,7 +25127,7 @@
 30	partes	parte	NOUN	_	Gender=Fem|Number=Plur	27	obj	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	_
 32-33	viéndome	_	_	_	_	_	_	_	_
-32	viéndo	viéndo	VERB	_	VerbForm=Ger	27	advcl	_	_
+32	viendo	ver	VERB	_	VerbForm=Ger	27	advcl	_	_
 33	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	32	iobj	_	_
 34	obligado	obligado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	32	xcomp	_	_
 35	así	así	ADV	_	_	32	advmod	_	_
@@ -26360,7 +26360,7 @@
 15	oriental	oriental	ADJ	_	Number=Sing	13	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17-18	encontrándose	_	_	_	_	_	_	_	_
-17	encontrándo	encontrar	VERB	_	VerbForm=Ger	10	advcl	_	_
+17	encontrando	encontrar	VERB	_	VerbForm=Ger	10	advcl	_	_
 18	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	iobj	_	_
 19	principalmente	principalmente	ADV	_	_	17	advmod	_	_
 20	en	en	ADP	_	_	21	case	_	_
@@ -26673,17 +26673,17 @@
 # sent_id = es-dev-002-s390
 # text = La pega como siempre es que está lleno en horas punta.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	pega	pega	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	pega	pega	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 3	como	como	ADP	_	_	4	case	_	_
-4	siempre	siempre	ADV	_	_	5	advmod	_	_
-5	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	siempre	siempre	ADV	_	_	2	advmod	_	_
+5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 6	que	que	SCONJ	_	_	8	mark	_	_
 7	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	lleno	lleno	ADJ	_	Gender=Masc|Number=Sing	5	csubj	_	_
+8	lleno	lleno	ADJ	_	Gender=Masc|Number=Sing	2	csubj	_	_
 9	en	en	ADP	_	_	10	case	_	_
-10	horas	hora	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
+10	horas	hora	NOUN	_	Gender=Fem|Number=Plur	8	obl	_	_
 11	punta	punta	NOUN	_	Gender=Fem|Number=Plur	10	compound	_	SpaceAfter=No
-12	.	.	PUNCT	_	_	5	punct	_	_
+12	.	.	PUNCT	_	_	2	punct	_	_
 
 # sent_id = es-dev-002-s391
 # text = Los Temple ofenden a los de Seville, los de Seville ofende a los Grove ", es lo más parecido a una explicación de por qué se pelean entre ellos que se menciona dentro del juego, pero la razón exacta nunca se sabe, sea como sea, los Ballas y Vagos aprovecharon las luchas internas para ganar influencia en Idlewood y Willowfield.
@@ -31148,7 +31148,7 @@
 31	/	/	SYM	_	_	32	case	_	_
 32	día	día	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
 33-34	ampliándose	_	_	_	_	_	_	_	SpaceAfter=No
-33	ampliándo	ampliar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	3	advcl	_	_
+33	ampliando	ampliar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	3	advcl	_	_
 34	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	33	iobj	_	_
 35	,	,	PUNCT	_	_	38	punct	_	_
 36	a	a	ADP	_	_	38	case	_	_
