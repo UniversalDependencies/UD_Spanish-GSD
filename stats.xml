@@ -37,10 +37,10 @@
   <feats unique="52">
     <feat name="Abbr" value="Yes" upos="NOUN,PROPN">4</feat><!-- D, D., Dr., Inc. -->
     <feat name="Case" value="Acc" upos="INTJ,PRON">2220</feat><!-- lo, la, los, las, sí, mí, ti -->
-    <feat name="Case" value="Acc,Dat" upos="PRON">6069</feat><!-- se, me, nos, te, os -->
+    <feat name="Case" value="Acc,Dat" upos="PRON">5522</feat><!-- se, me, nos, te, os -->
     <feat name="Case" value="Acc,Nom" upos="PRON">698</feat><!-- él, ellos, ella, ello, ellas, nosotros, usted, vosotros, ustedes -->
     <feat name="Case" value="Com" upos="PRON">8</feat><!-- consigo, conmigo, contigo -->
-    <feat name="Case" value="Dat" upos="PRON">870</feat><!-- le, les -->
+    <feat name="Case" value="Dat" upos="PRON">1417</feat><!-- le, me, les, nos, te, os -->
     <feat name="Case" value="Nom" upos="PRON">97</feat><!-- yo, tú, I -->
     <feat name="Definite" value="Def" upos="DET">43539</feat><!-- el, la, los, las, the, al, a, en, l' -->
     <feat name="Definite" value="Ind" upos="DET">7653</feat><!-- un, una, unos, unas, a, uno -->
@@ -114,7 +114,7 @@
     <dep name="fixed">2773</dep>
     <dep name="flat">7396</dep>
     <dep name="goeswith">1</dep>
-    <dep name="iobj">571</dep>
+    <dep name="iobj">24</dep>
     <dep name="mark">11647</dep>
     <dep name="nmod">39266</dep>
     <dep name="nsubj">15836</dep>
@@ -124,7 +124,7 @@
     <dep name="obj">13634</dep>
     <dep name="obl">23577</dep>
     <dep name="obl:agent">1541</dep>
-    <dep name="obl:arg">1561</dep>
+    <dep name="obl:arg">2108</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">1673</dep>
     <dep name="punct">47528</dep>

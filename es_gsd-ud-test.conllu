@@ -509,7 +509,7 @@
 1	Podríamos	poder	AUX	_	VerbForm=Inf	2	aux	_	_
 2-3	decantarnos	_	_	_	_	_	_	_	_
 2	decantar	decantar	VERB	_	VerbForm=Inf	0	root	_	_
-3	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	iobj	_	_
+3	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
 4	por	por	ADP	_	_	7	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 6	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
@@ -3486,7 +3486,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	abominable	abominable	ADJ	_	Number=Sing	1	conj	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	10	punct	_	_
-9	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	iobj	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl:arg	_	_
 10	faltan	faltar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 11	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	palabras	palabra	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	_
@@ -4539,7 +4539,7 @@
 24	por	por	ADP	_	_	25	case	_	_
 25	pedidos	pedido	NOUN	_	Gender=Masc|Number=Plur|VerbForm=Part	23	obl:agent	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	23	punct	_	_
-27	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	28	iobj	_	_
+27	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	28	obl:arg	_	_
 28	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 29	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	idea	idea	NOUN	_	Gender=Fem|Number=Sing	28	xcomp	_	_
@@ -5965,7 +5965,7 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 17	menos	menos	ADV	_	Degree=Cmp	15	fixed	_	_
 18	eso	ese	PRON	_	Number=Sing|PronType=Dem	20	nsubj	_	_
-19	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	20	iobj	_	_
+19	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	20	obl:arg	_	_
 20	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	10	advcl	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	10	punct	_	_
 
@@ -6524,15 +6524,15 @@
 # text = Quedate tranquilo, rendite, no te va a pasar nada... con vos no es la cosa, dale, olvidate de todo, seguí tu vida, no pasa nada".
 1-2	Quedate	_	_	_	_	_	_	_	CorrectForm=Quédate
 1	Queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	iobj	_	_
+2	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	tranquilo	tranquilo	ADJ	_	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5-6	rendite	_	_	_	_	_	_	_	CorrectForm=réndite|SpaceAfter=No
 5	rendi	rendi	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
-6	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	5	iobj	_	_
+6	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	5	obl:arg	_	_
 7	,	,	PUNCT	_	_	10	punct	_	_
 8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
-9	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	12	iobj	_	_
+9	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	12	obl:arg	_	_
 10	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 11	a	a	ADP	_	_	12	mark	_	_
 12	pasar	pasar	VERB	_	VerbForm=Inf	10	xcomp	_	_
@@ -6551,7 +6551,7 @@
 24	,	,	PUNCT	_	_	25	punct	_	_
 25-26	olvidate	_	_	_	_	_	_	_	_
 25	olvida	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
-26	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	25	iobj	_	_
+26	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	25	obl:arg	_	_
 27	de	de	ADP	_	_	28	case	_	_
 28	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	25	obl	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	30	punct	_	_
@@ -6632,7 +6632,7 @@
 7	autoexigido	autoexigido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	conj	_	_
 8	profesor	profesor	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
 9	-	-	PUNCT	_	_	8	punct	_	_
-10	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	iobj	_	_
+10	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	obl:arg	_	_
 11	descubre	descubrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	patria	patria	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
@@ -8347,7 +8347,7 @@
 31	"	"	PUNCT	_	_	35	punct	_	SpaceAfter=No
 32	a	a	ADP	_	_	33	case	_	_
 33	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	35	obl:arg	_	_
-34	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	35	iobj	_	_
+34	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	35	obl:arg	_	_
 35	compete	competer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	ccomp	_	_
 36	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
 37	indefensión	indefensión	NOUN	_	Gender=Fem|Number=Sing	35	nsubj	_	_
@@ -10781,7 +10781,7 @@
 59	vosotros	tú	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=2|PronType=Prs	57	nmod	_	_
 60	si	si	SCONJ	_	_	63	mark	_	_
 61	no	no	ADV	_	Polarity=Neg	63	advmod	_	_
-62	os	tú	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	63	iobj	_	_
+62	os	tú	PRON	_	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	63	obl:arg	_	_
 63	decidís	decidí	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	57	advcl	_	_
 64	por	por	ADP	_	_	65	case	_	_
 65	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	63	obl	_	_
@@ -10839,12 +10839,12 @@
 # text = Dime qué perro tienes y te diré que cazador eres'.
 1-2	Dime	_	_	_	_	_	_	_	_
 1	Di	di	VERB	_	VerbForm=Fin	0	root	_	_
-2	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	iobj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	qué	qué	DET	_	Number=Sing|PronType=Int,Rel	4	det	_	_
 4	perro	perro	NOUN	_	Number=Sing	5	obj	_	_
 5	tienes	tener	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	1	ccomp	_	_
 6	y	y	CCONJ	_	_	8	cc	_	_
-7	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	iobj	_	_
+7	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
 8	diré	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
 9	que	que	DET	_	PronType=Int,Rel	10	det	_	_
 10	cazador	cazador	NOUN	_	Gender=Masc|Number=Sing	8	ccomp	_	_
@@ -11095,7 +11095,7 @@
 # sent_id = es-test-001-s178
 # text = También me gusta burlar la censura a través de la metáfora, me encanta que me pongan las cosas difíciles, amo los retos.
 1	También	también	ADV	_	_	3	advmod	_	_
-2	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 3	gusta	gustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	burlar	burlar	VERB	_	VerbForm=Inf	3	csubj	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -11106,10 +11106,10 @@
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	metáfora	metáfora	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
-13	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	iobj	_	_
+13	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obl:arg	_	_
 14	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 15	que	que	SCONJ	_	_	17	mark	_	_
-16	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	17	iobj	_	_
+16	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	17	obl:arg	_	_
 17	pongan	poner	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	csubj	_	_
 18	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
 19	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	_
@@ -12132,7 +12132,7 @@
 5	POR	por	ADP	_	_	6	case	_	_
 6	LO	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	nmod	_	_
 7	QUE	que	SCONJ	_	_	10	mark	_	_
-8	ME	me	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	iobj	_	_
+8	ME	me	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl:arg	_	_
 9	HAN	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	HECHO	hacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
 11	LOS	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
@@ -12142,7 +12142,7 @@
 15	DE	de	ADP	_	_	16	case	_	_
 16	AREAS	área	NOUN	_	Typo=Yes	14	nmod	_	CorrectForm=ÁREAS|SpaceAfter=No
 17	,	,	PUNCT	_	_	19	punct	_	_
-18	OS	tú	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	19	iobj	_	_
+18	OS	tú	PRON	_	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	19	obl:arg	_	_
 19	ECHO	echo	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 20	LA	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	MALDICION	maldicion	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	_
@@ -12151,7 +12151,7 @@
 24	VIDA	vida	NOUN	_	_	21	nmod	_	_
 25	QUE	que	SCONJ	_	_	28	mark	_	_
 26	SE	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl:pv	_	_
-27	OS	tú	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	28	iobj	_	_
+27	OS	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	28	obl:arg	_	_
 28	GIRE	gire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	ccomp	_	_
 29	TODO	todo	PRON	_	PronType=Tot	28	nsubj	_	_
 30	EN	en	ADP	_	_	32	case	_	_
@@ -12405,7 +12405,7 @@
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	sitios	sitio	NOUN	_	Gender=Masc|Number=Plur	16	obl	_	_
 14	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
-15	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	16	iobj	_	_
+15	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	16	obl:arg	_	_
 16	regalan	regalar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 17	nada	nada	PRON	_	Number=Sing|PronType=Neg	16	obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
@@ -12438,7 +12438,7 @@
 
 # sent_id = es-test-001-s221
 # text = Os lo recomiendo sinceramente
-1	Os	tú	PRON	_	Case=Acc,Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+1	Os	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
 3	recomiendo	recomir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	sinceramente	sinceramente	ADV	_	_	3	advmod	_	_
@@ -12568,12 +12568,12 @@
 6	gana	ganar	NOUN	_	Number=Sing	3	obl	_	_
 7	porque	porque	SCONJ	_	_	10	mark	_	_
 8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
-9	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	10	iobj	_	_
+9	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	10	obl:arg	_	_
 10	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 11	más	más	ADV	_	Degree=Cmp	12	advmod	_	_
 12	remedio	remedio	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
 13	o	o	CCONJ	_	_	15	cc	_	_
-14	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	15	iobj	_	_
+14	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	15	obl:arg	_	_
 15	vas	ir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	10	conj	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
@@ -12593,7 +12593,7 @@
 31	de	de	ADP	_	_	30	fixed	_	_
 32-33	quejarnos	_	_	_	_	_	_	_	_
 32	quejar	quejar	VERB	_	VerbForm=Inf	43	advcl	_	_
-33	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	32	iobj	_	_
+33	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	32	obl:arg	_	_
 34	y	y	CCONJ	_	_	36	cc	_	_
 35	de	de	ADP	_	_	36	mark	_	_
 36-37	montarle	_	_	_	_	_	_	_	_
@@ -12603,7 +12603,7 @@
 39	medio	medio	ADJ	_	Gender=Masc|Number=Sing	40	amod	_	_
 40	follón	follón	NOUN	_	Gender=Masc|Number=Sing	36	obj	_	_
 41	no	no	ADV	_	Polarity=Neg	43	advmod	_	_
-42	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	43	iobj	_	_
+42	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	43	obl:arg	_	_
 43	cobraron	cobrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 44	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	_
 45	comida	comida	NOUN	_	Gender=Fem|Number=Sing	43	obj	_	SpaceAfter=No
@@ -12671,7 +12671,7 @@
 2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
 3	pretendia	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=pretendía
 4	que	que	SCONJ	_	_	6	mark	_	_
-5	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	iobj	_	_
+5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl:arg	_	_
 6	devolvieran	devolvir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
@@ -12692,7 +12692,7 @@
 11	,	,	PUNCT	_	_	10	punct	_	_
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	precios	precio	NOUN	_	Gender=Masc|Number=Plur	15	nsubj	_	_
-14	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	iobj	_	_
+14	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl:arg	_	_
 15	parecen	parecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 16	algo	algo	ADV	_	_	17	advmod	_	_
 17	elevados	elevado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	15	xcomp	_	SpaceAfter=No
@@ -12768,7 +12768,7 @@
 
 # sent_id = es-test-001-s238
 # text = Me ha gustado su servicio y precio!
-1	Me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 2	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	gustado	gustar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
@@ -12968,7 +12968,7 @@
 5	por	por	ADP	_	_	7	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	noche	noche	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
-8	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	9	iobj	_	_
+8	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	9	obl:arg	_	_
 9	bajan	bajar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	automático	automático	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
@@ -13155,7 +13155,7 @@
 40	tan	tanto	ADV	_	_	41	advmod	_	_
 41	apretado	apretado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	xcomp	_	_
 42	que	que	CCONJ	_	_	44	case	_	_
-43	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	44	iobj	_	_
+43	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	44	obl:arg	_	_
 44	costará	costar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	40	advcl	_	_
 45	respirar	respirar	VERB	_	VerbForm=Inf	44	csubj	_	_
 46	y	y	CCONJ	_	_	49	cc	_	_
@@ -13306,7 +13306,7 @@
 3	para	para	ADP	_	_	4	mark	_	_
 4-5	distraerte	_	_	_	_	_	_	_	_
 4	distraer	distraer	VERB	_	VerbForm=Inf	2	advcl	_	_
-5	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	iobj	_	_
+5	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
 6	y	y	CCONJ	_	_	7	cc	_	_
 7	caminar	caminar	VERB	_	VerbForm=Inf	4	conj	_	_
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -13346,7 +13346,7 @@
 29	,	,	PUNCT	_	_	24	punct	_	_
 30	como	como	SCONJ	_	_	33	mark	_	_
 31	no	no	ADV	_	Polarity=Neg	33	advmod	_	_
-32	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	33	iobj	_	_
+32	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	33	obl:arg	_	_
 33	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38	advcl	_	_
 34	mucho	mucho	ADV	_	_	33	advmod	_	_
 35	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
@@ -13498,7 +13498,7 @@
 14	barato	barato	ADJ	_	Gender=Masc|Number=Sing	2	parataxis	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	18	punct	_	_
 16	pero	pero	CCONJ	_	_	18	cc	_	_
-17	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	iobj	_	_
+17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obl:arg	_	_
 18	arruinó	arruinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	conj	_	_
 19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No

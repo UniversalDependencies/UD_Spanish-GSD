@@ -1497,7 +1497,7 @@
 6	para	para	ADP	_	_	7	mark	_	_
 7-8	relajarte	_	_	_	_	_	_	_	_
 7	relajar	relajar	VERB	_	VerbForm=Inf	5	advcl	_	_
-8	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	7	iobj	_	_
+8	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	7	obl:arg	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
 10	pasar	pasar	VERB	_	VerbForm=Inf	7	conj	_	_
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -2439,7 +2439,7 @@
 4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	propósito	propósito	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	2	punct	_	_
-7	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	iobj	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
 8	corresponde	corresponder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9-10	ofrecerles	_	_	_	_	_	_	_	_
 9	ofrecer	ofrecer	VERB	_	VerbForm=Inf	8	csubj	_	_
@@ -3409,7 +3409,7 @@
 21	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	nmod	_	_
 23	que	que	SCONJ	_	_	25	mark	_	_
-24	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	25	iobj	_	_
+24	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	25	obl:arg	_	_
 25	ofrecen	ofrecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
 26	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	sentidos	sentido	NOUN	_	Gender=Masc|Number=Plur	25	obj	_	SpaceAfter=No
@@ -3619,7 +3619,7 @@
 3	que	que	SCONJ	_	_	4	mark	_	_
 4	compré	comprar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	aqui	aquí	ADV	_	Typo=Yes	4	advmod	_	CorrectForm=aquí
-6	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	iobj	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl:arg	_	_
 7	dió	dir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
 9	a	a	ADP	_	_	12	case	_	_
@@ -3630,7 +3630,7 @@
 14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
 15	llevé	llever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	_
-17	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	iobj	_	_
+17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obl:arg	_	_
 18	siguió	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 19	dando	dar	VERB	_	VerbForm=Ger	18	xcomp	_	_
 20	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	SpaceAfter=No
@@ -3646,7 +3646,7 @@
 30	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	_
 31	en	en	ADP	_	_	32	case	_	_
 32	Málaga	málaga	PROPN	_	_	30	obl	_	_
-33	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	34	iobj	_	_
+33	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	34	obl:arg	_	_
 34	sigue	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 35	dando	dar	VERB	_	VerbForm=Ger	34	xcomp	_	_
 36	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	35	obj	_	SpaceAfter=No
@@ -4162,7 +4162,7 @@
 9	2	2	NUM	_	NumType=Card	5	nummod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11	y	y	CCONJ	_	_	13	cc	_	_
-12	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	13	iobj	_	_
+12	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	13	obl:arg	_	_
 13	encantó	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	trato	trato	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
@@ -5019,7 +5019,7 @@
 4	camareras	camarera	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	8	punct	_	_
 6	que	que	SCONJ	_	_	8	mark	_	_
-7	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	iobj	_	_
+7	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
 8	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	acl:relcl	_	_
 9	que	que	SCONJ	_	_	11	mark	_	_
 10	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	aux	_	_
@@ -5282,7 +5282,7 @@
 4	,	,	PUNCT	_	_	8	punct	_	_
 5	pero	pero	CCONJ	_	_	8	cc	_	_
 6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
-7	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	iobj	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
 8	tomaba	tomar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	conj	_	_
 9	muy	mucho	ADV	_	_	11	advmod	_	_
 10	en	en	ADP	_	_	11	case	_	_
@@ -5744,7 +5744,7 @@
 5	por	por	ADP	_	_	6	mark	_	_
 6-7	hacerme	_	_	_	_	_	_	_	_
 6	hacer	hacer	VERB	_	VerbForm=Inf	1	advcl	_	_
-7	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	iobj	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl:arg	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
 10	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
@@ -6263,7 +6263,7 @@
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	macizo	macizo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
 14	y	y	CCONJ	_	_	16	cc	_	_
-15	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	16	iobj	_	_
+15	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	16	obl:arg	_	_
 16	facilitan	facilitar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	acercamiento	acercamiento	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
@@ -6951,7 +6951,7 @@
 14	prefiero	preferir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj	_	_
 15-16	irme	_	_	_	_	_	_	_	_
 15	ir	ir	VERB	_	VerbForm=Inf	14	xcomp	_	_
-16	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	iobj	_	_
+16	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl:arg	_	_
 17	directamente	directamente	ADV	_	_	19	advmod	_	_
 18	a	a	ADP	_	_	19	case	_	_
 19	Jaén	jaén	PROPN	_	_	15	obl	_	_
@@ -8553,7 +8553,7 @@
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	30	punct	_	_
-29	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	30	iobj	_	_
+29	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	30	obl:arg	_	_
 30	dieron	dar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	4	parataxis	_	_
 31	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	camión	camión	NOUN	_	Gender=Masc|Number=Sing	30	obj	_	_
@@ -8581,7 +8581,7 @@
 13	para	para	ADP	_	_	14	mark	_	_
 14-15	destriparte	_	_	_	_	_	_	_	_
 14	destripar	destripar	VERB	_	VerbForm=Inf	7	conj	_	_
-15	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	14	iobj	_	_
+15	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	14	obl:arg	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	risa	risa	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	SpaceAfter=No
 18	!	!	PUNCT	_	_	7	punct	_	_
@@ -8968,7 +8968,7 @@
 13	para	para	ADP	_	_	14	mark	_	_
 14-15	dirigirme	_	_	_	_	_	_	_	_
 14	dirigir	dirigir	VERB	_	VerbForm=Inf	3	advcl	_	_
-15	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	iobj	_	_
+15	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	14	obl:arg	_	_
 16	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 17	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
 18	.	.	PUNCT	_	_	2	punct	_	_
@@ -10452,7 +10452,7 @@
 31	descuentan	descuentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
 32	algo	algo	PRON	_	Number=Sing|PronType=Ind	31	obj	_	_
 33	y	y	CCONJ	_	_	35	cc	_	_
-34	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	35	iobj	_	_
+34	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	35	obl:arg	_	_
 35	redondean	redondear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	conj	_	_
 36	por	por	ADP	_	_	38	case	_	_
 37	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	38	det	_	_
@@ -11173,7 +11173,7 @@
 24	comportamiento	comportamiento	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
 25	social	social	ADJ	_	Number=Sing	24	amod	_	_
 26	que	que	SCONJ	_	_	28	mark	_	_
-27	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	28	iobj	_	_
+27	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	28	obl:arg	_	_
 28	permite	permitir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
 29	vivir	vivir	VERB	_	VerbForm=Inf	28	xcomp	_	_
 30	en	en	ADP	_	_	31	case	_	_
@@ -13690,7 +13690,7 @@
 6	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	0	root	_	_
 7	que	que	SCONJ	_	_	10	mark	_	_
 8	más	más	ADV	_	Degree=Cmp	10	advmod	_	_
-9	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	10	iobj	_	_
+9	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	10	obl:arg	_	_
 10	sorprendió	sorprender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 11	comprobar	comprobar	VERB	_	VerbForm=Inf	10	xcomp	_	_
 12	en	en	ADP	_	_	14	case	_	_
@@ -14278,7 +14278,7 @@
 21	Mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
 22	vida	vida	NOUN	_	Gender=Fem|Number=Sing	25	nsubj	_	_
 23	privada	privado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	22	amod	_	_
-24	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	25	iobj	_	_
+24	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	25	obl:arg	_	_
 25	interesa	interesar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
 26	sólo	sólo	ADV	_	_	25	advmod	_	_
 27	a	a	ADP	_	_	28	case	_	_
@@ -18204,7 +18204,7 @@
 
 # sent_id = es-dev-002-s121
 # text = Nos identifica el ticket de paso, un D.N.I, la tarjeta de crédito...
-1	Nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	iobj	_	_
+1	Nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
 2	identifica	identificar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	ticket	ticket	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
@@ -18704,7 +18704,7 @@
 4	posible	posible	ADJ	_	Number=Sing	0	root	_	_
 5	que	que	SCONJ	_	_	11	mark	_	_
 6	cuando	cuando	SCONJ	_	_	8	mark	_	_
-7	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	iobj	_	_
+7	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
 8	examinas	examina	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	11	advcl	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
 10	apruebas	aprueba	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	8	conj	_	_
@@ -18712,7 +18712,7 @@
 12	en	en	ADP	_	_	13	mark	_	_
 13-14	darte	_	_	_	_	_	_	_	_
 13	dar	dar	VERB	_	VerbForm=Inf	11	advcl	_	_
-14	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	13	iobj	_	_
+14	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	13	obl:arg	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	carnet	carnet	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
 17	un	uno	NUM	_	Gender=Masc|Number=Sing|NumType=Card	18	nummod	_	_
@@ -18806,7 +18806,7 @@
 # sent_id = es-dev-002-s143
 # text = No me parece adecuado denunciar un delito cometiendo otro, si tan molesto te es acude a cualquier oficina de trabajo cita previa con inspector y denuncias el caso.
 1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
-2	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 3	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	adecuado	adecuado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	xcomp	_	_
 5	denunciar	denunciar	VERB	_	VerbForm=Inf	3	csubj	_	_
@@ -18818,7 +18818,7 @@
 11	si	si	SCONJ	_	_	13	mark	_	_
 12	tan	tanto	ADV	_	_	13	advmod	_	_
 13	molesto	molesto	ADJ	_	Gender=Masc|Number=Sing	16	advcl	_	_
-14	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	13	iobj	_	_
+14	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	13	obl:arg	_	_
 15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 16	acude	acudir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	parataxis	_	_
 17	a	a	ADP	_	_	16	case	_	_
@@ -19204,7 +19204,7 @@
 1	Lamentamos	lamentar	VERB	_	VerbForm=Inf	0	root	_	_
 2-3	decirte	_	_	_	_	_	_	_	_
 2	decir	decir	VERB	_	VerbForm=Inf	1	xcomp	_	_
-3	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	2	iobj	_	_
+3	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
 4	que	que	SCONJ	_	_	19	mark	_	_
 5	tras	tras	ADP	_	_	8	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -19254,10 +19254,10 @@
 14	mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	15	det	_	_
 15	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	18	punct	_	_
-17	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	iobj	_	_
+17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obl:arg	_	_
 18	encantó	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	22	punct	_	_
-20	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	22	iobj	_	_
+20	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	22	obl:arg	_	_
 21	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	22	obj	_	_
 22	pasas	paso	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	1	parataxis	_	_
 23	muy	mucho	ADV	_	_	24	advmod	_	_
@@ -19417,7 +19417,7 @@
 
 # sent_id = es-dev-002-s164
 # text = Me hablaron de este despacho de abogados en alicante, arreglaron y me aconsejaron perfectamente sobre un asunto legal que tenia pendiente, ahora esta resuelto con exito.
-1	Me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	iobj	_	_
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	2	obl:arg	_	_
 2	hablaron	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
@@ -20898,7 +20898,7 @@
 # sent_id = es-dev-002-s214
 # text = Si te pretenden regalar una sartén, un televisor o un ordenador, mejor ve y compratelo en el Corte Inglés que te saldrá más barato.
 1	Si	si	SCONJ	_	_	3	mark	_	_
-2	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	iobj	_	_
+2	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
 3	pretenden	pretender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 4	regalar	regalar	VERB	_	VerbForm=Inf	3	xcomp	_	_
 5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -20915,14 +20915,14 @@
 16	y	y	CCONJ	_	_	17	cc	_	_
 17-19	compratelo	_	_	_	_	_	_	_	CorrectForm=cómpratelo
 17	compra	comprar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	15	conj	_	_
-18	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	17	iobj	_	_
+18	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	17	obl:arg	_	_
 19	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	obj	_	_
 20	en	en	ADP	_	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	Corte	corte	PROPN	_	Gender=Masc|Number=Sing	17	obl	_	_
 23	Inglés	inglés	PROPN	_	_	22	amod	_	_
 24	que	que	SCONJ	_	_	26	mark	_	_
-25	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	26	iobj	_	_
+25	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	26	obl:arg	_	_
 26	saldrá	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	15	advcl	_	_
 27	más	más	ADV	_	Degree=Cmp	28	advmod	_	_
 28	barato	barato	ADJ	_	Gender=Masc|Number=Sing	26	xcomp	_	SpaceAfter=No
@@ -22042,7 +22042,7 @@
 # text = Una compañera me comentó que acudía a la consulta, que estaba encantada con su forma de trabajar y QUE ATENDÍA AL MEDIODÍA...
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	compañera	compañera	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
-3	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	iobj	_	_
+3	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
 4	comentó	comentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	_	_	6	mark	_	_
 6	acudía	acudir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	ccomp	_	_
@@ -24325,7 +24325,7 @@
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	cafelillo	cafelillo	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
 8	que	que	SCONJ	_	_	10	mark	_	_
-9	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	10	iobj	_	_
+9	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	10	obl:arg	_	_
 10	ofrecen	ofrecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No
 11	!	!	PUNCT	_	_	2	punct	_	_
 
@@ -25128,7 +25128,7 @@
 31	,	,	PUNCT	_	_	32	punct	_	_
 32-33	viéndome	_	_	_	_	_	_	_	_
 32	viendo	ver	VERB	_	VerbForm=Ger	27	advcl	_	_
-33	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	32	iobj	_	_
+33	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	32	obl:arg	_	_
 34	obligado	obligado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	32	xcomp	_	_
 35	así	así	ADV	_	_	32	advmod	_	_
 36	a	a	ADP	_	_	37	mark	_	_
@@ -25375,7 +25375,7 @@
 3	no	no	ADV	_	_	7	advcl	_	_
 4	que	que	SCONJ	_	_	7	mark	_	_
 5	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	7	nsubj	_	_
-6	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	iobj	_	_
+6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl:arg	_	_
 7	diga	decir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	9	obj	_	_
 9	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
@@ -29946,7 +29946,7 @@
 6	bien	bien	ADV	_	_	5	advmod	_	_
 7	pero	pero	CCONJ	_	_	14	cc	_	_
 8	como	como	SCONJ	_	_	11	mark	_	_
-9	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	iobj	_	_
+9	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	11	obl:arg	_	_
 10	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	llovido	llover	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
 12	pues	pues	CCONJ	_	_	14	cc	_	_
@@ -30788,7 +30788,7 @@
 # sent_id = es-dev-003-s30
 # text = Solo me pidieron que les adelantara 100 € de reserva y el resto hasta 1500 € y pico el dia que llegamos.
 1	Solo	sólo	ADV	_	_	3	advmod	_	_
-2	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 3	pidieron	pedir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	_	_	6	mark	_	_
 5	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	6	obl:arg	_	_
@@ -32093,7 +32093,7 @@
 14	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	15	obj	_	_
 15	aconsejan	aconsejar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	csubj	_	_
 16	y	y	CCONJ	_	_	18	cc	_	_
-17	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	18	iobj	_	_
+17	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	18	obl:arg	_	_
 18	enseñan	enseñar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	conj	_	_
 19	muchisimo	muchísimo	PRON	_	Degree=Abs|NumType=Card|PronType=Ind|Typo=Yes	18	obj	_	CorrectForm=muchísimo|SpaceAfter=No
 20	.	.	PUNCT	_	_	4	punct	_	_
@@ -32821,7 +32821,7 @@
 10	hagan	hacer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 11	ejercicio	ejercicio	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_
-13	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	14	iobj	_	_
+13	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	14	obl:arg	_	_
 14	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
 15	falta	faltar	NOUN	_	Number=Sing	14	obj	_	_
 16	mas	más	ADV	_	Typo=Yes	17	advmod	_	CorrectForm=más
@@ -35643,7 +35643,7 @@
 5	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	_
 6-7	hacerme	_	_	_	_	_	_	_	_
 6	hacer	hacer	VERB	_	VerbForm=Inf	5	xcomp	_	_
-7	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	iobj	_	_
+7	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl:arg	_	_
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	recogido	recogido	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	6	obj	_	_
 10	para	para	ADP	_	_	12	case	_	_
@@ -37029,7 +37029,7 @@
 16	viajes	viaje	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
 17	ni	ni	SCONJ	_	_	21	mark	_	_
 18	que	que	CCONJ	_	_	17	fixed	_	_
-19	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	21	iobj	_	_
+19	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	21	obl:arg	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	obj	_	_
 21	regalaran	regalar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	4	punct	_	_
@@ -37152,11 +37152,11 @@
 # sent_id = es-dev-003-s255
 # text = ¿Te gustaría unirte al proyecto de Sare Antifaxista?
 1	¿	¿	PUNCT	_	_	3	punct	_	SpaceAfter=No
-2	Te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+2	Te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 3	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 4-5	unirte	_	_	_	_	_	_	_	_
 4	unir	unir	VERB	_	VerbForm=Inf	3	csubj	_	_
-5	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	iobj	_	_
+5	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	4	obl:arg	_	_
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -39357,7 +39357,7 @@
 
 # sent_id = es-dev-003-s327
 # text = Me han parecido muy serios a la hora de pedir presupuesto y de terminar una pequeña reparación de electricidad que me hacía falta.
-1	Me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	iobj	_	_
+1	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 2	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	parecido	parecer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	muy	mucho	ADV	_	_	3	advmod	_	_
@@ -39377,7 +39377,7 @@
 18	de	de	ADP	_	_	19	case	_	_
 19	electricidad	electricidad	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
 20	que	que	SCONJ	_	_	22	mark	_	_
-21	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	22	iobj	_	_
+21	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	22	obl:arg	_	_
 22	hacía	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	acl:relcl	_	_
 23	falta	falta	NOUN	_	Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	3	punct	_	_
@@ -39990,7 +39990,7 @@
 28	,	,	PUNCT	_	_	29	punct	_	_
 29	naturalmente	naturalmente	ADV	_	_	32	advmod	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	29	punct	_	_
-31	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	32	iobj	_	_
+31	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	32	obl:arg	_	_
 32	inclina	inclinar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
 33	a	a	ADP	_	_	34	mark	_	_
 34	pensar	pensar	VERB	_	VerbForm=Inf	32	xcomp	_	_
