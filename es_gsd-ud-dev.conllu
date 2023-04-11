@@ -2228,7 +2228,7 @@
 9	a	a	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	RFF	rff	PROPN	_	_	8	obl:arg	_	_
-12	mientras	mientras	ADV	_	_	16	iobj	_	_
+12	mientras	mientras	ADV	_	_	16	advmod	_	_
 13	que	que	CCONJ	_	_	12	fixed	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	SNCF	sncf	PROPN	_	_	16	nsubj	_	_
@@ -18821,9 +18821,9 @@
 14	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	13	obl:arg	_	_
 15	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 16	acude	acudir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	3	parataxis	_	_
-17	a	a	ADP	_	_	16	case	_	_
+17	a	a	ADP	_	_	19	case	_	_
 18	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	19	det	_	_
-19	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	16	iobj	_	_
+19	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
 20	de	de	ADP	_	_	21	case	_	_
 21	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
 22	cita	cita	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
@@ -20438,9 +20438,9 @@
 14	de	de	ADP	_	_	16	case	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	costa	costa	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
-17	que	que	SCONJ	_	_	19	mark	_	_
-18	aparece	aparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	iobj	_	_
-19	marcada	marcar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	acl:relcl	_	_
+17	que	que	PRON	_	PronType=Int,Rel	18	nsubj	_	_
+18	aparece	aparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+19	marcada	marcar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	18	xcomp	_	_
 20	en	en	ADP	_	_	22	case	_	_
 21	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
 22	cartas	carta	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_

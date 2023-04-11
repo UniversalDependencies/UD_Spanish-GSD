@@ -4136,10 +4136,10 @@
 6	mashup	mashup	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
 7	con	con	ADP	_	_	9	case	_	_
 8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	Let	let	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	_
-10	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
-11	Bass	bass	PROPN	_	_	9	obj	_	_
-12	Kick	kick	PROPN	_	_	9	xcomp	_	SpaceAfter=No
+9	Let	let	VERB	_	Foreign=Yes|Mood=Imp|VerbForm=Fin	6	nmod	_	Lang=en
+10	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
+11	Bass	bass	NOUN	_	Foreign=Yes|Number=Sing	9	obj	_	Lang=en
+12	Kick	kick	VERB	_	Foreign=Yes|VerbForm=Inf	9	xcomp	_	Lang=en|SpaceAfter=No
 13	"	"	PUNCT	_	_	9	punct	_	_
 14	por	por	ADP	_	_	15	case	_	_
 15	Chuckie	chuckie	PROPN	_	_	6	nmod	_	_
@@ -4151,7 +4151,7 @@
 21	"	"	PUNCT	_	_	22	punct	_	SpaceAfter=No
 22	Let	let	VERB	_	Foreign=Yes|Mood=Imp|VerbForm=Fin	20	xcomp	_	Lang=en
 23	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	24	det	_	Lang=en
-24	Bass	bass	NOUN	_	Foreign=Yes|Number=Sing	22	iobj	_	Lang=en
+24	Bass	bass	NOUN	_	Foreign=Yes|Number=Sing	22	obj	_	Lang=en
 25	Kick	kick	VERB	_	Foreign=Yes|VerbForm=Inf	22	xcomp	_	Lang=en
 26	in	in	ADP	_	Foreign=Yes	28	case	_	Lang=en
 27	Miami	miami	PROPN	_	Foreign=Yes|Number=Sing	28	compound	_	Lang=en
