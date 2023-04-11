@@ -110,11 +110,11 @@
     <dep name="det">61185</dep>
     <dep name="discourse">2</dep>
     <dep name="dislocated">1</dep>
-    <dep name="expl:pv">1</dep>
+    <dep name="expl:pv">5334</dep>
     <dep name="fixed">2773</dep>
     <dep name="flat">7396</dep>
     <dep name="goeswith">1</dep>
-    <dep name="iobj">5904</dep>
+    <dep name="iobj">571</dep>
     <dep name="mark">11647</dep>
     <dep name="nmod">39266</dep>
     <dep name="nsubj">15836</dep>
