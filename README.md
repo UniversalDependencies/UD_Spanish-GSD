@@ -27,6 +27,8 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 * 2023-05-15 v2.12
   * Por-nominals under participles changed from obl to obl:agent.
+  * Dative indirect objects changed to obl:arg because dative is not a core case.
+  * Reflexives changed from iobj to expl:pv.
 * 2022-11-15 v2.11
   * Fixed: deprel punct occurs only with UPOS PUNCT.
   * Fixed: advmod cannot be used with nominal dependents.
