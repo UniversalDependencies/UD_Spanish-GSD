@@ -114,7 +114,7 @@
     <dep name="fixed">2773</dep>
     <dep name="flat">7396</dep>
     <dep name="goeswith">1</dep>
-    <dep name="iobj">6601</dep>
+    <dep name="iobj">5904</dep>
     <dep name="mark">11647</dep>
     <dep name="nmod">39266</dep>
     <dep name="nsubj">15836</dep>
@@ -124,7 +124,7 @@
     <dep name="obj">13634</dep>
     <dep name="obl">23577</dep>
     <dep name="obl:agent">1541</dep>
-    <dep name="obl:arg">864</dep>
+    <dep name="obl:arg">1561</dep>
     <dep name="orphan">1</dep>
     <dep name="parataxis">1673</dep>
     <dep name="punct">47528</dep>
