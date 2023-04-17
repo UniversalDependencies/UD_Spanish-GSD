@@ -474,7 +474,7 @@
 9	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 10	en	en	ADP	_	_	11	case	_	_
 11	Hertfortshire	hertfortshire	PROPN	_	_	8	obl	_	_
-12	donde	donde	ADV	_	_	13	advmod	_	_
+12	donde	donde	ADV	_	PronType=Rel	13	advmod	_	_
 13	aprendió	aprender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 14	a	a	ADP	_	_	15	mark	_	_
 15	nadar	nadar	VERB	_	VerbForm=Inf	13	advcl	_	SpaceAfter=No
@@ -1323,13 +1323,13 @@
 18	Royal	royal	PROPN	_	_	19	amod	_	_
 19	Club	club	PROPN	_	_	17	appos	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	_
-21	donde	donde	ADV	_	_	23	advmod	_	_
+21	donde	donde	ADV	_	PronType=Rel	23	advmod	_	_
 22	estarán	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	23	aux:pass	_	_
 23	acompañados	acompañar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	10	advcl	_	_
 24	de	de	ADP	_	_	25	case	_	_
 25	cuidadoras	cuidadora	NOUN	_	Gender=Fem|Number=Plur	23	obl	_	_
 26	y	y	CCONJ	_	_	29	cc	_	_
-27	donde	donde	ADV	_	_	29	advmod	_	_
+27	donde	donde	ADV	_	PronType=Rel	29	advmod	_	_
 28	podrán	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	29	aux	_	_
 29	degustar	degustar	VERB	_	VerbForm=Inf	23	conj	_	_
 30	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
@@ -4629,7 +4629,7 @@
 24	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 25	fuerte	fuerte	ADJ	_	Number=Sing	26	amod	_	_
 26	abombamiento	abombamiento	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
-27	donde	donde	ADV	_	_	32	advmod	_	_
+27	donde	donde	ADV	_	PronType=Rel	32	advmod	_	_
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	corriente	corriente	NOUN	_	Gender=Fem|Number=Sing	32	nsubj	_	_
 30	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	cop	_	_
@@ -6877,7 +6877,7 @@
 6	en	en	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	norte	norte	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
-9	donde	donde	ADV	_	_	10	advmod	_	_
+9	donde	donde	ADV	_	PronType=Rel	10	advmod	_	_
 10	comenzaban	comenzar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	8	acl:relcl	_	_
 11	a	a	ADP	_	_	12	mark	_	_
 12	surgir	surgir	VERB	_	VerbForm=Inf	10	xcomp	_	_
@@ -7472,7 +7472,7 @@
 48	Islas	isla	PROPN	_	_	43	obl	_	_
 49	Canarias	canarias	PROPN	_	_	48	appos	_	SpaceAfter=No
 50	,	,	PUNCT	_	_	61	punct	_	_
-51	donde	donde	ADV	_	_	61	advmod	_	_
+51	donde	donde	ADV	_	PronType=Rel	61	advmod	_	_
 52	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	53	det	_	_
 53	adoración	adoración	NOUN	_	Gender=Fem|Number=Sing	61	nsubj	_	_
 54	a	a	ADP	_	_	56	case	_	_
@@ -8298,7 +8298,7 @@
 20	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	cop	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
-23	donde	donde	ADV	_	_	27	advmod	_	_
+23	donde	donde	ADV	_	PronType=Rel	27	advmod	_	_
 24	Jayavarman	jayavarman	PROPN	_	_	27	nsubj	_	_
 25	II	ii	NUM	_	NumType=Card	24	nummod	_	_
 26	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	expl:pv	_	_
@@ -8458,7 +8458,7 @@
 21	a	a	ADP	_	_	22	case	_	_
 22	España	españa	PROPN	_	_	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	25	punct	_	_
-24	donde	donde	ADV	_	_	25	advmod	_	_
+24	donde	donde	ADV	_	PronType=Rel	25	advmod	_	_
 25	conseguiría	conseguir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	20	acl:relcl	_	_
 26	2	2	NUM	_	NumType=Card	27	nummod	_	_
 27	victorias	victoria	NOUN	_	Gender=Fem|Number=Plur	25	obj	_	_
@@ -9591,7 +9591,7 @@
 20	de	de	ADP	_	_	21	case	_	_
 21	1979	1979	NUM	_	NumType=Card	19	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	28	punct	_	_
-23	donde	donde	ADV	_	_	28	advmod	_	_
+23	donde	donde	ADV	_	PronType=Rel	28	advmod	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	cantante	cantante	NOUN	_	Number=Sing	28	nsubj	_	_
 26	Roger	roger	PROPN	_	_	25	appos	_	_
@@ -10090,7 +10090,7 @@
 19	a	a	ADP	_	_	20	case	_	_
 20	Amberes	amberes	PROPN	_	_	12	conj	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	_
-22	donde	donde	ADV	_	_	24	advmod	_	_
+22	donde	donde	ADV	_	PronType=Rel	24	advmod	_	_
 23	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	aux:pass	_	_
 24	premiada	premiar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	20	acl:relcl	_	SpaceAfter=No
 25	.	.	PUNCT	_	_	2	punct	_	_
@@ -10287,7 +10287,7 @@
 2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	planta	planta	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 4	subterránea	subterráneo	ADJ	_	Gender=Fem|Number=Sing	3	amod	_	_
-5	donde	donde	ADV	_	_	32	advmod	_	_
+5	donde	donde	ADV	_	PronType=Rel	32	advmod	_	_
 6	a	a	ADP	_	_	7	case	_	_
 7	parte	parte	NOUN	_	Gender=Fem|Number=Sing	32	obl	_	_
 8	de	de	ADP	_	_	10	case	_	_
@@ -11386,7 +11386,7 @@
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	cristalera	cristalera	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 12	frontal	frontal	ADJ	_	Number=Sing	11	amod	_	_
-13	donde	donde	ADV	_	_	15	advmod	_	_
+13	donde	donde	ADV	_	PronType=Rel	15	advmod	_	_
 14	Robotnik	robotnik	PROPN	_	_	15	nsubj	_	_
 15	maneja	manejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -11546,7 +11546,7 @@
 22	Theja	theja	PROPN	_	_	21	appos	_	SpaceAfter=No
 23	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	29	punct	_	_
-25	donde	donde	ADV	_	_	29	advmod	_	_
+25	donde	donde	ADV	_	PronType=Rel	29	advmod	_	_
 26	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
 27	grandes	grande	ADJ	_	Number=Plur	28	amod	_	_
 28	maestros	maestro	NOUN	_	Gender=Masc|Number=Plur	29	nsubj	_	_
@@ -12063,7 +12063,7 @@
 4	Falcon	falcon	PROPN	_	_	3	appos	_	_
 5	Crest	crest	PROPN	_	_	4	flat	_	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	_	_
-7	donde	donde	ADV	_	_	8	advmod	_	_
+7	donde	donde	ADV	_	PronType=Rel	8	advmod	_	_
 8	participaba	participar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
 9	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	10	det	_	_
 10	hijo	hijo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -12471,7 +12471,7 @@
 9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 10	pocos	poco	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	11	det	_	_
 11	espacios	espacio	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
-12	donde	donde	ADV	_	_	15	advmod	_	_
+12	donde	donde	ADV	_	PronType=Rel	15	advmod	_	_
 13	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 14	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
 15	apreciar	apreciar	VERB	_	VerbForm=Inf	11	acl:relcl	_	_
@@ -15893,7 +15893,7 @@
 49	hasta	hasta	ADP	_	_	51	case	_	_
 50	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	51	det	_	_
 51	zona	zona	NOUN	_	Gender=Fem|Number=Sing	47	obl	_	_
-52	donde	donde	ADV	_	_	53	advmod	_	_
+52	donde	donde	ADV	_	PronType=Rel	53	advmod	_	_
 53	comenten	comentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	acl:relcl	_	_
 54	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	55	det	_	_
 55	robos	robo	NOUN	_	Gender=Masc|Number=Plur	53	obj	_	_
@@ -16077,7 +16077,7 @@
 36	debía	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	38	aux	_	_
 37	ser	ser	AUX	_	VerbForm=Inf	38	aux:pass	_	_
 38	intercalado	intercalar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	advcl	_	_
-39	donde	donde	ADV	_	_	45	advmod	_	_
+39	donde	donde	ADV	_	PronType=Rel	45	advmod	_	_
 40	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 41	mes	mes	NOUN	_	Gender=Masc|Number=Sing	45	nsubj	_	_
 42	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	45	aux	_	_
@@ -17391,7 +17391,7 @@
 18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	lugares	lugar	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	_
 20	de	de	ADP	_	_	21	case	_	_
-21	donde	donde	ADV	_	_	22	advmod	_	_
+21	donde	donde	ADV	_	PronType=Rel	22	advmod	_	_
 22	proceden	proceder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	_
 23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	platos	plato	NOUN	_	Gender=Masc|Number=Plur	22	nsubj	_	SpaceAfter=No
@@ -18042,7 +18042,7 @@
 8	honoraban	honorar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	sitios	sitio	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
-11	donde	donde	ADV	_	_	16	advmod	_	_
+11	donde	donde	ADV	_	PronType=Rel	16	advmod	_	_
 12	"	"	PUNCT	_	_	16	punct	_	SpaceAfter=No
 13	jóvenes	joven	ADJ	_	Number=Plur	14	amod	_	_
 14	mancebos	mancebo	NOUN	_	Gender=Masc|Number=Plur	16	nsubj	_	_
@@ -20213,7 +20213,7 @@
 29	s	s	X	_	_	27	compound	_	_
 30	College	college	PROPN	_	_	27	flat	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	33	punct	_	_
-32	donde	donde	ADV	_	_	33	advmod	_	_
+32	donde	donde	ADV	_	PronType=Rel	33	advmod	_	_
 33	recibió	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	acl:relcl	_	_
 34	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
 35	Bachillerato	bachillerato	NOUN	_	_	33	obj	_	_
@@ -21482,7 +21482,7 @@
 19	tonel	tonel	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
 20	de	de	ADP	_	_	21	case	_	_
 21	manzanas	manzana	NOUN	_	Gender=Fem|Number=Plur	19	nmod	_	_
-22	donde	donde	ADV	_	_	23	advmod	_	_
+22	donde	donde	ADV	_	PronType=Rel	23	advmod	_	_
 23	descubre	descubrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
@@ -21737,7 +21737,7 @@
 23	de	de	ADP	_	_	25	case	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	Gabinete	gabinete	NOUN	_	_	22	nmod	_	_
-26	donde	donde	ADV	_	_	30	advmod	_	_
+26	donde	donde	ADV	_	PronType=Rel	30	advmod	_	_
 27	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
 28	Primeros	primeros	ADJ	_	NumType=Ord	29	amod	_	_
 29	Ministros	ministro	PROPN	_	_	30	nsubj	_	_
@@ -22659,7 +22659,7 @@
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	29	punct	_	_
-28	donde	donde	ADV	_	_	29	advmod	_	_
+28	donde	donde	ADV	_	PronType=Rel	29	advmod	_	_
 29	quedo	quedo	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	_
 30	destruida	destruir	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	29	xcomp	_	_
 31	totalmente.	totalmente.	X	_	Gender=Masc|Number=Sing	29	obl	_	_
@@ -22947,7 +22947,7 @@
 22	en	en	ADP	_	_	23	case	_	_
 23	Coruscant	coruscant	PROPN	_	_	20	nmod	_	_
 24	en	en	ADP	_	_	25	case	_	_
-25	donde	donde	ADV	_	_	26	advmod	_	_
+25	donde	donde	ADV	_	PronType=Rel	26	advmod	_	_
 26	trabajar	trabajar	VERB	_	VerbForm=Inf	20	acl:relcl	_	SpaceAfter=No
 27	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -22990,7 +22990,7 @@
 34	Washington	washington	PROPN	_	_	32	nmod	_	_
 35	Bullets	bullets	PROPN	_	_	34	flat	_	SpaceAfter=No
 36	,	,	PUNCT	_	_	38	punct	_	_
-37	donde	donde	ADV	_	_	38	advmod	_	_
+37	donde	donde	ADV	_	PronType=Rel	38	advmod	_	_
 38	permanecería	permanecer	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	34	acl:relcl	_	_
 39	dos	dos	NUM	_	Number=Plur|NumType=Card	40	nummod	_	_
 40	temporadas	temporada	NOUN	_	Gender=Fem|Number=Plur	38	obl	_	SpaceAfter=No
@@ -23221,7 +23221,7 @@
 13	misa	misa	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	resurrección	resurrección	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
-16	donde	donde	ADV	_	_	17	advmod	_	_
+16	donde	donde	ADV	_	PronType=Rel	17	advmod	_	_
 17	concurre	concurrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 19	importante	importante	ADJ	_	Number=Sing	20	amod	_	_
@@ -23895,7 +23895,7 @@
 11	GM	gm	PROPN	_	_	9	appos	_	SpaceAfter=No
 12	)	)	PUNCT	_	_	11	punct	_	_
 13	en	en	ADP	_	_	14	case	_	_
-14	donde	donde	ADV	_	_	15	advmod	_	_
+14	donde	donde	ADV	_	PronType=Rel	15	advmod	_	_
 15	confirmaba	confirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	producción	producción	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
@@ -23919,7 +23919,7 @@
 35	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	época	época	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	_
 37	en	en	ADP	_	_	38	case	_	_
-38	donde	donde	ADV	_	_	46	advmod	_	_
+38	donde	donde	ADV	_	PronType=Rel	46	advmod	_	_
 39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	presencia	presencia	NOUN	_	Gender=Fem|Number=Sing	46	nsubj	_	_
 41	de	de	ADP	_	_	42	case	_	_
@@ -24774,7 +24774,7 @@
 25	Pueyrredón	pueyrredón	PROPN	_	_	23	obl	_	_
 26	1723	1723	NUM	_	NumType=Card	25	nummod	_	SpaceAfter=No
 27	,	,	PUNCT	_	_	30	punct	_	_
-28	donde	donde	ADV	_	_	30	advmod	_	_
+28	donde	donde	ADV	_	PronType=Rel	30	advmod	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	expl:pv	_	_
 30	concentraban	concentrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	_
 31	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
@@ -25034,7 +25034,7 @@
 13	Santafé	santafé	PROPN	_	_	11	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	18	punct	_	_
 15	en	en	ADP	_	_	16	case	_	_
-16	donde	donde	ADV	_	_	18	advmod	_	_
+16	donde	donde	ADV	_	PronType=Rel	18	advmod	_	_
 17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
 18	retuvieron	retuvir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
 19	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	20	det	_	_
@@ -25610,7 +25610,7 @@
 15	a	a	ADP	_	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	club	club	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
-18	donde	donde	ADV	_	_	20	advmod	_	_
+18	donde	donde	ADV	_	PronType=Rel	20	advmod	_	_
 19	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 20	formó	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	acl:relcl	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	24	punct	_	_
@@ -33687,7 +33687,7 @@
 8	de	de	ADP	_	_	9	case	_	_
 9	horror	horror	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 10	Primal	primal	PROPN	_	_	7	appos	_	_
-11	donde	donde	ADV	_	_	12	advmod	_	_
+11	donde	donde	ADV	_	PronType=Rel	12	advmod	_	_
 12	interpretó	interpretar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 13	a	a	ADP	_	_	14	case	_	_
 14	Mel	mel	PROPN	_	_	12	obj	_	SpaceAfter=No
@@ -34583,7 +34583,7 @@
 22	en	en	ADP	_	_	24	case	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
-25	donde	donde	ADV	_	_	26	advmod	_	_
+25	donde	donde	ADV	_	PronType=Rel	26	advmod	_	_
 26	debutó	debutar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	acl:relcl	_	_
 27	en	en	ADP	_	_	29	case	_	_
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
@@ -37797,7 +37797,7 @@
 26	Cáucaso	cáucaso	PROPN	_	_	20	nmod	_	_
 27	noroccidental	noroccidental	ADJ	_	Number=Sing	26	amod	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	26	punct	_	_
-29	donde	donde	ADV	_	_	30	advmod	_	_
+29	donde	donde	ADV	_	PronType=Rel	30	advmod	_	_
 30	trató	tratar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl:relcl	_	_
 31	de	de	ADP	_	_	32	mark	_	_
 32	reforzar	reforzar	VERB	_	VerbForm=Inf	30	advcl	_	_
@@ -38345,7 +38345,7 @@
 9	jardín	jardín	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
 10	muy	mucho	ADV	_	_	11	advmod	_	_
 11	grande	grande	ADJ	_	Number=Sing	9	amod	_	_
-12	donde	donde	ADV	_	_	16	advmod	_	_
+12	donde	donde	ADV	_	PronType=Rel	16	advmod	_	_
 13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	críos	crío	NOUN	_	Gender=Masc|Number=Plur	16	nsubj	_	_
 15	pudieron	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	16	aux	_	_
@@ -38555,7 +38555,7 @@
 19	Llano	llano	PROPN	_	_	15	nmod	_	_
 20	Estacado	estacado	PROPN	_	_	19	appos	_	SpaceAfter=No
 21	,	,	PUNCT	_	_	23	punct	_	_
-22	donde	donde	ADV	_	_	23	advmod	_	_
+22	donde	donde	ADV	_	PronType=Rel	23	advmod	_	_
 23	realizará	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	acl:relcl	_	_
 24	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 25	eficaz	eficaz	ADJ	_	Number=Sing	26	amod	_	_
@@ -39472,7 +39472,7 @@
 26	Buenos	buenos	PROPN	_	_	27	amod	_	_
 27	Aires	aires	PROPN	_	_	24	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	47	punct	_	_
-29	donde	donde	ADV	_	PronType=Ind	47	advmod	_	_
+29	donde	donde	ADV	_	PronType=Rel	47	advmod	_	_
 30	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	47	nsubj	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	32	punct	_	_
 32	instituciones	institución	NOUN	_	Gender=Fem|Number=Plur	30	conj	_	SpaceAfter=No
@@ -39882,7 +39882,7 @@
 2	bajo	bajo	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
 3	nivel	nivel	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	7	punct	_	_
-5	cuando	cuando	ADV	_	_	7	mark	_	_
+5	cuando	cuando	ADV	_	PronType=Rel	7	mark	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -40642,7 +40642,7 @@
 12	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	13	amod	_	_
 13	planta	planta	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	_
-15	donde	donde	ADV	_	_	16	advmod	_	_
+15	donde	donde	ADV	_	PronType=Rel	16	advmod	_	_
 16	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
 17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 18	pequeña	pequeño	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	_
@@ -41267,7 +41267,7 @@
 44	de	de	ADP	_	_	45	case	_	_
 45	Spitzbergen	spitzbergen	PROPN	_	_	43	nmod	_	SpaceAfter=No
 46	,	,	PUNCT	_	_	49	punct	_	_
-47	donde	donde	ADV	_	_	49	advmod	_	_
+47	donde	donde	ADV	_	PronType=Rel	49	advmod	_	_
 48	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	49	expl:pv	_	_
 49	encontraba	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	43	acl:relcl	_	_
 50	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	51	det	_	_
@@ -41905,7 +41905,7 @@
 31	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	32	det	_	_
 32	enfermedad	enfermedad	NOUN	_	Gender=Fem|Number=Sing	29	nmod	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	41	punct	_	_
-34	donde	donde	ADV	_	_	41	advmod	_	_
+34	donde	donde	ADV	_	PronType=Rel	41	advmod	_	_
 35	alrededor	alrededor	ADV	_	_	38	advmod	_	_
 36	de	de	ADP	_	_	35	case	_	_
 37	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_

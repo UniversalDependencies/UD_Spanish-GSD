@@ -6,9 +6,6 @@
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
     <total><sentences>16013</sentences><tokens>423344</tokens><words>431584</words><fused>8220</fused></total>
-    <train><sentences>14187</sentences><tokens>375147</tokens><words>382433</words><fused>7268</fused></train>
-    <dev><sentences>1400</sentences><tokens>36464</tokens><words>37151</words><fused>685</fused></dev>
-    <test><sentences>426</sentences><tokens>11733</tokens><words>12000</words><fused>267</fused></test>
   </size>
   <lemmas unique="35231" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
   <forms unique="45575" /><!-- de, ,, el, ., la, en, y, a, que, los, se, un, por, con, una -->
@@ -17,9 +14,9 @@
   <tags unique="17">
     <tag name="ADJ">24985</tag><!-- primero, nuevo, mismo, gran, mayor, segundo, buen, principal, último, mejor -->
     <tag name="ADP">71079</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
-    <tag name="ADV">12497</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
+    <tag name="ADV">12498</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
     <tag name="AUX">10785</tag><!-- ser, haber, poder, estar, deber, be, querer, can, do, saber -->
-    <tag name="CCONJ">13828</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
+    <tag name="CCONJ">13827</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
     <tag name="DET">60883</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">39</tag><!-- sí, él, salve -->
     <tag name="NOUN">77573</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
@@ -70,12 +67,12 @@
     <feat name="PrepCase" value="Pre" upos="INTJ,PRON">55</feat><!-- sí, mí, ti -->
     <feat name="PronType" value="Art" upos="DET">51199</feat><!-- el, la, los, un, las, una, unos, unas, the, a -->
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">2918</feat><!-- este, esta, estos, ese, esto, tanto, estas, esa, eso, éste -->
-    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">3309</feat><!-- uno, otros, otras, otro, una, cualquier, algunos, varios, muchos, otra -->
-    <feat name="PronType" value="Int" upos="PRON">2</feat><!-- Quién, What -->
+    <feat name="PronType" value="Ind" upos="ADV,DET,PRON">3307</feat><!-- uno, otros, otras, otro, una, cualquier, algunos, varios, muchos, otra -->
+    <feat name="PronType" value="Int" upos="ADV,PRON">25</feat><!-- dónde, cuándo, Quién, What -->
     <feat name="PronType" value="Int,Rel" upos="ADV,DET,PRON">1675</feat><!-- que, cual, quien, qué, quienes, cuya, cuales, cuyo, quién, cuyas -->
     <feat name="PronType" value="Neg" upos="DET,PRON">246</feat><!-- nada, ningún, nadie, ninguna, ninguno, ningun, niguna -->
     <feat name="PronType" value="Prs" upos="DET,INTJ,PRON">14355</feat><!-- se, su, lo, sus, le, la, me, los, nos, les -->
-    <feat name="PronType" value="Rel" upos="DET,PRON">5</feat><!-- que, cuyas -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">506</feat><!-- donde, cuando, que, cuyas -->
     <feat name="PronType" value="Tot" upos="DET,PRON">1204</feat><!-- todo, todos, cada, toda, todas, ambos, ambas, Alles -->
     <feat name="Reflex" value="Yes" upos="INTJ,PRON">5396</feat><!-- se, me, nos, sí, te, consigo, os, zse -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">830</feat><!-- será, podrá, podrán, serán, tendrá, estará, hará, permitirá, tendrán, contará -->
