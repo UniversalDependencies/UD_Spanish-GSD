@@ -7057,7 +7057,7 @@
 16	en	en	ADP	_	_	18	case	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	mercado	mercado	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
-19	:	:	PUNCT	_	_	22	punct	_	_
+19	:	:	PUNCT	_	_	20	punct	_	_
 20	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
 21	que	que	SCONJ	_	_	22	mark	_	_
 22	recordar	recordar	VERB	_	VerbForm=Inf	20	xcomp	_	_
@@ -11037,7 +11037,7 @@
 30	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	49	ccomp	_	_
 31	que	que	SCONJ	_	_	32	mark	_	_
 32	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	SpaceAfter=No
-33	,	,	PUNCT	_	_	39	punct	_	_
+33	,	,	PUNCT	_	_	37	punct	_	_
 34	y	y	CCONJ	_	_	39	cc	_	_
 35	por	por	ADP	_	_	36	case	_	_
 36	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	39	obl	_	_
@@ -12408,7 +12408,7 @@
 15	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	16	obl:arg	_	_
 16	regalan	regalar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 17	nada	nada	PRON	_	Number=Sing|PronType=Neg	16	obj	_	SpaceAfter=No
-18	,	,	PUNCT	_	_	21	punct	_	_
+18	,	,	PUNCT	_	_	19	punct	_	_
 19	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
 20	que	que	SCONJ	_	_	21	mark	_	_
 21	estudiar	estudiar	VERB	_	VerbForm=Inf	19	xcomp	_	_
