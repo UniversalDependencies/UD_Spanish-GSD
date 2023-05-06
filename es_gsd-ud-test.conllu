@@ -7058,9 +7058,9 @@
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	mercado	mercado	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
 19	:	:	PUNCT	_	_	22	punct	_	_
-20	hay	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
-21	que	que	CCONJ	_	_	20	fixed	_	_
-22	recordar	recordar	VERB	_	VerbForm=Inf	5	parataxis	_	_
+20	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	parataxis	_	_
+21	que	que	SCONJ	_	_	22	mark	_	_
+22	recordar	recordar	VERB	_	VerbForm=Inf	20	xcomp	_	_
 23	que	que	SCONJ	_	_	35	mark	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 25	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	26	amod	_	_
@@ -7679,9 +7679,9 @@
 15	,	,	PUNCT	_	_	2	punct	_	_
 16	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 17	que	que	SCONJ	_	_	20	mark	_	_
-18	hay	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
-19	que	que	CCONJ	_	_	18	fixed	_	_
-20	construir	construir	VERB	_	VerbForm=Inf	16	ccomp	_	_
+18	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
+19	que	que	SCONJ	_	_	20	mark	_	_
+20	construir	construir	VERB	_	VerbForm=Inf	18	xcomp	_	_
 21	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	Alianza	alianza	NOUN	_	_	20	obj	_	_
 23	pero	pero	CCONJ	_	_	27	cc	_	_
@@ -11041,9 +11041,9 @@
 34	y	y	CCONJ	_	_	39	cc	_	_
 35	por	por	ADP	_	_	36	case	_	_
 36	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	39	obl	_	_
-37	hay	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	aux	_	_
-38	que	que	CCONJ	_	_	37	fixed	_	_
-39	partir	partir	VERB	_	VerbForm=Inf	30	conj	_	_
+37	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	conj	_	_
+38	que	que	SCONJ	_	_	39	mark	_	_
+39	partir	partir	VERB	_	VerbForm=Inf	37	xcomp	_	_
 40	de	de	ADP	_	_	41	case	_	_
 41	aquí	aquí	ADV	_	_	39	advmod	_	_
 42	para	para	ADP	_	_	43	mark	_	_
@@ -12409,9 +12409,9 @@
 16	regalan	regalar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 17	nada	nada	PRON	_	Number=Sing|PronType=Neg	16	obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	21	punct	_	_
-19	hay	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	aux	_	_
-20	que	que	CCONJ	_	_	19	fixed	_	_
-21	estudiar	estudiar	VERB	_	VerbForm=Inf	16	parataxis	_	_
+19	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	parataxis	_	_
+20	que	que	SCONJ	_	_	21	mark	_	_
+21	estudiar	estudiar	VERB	_	VerbForm=Inf	19	xcomp	_	_
 22	hombre	hombre	NOUN	_	Gender=Masc|Number=Sing	21	dep	_	SpaceAfter=No
 23	!	!	PUNCT	_	_	5	punct	_	_
 

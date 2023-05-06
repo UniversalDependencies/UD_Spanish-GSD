@@ -7993,9 +7993,9 @@
 # text = Por eso hay que terminar de una buena vez con esta política tan errática y poco inteligente y esa responsabilidad será del próximo gobierno ", concluyó.
 1	Por	por	ADP	_	_	2	case	_	_
 2	eso	ese	PRON	_	Number=Sing|PronType=Dem	5	obl	_	_
-3	hay	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	que	que	CCONJ	_	_	3	fixed	_	_
-5	terminar	terminar	VERB	_	VerbForm=Inf	28	ccomp	_	_
+3	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	ccomp	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
+5	terminar	terminar	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	de	de	ADP	_	_	9	case	_	_
 7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	buena	buen	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
@@ -37173,10 +37173,10 @@
 3	insistió	insistir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	en	en	ADP	_	_	3	case	_	_
 5	que	que	SCONJ	_	_	9	mark	_	_
-6	hay	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-7	que	que	CCONJ	_	_	6	fixed	_	_
+6	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+7	que	que	SCONJ	_	_	9	mark	_	_
 8	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
-9	trabajar	trabajar	VERB	_	VerbForm=Inf	3	ccomp	_	_
+9	trabajar	trabajar	VERB	_	VerbForm=Inf	6	xcomp	_	_
 10	mancomunadamente	mancomunadamente	ADV	_	_	9	advmod	_	SpaceAfter=No
 11	"	"	PUNCT	_	_	9	punct	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	14	punct	_	_

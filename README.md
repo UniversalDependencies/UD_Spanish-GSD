@@ -30,6 +30,7 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
   * Dative indirect objects changed to obl:arg because dative is not a core case.
   * Reflexives changed from iobj to expl:pv.
   * Fixed: "donde", "cuando" can be SCONJ or ADV but not PRON. Interrogative "dónde", "cuándo" are only ADV.
+  * Existential "hay" and necessitative "hay que": AUX changed to VERB.
 * 2022-11-15 v2.11
   * Fixed: deprel punct occurs only with UPOS PUNCT.
   * Fixed: advmod cannot be used with nominal dependents.
