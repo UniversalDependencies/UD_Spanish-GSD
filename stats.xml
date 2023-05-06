@@ -18,8 +18,8 @@
     <tag name="ADJ">24985</tag><!-- primero, nuevo, mismo, gran, mayor, segundo, buen, principal, último, mejor -->
     <tag name="ADP">71079</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
     <tag name="ADV">12498</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
-    <tag name="AUX">10743</tag><!-- ser, haber, poder, estar, deber, be, querer, can, do, saber -->
-    <tag name="CCONJ">13797</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
+    <tag name="AUX">10735</tag><!-- ser, haber, poder, estar, deber, be, querer, can, do, saber -->
+    <tag name="CCONJ">13789</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
     <tag name="DET">60883</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">39</tag><!-- sí, él, salve -->
     <tag name="NOUN">77573</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
@@ -28,9 +28,9 @@
     <tag name="PRON">14025</tag><!-- él, que, yo, uno, este, cual, tú, todo, quien, otro -->
     <tag name="PROPN">39256</tag><!-- san, unido, españa, juan, madrid, estados, josé, septiembre, julio, enero -->
     <tag name="PUNCT">47528</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
-    <tag name="SCONJ">8168</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
+    <tag name="SCONJ">8176</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1663</tag><!-- %, ², km, $, º, °, €, a, h, m -->
-    <tag name="VERB">36360</tag><!-- tener, ser, hacer, encontrar, dar, estar, haber, decir, llegar, ir -->
+    <tag name="VERB">36368</tag><!-- tener, ser, hacer, encontrar, dar, haber, estar, decir, llegar, ir -->
     <tag name="X">1887</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
@@ -96,7 +96,7 @@
     <dep name="advmod">11171</dep>
     <dep name="amod">24044</dep>
     <dep name="appos">8775</dep>
-    <dep name="aux">3305</dep>
+    <dep name="aux">3297</dep>
     <dep name="aux:pass">1849</dep>
     <dep name="case">67224</dep>
     <dep name="cc">13228</dep>
@@ -112,11 +112,11 @@
     <dep name="dislocated">1</dep>
     <dep name="expl">3</dep>
     <dep name="expl:pv">5335</dep>
-    <dep name="fixed">2743</dep>
+    <dep name="fixed">2735</dep>
     <dep name="flat">7395</dep>
     <dep name="goeswith">1</dep>
     <dep name="iobj">1</dep>
-    <dep name="mark">11671</dep>
+    <dep name="mark">11679</dep>
     <dep name="nmod">39265</dep>
     <dep name="nsubj">15839</dep>
     <dep name="nsubj:outer">1</dep>
@@ -131,6 +131,6 @@
     <dep name="punct">47528</dep>
     <dep name="root">16013</dep>
     <dep name="vocative">2</dep>
-    <dep name="xcomp">3049</dep>
+    <dep name="xcomp">3057</dep>
   </deps>
 </treebank>

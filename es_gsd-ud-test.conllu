@@ -9389,9 +9389,9 @@
 1	Más	más	ADV	_	Degree=Cmp	2	advmod	_	_
 2	bien	bien	ADV	_	_	6	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
-4	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	6	aux	_	_
-5	que	que	CCONJ	_	_	4	fixed	_	_
-6	pensar	pensar	VERB	_	VerbForm=Inf	0	root	_	_
+4	habría	haber	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+5	que	que	SCONJ	_	_	6	mark	_	_
+6	pensar	pensar	VERB	_	VerbForm=Inf	4	xcomp	_	_
 7	que	que	SCONJ	_	_	9	mark	_	_
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 9	trata	tratar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
