@@ -2271,13 +2271,13 @@
 5	,	,	PUNCT	_	_	6	punct	_	_
 6	Min	min	PROPN	_	_	1	conj	_	_
 7	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
-8	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	6	appos	_	SpaceAfter=No
+8	qué	qué	PRON	_	Number=Sing|PronType=Int	6	appos	_	SpaceAfter=No
 9	)	)	PUNCT	_	_	8	punct	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	Magha	magha	PROPN	_	_	1	conj	_	_
 12	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
 13	por	por	ADP	_	_	14	case	_	_
-14	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	11	nmod	_	SpaceAfter=No
+14	qué	qué	PRON	_	Number=Sing|PronType=Int	11	nmod	_	SpaceAfter=No
 15	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	17	punct	_	_
 17	Lihkach	lihkach	PROPN	_	_	1	conj	_	_
@@ -3684,7 +3684,7 @@
 24	que	que	SCONJ	_	_	26	mark	_	_
 25	no	no	ADV	_	Polarity=Neg	26	advmod	_	_
 26	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
-27	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	28	obj	_	_
+27	qué	qué	PRON	_	Number=Sing|PronType=Int	28	obj	_	_
 28	comer	comer	VERB	_	VerbForm=Inf	26	xcomp	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	15	punct	_	_
 30	dirigentes	dirigente	NOUN	_	Number=Plur	34	nsubj	_	_
@@ -5973,7 +5973,7 @@
 # text = ¿Por qué siguen aceptando semejante atrocidad?
 1	¿	¿	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	Por	por	ADP	_	_	3	case	_	_
-3	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	4	obl	_	_
+3	qué	qué	PRON	_	Number=Sing|PronType=Int	4	obl	_	_
 4	siguen	seguir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	aceptando	aceptar	VERB	_	VerbForm=Ger	4	xcomp	_	_
 6	semejante	semejante	ADJ	_	Number=Sing	7	amod	_	_
@@ -10840,7 +10840,7 @@
 1-2	Dime	_	_	_	_	_	_	_	_
 1	Di	di	VERB	_	VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
-3	qué	qué	DET	_	Number=Sing|PronType=Int,Rel	4	det	_	_
+3	qué	qué	DET	_	Number=Sing|PronType=Int	4	det	_	_
 4	perro	perro	NOUN	_	Number=Sing	5	obj	_	_
 5	tienes	tener	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	1	ccomp	_	_
 6	y	y	CCONJ	_	_	8	cc	_	_

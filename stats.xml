@@ -71,8 +71,8 @@
     <feat name="PronType" value="Art" upos="DET">51200</feat><!-- el, la, los, un, las, una, unos, unas, the, a -->
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">2918</feat><!-- este, esta, estos, ese, esto, tanto, estas, esa, eso, éste -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">3307</feat><!-- uno, otros, otras, otro, una, cualquier, algunos, varios, muchos, otra -->
-    <feat name="PronType" value="Int" upos="ADV,PRON">25</feat><!-- dónde, cuándo, Quién, What -->
-    <feat name="PronType" value="Int,Rel" upos="ADV,DET,PRON">1579</feat><!-- que, cual, quien, qué, quienes, cuales, quién, cuál, cuáles, cuantas -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">103</feat><!-- qué, dónde, cuál, cuáles, cuándo, Quién, What -->
+    <feat name="PronType" value="Int,Rel" upos="ADV,DET,PRON">1501</feat><!-- que, cual, quien, quienes, cuales, quién, cuantas, cuantos, quiénes, cuánto -->
     <feat name="PronType" value="Neg" upos="DET,PRON">246</feat><!-- nada, ningún, nadie, ninguna, ninguno, ningun, niguna -->
     <feat name="PronType" value="Prs" upos="DET,INTJ,PRON">14355</feat><!-- se, su, lo, sus, le, la, me, los, nos, les -->
     <feat name="PronType" value="Rel" upos="ADV,DET,PRON">602</feat><!-- donde, cuando, cuya, cuyo, cuyas, cuyos, que -->

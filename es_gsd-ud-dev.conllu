@@ -6080,7 +6080,7 @@
 3	conoce	conocer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	con	con	ADP	_	_	5	case	_	_
 5	exactitud	exactitud	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-6	cuál	cuál	PRON	_	Number=Sing|PronType=Int,Rel	9	nsubj	_	_
+6	cuál	cuál	PRON	_	Number=Sing|PronType=Int	9	nsubj	_	_
 7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	causa	causa	NOUN	_	Gender=Fem|Number=Sing	3	csubj	_	_
@@ -8844,7 +8844,7 @@
 31	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	expl:pv	_	_
 32	preguntaban	preguntar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	conj	_	_
 33	por	por	ADP	_	_	34	case	_	_
-34	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	35	obl	_	_
+34	qué	qué	PRON	_	Number=Sing|PronType=Int	35	obl	_	_
 35	trabajaba	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	32	ccomp	_	_
 36	en	en	ADP	_	_	38	case	_	_
 37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
@@ -10847,7 +10847,7 @@
 # text = ¿Y qué se espera que digan los periodistas ubicados en esos "estratégicos" lugares?
 1	¿	¿	PUNCT	_	_	5	punct	_	SpaceAfter=No
 2	Y	y	CCONJ	_	_	5	cc	_	_
-3	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	7	obj	_	_
+3	qué	qué	PRON	_	Number=Sing|PronType=Int	7	obj	_	_
 4	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	espera	esperar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	_	_	7	mark	_	_
@@ -13685,7 +13685,7 @@
 1	Nicolás	nicolás	PROPN	_	_	6	dep	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	1	punct	_	_
 3	¿	¿	PUNCT	_	_	6	punct	_	SpaceAfter=No
-4	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	6	nsubj	_	_
+4	qué	qué	PRON	_	Number=Sing|PronType=Int	6	nsubj	_	_
 5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 6	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	0	root	_	_
 7	que	que	SCONJ	_	_	10	mark	_	_
@@ -16759,7 +16759,7 @@
 14	,	,	PUNCT	_	_	16	punct	_	_
 15	que	que	SCONJ	_	_	16	mark	_	_
 16	digan	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
-17	cuáles	cuál	PRON	_	Number=Plur|PronType=Int,Rel	16	ccomp	_	_
+17	cuáles	cuál	PRON	_	Number=Plur|PronType=Int	16	ccomp	_	_
 18	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	cop	_	_
 19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	escuchas	escucha	NOUN	_	Gender=Fem|Number=Plur	17	nsubj	_	_
@@ -25377,7 +25377,7 @@
 5	alguien	alguien	PRON	_	Number=Sing|PronType=Ind	7	nsubj	_	_
 6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl:arg	_	_
 7	diga	decir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-8	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	9	obj	_	_
+8	qué	qué	PRON	_	Number=Sing|PronType=Int	9	obj	_	_
 9	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 10	en	en	ADP	_	_	12	case	_	_
 11	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
@@ -26713,7 +26713,7 @@
 24	explicación	explicación	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	_
 25	de	de	ADP	_	_	29	case	_	_
 26	por	por	ADP	_	_	27	case	_	_
-27	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	29	obl	_	_
+27	qué	qué	PRON	_	Number=Sing|PronType=Int	29	obl	_	_
 28	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	expl:pv	_	_
 29	pelean	pelear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	_
 30	entre	entre	ADP	_	_	31	case	_	_
@@ -30585,7 +30585,7 @@
 33-34	decirle	_	_	_	_	_	_	_	_
 33	decir	decir	VERB	_	VerbForm=Inf	29	ccomp	_	_
 34	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	33	obl:arg	_	_
-35	qué	qué	PRON	_	Number=Sing|PronType=Int,Rel	36	obj	_	_
+35	qué	qué	PRON	_	Number=Sing|PronType=Int	36	obj	_	_
 36	hacer	hacer	VERB	_	VerbForm=Inf	33	xcomp	_	SpaceAfter=No
 37	.	.	PUNCT	_	_	28	punct	_	SpaceAfter=No
 38	"	"	PUNCT	_	_	28	punct	_	_
