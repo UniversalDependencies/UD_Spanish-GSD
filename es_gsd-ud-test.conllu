@@ -13,7 +13,7 @@
 10	Blas	blas	PROPN	_	_	8	appos	_	_
 11	Pajarero	pajarero	PROPN	_	_	10	flat	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	16	punct	_	_
-13	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Int,Rel	14	det	_	_
+13	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	14	det	_	_
 14	casa	casa	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
 15	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
 16	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
@@ -345,7 +345,7 @@
 5	volcán	volcán	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 6	Taal	taal	PROPN	_	_	5	appos	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
-8	cuyas	cuyo	DET	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Int,Rel	9	det	_	_
+8	cuyas	cuyo	DET	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Rel	9	det	_	_
 9	erupciones	erupción	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	_
 10	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 11	responsables	responsable	ADJ	_	Number=Plur	5	acl:relcl	_	_
@@ -7949,7 +7949,7 @@
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	joven	joven	NOUN	_	Number=Sing	11	nsubj:pass	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	8	punct	_	_
-4	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Int,Rel	5	det	_	_
+4	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	5	det	_	_
 5	nombre	nombre	NOUN	_	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
 6	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
 7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
@@ -11339,7 +11339,7 @@
 31	sobre	sobre	ADP	_	_	33	case	_	_
 32	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	33	det	_	_
 33	cauce	cauce	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	_
-34	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Int,Rel	35	det	_	_
+34	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	35	det	_	_
 35	soberanía	soberanía	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	_	_
 36	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	acl:relcl	_	_
 37	de	de	ADP	_	_	38	case	_	_

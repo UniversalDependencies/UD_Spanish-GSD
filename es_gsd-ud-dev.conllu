@@ -8446,7 +8446,7 @@
 9	y	y	CCONJ	_	_	10	cc	_	_
 10	1987	1987	NUM	_	NumType=Card	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	17	punct	_	_
-12	cuyos	cuyo	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Int,Rel	14	det	_	_
+12	cuyos	cuyo	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Rel	14	det	_	_
 13	mayores	mayor	ADJ	_	Degree=Cmp|Number=Plur	14	amod	_	_
 14	éxitos	éxito	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
 15	deportivos	deportivo	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
@@ -10899,7 +10899,7 @@
 6	,	,	PUNCT	_	_	7	punct	_	_
 7	Albacete	albacete	PROPN	_	_	5	appos	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
-9	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Int,Rel	10	det	_	_
+9	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	10	det	_	_
 10	escudo	escudo	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
 11	aparece	aparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 12	en	en	ADP	_	_	14	case	_	_
@@ -15872,7 +15872,7 @@
 30	colectivos	colectivo	ADJ	_	Gender=Masc|Number=Plur	29	amod	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	36	punct	_	_
 32	y	y	CCONJ	_	_	36	cc	_	_
-33	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Int,Rel	34	det	_	_
+33	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	34	det	_	_
 34	modus	modus	X	_	Gender=Masc	36	compound	_	_
 35	operandi	operandi	X	_	Number=Sing|Person=3	34	compound	_	_
 36	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	conj	_	_
@@ -17470,7 +17470,7 @@
 19	Saraqusta	saraqusta	PROPN	_	_	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	25	punct	_	_
 21	de	de	ADP	_	_	23	case	_	_
-22	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Int,Rel	23	det	_	_
+22	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	23	det	_	_
 23	minarete	minarete	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_
 24	todavía	todavía	ADV	_	_	25	advmod	_	_
 25	perdura	perdurar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
@@ -21150,7 +21150,7 @@
 12	mitología	mitología	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 13	griega	griego	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	17	punct	_	_
-15	cuyas	cuyo	DET	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Int,Rel	17	det	_	_
+15	cuyas	cuyo	DET	_	Gender=Fem|Number=Plur|Poss=Yes|PronType=Rel	17	det	_	_
 16	mayores	mayor	ADJ	_	Degree=Cmp|Number=Plur	17	amod	_	_
 17	hazañas	hazaña	NOUN	_	Gender=Fem|Number=Plur	9	acl:relcl	_	_
 18	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	17	cop	_	_
@@ -21510,7 +21510,7 @@
 15	por	por	ADP	_	_	17	case	_	_
 16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	muralla	muralla	NOUN	_	Gender=Fem|Number=Sing	14	obl:agent	_	_
-18	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Int,Rel	19	det	_	_
+18	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	19	det	_	_
 19	límite	límite	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	_
 20	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	acl:relcl	_	_
 21	en	en	ADP	_	_	22	case	_	_
@@ -23073,7 +23073,7 @@
 20	Acción	acción	PROPN	_	_	18	nmod	_	_
 21	Católica	católica	PROPN	_	_	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	28	punct	_	_
-23	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Int,Rel	24	det	_	_
+23	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	24	det	_	_
 24	finalidad	finalidad	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
 25	política	política	ADJ	_	Gender=Fem|Number=Sing	24	amod	_	_
 26	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	cop	_	_
@@ -33244,7 +33244,7 @@
 36	José	josé	PROPN	_	_	34	nmod	_	_
 37	Montilla	montilla	PROPN	_	_	36	flat	_	SpaceAfter=No
 38	,	,	PUNCT	_	_	41	punct	_	_
-39	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Int,Rel	40	det	_	_
+39	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	40	det	_	_
 40	gestión	gestión	NOUN	_	Gender=Fem|Number=Sing	41	obl	_	_
 41	elogió	elogiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	acl:relcl	_	_
 42	ya	ya	X	_	_	44	cc	_	_
