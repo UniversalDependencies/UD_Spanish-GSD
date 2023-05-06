@@ -33,6 +33,7 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
   * Existential "hay" and necessitative "hay que": AUX changed to VERB.
   * "cuyo" is a relative determiner.
   * "qué", "cuál" are interrogative, not relative.
+  * "que", "cual" are relative, not interrogative.
 * 2022-11-15 v2.11
   * Fixed: deprel punct occurs only with UPOS PUNCT.
   * Fixed: advmod cannot be used with nominal dependents.

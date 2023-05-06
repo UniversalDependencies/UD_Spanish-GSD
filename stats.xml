@@ -72,10 +72,10 @@
     <feat name="PronType" value="Dem" upos="ADV,DET,PRON">2918</feat><!-- este, esta, estos, ese, esto, tanto, estas, esa, eso, éste -->
     <feat name="PronType" value="Ind" upos="ADV,DET,PRON">3307</feat><!-- uno, otros, otras, otro, una, cualquier, algunos, varios, muchos, otra -->
     <feat name="PronType" value="Int" upos="ADV,DET,PRON">103</feat><!-- qué, dónde, cuál, cuáles, cuándo, Quién, What -->
-    <feat name="PronType" value="Int,Rel" upos="ADV,DET,PRON">1501</feat><!-- que, cual, quien, quienes, cuales, quién, cuantas, cuantos, quiénes, cuánto -->
+    <feat name="PronType" value="Int,Rel" upos="ADV,DET,PRON">292</feat><!-- quien, quienes, quién, cuantas, cuantos, quiénes, cuánto, Who, cual, cuan -->
     <feat name="PronType" value="Neg" upos="DET,PRON">246</feat><!-- nada, ningún, nadie, ninguna, ninguno, ningun, niguna -->
     <feat name="PronType" value="Prs" upos="DET,INTJ,PRON">14355</feat><!-- se, su, lo, sus, le, la, me, los, nos, les -->
-    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">602</feat><!-- donde, cuando, cuya, cuyo, cuyas, cuyos, que -->
+    <feat name="PronType" value="Rel" upos="ADV,DET,PRON">1812</feat><!-- que, donde, cual, cuando, cuya, cuales, cuyo, cuyas, cuyos -->
     <feat name="PronType" value="Tot" upos="DET,PRON">1204</feat><!-- todo, todos, cada, toda, todas, ambos, ambas, Alles -->
     <feat name="Reflex" value="Yes" upos="INTJ,PRON">5396</feat><!-- se, me, nos, sí, te, consigo, os, zse -->
     <feat name="Tense" value="Fut" upos="AUX,VERB">830</feat><!-- será, podrá, podrán, serán, tendrá, estará, hará, permitirá, tendrán, contará -->

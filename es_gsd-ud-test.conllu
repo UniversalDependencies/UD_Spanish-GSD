@@ -482,7 +482,7 @@
 5	,	,	PUNCT	_	_	11	punct	_	_
 6	entre	entre	ADP	_	_	8	case	_	_
 7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	cuales	cual	PRON	_	Number=Plur|PronType=Int,Rel	11	nmod	_	_
+8	cuales	cual	PRON	_	Number=Plur|PronType=Rel	11	nmod	_	_
 9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 10	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
 11	conocidos	conocido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	2	parataxis	_	_
@@ -987,7 +987,7 @@
 1	En	en	ADP	_	_	3	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	momento	momento	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
-4	que	que	PRON	_	PronType=Int,Rel	8	obl	_	_
+4	que	que	PRON	_	PronType=Rel	8	obl	_	_
 5	Harry	harry	PROPN	_	_	8	nsubj	_	_
 6	y	y	CCONJ	_	_	7	cc	_	_
 7	Neville	neville	PROPN	_	_	5	conj	_	_
@@ -1132,7 +1132,7 @@
 19	Square	square	PROPN	_	_	17	obl:agent	_	_
 20	Enix	enix	PROPN	_	_	19	flat	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	23	nsubj	_	_
+22	cual	cual	PRON	_	Number=Sing|PronType=Rel	23	nsubj	_	_
 23	inició	iniciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	acl:relcl	_	_
 24	en	en	ADP	_	_	25	case	_	_
 25	2007	2007	NUM	_	NumType=Card	23	obl	_	SpaceAfter=No
@@ -1552,7 +1552,7 @@
 8	Asociación	asociación	PROPN	_	_	5	nmod	_	_
 9	Paraguaya	paraguaya	PROPN	_	_	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
-11	que	que	PRON	_	PronType=Int,Rel	13	nsubj:pass	_	_
+11	que	que	PRON	_	PronType=Rel	13	nsubj:pass	_	_
 12	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
 13	creada	crear	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	8	acl:relcl	_	_
 14	en	en	ADP	_	_	16	case	_	_
@@ -2159,7 +2159,7 @@
 19	Lanegan	lanegan	PROPN	_	_	18	flat	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	24	punct	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	24	nsubj	_	_
+22	cual	cual	PRON	_	Number=Sing|PronType=Rel	24	nsubj	_	_
 23	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
 24	invita	invitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
 25	a	a	ADP	_	_	26	mark	_	_
@@ -2624,7 +2624,7 @@
 34	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
 35	,	,	PUNCT	_	_	38	punct	_	_
 36	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	_	_
-37	cuales	cual	PRON	_	Number=Plur|PronType=Int,Rel	38	obj	_	_
+37	cuales	cual	PRON	_	Number=Plur|PronType=Rel	38	obj	_	_
 38	considero	considero	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	conj	_	_
 39	muy	mucho	ADV	_	_	40	advmod	_	_
 40	importantes	importante	ADJ	_	Number=Plur	38	xcomp	_	_
@@ -2892,7 +2892,7 @@
 13	,	,	PUNCT	_	_	12	punct	_	_
 14	con	con	ADP	_	_	16	case	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	que	que	PRON	_	PronType=Int,Rel	17	obl	_	_
+16	que	que	PRON	_	PronType=Rel	17	obl	_	_
 17	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 18	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	difícil	difícil	ADJ	_	Number=Sing	20	amod	_	_
@@ -3018,7 +3018,7 @@
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	en	en	ADP	_	_	10	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	11	obl	_	_
+10	cual	cual	PRON	_	Number=Sing|PronType=Rel	11	obl	_	_
 11	promedió	promeder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	parataxis	_	_
 12	5,3	5.3	NUM	_	NumType=Card	13	nummod	_	_
 13	puntos	punto	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
@@ -3177,7 +3177,7 @@
 2	forma	forma	NOUN	_	Gender=Fem|Number=Sing	26	nsubj	_	_
 3	en	en	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	que	que	PRON	_	PronType=Int,Rel	10	obl	_	_
+5	que	que	PRON	_	PronType=Rel	10	obl	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	modelo	modelo	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
 8	escandinavo	escandinavo	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
@@ -4069,7 +4069,7 @@
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 4	única	único	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
 5	obra	obra	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-6	que	que	PRON	_	PronType=Int,Rel	7	obj	_	_
+6	que	que	PRON	_	PronType=Rel	7	obj	_	_
 7	vendió	vender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	artista	artista	NOUN	_	Number=Sing	7	nsubj	_	_
@@ -5564,7 +5564,7 @@
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	club	club	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	20	nsubj	_	_
+19	cual	cual	PRON	_	Number=Sing|PronType=Rel	20	nsubj	_	_
 20	busca	buscar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
 21	nuevas	nuevo	ADJ	_	Gender=Fem|Number=Plur	22	amod	_	_
 22	estrellas	estrella	NOUN	_	Gender=Fem|Number=Plur	20	obj	_	_
@@ -5666,7 +5666,7 @@
 23	,	,	PUNCT	_	_	31	punct	_	_
 24	por	por	ADP	_	_	26	case	_	_
 25	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	26	det	_	_
-26	que	que	PRON	_	PronType=Int,Rel	31	obl	_	_
+26	que	que	PRON	_	PronType=Rel	31	obl	_	_
 27	a	a	ADP	_	_	29	case	_	_
 28	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	29	det	_	_
 29	paso	paso	NOUN	_	Gender=Masc|Number=Sing	31	obl	_	_
@@ -6052,7 +6052,7 @@
 29	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
 30	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
 31	condolencias	condolencia	NOUN	_	Gender=Fem|Number=Plur	29	obj	_	_
-32	que	que	PRON	_	PronType=Int,Rel	35	nsubj:pass	_	_
+32	que	que	PRON	_	PronType=Rel	35	nsubj:pass	_	_
 33	solo	sólo	ADV	_	_	35	advmod	_	_
 34	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	aux:pass	_	_
 35	leídas	leído	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	31	acl:relcl	_	_
@@ -6181,7 +6181,7 @@
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	por	por	ADP	_	_	10	case	_	_
 9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	det	_	_
-10	que	que	PRON	_	PronType=Int,Rel	11	obl	_	_
+10	que	que	PRON	_	PronType=Rel	11	obl	_	_
 11	estamos	estar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 12	ante	ante	ADP	_	_	14	case	_	_
 13	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -9605,7 +9605,7 @@
 29	1	1	NUM	_	NumType=Card	28	nummod	_	_
 30	por	por	ADP	_	_	32	case	_	_
 31	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	32	det	_	_
-32	que	que	PRON	_	PronType=Int,Rel	34	obl	_	_
+32	que	que	PRON	_	PronType=Rel	34	obl	_	_
 33	no	no	ADV	_	Polarity=Neg	34	advmod	_	_
 34	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	parataxis	_	_
 35	cómo	cómo	ADV	_	_	36	advmod	_	_
@@ -10471,7 +10471,7 @@
 14	,	,	PUNCT	_	_	20	punct	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	20	obj	_	_
+17	cual	cual	PRON	_	Number=Sing|PronType=Rel	20	obj	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	votante	votante	NOUN	_	Number=Sing	20	nsubj	_	_
 20	digita	digitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
@@ -10620,7 +10620,7 @@
 6	,	,	PUNCT	_	_	11	punct	_	_
 7	por	por	ADP	_	_	9	case	_	_
 8	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	det	_	_
-9	que	que	PRON	_	PronType=Int,Rel	11	obl	_	_
+9	que	que	PRON	_	PronType=Rel	11	obl	_	_
 10	directamente	directamente	ADV	_	_	11	advmod	_	_
 11	seleccionamos	seleccionar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
@@ -10846,7 +10846,7 @@
 6	y	y	CCONJ	_	_	8	cc	_	_
 7	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
 8	diré	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
-9	que	que	DET	_	PronType=Int,Rel	10	det	_	_
+9	que	que	DET	_	PronType=Rel	10	det	_	_
 10	cazador	cazador	NOUN	_	Gender=Masc|Number=Sing	8	ccomp	_	_
 11	eres	ser	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	cop	_	SpaceAfter=No
 12	'	'	PUNCT	_	_	1	punct	_	SpaceAfter=No
@@ -11269,7 +11269,7 @@
 27	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	expl:pv	_	_
 28	,	,	PUNCT	_	_	31	punct	_	_
 29	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	30	det	_	_
-30	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	31	obj	_	_
+30	cual	cual	PRON	_	Number=Sing|PronType=Rel	31	obj	_	_
 31	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	parataxis	_	_
 32	"	"	PUNCT	_	_	34	punct	_	SpaceAfter=No
 33	bastante	bastante	ADV	_	_	34	advmod	_	_
@@ -11543,7 +11543,7 @@
 24	Conducir	conducir	NOUN	_	_	22	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	28	punct	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-27	cual	cual	PRON	_	Number=Sing|PronType=Int,Rel	28	nsubj	_	_
+27	cual	cual	PRON	_	Number=Sing|PronType=Rel	28	nsubj	_	_
 28	permite	permitir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	entrega	entrega	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	_
@@ -11591,7 +11591,7 @@
 15	discos	disco	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	_
 16	en	en	ADP	_	_	17	case	_	_
 17	estudio	estudio	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
-18	que	que	PRON	_	PronType=Int,Rel	22	nsubj:pass	_	_
+18	que	que	PRON	_	PronType=Rel	22	nsubj:pass	_	_
 19	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
 20	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	aux:pass	_	_
 21	cuidadosamente	cuidadosamente	ADV	_	_	22	advmod	_	_
