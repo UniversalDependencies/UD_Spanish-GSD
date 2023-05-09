@@ -25,6 +25,15 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2023-05-15 v2.12
+  * Por-nominals under participles changed from obl to obl:agent.
+  * Dative indirect objects changed to obl:arg because dative is not a core case.
+  * Reflexives changed from iobj to expl:pv.
+  * Fixed: "donde", "cuando" can be SCONJ or ADV but not PRON. Interrogative "dónde", "cuándo" are only ADV.
+  * Existential "hay" and necessitative "hay que": AUX changed to VERB.
+  * "cuyo" is a relative determiner.
+  * "qué", "cuál" are interrogative, not relative.
+  * "que", "cual" are relative, not interrogative.
 * 2022-11-15 v2.11
   * Fixed: deprel punct occurs only with UPOS PUNCT.
   * Fixed: advmod cannot be used with nominal dependents.
@@ -42,7 +51,7 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 * 2019-05-01 v2.4
   * Automatically fixed some auxiliary verbs and copulas.
 * 2018-07-01 v2.2
-  * Fixed acl-->advcl under VERB ([https://github.com/UniversalDependencies/UD_French-GSD/issues/4](https://github.com/UniversalDependencies/UD_French-GSD/issues/4))
+  * Fixed acl--&gt;advcl under VERB ([https://github.com/UniversalDependencies/UD_French-GSD/issues/4](https://github.com/UniversalDependencies/UD_French-GSD/issues/4))
 * 2017-03-01 v2.0
   * Converted to UD v2 guidelines.
 * 2015-11-15 v1.2
