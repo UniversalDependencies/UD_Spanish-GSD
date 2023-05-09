@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit 13e6b709a8bc643c3f902800321a7beda46feb8d
+commit 04abe686385f14a9a6f68784bd723a6b60ded594
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 13 22:03:41 2022 +0100
+Date:   Tue May 9 00:14:39 2023 +0200
 Evaluating the following revision of UD_Spanish-GSD:
-commit 7db3f8bda47a429c00efd09117f54672a6fce815
-Merge: baf123f b578dab
+commit dda0dad0b12068f48d17fd017a13914d77c3d4d9
+Merge: e31454f f94ef31
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 431585 of 431585 words (nodes).
-Size: min(0, log((N/1000)**2)) = 12.1349289567556.
+Size: counted 431584 of 431584 words (nodes).
+Size: min(0, log((N/1000)**2)) = 12.1349243226689.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,48 +15,42 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 240429 out of 431585 total words have one or more features.
+Features: 240977 out of 431584 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 33 out of 37 found in the corpus.
+Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL       1868
-Udapi: found 1868 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 431585 words.
+               TOTAL       1849
+Udapi: found 1849 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 431584 words.
 Genres: found 4 out of 17 known.
-validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-dev.conllu
-[Line 2328 Sent es-dev-001-s85 Node 9]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 2513 Sent es-dev-001-s92 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [5, 11]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 9000 Sent es-dev-001-s313 Node 23]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [18, 24]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 26679 Sent es-dev-002-s390 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-Syntax errors: 4
-*** FAILED *** with 4 errors
-Exit code: 1
-validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-test.conllu
+/net/work/people/zeman/unidep/tools/validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-dev.conllu
 *** PASSED ***
-validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-train.conllu
-[Line 6439 Sent es-train-001-s200 Node 6]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 14]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 9721 Sent es-train-001-s300 Node 49]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [46, 53]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 14310 Sent es-train-001-s435 Node 11]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [9, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 28405 Sent es-train-002-s399 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 7]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 38719 Sent es-train-003-s252 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 12]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 41171 Sent es-train-003-s330 Node 5]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [1, 8]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 41339 Sent es-train-003-s338 Node 13]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [12, 32]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 47275 Sent es-train-004-s49 Node 10]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 13]. Outer subjects are allowed if a clause acts as the predicate of another clause.
-[Line 53665 Sent es-train-004-s268 Node 13]: [L3 Syntax too-many-subjects] Node has multiple subjects not subtyped as ':outer': [2, 15]. Outer subjects are allowed if a clause acts as the predicate of another clause.
+/net/work/people/zeman/unidep/tools/validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-test.conllu
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-train.conllu
+[Line 28405 Sent es-train-002-s399 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [2, 7] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
+[Line 38719 Sent es-train-003-s252 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 12] not subtyped as ':outer'.
+[Line 41171 Sent es-train-003-s330 Node 5]: [L3 Syntax too-many-subjects] Multiple subjects [1, 8] not subtyped as ':outer'.
+[Line 41339 Sent es-train-003-s338 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [12, 32] not subtyped as ':outer'.
+[Line 47275 Sent es-train-004-s49 Node 10]: [L3 Syntax too-many-subjects] Multiple subjects [2, 13] not subtyped as ':outer'.
+[Line 53665 Sent es-train-004-s268 Node 13]: [L3 Syntax too-many-subjects] Multiple subjects [2, 15] not subtyped as ':outer'.
+[Line 55485 Sent es-train-004-s329 Node 17]: [L3 Syntax too-many-subjects] Multiple subjects [12, 15] not subtyped as ':outer'.
+[Line 55594 Sent es-train-004-s333 Node 30]: [L3 Syntax too-many-subjects] Multiple subjects [28, 39] not subtyped as ':outer'.
+[Line 71385 Sent es-train-005-s328 Node 12]: [L3 Syntax too-many-subjects] Multiple subjects [5, 13] not subtyped as ':outer'.
 ...suppressing further errors regarding Syntax
-Syntax errors: 61
-*** FAILED *** with 61 errors
+Syntax errors: 49
+*** FAILED *** with 49 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.4) = 0.0307692307692308
 (weight=0.0769230769230769) * (score{genres}=0.235294117647059) = 0.0180995475113122
 (weight=0.0769230769230769) * (score{lemmas}=0.4) = 0.0307692307692308
-(weight=0.256410256410256) * (score{size}=0.878355447367825) = 0.225219345478929
+(weight=0.256410256410256) * (score{size}=0.878355111941443) = 0.225219259472165
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.956717680178875) = 0.294374670824269
-(weight=0.0769230769230769) * (score{udeprels}=0.713513513513514) = 0.0548856548856549
-(TOTAL score=0.76693819305914) * (availability=1) * (validity=0.01) = 0.0076693819305914
+(weight=0.307692307692308) * (score{udapi}=0.957157818640172) = 0.29451009804313
+(weight=0.0769230769230769) * (score{udeprels}=0.735135135135135) = 0.0565488565488566
+(TOTAL score=0.768736735934438) * (availability=1) * (validity=0.01) = 0.00768736735934438
 STARS = 0
-UD_Spanish-GSD	0.0076693819305914	0
+UD_Spanish-GSD	0.00768736735934438	0
