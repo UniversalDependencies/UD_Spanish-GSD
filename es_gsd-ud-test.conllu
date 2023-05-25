@@ -7678,7 +7678,7 @@
 14	pasado	pasado	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	2	punct	_	_
 16	dice	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-17	que	que	SCONJ	_	_	20	mark	_	_
+17	que	que	SCONJ	_	_	18	mark	_	_
 18	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
 19	que	que	SCONJ	_	_	20	mark	_	_
 20	construir	construir	VERB	_	VerbForm=Inf	18	xcomp	_	_

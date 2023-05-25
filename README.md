@@ -25,6 +25,8 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * "No" and "que" before "hay que Inf" should depend on "hay".
 * 2023-05-15 v2.12
   * Por-nominals under participles changed from obl to obl:agent.
   * Dative indirect objects changed to obl:arg because dative is not a core case.
