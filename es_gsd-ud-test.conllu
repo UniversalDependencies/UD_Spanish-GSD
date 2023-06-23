@@ -8923,7 +8923,7 @@
 11	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	disputado	disputar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	acl:relcl	_	_
 13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-14	seis	6	NUM	_	Number=Plur|NumForm=Word|NumType=Card	15	nummod	_	_
+14	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	15	nummod	_	_
 15	encuentros	encuentro	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	33	punct	_	_
 17	aunque	aunque	SCONJ	_	_	33	mark	_	_

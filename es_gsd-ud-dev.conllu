@@ -18318,7 +18318,7 @@
 # sent_id = es-dev-002-s125
 # text = Tuvo seis hijos: Verónica, Inri, Bernardita, María del Carmen, David y Marta;
 1	Tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-2	seis	6	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
+2	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
 3	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	SpaceAfter=No
 4	:	:	PUNCT	_	_	5	punct	_	_
 5	Verónica	verónica	PROPN	_	_	1	parataxis	_	SpaceAfter=No
@@ -29552,7 +29552,7 @@
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	letra	letra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	de	de	ADP	_	_	9	case	_	_
-8	seis	6	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
+8	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	9	nummod	_	_
 9	canciones	canción	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	_
 10	y	y	CCONJ	_	_	11	cc	_	_
 11	eliminar	eliminar	VERB	_	VerbForm=Inf	4	conj	_	_
@@ -33006,7 +33006,7 @@
 # text = Zurbarán realizó seis versiones de este tema, entre las que presentan muy pocas variantes.
 1	Zurbarán	zurbarán	PROPN	_	_	2	nsubj	_	_
 2	realizó	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	seis	6	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
+3	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
 4	versiones	versión	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
 5	de	de	ADP	_	_	7	case	_	_
 6	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	_
@@ -35429,7 +35429,7 @@
 18	solo	sólo	ADV	_	_	19	advmod	_	_
 19	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	conj	_	_
 20	o	o	CCONJ	_	_	21	cc	_	_
-21	seis	6	NUM	_	Number=Plur|NumForm=Word|NumType=Card	19	conj	_	_
+21	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	19	conj	_	_
 22	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	19	nsubj	_	_
 23	que	que	SCONJ	_	_	25	mark	_	_
 24	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pv	_	_
@@ -35629,7 +35629,7 @@
 20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	15	appos	_	_
 22	de	de	ADP	_	_	24	case	_	_
-23	seis	6	NUM	_	Number=Plur|NumForm=Word|NumType=Card	24	nummod	_	_
+23	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	24	nummod	_	_
 24	velocidades	velocidad	NOUN	_	Gender=Fem|Number=Plur	21	nmod	_	SpaceAfter=No
 25	)	)	PUNCT	_	_	21	punct	_	SpaceAfter=No
 26	.	.	PUNCT	_	_	11	punct	_	_
@@ -41468,7 +41468,7 @@
 6	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 7	escritor	escritor	NOUN	_	Gender=Masc|Number=Sing	4	xcomp	_	_
 8	durante	durante	ADP	_	_	10	case	_	_
-9	seis	6	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
+9	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
 10	números	número	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
 11	(	(	PUNCT	_	_	13	punct	_	SpaceAfter=No
 12	Del	del	ADP	_	_	13	case	_	_

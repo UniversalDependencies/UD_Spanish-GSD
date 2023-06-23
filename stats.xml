@@ -10,7 +10,7 @@
     <dev><sentences>1400</sentences><tokens>36464</tokens><words>37151</words><fused>685</fused></dev>
     <test><sentences>426</sentences><tokens>11733</tokens><words>12000</words><fused>267</fused></test>
   </size>
-  <lemmas unique="35233" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
+  <lemmas unique="35234" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
   <forms unique="45575" /><!-- de, ,, el, ., la, en, y, a, que, los, se, un, por, con, una -->
   <fusions unique="856" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -23,7 +23,7 @@
     <tag name="DET">60886</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">36</tag><!-- sí, salve -->
     <tag name="NOUN">77575</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
-    <tag name="NUM">11061</tag><!-- dos, tres, 2010, 0, 3, cuatro, 1, 6, 2, 10 -->
+    <tag name="NUM">11061</tag><!-- dos, tres, 2010, 0, 3, cuatro, 1, 2, 10, 4 -->
     <tag name="PART">39</tag><!-- hola, ex, re, co, ir, l, no, not, abandono, adio -->
     <tag name="PRON">14026</tag><!-- él, que, yo, uno, este, cual, tú, todo, quien, otro -->
     <tag name="PROPN">39250</tag><!-- san, unido, españa, juan, madrid, estados, josé, septiembre, julio, enero -->
