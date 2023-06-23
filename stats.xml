@@ -57,8 +57,8 @@
     <feat name="Mood" value="Sub" upos="AUX,VERB">1213</feat><!-- sea, haya, sean, tenga, pueda, puedan, fuese, fuera, hubiera, crea -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">53212</feat><!-- los, las, sus, son, dos, años, eran, han, personas, otros -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157396</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
-    <feat name="NumForm" value="Roman" upos="ADJ">27</feat><!-- II, I, X, VII, III, VIII, Il, VI, XIII -->
-    <feat name="NumForm" value="Word" upos="NUM">2069</feat><!-- dos, tres, cuatro, cinco, II, seis, un, I, mil, siete -->
+    <feat name="NumForm" value="Roman" upos="ADJ,NUM">456</feat><!-- II, I, III, XIX, XX, IV, V, XVIII, XVI, VIII -->
+    <feat name="NumForm" value="Word" upos="NUM">1640</feat><!-- dos, tres, cuatro, cinco, seis, un, mil, siete, ocho, una -->
     <feat name="NumType" value="Card" upos="DET,NUM,PRON">12007</feat><!-- dos, tres, 2010, 0, tanto, cuatro, 3, 1, 2, muchos -->
     <feat name="NumType" value="Ord" upos="ADJ">1033</feat><!-- primera, primer, segunda, segundo, primeros, tercera, primeras, tercer, cuarto, cuarta -->
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB,X">2029</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->

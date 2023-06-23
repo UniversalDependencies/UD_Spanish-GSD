@@ -1359,7 +1359,7 @@
 12	de	de	ADP	_	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
-15	XX	xx	NUM	_	NumForm=Word|NumType=Card	14	nummod	_	SpaceAfter=No
+15	XX	xx	NUM	_	NumForm=Roman|NumType=Card	14	nummod	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = es-dev-003-s464
@@ -1785,7 +1785,7 @@
 24	,	,	PUNCT	_	_	30	punct	_	_
 25	pero	pero	CCONJ	_	_	30	cc	_	_
 26	Napoleón	napoleón	PROPN	_	_	30	nsubj	_	_
-27	III	iii	NUM	_	NumForm=Word|NumType=Card	26	nummod	_	_
+27	III	iii	NUM	_	NumForm=Roman|NumType=Card	26	nummod	_	_
 28	no	no	ADV	_	Polarity=Neg	30	advmod	_	_
 29	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	30	obl:arg	_	_
 30	concedió	conceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
@@ -2945,17 +2945,17 @@
 4	de	de	ADP	_	_	6	case	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	poemas	poema	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	_
-7	XIII	xiii	NUM	_	NumForm=Word|NumType=Card	6	appos	_	SpaceAfter=No
+7	XIII	xiii	NUM	_	NumForm=Roman|NumType=Card	6	appos	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	9	punct	_	_
-9	XVIII	xviii	NUM	_	NumForm=Word|NumType=Card	7	conj	_	SpaceAfter=No
+9	XVIII	xviii	NUM	_	NumForm=Roman|NumType=Card	7	conj	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
-11	XXII	xxii	NUM	_	NumForm=Word|NumType=Card	7	conj	_	SpaceAfter=No
+11	XXII	xxii	NUM	_	NumForm=Roman|NumType=Card	7	conj	_	SpaceAfter=No
 12	,	,	PUNCT	_	_	13	punct	_	_
-13	XXIV	xxiv	NUM	_	NumForm=Word|NumType=Card	7	conj	_	SpaceAfter=No
+13	XXIV	xxiv	NUM	_	NumForm=Roman|NumType=Card	7	conj	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	15	punct	_	_
-15	XXV	xxv	NUM	_	NumForm=Word|NumType=Card	7	conj	_	_
+15	XXV	xxv	NUM	_	NumForm=Roman|NumType=Card	7	conj	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
-17	XXVI	xxvi	NUM	_	NumForm=Word|NumType=Card	7	conj	_	SpaceAfter=No
+17	XXVI	xxvi	NUM	_	NumForm=Roman|NumType=Card	7	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_
 19	así	así	ADV	_	_	22	cc	_	_
 20	como	como	CCONJ	_	_	19	fixed	_	_
@@ -6854,7 +6854,7 @@
 9	hasta	hasta	ADP	_	_	10	case	_	_
 10	Adelante	adelante	PROPN	_	_	5	obl	_	_
 11	Bonaparte	bonaparte	PROPN	_	VerbForm=Inf	10	dep	_	_
-12	II	ii	NUM	_	NumForm=Word|NumType=Card	11	nummod	_	SpaceAfter=No
+12	II	ii	NUM	_	NumForm=Roman|NumType=Card	11	nummod	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	15	punct	_	_
 14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	himno	himno	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	_
@@ -8025,7 +8025,7 @@
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	Rey	rey	NOUN	_	_	24	nsubj	_	_
 29	Hassan	hassan	PROPN	_	_	28	appos	_	_
-30	II	ii	NUM	_	NumForm=Word|NumType=Card	29	nummod	_	SpaceAfter=No
+30	II	ii	NUM	_	NumForm=Roman|NumType=Card	29	nummod	_	SpaceAfter=No
 31	,	,	PUNCT	_	_	24	punct	_	_
 32	recogía	recogir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 33	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	34	det	_	_
@@ -10222,7 +10222,7 @@
 51-52	del	_	_	_	_	_	_	_	_
 51	de	de	ADP	_	_	54	case	_	_
 52	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	54	det	_	_
-53	V	v	NUM	_	Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	54	nummod	_	_
+53	V	v	NUM	_	Gender=Masc|Number=Sing|NumForm=Roman|NumType=Card	54	nummod	_	_
 54	Congreso	congreso	NOUN	_	_	50	nmod	_	_
 55	Mundial	mundial	ADJ	_	_	54	amod	_	_
 56	"	"	PUNCT	_	_	5	punct	_	SpaceAfter=No
