@@ -2534,7 +2534,7 @@
 # text = Proyecto Minatitlán 10-30, pensado a 20 años y que puede generar de 20 a 25 mil empleos, integrándolo al proyecto del Corredor Transístmico Coatzacoalcos - Salina Cruz como parte de los clúster y recintos fiscalizados que se pretende crear en toda la franja;
 1	Proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 2	Minatitlán	minatitlán	PROPN	_	_	1	appos	_	_
-3	10-30	10-30	NUM	_	NumType=Card	2	nummod	_	SpaceAfter=No
+3	10-30	10-30	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
 5	pensado	pensar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	acl	_	_
 6	a	a	ADP	_	_	8	case	_	_
@@ -3014,7 +3014,7 @@
 3	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
 4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	1994-95	1994-95	NUM	_	NumType=Card	0	root	_	SpaceAfter=No
+6	1994-95	1994-95	NUM	_	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	11	punct	_	_
 8	en	en	ADP	_	_	10	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -3954,7 +3954,7 @@
 11	Morning	morning	PROPN	_	_	10	flat	_	_
 12	World	world	PROPN	_	_	10	flat	_	_
 13	(	(	PUNCT	_	_	14	punct	_	SpaceAfter=No
-14	1967-1968	1967-1968	NUM	_	NumType=Card	10	nmod	_	SpaceAfter=No
+14	1967-1968	1967-1968	NUM	_	NumForm=Digit|NumType=Card	10	nmod	_	SpaceAfter=No
 15	)	)	PUNCT	_	_	14	punct	_	SpaceAfter=No
 16	.	.	PUNCT	_	_	2	punct	_	_
 
@@ -4437,7 +4437,7 @@
 12	después	después	ADV	_	_	14	advmod	_	_
 13	con	con	ADP	_	_	14	case	_	_
 14	Boeing	boeing	PROPN	_	_	9	conj	_	_
-15	727-200	727200	NUM	_	_	14	nmod	_	SpaceAfter=No
+15	727-200	727-200	NUM	_	NumForm=Digit	14	nmod	_	SpaceAfter=No
 16	;	;	PUNCT	_	_	1	punct	_	_
 
 # sent_id = es-dev-004-s66
@@ -8845,7 +8845,7 @@
 5	en	en	ADP	_	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	tanteador	tanteador	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
-8	11-6	11-6	NUM	_	NumType=Card	7	nummod	_	_
+8	11-6	11-6	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	_
 9	con	con	ADP	_	_	11	case	_	_
 10	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	11	det	_	_
 11	aportes	aporte	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
@@ -9471,7 +9471,7 @@
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Conquista	conquista	NOUN	_	_	1	obl	_	_
 10	(	(	PUNCT	_	_	11	punct	_	SpaceAfter=No
-11	1519-1521	1519-1521	NUM	_	NumType=Card	9	appos	_	SpaceAfter=No
+11	1519-1521	1519-1521	NUM	_	NumForm=Digit|NumType=Card	9	appos	_	SpaceAfter=No
 12	)	)	PUNCT	_	_	11	punct	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	1	punct	_	_
 14	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	15	det	_	_
@@ -9491,7 +9491,7 @@
 # text = A las 9:30 de la mañana de este lunes fue lanzada una bomba de fabricación casera a las oficinas de Edenorte, ubicadas en la calle Mario Baldera del sector "Juan Alberto Espínola", causando heridas leves en el brazo izquierdo a un vigilante privado y destrozos las ventanas de la parte frontal del local.
 1	A	a	ADP	_	_	3	case	_	_
 2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	9:30	9:30	NUM	_	NumType=Card	11	obl	_	_
+3	9:30	9:30	NUM	_	NumForm=Digit|NumType=Card	11	obl	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
@@ -9851,7 +9851,7 @@
 8	Trust	trust	PROPN	_	_	7	flat	_	_
 9	Agency	agency	PROPN	_	_	7	flat	_	_
 10	en	en	ADP	_	_	11	case	_	_
-11	2003-04	2003-04	NUM	_	NumType=Card	5	obl	_	_
+11	2003-04	2003-04	NUM	_	NumForm=Digit|NumType=Card	5	obl	_	_
 12	afirma	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 13	que	que	SCONJ	_	_	17	mark	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
@@ -12577,7 +12577,7 @@
 15	vas	ir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	10	conj	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
-18	15:00	15:00	NUM	_	NumType=Card	15	obl	_	_
+18	15:00	15:00	NUM	_	NumForm=Digit|NumType=Card	15	obl	_	_
 19	a	a	ADP	_	_	20	mark	_	_
 20	buscar	buscar	VERB	_	VerbForm=Inf	15	advcl	_	_
 21	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	22	det	_	_
@@ -12913,7 +12913,7 @@
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	redujera	reducir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
 9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-10	40-50	40-50	NUM	_	NumType=Card	11	nummod	_	_
+10	40-50	40-50	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
 11	%	%	SYM	_	_	8	obl	_	_
 12	puntuaría	puntuar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 13	mejor	mejor	ADV	_	_	12	advmod	_	_

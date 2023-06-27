@@ -2916,7 +2916,7 @@
 # text = Tiene de 38-41 cm de largo de la nariz a la base de la cola.
 1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	_	_	4	case	_	_
-3	38-41	38-41	NUM	_	NumType=Card	4	nummod	_	_
+3	38-41	38-41	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
 4	cm	cm	SYM	_	Gender=Masc	1	obl	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	largo	largo	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
@@ -2979,7 +2979,7 @@
 12	que	que	SCONJ	_	_	13	mark	_	_
 13	vive	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	_
 14	entre	entre	ADP	_	_	16	case	_	_
-15	970-1.100	90-1100	NUM	_	NumType=Card	16	nummod	_	_
+15	970-1.100	970-1.100	NUM	_	NumForm=Digit|NumType=Card	16	nummod	_	_
 16	m	m	SYM	_	Gender=Fem	13	obl	_	_
 17	de	de	ADP	_	_	18	case	_	_
 18	profundidad	profundidad	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
@@ -4270,7 +4270,7 @@
 12	empezar	empezar	VERB	_	VerbForm=Inf	2	advcl	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
-15	1994-95	1994-95	NUM	_	NumType=Card	14	nummod	_	_
+15	1994-95	1994-95	NUM	_	NumForm=Digit|NumType=Card	14	nummod	_	_
 16	de	de	ADP	_	_	18	case	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	NBA	nba	PROPN	_	_	14	nmod	_	SpaceAfter=No
@@ -5072,7 +5072,7 @@
 14	en	en	ADP	_	_	16	case	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	clase	clase	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
-17	5-1	5-1	NUM	_	NumType=Card	16	nummod	_	SpaceAfter=No
+17	5-1	5-1	NUM	_	NumForm=Digit|NumType=Card	16	nummod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_
 19	Tōma	tōma	PROPN	_	_	22	nsubj	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	19	punct	_	_
@@ -6013,7 +6013,7 @@
 13	Casa	casa	PROPN	_	_	10	nmod	_	_
 14	Blanca	blanca	PROPN	_	_	13	amod	_	_
 15	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
-16	1973-1974	1973-1974	NUM	_	NumType=Card	8	nmod	_	SpaceAfter=No
+16	1973-1974	1973-1974	NUM	_	NumForm=Digit|NumType=Card	8	nmod	_	SpaceAfter=No
 17	)	)	PUNCT	_	_	16	punct	_	_
 18	durante	durante	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -6023,7 +6023,7 @@
 23	de	de	ADP	_	_	24	case	_	_
 24	Estado	estado	NOUN	_	_	20	nmod	_	_
 25	(	(	PUNCT	_	_	26	punct	_	SpaceAfter=No
-26	1981-1982	1981-1982	NUM	_	NumType=Card	20	nmod	_	SpaceAfter=No
+26	1981-1982	1981-1982	NUM	_	NumForm=Digit|NumType=Card	20	nmod	_	SpaceAfter=No
 27	)	)	PUNCT	_	_	26	punct	_	SpaceAfter=No
 28	.	.	PUNCT	_	_	8	punct	_	_
 
@@ -8669,7 +8669,7 @@
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Serie	serie	PROPN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
 3	A	a	PROPN	_	_	2	appos	_	_
-4	1982-1983	1982-1983	NUM	_	NumType=Card	2	appos	_	_
+4	1982-1983	1982-1983	NUM	_	NumForm=Digit|NumType=Card	2	appos	_	_
 5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 7	octogésima	octogésimo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	8	amod	_	_
@@ -9629,7 +9629,7 @@
 57-58	del	_	_	_	_	_	_	_	_
 57	de	de	ADP	_	_	59	case	_	_
 58	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	59	det	_	_
-59	'70	'70	NUM	_	NumType=Card	56	nmod	_	SpaceAfter=No
+59	'70	'70	NUM	_	NumForm=Digit|NumType=Card	56	nmod	_	SpaceAfter=No
 60	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = es-dev-001-s331
@@ -13760,7 +13760,7 @@
 15	Eduardo	eduardo	PROPN	_	_	14	appos	_	_
 16	Poeppig	poeppig	PROPN	_	_	15	flat	_	_
 17	(	(	PUNCT	_	_	18	punct	_	SpaceAfter=No
-18	1798-1868	1798-1868	NUM	_	NumType=Card	15	appos	_	SpaceAfter=No
+18	1798-1868	1798-1868	NUM	_	NumForm=Digit|NumType=Card	15	appos	_	SpaceAfter=No
 19	)	)	PUNCT	_	_	18	punct	_	SpaceAfter=No
 20	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -17331,7 +17331,7 @@
 21	Alfonso	alfonso	PROPN	_	_	19	nmod	_	_
 22	X	x	ADJ	_	NumForm=Roman|NumType=Ord	21	amod	_	_
 23	(	(	PUNCT	_	_	24	punct	_	SpaceAfter=No
-24	1252-1284	1252-1284	NUM	_	NumType=Card	19	appos	_	SpaceAfter=No
+24	1252-1284	1252-1284	NUM	_	NumForm=Digit|NumType=Card	19	appos	_	SpaceAfter=No
 25	)	)	PUNCT	_	_	24	punct	_	SpaceAfter=No
 26	,	,	PUNCT	_	_	19	punct	_	_
 27	con	con	ADP	_	_	29	case	_	_
@@ -19515,7 +19515,7 @@
 24	Bellium	bellium	PROPN	_	_	26	obl	_	_
 25	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	expl:pv	_	_
 26	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
-27	4-6	4-6	NUM	_	NumType=Card	28	nummod	_	_
+27	4-6	4-6	NUM	_	NumForm=Digit|NumType=Card	28	nummod	_	_
 28	escamas	escama	NOUN	_	Gender=Fem|Number=Plur	26	nsubj	_	_
 29	membranosas	membranoso	ADJ	_	Gender=Fem|Number=Plur	28	amod	_	_
 30	como	como	ADP	_	_	31	case	_	_
@@ -24867,7 +24867,7 @@
 # sent_id = es-dev-002-s335
 # text = De 1999-2003 fue embajador ante la República de Irlanda, pasando a ser el embajador en Italia en marzo de 2003.
 1	De	de	ADP	_	_	2	case	_	_
-2	1999-2003	1999-2003	NUM	_	NumType=Card	4	nmod	_	_
+2	1999-2003	1999-2003	NUM	_	NumForm=Digit|NumType=Card	4	nmod	_	_
 3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	cop	_	_
 4	embajador	embajador	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	ante	ante	ADP	_	_	7	case	_	_
@@ -25659,7 +25659,7 @@
 20	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	Vallbona	vallbona	PROPN	_	_	18	obl	_	_
 22	a	a	ADP	_	_	24	case	_	_
-23	22'6	22'6	NUM	_	NumType=Card	24	nummod	_	_
+23	22'6	22'6	NUM	_	NumForm=Digit|NumType=Card	24	nummod	_	_
 24	km	km	NOUN	_	Gender=Masc	18	obl	_	_
 25	de	de	ADP	_	_	26	case	_	_
 26	Valencia	valencia	PROPN	_	_	24	nmod	_	SpaceAfter=No
@@ -30096,12 +30096,12 @@
 # sent_id = es-dev-003-s5
 # text = Cápsulas 1.1-1.3 mm de largo y 1.2-1.5 mm de ancho, hispídulas y estipitado - glandulares o glabras;
 1	Cápsulas	cápsula	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
-2	1.1-1.3	1.11.3	NUM	_	NumType=Card	3	nummod	_	_
+2	1.1-1.3	1.1-1.3	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	mm	mm	X	_	Gender=Masc|Number=Plur	1	appos	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	largo	largo	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
 6	y	y	CCONJ	_	_	8	cc	_	_
-7	1.2-1.5	1.21.5	NUM	_	NumType=Card	8	nummod	_	_
+7	1.2-1.5	1.2-1.5	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
 8	mm	mm	X	_	Gender=Masc|Number=Plur	3	conj	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	ancho	ancho	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
@@ -36113,7 +36113,7 @@
 # text = Proporciones de 3:1 sólo se pudieron lograr a partir de 1996.
 1	Proporciones	proporción	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
 2	de	de	ADP	_	_	3	case	_	_
-3	3:1	3:1	NUM	_	NumType=Card	1	nmod	_	_
+3	3:1	3:1	NUM	_	NumForm=Digit|NumType=Card	1	nmod	_	_
 4	sólo	sólo	ADV	_	_	7	advmod	_	_
 5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 6	pudieron	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	aux	_	_
