@@ -10373,14 +10373,14 @@
 18	de	de	ADP	_	_	20	case	_	_
 19	93.52	9.52	NUM	_	NumForm=Digit|NumType=Card	20	nummod	_	_
 20	km	km	SYM	_	_	16	nmod	_	SpaceAfter=No
-21	²	²	NUM	_	NumType=Card	20	dep	_	SpaceAfter=No
+21	²	²	NUM	_	NumForm=Digit|NumType=Card	20	dep	_	SpaceAfter=No
 22	,	,	PUNCT	_	_	29	punct	_	_
 23	de	de	ADP	_	_	25	case	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	cual	cual	PRON	_	Number=Sing|PronType=Rel	29	obl	_	_
 26	92.91	9.91	NUM	_	NumForm=Digit|NumType=Card	27	nummod	_	_
 27	km	km	SYM	_	_	29	nsubj	_	SpaceAfter=No
-28	²	²	NUM	_	NumType=Card	27	nsubj	_	_
+28	²	²	NUM	_	NumForm=Digit|NumType=Card	27	nsubj	_	_
 29	corresponden	corresponder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	_
 30	a	a	ADP	_	_	31	case	_	_
 31	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	29	obl	_	_
@@ -10392,7 +10392,7 @@
 37	)	)	PUNCT	_	_	36	punct	_	_
 38	0.61	0.61	NUM	_	NumForm=Digit|NumType=Card	39	nummod	_	_
 39	km	km	SYM	_	_	36	appos	_	SpaceAfter=No
-40	²	²	NUM	_	Number=Sing|NumType=Card	39	dep	_	_
+40	²	²	NUM	_	Number=Sing|NumForm=Digit|NumType=Card	39	dep	_	_
 41	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	cop	_	_
 42	agua	agua	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	SpaceAfter=No
 43	.	.	PUNCT	_	_	14	punct	_	_
