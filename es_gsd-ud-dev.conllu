@@ -862,7 +862,7 @@
 18	Profeta	profeta	PROPN	_	_	15	obj	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	24	punct	_	_
 20	a	a	ADP	_	_	21	case	_	_
-21	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	24	obl	_	_
+21	quien	quien	PRON	_	Number=Sing|PronType=Rel	24	obl	_	_
 22	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	Misericordioso	misericordioso	PROPN	_	_	24	nsubj	_	_
 24	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
@@ -1971,7 +1971,7 @@
 32	USMC	usmc	PROPN	_	_	30	appos	_	SpaceAfter=No
 33	)	)	PUNCT	_	_	30	punct	_	_
 34	y	y	CCONJ	_	_	37	cc	_	_
-35	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	37	nsubj	_	_
+35	quien	quien	PRON	_	Number=Sing|PronType=Rel	37	nsubj	_	_
 36	también	también	ADV	_	_	37	advmod	_	_
 37	encabezaba	encabezar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	conj	_	_
 38	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
@@ -4779,7 +4779,7 @@
 15	Tamazula	tamazula	PROPN	_	_	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	_	13	punct	_	_
 17	con	con	ADP	_	_	18	case	_	_
-18	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	19	obl	_	_
+18	quien	quien	PRON	_	Number=Sing|PronType=Rel	19	obl	_	_
 19	vivió	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	_
 20	después	después	ADV	_	_	23	case	_	_
 21	de	de	ADP	_	_	20	fixed	_	_
@@ -8098,7 +8098,7 @@
 6	Teresa	teresa	PROPN	_	Gender=Fem|Number=Sing	5	appos	_	_
 7	Palacios	palacios	PROPN	_	_	6	flat	_	SpaceAfter=No
 8	,	,	PUNCT	_	_	11	punct	_	_
-9	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	11	nsubj	_	_
+9	quien	quien	PRON	_	Number=Sing|PronType=Rel	11	nsubj	_	_
 10	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 11	asegurado	asegurar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
 12	que	que	SCONJ	_	_	16	mark	_	_
@@ -11895,7 +11895,7 @@
 19	aquellos	aquel	DET	_	Gender=Masc|Number=Plur|PronType=Dem	20	det	_	_
 20	Obispos	obispo	NOUN	_	_	17	nmod	_	_
 21	de	de	ADP	_	_	22	case	_	_
-22	quienes	quien	NOUN	_	Number=Plur	27	obl	_	_
+22	quienes	quien	PRON	_	Number=Plur|PronType=Rel	27	obl	_	_
 23	todavía	todavía	ADV	_	_	27	advmod	_	_
 24	no	no	ADV	_	Polarity=Neg	27	advmod	_	_
 25	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	expl:pv	_	_
@@ -12344,7 +12344,7 @@
 12	en	en	ADP	_	_	13	case	_	_
 13	manos	mano	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	_
 14	de	de	ADP	_	_	16	case	_	_
-15	quienes	quien	NOUN	_	Number=Plur	16	nsubj	_	_
+15	quienes	quien	PRON	_	Number=Plur|PronType=Rel	16	nsubj	_	_
 16	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	facultad	facultad	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
@@ -14902,7 +14902,7 @@
 28	Saúl	saúl	PROPN	_	_	27	flat	_	_
 29	Menem	menem	PROPN	_	_	27	flat	_	SpaceAfter=No
 30	,	,	PUNCT	_	_	27	punct	_	_
-31	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	32	nsubj	_	_
+31	quien	quien	PRON	_	Number=Sing|PronType=Rel	32	nsubj	_	_
 32	resultó	resultar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	acl:relcl	_	_
 33	ser	ser	AUX	_	VerbForm=Inf	35	cop	_	_
 34	electo	electo	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	_
@@ -15853,7 +15853,7 @@
 12	Flores	flores	PROPN	_	_	11	flat	_	_
 13	Trosel	trosel	PROPN	_	_	11	flat	_	SpaceAfter=No
 14	,	,	PUNCT	_	_	16	punct	_	_
-15	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	16	nsubj	_	_
+15	quien	quien	PRON	_	Number=Sing|PronType=Rel	16	nsubj	_	_
 16	señaló	señalar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
 17	que	que	SCONJ	_	_	18	mark	_	_
 18	desmanteló	desmantelar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	ccomp	_	_
@@ -18893,7 +18893,7 @@
 4	Eminem	eminem	PROPN	_	_	2	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	_	12	punct	_	_
 6	con	con	ADP	_	_	7	case	_	_
-7	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	12	obl	_	_
+7	quien	quien	PRON	_	Number=Sing|PronType=Rel	12	obl	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	miembros	miembro	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
 10	de	de	ADP	_	_	11	case	_	_
@@ -20982,7 +20982,7 @@
 27	Díaz	díaz	PROPN	_	_	26	flat	_	_
 28	Flaque	flaque	PROPN	_	_	26	flat	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	31	punct	_	_
-30	quienes	quien	PRON	_	Number=Plur|PronType=Int,Rel	31	nsubj	_	_
+30	quienes	quien	PRON	_	Number=Plur|PronType=Rel	31	nsubj	_	_
 31	apuntaron	apuntar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
 32	contra	contra	ADP	_	_	35	case	_	_
 33	"	"	PUNCT	_	_	35	punct	_	SpaceAfter=No
@@ -21689,7 +21689,7 @@
 6	altamente	altamente	ADV	_	_	7	advmod	_	_
 7	recomendable	recomendable	ADJ	_	Number=Sing	4	amod	_	_
 8	para	para	ADP	_	_	10	case	_	_
-9	quienes	quien	PRON	_	Number=Plur|PronType=Int,Rel	10	nsubj	_	_
+9	quienes	quien	PRON	_	Number=Plur|PronType=Rel	10	nsubj	_	_
 10	desean	desear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 11	descansar	descansar	VERB	_	VerbForm=Inf	10	xcomp	_	_
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -23005,7 +23005,7 @@
 5	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	estudiante	estudiante	NOUN	_	Number=Sing	3	obl:arg	_	_
 7	a	a	ADP	_	_	8	case	_	_
-8	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	10	obl:arg	_	_
+8	quien	quien	PRON	_	Number=Sing|PronType=Rel	10	obl:arg	_	_
 9	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	10	obl:arg	_	_
 10	asignan	asignar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -23821,7 +23821,7 @@
 21	Grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
 22	Protexa	protexa	PROPN	_	_	21	appos	_	SpaceAfter=No
 23	,	,	PUNCT	_	_	27	punct	_	_
-24	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	27	nsubj	_	_
+24	quien	quien	PRON	_	Number=Sing|PronType=Rel	27	nsubj	_	_
 25	posteriormente	posteriormente	ADV	_	_	27	advmod	_	_
 26	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	expl:pv	_	_
 27	erigiría	erigir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	21	acl:relcl	_	_
@@ -28541,7 +28541,7 @@
 22	von	von	ADP	_	_	23	case	_	_
 23	Pacassi	pacassi	PROPN	_	_	21	flat	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	28	punct	_	_
-25	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	28	nsubj	_	_
+25	quien	quien	PRON	_	Number=Sing|PronType=Rel	28	nsubj	_	_
 26	ya	ya	ADV	_	_	28	advmod	_	_
 27	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	28	aux	_	_
 28	trabajado	trabajar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl:relcl	_	_
@@ -28625,7 +28625,7 @@
 16	Vivancos	vivancos	PROPN	_	_	14	nmod	_	_
 17	Ortiz	ortiz	PROPN	_	_	16	flat	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	22	punct	_	_
-19	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	22	nsubj	_	_
+19	quien	quien	PRON	_	Number=Sing|PronType=Rel	22	nsubj	_	_
 20	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	cop	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	dueña	dueña	NOUN	_	Gender=Fem|Number=Sing	14	acl:relcl	_	_
@@ -31378,7 +31378,7 @@
 # text = Rocketdyne, quien se había separado de North American en 1955 se volvió a unir en 1984 y fabricó los aviones ligeros de negocios anteriormente conocidos como Aero Commanders, introduciendo los modelos Commander 112 y 114.
 1	Rocketdyne	rocketdyne	PROPN	_	_	13	nsubj	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	6	punct	_	_
-3	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	6	nsubj	_	_
+3	quien	quien	PRON	_	Number=Sing|PronType=Rel	6	nsubj	_	_
 4	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
 5	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
 6	separado	separar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	1	acl:relcl	_	_
@@ -32018,7 +32018,7 @@
 13	Mariano	mariano	PROPN	_	_	12	appos	_	_
 14	Casanova	casanova	PROPN	_	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	_	_	17	punct	_	_
-16	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	17	nsubj	_	_
+16	quien	quien	PRON	_	Number=Sing|PronType=Rel	17	nsubj	_	_
 17	logro	lograr	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	acuerdo	acuerdo	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
@@ -32600,7 +32600,7 @@
 18	productor	productor	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
 19	A2	a2	X	_	_	18	appos	_	SpaceAfter=No
 20	,	,	PUNCT	_	_	23	punct	_	_
-21	quién	quién	PRON	_	Number=Sing|PronType=Int,Rel	23	nsubj	_	_
+21	quién	quién	PRON	_	Number=Sing|PronType=Int	23	nsubj	_	_
 22	también	también	ADV	_	_	23	advmod	_	_
 23	escribió	escribir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	acl:relcl	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -33248,7 +33248,7 @@
 40	gestión	gestión	NOUN	_	Gender=Fem|Number=Sing	41	obl	_	_
 41	elogió	elogiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	acl:relcl	_	_
 42	ya	ya	X	_	_	44	cc	_	_
-43	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	45	nsubj	_	_
+43	quien	quien	PRON	_	Number=Sing|PronType=Rel	45	nsubj	_	_
 44	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	41	conj	_	_
 45	ver	ver	VERB	_	VerbForm=Inf	44	xcomp	_	_
 46	"	"	PUNCT	_	_	47	punct	_	SpaceAfter=No
@@ -35065,7 +35065,7 @@
 15	responsable	responsable	NOUN	_	Number=Sing	13	nsubj	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	alimentación	alimentación	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
-18	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	20	nsubj	_	_
+18	quien	quien	PRON	_	Number=Sing|PronType=Rel	20	nsubj	_	_
 19	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 20	encargue	encargar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
 21	de	de	ADP	_	_	22	mark	_	_
@@ -35329,7 +35329,7 @@
 23	padre	padre	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
 24	Dinis	dinis	PROPN	_	_	23	appos	_	SpaceAfter=No
 25	,	,	PUNCT	_	_	27	punct	_	_
-26	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	27	nsubj	_	_
+26	quien	quien	PRON	_	Number=Sing|PronType=Rel	27	nsubj	_	_
 27	murió	morir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	acl:relcl	_	_
 28	en	en	ADP	_	_	29	case	_	_
 29	septiembre	septiembre	PROPN	_	_	27	obl	_	_

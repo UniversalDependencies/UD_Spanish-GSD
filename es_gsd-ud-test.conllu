@@ -1775,7 +1775,7 @@
 14	debía	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	aux	_	_
 15	ser	ser	VERB	_	VerbForm=Inf	6	conj	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nsubj	_	_
-17	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	18	nsubj	_	_
+17	quien	quien	PRON	_	Number=Sing|PronType=Rel	18	nsubj	_	_
 18	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	_	_
 19	que	que	SCONJ	_	_	20	mark	_	_
 20	derrotar	derrotar	VERB	_	VerbForm=Inf	18	ccomp	_	_
@@ -1941,7 +1941,7 @@
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	jefe	jefe	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
 19	y	y	CCONJ	_	_	21	cc	_	_
-20	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	21	nsubj	_	_
+20	quien	quien	PRON	_	Number=Sing|PronType=Rel	21	nsubj	_	_
 21	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	sarten	sartén	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	21	obj	_	CorrectForm=sartén
@@ -5141,7 +5141,7 @@
 13	porque	porque	SCONJ	_	_	14	mark	_	_
 14	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	advcl	_	_
 15	saber	saber	VERB	_	VerbForm=Inf	14	xcomp	_	_
-16	quiénes	quién	PRON	_	Number=Plur|PronType=Int,Rel	17	nsubj	_	_
+16	quiénes	quién	PRON	_	Number=Plur|PronType=Int	17	nsubj	_	_
 17	eran	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	15	ccomp	_	_
 18	"	"	PUNCT	_	_	3	punct	_	SpaceAfter=No
 19	,	,	PUNCT	_	_	3	punct	_	_
@@ -5982,7 +5982,7 @@
 
 # sent_id = es-test-001-s43
 # text = Quien lo ha parido sí ve las diferencias.
-1	Quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	4	nsubj	_	_
+1	Quien	quien	PRON	_	Number=Sing|PronType=Rel	4	nsubj	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
 3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	parido	parir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	csubj	_	_
@@ -6161,7 +6161,7 @@
 22	SIENDO	ser	AUX	_	VerbForm=Ger	23	cop	_	_
 23	SOLIDARIO	solidario	ADJ	_	VerbForm=Inf	4	advcl	_	_
 24	CON	con	ADP	_	_	27	case	_	_
-25	QUIEN	quien	PRON	_	PronType=Int,Rel	27	nsubj	_	_
+25	QUIEN	quien	PRON	_	Number=Sing|PronType=Rel	27	nsubj	_	_
 26	LO	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	_	_
 27	SUFRA	sufra	VERB	_	VerbForm=Fin	23	advcl	_	_
 28	EN	en	ADP	_	_	31	case	_	_
@@ -7551,7 +7551,7 @@
 # text = ¿A quién responde en realidad: a los intereses de Argentina oa los mandatos del Norte?
 1	¿	¿	PUNCT	_	_	4	punct	_	SpaceAfter=No
 2	A	a	ADP	_	_	3	case	_	_
-3	quién	quién	PRON	_	Number=Sing|PronType=Int,Rel	4	obl	_	_
+3	quién	quién	PRON	_	Number=Sing|PronType=Int	4	obl	_	_
 4	responde	responder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	_	_	6	case	_	_
 6	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
@@ -10187,7 +10187,7 @@
 16	Comité	comité	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	_
 17	Científico	científico	ADJ	_	_	16	amod	_	SpaceAfter=No
 18	,	,	PUNCT	_	_	13	punct	_	_
-19	quien	quien	PRON	_	Number=Sing|PronType=Int,Rel	21	nsubj	_	_
+19	quien	quien	PRON	_	Number=Sing|PronType=Rel	21	nsubj	_	_
 20	no	no	ADV	_	Polarity=Neg	21	advmod	_	_
 21	dudó	dudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
 22	en	en	ADP	_	_	23	mark	_	_
