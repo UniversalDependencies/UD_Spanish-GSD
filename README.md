@@ -25,6 +25,12 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2023-11-15 v2.13
+  * "No" and "que" before "hay que Inf" should depend on "hay".
+  * NumForm=Word, NumForm=Digit and NumForm=Roman used where appropriate.
+  * Fixed remaining instances of double-subject clauses.
+  * "quién" is interrogative, not relative.
+  * "quien" is relative, not interrogative.
 * 2023-05-15 v2.12
   * Por-nominals under participles changed from obl to obl:agent.
   * Dative indirect objects changed to obl:arg because dative is not a core case.
