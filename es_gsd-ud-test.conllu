@@ -193,7 +193,7 @@
 5	desarrollo	desarrollo	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
 6	industrial	industrial	ADJ	_	Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
-8	cuenta	contar	NOUN	_	Number=Sing	0	root	_	_
+8	cuenta	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	con	con	ADP	_	_	10	case	_	_
 10	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
 11	importantes	importante	ADJ	_	Number=Plur	10	amod	_	_
@@ -1971,7 +1971,7 @@
 47	no	no	ADV	_	Polarity=Neg	49	advmod	_	_
 48	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	49	expl:pv	_	_
 49	dan	dar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	39	conj	_	_
-50	cuenta	contar	NOUN	_	Gender=Fem|Number=Sing	49	obj	_	SpaceAfter=No
+50	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	49	obj	_	SpaceAfter=No
 51	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = es-dev-003-s483
