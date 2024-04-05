@@ -4588,13 +4588,13 @@
 27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	que	que	PRON	_	PronType=Rel	31	obl	_	_
 29	Mushu	mushu	PROPN	_	_	31	nsubj	_	_
-30	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	31	obj	_	_
+30	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	31	obl:arg	_	_
 31	apunta	apuntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 32	con	con	ADP	_	_	33	case	_	_
 33	fuegos	fuego	NOUN	_	Gender=Masc|Number=Plur	31	obl	_	_
 34	artificiales	artificial	ADJ	_	Number=Plur	33	amod	_	_
 35	y	y	CCONJ	_	_	37	cc	_	_
-36	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	37	obj	_	_
+36	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	37	obl:arg	_	_
 37	mata	matar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	conj	_	SpaceAfter=No
 38	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -7581,7 +7581,7 @@
 5	con	con	ADP	_	_	6	case	_	_
 6	Don	don	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 7	Giovanni	giovanni	PROPN	_	_	6	appos	_	_
-8	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	obj	_	_
+8	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	obl:arg	_	_
 9	convenció	convenciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	de	de	ADP	_	_	14	case	_	_
 11	que	que	SCONJ	_	_	14	mark	_	_
@@ -17013,7 +17013,7 @@
 30	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 31	que	que	SCONJ	_	_	34	mark	_	_
 32	finalmente	finalmente	ADV	_	_	34	advmod	_	_
-33	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	34	obj	_	_
+33	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	34	obl:arg	_	_
 34	quieren	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	csubj	_	_
 35	en	en	ADP	_	_	37	case	_	_
 36	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
@@ -24245,7 +24245,7 @@
 11	1557	1557	NUM	_	NumForm=Digit|NumType=Card	9	nmod	_	SpaceAfter=No
 12	)	)	PUNCT	_	_	7	punct	_	SpaceAfter=No
 13	,	,	PUNCT	_	_	1	punct	_	_
-14	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	15	obj	_	_
+14	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	15	obl:arg	_	_
 15	sucede	suceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 16	en	en	ADP	_	_	18	case	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
@@ -26619,7 +26619,7 @@
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	teatro	teatro	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
 14	y	y	CCONJ	_	_	16	cc	_	_
-15	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+15	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	16	obl:arg	_	_
 16	convirtió	convertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
 17	en	en	ADP	_	_	19	case	_	_
 18	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
@@ -35555,7 +35555,7 @@
 8	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 9	padre	padre	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
 10	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
-11	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+11	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
 12	hubiese	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	aux	_	_
 13	invitado	invitar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
 14	a	a	ADP	_	_	15	mark	_	_
@@ -36127,7 +36127,7 @@
 # sent_id = es-dev-003-s220
 # text = Þorgnýr le dijo a Erico de juntar el ganado y atarlos con lanzas y espadas.
 1	Þorgnýr	þorgnýr	PROPN	_	VerbForm=Inf	3	nsubj	_	_
-2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
+2	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	3	expl	_	_
 3	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	_	_	5	case	_	_
 5	Erico	erico	PROPN	_	_	3	obl:arg	_	_
