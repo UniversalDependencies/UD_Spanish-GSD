@@ -193,7 +193,7 @@
 5	desarrollo	desarrollo	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
 6	industrial	industrial	ADJ	_	Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	_	_	5	punct	_	_
-8	cuenta	contar	NOUN	_	Number=Sing	0	root	_	_
+8	cuenta	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	con	con	ADP	_	_	10	case	_	_
 10	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
 11	importantes	importante	ADJ	_	Number=Plur	10	amod	_	_
@@ -978,7 +978,7 @@
 17	de	de	ADP	_	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	Califa	califa	PROPN	_	_	16	nmod	_	_
-20	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	21	obj	_	_
+20	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	21	obl:arg	_	_
 21	buscaban	buscar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	ccomp	_	SpaceAfter=No
 22	.	.	PUNCT	_	_	4	punct	_	_
 
@@ -1971,7 +1971,7 @@
 47	no	no	ADV	_	Polarity=Neg	49	advmod	_	_
 48	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	49	expl:pv	_	_
 49	dan	dar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	39	conj	_	_
-50	cuenta	contar	NOUN	_	Gender=Fem|Number=Sing	49	obj	_	SpaceAfter=No
+50	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	49	obj	_	SpaceAfter=No
 51	.	.	PUNCT	_	_	6	punct	_	_
 
 # sent_id = es-dev-003-s483
@@ -2160,7 +2160,7 @@
 20	,	,	PUNCT	_	_	24	punct	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	cual	cual	PRON	_	Number=Sing|PronType=Rel	24	nsubj	_	_
-23	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+23	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	24	obl:arg	_	_
 24	invita	invitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
 25	a	a	ADP	_	_	26	mark	_	_
 26	participar	participar	VERB	_	VerbForm=Inf	24	advcl	_	_
@@ -4928,7 +4928,7 @@
 19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	mediocentro	mediocentro	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
 21	que	que	SCONJ	_	_	24	mark	_	_
-22	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	24	obj	_	_
+22	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	24	obl:arg	_	_
 23	pueda	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
 24	ayudar	ayudar	VERB	_	VerbForm=Inf	20	acl:relcl	_	_
 25-26	al	_	_	_	_	_	_	_	_
@@ -5309,7 +5309,7 @@
 54	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	55	det	_	_
 55	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	58	obj	_	_
 56	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	58	expl:pv	_	_
-57	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	58	obj	_	_
+57	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	58	obl:arg	_	_
 58	juzga	juzgar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	conj	_	_
 59	según	según	ADP	_	_	61	case	_	_
 60	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	_
@@ -5533,7 +5533,7 @@
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
 42	Madrid	madrid	PROPN	_	_	36	obl:arg	_	_
 43	porque	porque	SCONJ	_	_	45	mark	_	_
-44	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	45	obj	_	_
+44	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	45	obl:arg	_	_
 45	considera	considerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	advcl	_	_
 46	caro	caro	ADJ	_	Gender=Masc|Number=Sing	45	xcomp	_	_
 47	viendo	ver	VERB	_	VerbForm=Ger	45	advcl	_	_
@@ -7347,7 +7347,7 @@
 12	por	por	ADP	_	_	13	mark	_	_
 13-14	complacerle	_	_	_	_	_	_	_	SpaceAfter=No
 13	complacer	complacer	VERB	_	VerbForm=Inf	9	advcl	_	_
-14	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obj	_	_
+14	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
 15	,	,	PUNCT	_	_	17	punct	_	_
 16	pero	pero	CCONJ	_	_	17	cc	_	_
 17	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
