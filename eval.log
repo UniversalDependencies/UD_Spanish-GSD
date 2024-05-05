@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Spanish-GSD:
-commit 45334a38131bb01ec8468adadaec99c4daf9c42f
-Merge: 6307f27 396f65d
+commit 6d9627109c26b8ca0a044b8754a9aa857cd7541d
+Merge: 58e063f 9d826f9
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 431586 of 431586 words (nodes).
 Size: min(0, log((N/1000)**2)) = 12.1349335908316.
@@ -15,13 +15,13 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.4.
 Universal POS tags: 17 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 240985 out of 431586 total words have one or more features.
+Features: 240984 out of 431586 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL       1797
-Udapi: found 1797 bugs.
+               TOTAL       1767
+Udapi: found 1767 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 431586 words.
 Genres: found 4 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang es --max-err=10 UD_Spanish-GSD/es_gsd-ud-dev.conllu
@@ -49,6 +49,7 @@ Warnings: 5
 [Line 23332 Sent es-train-002-s236 Node 11]: [L3 Warning fixed-gap] Gaps in fixed expression [11, 13] 'a * menos'
 [Line 49785 Sent es-train-004-s134 Node 24]: [L3 Warning fixed-gap] Gaps in fixed expression [24, 26] 'accionada * a'
 [Line 53877 Sent es-train-004-s273 Node 42]: [L3 Warning fixed-gap] Gaps in fixed expression [42, 44, 45] 'a * igual que'
+[Line 57495 Sent es-train-004-s394 Node 8]: [L3 Warning fixed-gap] Gaps in fixed expression [8, 10] 'a * menos'
 ...suppressing further errors regarding Warning
 Warnings: 68
 *** PASSED ***
@@ -59,8 +60,8 @@ Validity: 1
 (weight=0.256410256410256) * (score{size}=0.878355782793429) = 0.225219431485495
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.8) = 0.0615384615384615
-(weight=0.307692307692308) * (score{udapi}=0.958362875533497) = 0.294880884779538
+(weight=0.307692307692308) * (score{udapi}=0.959057986125593) = 0.295094764961721
 (weight=0.0769230769230769) * (score{udeprels}=0.735135135135135) = 0.0565488565488566
-(TOTAL score=0.769107694684176) * (availability=1) * (validity=1) = 0.769107694684176
+(TOTAL score=0.769321574866359) * (availability=1) * (validity=1) = 0.769321574866359
 STARS = 4
-UD_Spanish-GSD	0.769107694684176	4
+UD_Spanish-GSD	0.769321574866359	4
