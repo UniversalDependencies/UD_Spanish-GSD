@@ -6919,7 +6919,7 @@
 18	colaterales	colateral	ADJ	_	Number=Plur	16	amod	_	_
 19	o	o	CCONJ	_	_	20	cc	_	_
 20	concéntricos	concéntrico	ADJ	_	Gender=Masc|Number=Plur	18	conj	_	_
-21	esparcidos	esparcido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	_
+21	esparcidos	esparcer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	_
 22	regularmente	regularmente	ADV	_	_	21	advmod	_	_
 23	en	en	ADP	_	_	26	case	_	_
 24	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	26	det	_	_
@@ -10483,7 +10483,7 @@
 17	de	de	ADP	_	_	20	case	_	_
 18	cómo	cómo	ADV	_	_	20	advmod	_	_
 19	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	20	obl:arg	_	_
-20	incida	incido	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+20	incida	incer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	luz	luz	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	SpaceAfter=No
 23	.	.	PUNCT	_	_	7	punct	_	_
@@ -14178,7 +14178,7 @@
 42	"	"	PUNCT	_	_	45	punct	_	SpaceAfter=No
 43	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	45	aux	_	_
 44	absolutamente	absolutamente	ADV	_	_	45	advmod	_	_
-45	convencida	convencido	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	40	ccomp	_	_
+45	convencida	convencer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	40	ccomp	_	_
 46	que	que	SCONJ	_	_	51	mark	_	_
 47	en	en	ADP	_	_	49	case	_	_
 48	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	_
@@ -24850,7 +24850,7 @@
 11	Escuela	escuela	PROPN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	Espías	espía	PROPN	_	_	11	nmod	_	_
-14	nace	nace	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+14	nace	nacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
 15	como	como	ADP	_	_	16	case	_	_
 16	alternativa	alternativa	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
 17	de	de	ADP	_	_	18	case	_	_
@@ -31604,7 +31604,7 @@
 23	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	25	det	_	_
 24	graves	grave	ADJ	_	Number=Plur	25	amod	_	_
 25	inundaciones	inundación	NOUN	_	Gender=Fem|Number=Plur	21	nmod	_	_
-26	acaecidas	acaecido	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	25	acl	_	_
+26	acaecidas	acaecer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	25	acl	_	_
 27	desde	desde	ADP	_	_	28	case	_	_
 28	épocas	época	NOUN	_	Gender=Fem|Number=Plur	26	obl	_	_
 29	remotas	remota	ADJ	_	Gender=Fem|Number=Plur	28	amod	_	SpaceAfter=No
@@ -39517,7 +39517,7 @@
 7	de	de	ADP	_	_	9	case	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	soldados	soldado	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
-10	vencidos	vencido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	9	acl	_	SpaceAfter=No
+10	vencidos	vencer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	9	acl	_	SpaceAfter=No
 11	,	,	PUNCT	_	_	12	punct	_	_
 12	incluidos	incluir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	9	acl	_	_
 13	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	nsubj	_	_

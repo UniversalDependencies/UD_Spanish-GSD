@@ -1532,7 +1532,7 @@
 2	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	3	nsubj	_	_
 3	producía	producir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 4	uranio	uranio	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
-5	enriquecido	enriquecido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
+5	enriquecido	enriquecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	acl	_	_
 6	para	para	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	programa	programa	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
@@ -4524,7 +4524,7 @@
 9	instantánea	instantáneo	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	11	punct	_	_
 11	algo	algo	PRON	_	Number=Sing|PronType=Ind	6	appos	_	_
-12	parecido	parecido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	_
+12	parecido	parecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	_
 13	a	a	ADP	_	_	15	case	_	_
 14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	chat	chat	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
@@ -6315,7 +6315,7 @@
 # text = Y SE DESCONOCEN SUS EFECTOS A LARGO PLAZO.
 1	Y	y	CCONJ	_	_	3	cc	_	_
 2	SE	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
-3	DESCONOCEN	desconocen	VERB	_	VerbForm=Fin	0	root	_	_
+3	DESCONOCEN	desconocer	VERB	_	VerbForm=Fin	0	root	_	_
 4	SUS	sus	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	_
 5	EFECTOS	efecto	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
 6	A	a	ADP	_	_	8	case	_	_
