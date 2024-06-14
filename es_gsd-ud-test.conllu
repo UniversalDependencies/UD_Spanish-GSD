@@ -2188,7 +2188,7 @@
 
 # sent_id = es-dev-003-s492
 # text = Forma parte del universo de la saga Tekken.Basándose en los hechos que se suceden en el Tekken 6.
-1	Forma	forma	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	_	_	5	case	_	_

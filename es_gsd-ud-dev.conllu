@@ -563,7 +563,7 @@
 
 # sent_id = es-dev-001-s25
 # text = Limita al norte y al este con la comuna de Cama, al sur con Grono, y al occidente con Verdabbio.
-1	Limita	limita	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -2199,7 +2199,7 @@
 40	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	41	det	_	_
 41	estreno	estreno	NOUN	_	Gender=Masc|Number=Sing	38	obl	_	SpaceAfter=No
 42	,	,	PUNCT	_	_	47	punct	_	_
-43	pese	pese	VERB	_	VerbForm=Ger	47	acl	_	_
+43	pese	pesar	VERB	_	VerbForm=Ger	47	acl	_	_
 44	a	a	ADP	_	_	43	fixed	_	_
 45	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	47	det	_	_
 46	apabullante	apabullante	ADJ	_	Number=Sing	47	amod	_	_
@@ -7810,7 +7810,7 @@
 
 # sent_id = es-dev-001-s269
 # text = Limita al norte con la provincia de Paucartambo, al este con el distrito de Urcos, al sur con el distrito de Huaro y la provincia de Acomayo y al oeste con el distrito de Lucre.
-1	Limita	limita	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -8813,7 +8813,7 @@
 # text = Ello, pese a que no sabía nada acerca de la cantante, debido a que nunca vió el programa Mickey Mouse Club, y pese a que sus colegas se preguntaban por qué trabajaba en el video musical de una chica prácticamente desconocida, de entonces sólo 16 años de edad.
 1	Ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	_	7	punct	_	_
-3	pese	pese	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	7	mark	_	_
+3	pese	pesar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	7	mark	_	_
 4	a	a	ADP	_	_	3	fixed	_	_
 5	que	que	SCONJ	_	_	3	fixed	_	_
 6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
@@ -8836,7 +8836,7 @@
 23	Club	club	PROPN	_	_	21	flat	_	SpaceAfter=No
 24	,	,	PUNCT	_	_	18	punct	_	_
 25	y	y	CCONJ	_	_	32	cc	_	_
-26	pese	pese	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	32	mark	_	_
+26	pese	pesar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	32	mark	_	_
 27	a	a	ADP	_	_	26	fixed	_	_
 28	que	que	SCONJ	_	_	26	fixed	_	_
 29	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
@@ -11025,7 +11025,7 @@
 26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	batalla	batalla	NOUN	_	Gender=Fem|Number=Sing	25	obj	_	SpaceAfter=No
 28	,	,	PUNCT	_	_	31	punct	_	_
-29	pese	pese	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	31	mark	_	_
+29	pese	pesar	VERB	_	Mood=Sub|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	31	mark	_	_
 30	a	a	ADP	_	_	29	fixed	_	_
 31	sufrir	sufrir	VERB	_	VerbForm=Inf	25	advcl	_	_
 32	importantes	importante	ADJ	_	Number=Plur	33	amod	_	_
@@ -17770,7 +17770,7 @@
 
 # sent_id = es-dev-002-s106
 # text = Pese a nacer en pobreza, empezando trabajando como zapatero en 1680.
-1	Pese	pese	VERB	_	VerbForm=Ger	3	mark	_	_
+1	Pese	pesar	VERB	_	VerbForm=Ger	3	mark	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	nacer	nacer	VERB	_	VerbForm=Inf	8	advcl	_	_
 4	en	en	ADP	_	_	5	case	_	_
@@ -18356,7 +18356,7 @@
 # sent_id = es-dev-002-s127
 # text = Bárbara forma parte del staff de modelos de la agencia Multitalent Agency.
 1	Bárbara	bárbara	PROPN	_	Number=Sing	2	nsubj	_	_
-2	forma	forma	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+2	forma	formar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
 3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	_	_	6	case	_	_
@@ -20680,7 +20680,7 @@
 30	poco	poco	PRON	_	NumType=Card|PronType=Ind	28	conj	_	_
 31	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	expl:pv	_	_
 32	informa	informar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
-33	pese	pese	VERB	_	VerbForm=Ger	36	acl	_	_
+33	pese	pesar	VERB	_	VerbForm=Ger	36	acl	_	_
 34	a	a	ADP	_	_	33	fixed	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	importancia	importancia	NOUN	_	Gender=Fem|Number=Sing	32	obl	_	_
@@ -39745,7 +39745,7 @@
 12	a	a	ADP	_	_	11	case	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	izquierda	izquierda	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
-15	forma	forma	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+15	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 17	amplio	amplio	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_
 18	arco	arco	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
