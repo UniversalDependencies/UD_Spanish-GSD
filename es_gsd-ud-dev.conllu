@@ -10006,7 +10006,7 @@
 10	contra	contra	ADP	_	_	11	case	_	_
 11	Madonna	madonna	PROPN	_	_	9	obl	_	_
 12-13	acusándola	_	_	_	_	_	_	_	_
-12	acusándo	acusár	VERB	_	VerbForm=Ger	9	advcl	_	_
+12	acusándo	acusar	VERB	_	VerbForm=Ger	9	advcl	_	_
 13	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
 14	de	de	ADP	_	_	15	mark	_	_
 15	tomar	tomar	VERB	_	VerbForm=Inf	12	advcl	_	_

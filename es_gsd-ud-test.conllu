@@ -6637,7 +6637,7 @@
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	patria	patria	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
 14-15	estudiándola	_	_	_	_	_	_	_	_
-14	estudiándo	estudiár	VERB	_	VerbForm=Ger	11	advcl	_	_
+14	estudiándo	estudiar	VERB	_	VerbForm=Ger	11	advcl	_	_
 15	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
 16	en	en	ADP	_	_	22	case	_	_
 17	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
