@@ -12317,7 +12317,7 @@
 
 # sent_id = es-dev-001-s423
 # text = Habita en la República Democrática del Congo.
-1	Habita	habita	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Habita	habitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	República	república	PROPN	_	_	1	obl	_	_
@@ -40553,7 +40553,7 @@
 
 # sent_id = es-dev-003-s362
 # text = Habita en China, Corea, Japón y el Sudeste Asiático.
-1	Habita	habita	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Habita	habitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	China	china	PROPN	_	_	1	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	_	5	punct	_	_
@@ -40895,7 +40895,7 @@
 
 # sent_id = es-dev-003-s374
 # text = Habita en la India.
-1	Habita	habita	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Habita	habitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	India	india	PROPN	_	_	1	obl	_	SpaceAfter=No
