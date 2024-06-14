@@ -3054,7 +3054,7 @@
 18	"	"	PUNCT	_	_	21	punct	_	SpaceAfter=No
 19	porque	porque	SCONJ	_	_	21	mark	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	obj	_	_
-21	invité	invitér	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	advcl	_	_
+21	invité	inviter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	advcl	_	_
 22	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	23	det	_	_
 23	veces	vez	NOUN	_	Gender=Fem|Number=Plur	21	obl	_	_
 24	a	a	ADP	_	_	25	mark	_	_

@@ -8828,7 +8828,7 @@
 15	a	a	ADP	_	_	14	fixed	_	_
 16	que	que	SCONJ	_	_	14	fixed	_	_
 17	nunca	nunca	ADV	_	Polarity=Neg	18	advmod	_	_
-18	vió	vir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
+18	vió	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	programa	programa	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
 21	Mickey	mickey	PROPN	_	_	20	appos	_	_
@@ -34092,7 +34092,7 @@
 28	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	31	punct	_	_
 30	Mitchell	mitchell	PROPN	_	_	31	nsubj	_	_
-31	absteniéndose	absteniér	VERB	_	VerbForm=Ger	3	advcl	_	_
+31	absteniéndose	abstenir	VERB	_	VerbForm=Ger	3	advcl	_	_
 32	de	de	ADP	_	_	33	mark	_	_
 33	beber	beber	VERB	_	VerbForm=Inf	31	advcl	_	_
 34	sangre	sangre	NOUN	_	Gender=Fem|Number=Sing	33	obj	_	SpaceAfter=No

@@ -10,7 +10,7 @@
     <dev><sentences>1400</sentences><tokens>36464</tokens><words>37151</words><fused>685</fused></dev>
     <test><sentences>426</sentences><tokens>11733</tokens><words>12000</words><fused>267</fused></test>
   </size>
-  <lemmas unique="35210" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
+  <lemmas unique="35200" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
   <forms unique="45574" /><!-- de, ,, el, ., la, en, y, a, que, los, se, un, por, con, una -->
   <fusions unique="856" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
