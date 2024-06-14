@@ -3459,7 +3459,7 @@
 
 # sent_id = es-dev-001-s123
 # text = Pertenece a la parroquia de San Antonio y su población es de 2.139 habitantes (2008).
-1	Pertenece	pertenece	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Pertenece	pertenecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	parroquia	parroquia	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -39854,7 +39854,7 @@
 
 # sent_id = es-dev-003-s342
 # text = Pertenece al municipio de Cillorigo de Liébana, en la comarca de Liébana (Cantabria, España).
-1	Pertenece	pertenece	VERB	_	VerbForm=Ger	0	root	_	_
+1	Pertenece	pertenecer	VERB	_	VerbForm=Ger	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -41578,7 +41578,7 @@
 
 # sent_id = es-dev-003-s398
 # text = Vivo en Parla este y estaba buscando una clínica veterinaria por aquí cerca, puesto que antes vivía en Fuenlabrada y no conozco veterinarios aquí en Parla.
-1	Vivo	vivo	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Vivo	vivir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	Parla	parla	PROPN	_	_	1	obl	_	_
 4	este	este	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
