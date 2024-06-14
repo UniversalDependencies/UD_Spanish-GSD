@@ -28170,7 +28170,7 @@
 
 # sent_id = es-dev-002-s437
 # text = Volvería a presentarse en 2006 con el tema "Oci Od Safira"
-1	Volvería	volvería	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+1	Volvería	volver	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	3	mark	_	_
 3-4	presentarse	_	_	_	_	_	_	_	_
 3	presentar	presentar	VERB	_	VerbForm=Inf	1	advcl	_	_
@@ -31192,7 +31192,7 @@
 
 # sent_id = es-dev-003-s42
 # text = Volveré a Valle Gran Rey pero no a este complejo de apartamentos.
-1	Volveré	volveré	VERB	_	VerbForm=Inf	0	root	_	_
+1	Volveré	volver	VERB	_	VerbForm=Inf	0	root	_	_
 2	a	a	ADP	_	_	3	case	_	_
 3	Valle	valle	PROPN	_	_	1	obl	_	_
 4	Gran	gran	PROPN	_	Number=Sing	5	amod	_	_
