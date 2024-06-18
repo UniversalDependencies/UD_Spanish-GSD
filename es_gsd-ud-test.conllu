@@ -28,7 +28,7 @@
 # sent_id = es-dev-003-s415
 # text = La Provincia de Mamoré es una provincia del departamento del Beni en Bolivia.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	Provincia	provincia	NOUN	_	_	7	nsubj	_	_
+2	Provincia	provincia	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Mamoré	mamoré	PROPN	_	_	2	nmod	_	_
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
