@@ -2186,8 +2186,8 @@
 46	1996	1996	NUM	_	NumForm=Digit|NumType=Card	45	nummod	_	SpaceAfter=No
 47	.	.	PUNCT	_	_	4	punct	_	_
 
-# sent_id = es-dev-003-s492
-# text = Forma parte del universo de la saga Tekken.Basándose en los hechos que se suceden en el Tekken 6.
+# sent_id = es-dev-003-s492A
+# text = Forma parte del universo de la saga Tekken.
 1	Forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	parte	parte	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 3-4	del	_	_	_	_	_	_	_	_
@@ -2197,20 +2197,25 @@
 6	de	de	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	saga	saga	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
-9-10	Tekken.Basándose	_	_	_	_	_	_	_	_
-9	Tekken.Basándo	tekken.basar	VERB	_	VerbForm=Fin	8	appos	_	_
-10	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
-11	en	en	ADP	_	_	13	case	_	_
-12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
-13	hechos	hecho	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
-14	que	que	SCONJ	_	_	16	mark	_	_
-15	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
-16	suceden	suceder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
-17	en	en	ADP	_	_	19	case	_	_
-18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
-19	Tekken	tekken	PROPN	_	_	16	obl	_	_
-20	6	6	NUM	_	NumForm=Digit|NumType=Card	19	appos	_	SpaceAfter=No
-21	.	.	PUNCT	_	_	1	punct	_	_
+9	Tekken	Tekken	PROPN	_	Gender=Masc|Number=Sing	8	appos	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+
+# sent_id = es-dev-003-s492B
+# text = Basándose en los hechos que se suceden en el Tekken 6.
+1-2	Basándose	_	_	_	_	_	_	_	_
+1	Basando	basar	VERB	_	VerbForm=Ger	0	root	_	_
+2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
+3	en	en	ADP	_	_	5	case	_	_
+4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
+5	hechos	hecho	NOUN	_	Gender=Masc|Number=Plur	1	obl	_	_
+6	que	que	SCONJ	_	_	8	mark	_	_
+7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
+8	suceden	suceder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+9	en	en	ADP	_	_	11	case	_	_
+10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
+11	Tekken	Tekken	PROPN	_	Gender=Masc|Number=Sing	8	obl	_	_
+12	6	6	NUM	_	NumForm=Digit|NumType=Card	11	appos	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = es-dev-003-s493
 # text = Aquellos que asistieron al concierto relataron que King se adueñó del recital, ya que la gente esperaba la electricidad de Hendrix pero King se los puso en el bolsillo gracias a sus mágicos dedos después de tocar un par de baladas.
@@ -6637,7 +6642,7 @@
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	patria	patria	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
 14-15	estudiándola	_	_	_	_	_	_	_	_
-14	estudiándo	estudiar	VERB	_	VerbForm=Ger	11	advcl	_	_
+14	estudiando	estudiar	VERB	_	VerbForm=Ger	11	advcl	_	_
 15	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
 16	en	en	ADP	_	_	22	case	_	_
 17	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
@@ -10484,9 +10489,9 @@
 27	,	,	PUNCT	_	_	28	punct	_	_
 28-29	obteniéndose	_	_	_	_	_	_	_	_
 28	obteniendo	obtener	VERB	_	VerbForm=Ger	10	advcl	_	_
-29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl:pv	_	_
+29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl:pass	_	_
 30	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
-31	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	28	nsubj	_	_
+31	resultados	resultado	NOUN	_	Gender=Masc|Number=Plur	28	nsubj:pass	_	_
 32	de	de	ADP	_	_	34	case	_	_
 33	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	34	det	_	_
 34	votación	votación	NOUN	_	Gender=Fem|Number=Sing	31	nmod	_	_
