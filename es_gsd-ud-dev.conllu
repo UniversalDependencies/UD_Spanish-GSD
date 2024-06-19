@@ -9985,12 +9985,14 @@
 31	más	más	ADV	_	Degree=Cmp	32	advmod	_	_
 32	marcado	marcado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	29	acl	_	SpaceAfter=No
 33	,	,	PUNCT	_	_	34	punct	_	_
-34	colocándolo	colocándolo	VERB	_	VerbForm=Ger	22	advcl	_	_
-35	nuevamente	nuevamente	ADV	_	_	34	advmod	_	_
-36	como	como	ADP	_	_	38	case	_	_
-37	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
-38	éxito	éxito	NOUN	_	Gender=Masc|Number=Sing	34	conj	_	SpaceAfter=No
-39	.	.	PUNCT	_	_	4	punct	_	_
+34-35	colocándolo	_	_	_	_	_	_	_	_
+34	colocando	colocar	VERB	_	VerbForm=Ger	22	advcl	_	_
+35	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	34	obj	_	_
+36	nuevamente	nuevamente	ADV	_	_	34	advmod	_	_
+37	como	como	ADP	_	_	39	case	_	_
+38	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
+39	éxito	éxito	NOUN	_	Gender=Masc|Number=Sing	34	conj	_	SpaceAfter=No
+40	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = es-dev-001-s345
 # text = Debido a esto, varios sectores feministas se manifestaron contra Madonna acusándola de tomar un tema tan delicado como este para ganar fama.
@@ -10006,7 +10008,7 @@
 10	contra	contra	ADP	_	_	11	case	_	_
 11	Madonna	madonna	PROPN	_	_	9	obl	_	_
 12-13	acusándola	_	_	_	_	_	_	_	_
-12	acusándo	acusar	VERB	_	VerbForm=Ger	9	advcl	_	_
+12	acusando	acusar	VERB	_	VerbForm=Ger	9	advcl	_	_
 13	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
 14	de	de	ADP	_	_	15	mark	_	_
 15	tomar	tomar	VERB	_	VerbForm=Inf	12	advcl	_	_
@@ -20302,22 +20304,24 @@
 
 # sent_id = es-dev-002-s193
 # text = Registrándose a partir de esa fecha un incremento notable en el movimiento de carga pura.
-1	Registrándose	registrar	VERB	_	VerbForm=Ger	0	root	_	_
-2	a	a	ADP	_	_	3	mark	_	_
-3	partir	partir	VERB	_	VerbForm=Inf	1	advcl	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
-6	fecha	fecha	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	incremento	incremento	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
-9	notable	notable	ADJ	_	Number=Sing	8	amod	_	_
-10	en	en	ADP	_	_	12	case	_	_
-11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	movimiento	movimiento	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
-13	de	de	ADP	_	_	14	case	_	_
-14	carga	carga	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
-15	pura	puro	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	SpaceAfter=No
-16	.	.	PUNCT	_	_	1	punct	_	_
+1-2	Registrándose	_	_	_	_	_	_	_	_
+1	Registrando	registrar	VERB	_	VerbForm=Ger	0	root	_	_
+2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pass	_	_
+3	a	a	ADP	_	_	4	mark	_	_
+4	partir	partir	VERB	_	VerbForm=Inf	1	advcl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
+7	fecha	fecha	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	incremento	incremento	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+10	notable	notable	ADJ	_	Number=Sing	9	amod	_	_
+11	en	en	ADP	_	_	13	case	_	_
+12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
+13	movimiento	movimiento	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	carga	carga	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
+16	pura	puro	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	1	punct	_	_
 
 # sent_id = es-dev-002-s194
 # text = En 1928, fue nombrada primera jefa del departamento de sismología del recién creado "Real Instituto Geodésico danés", un cargo que mantuvo durante 25 años.
@@ -34092,11 +34096,13 @@
 28	-	-	PUNCT	_	_	15	punct	_	SpaceAfter=No
 29	,	,	PUNCT	_	_	31	punct	_	_
 30	Mitchell	mitchell	PROPN	_	_	31	nsubj	_	_
-31	absteniéndose	abstenir	VERB	_	VerbForm=Ger	3	advcl	_	_
-32	de	de	ADP	_	_	33	mark	_	_
-33	beber	beber	VERB	_	VerbForm=Inf	31	advcl	_	_
-34	sangre	sangre	NOUN	_	Gender=Fem|Number=Sing	33	obj	_	SpaceAfter=No
-35	.	.	PUNCT	_	_	3	punct	_	_
+31-32	absteniéndose	_	_	_	_	_	_	_	_
+31	absteniendo	abstenir	VERB	_	VerbForm=Ger	3	advcl	_	_
+32	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl:pv	_	_
+33	de	de	ADP	_	_	34	mark	_	_
+34	beber	beber	VERB	_	VerbForm=Inf	31	advcl	_	_
+35	sangre	sangre	NOUN	_	Gender=Fem|Number=Sing	34	obj	_	SpaceAfter=No
+36	.	.	PUNCT	_	_	3	punct	_	_
 
 # sent_id = es-dev-003-s149
 # text = Cercocarpus traskiae es una especie del género Cercocarpus dentro de la familia Rosaceae conocido comunmente en inglés como Catalina Mahogany.
