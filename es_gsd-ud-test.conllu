@@ -6060,7 +6060,7 @@
 32	que	que	PRON	_	PronType=Rel	35	nsubj:pass	_	_
 33	solo	sólo	ADV	_	_	35	advmod	_	_
 34	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	35	aux:pass	_	_
-35	leídas	leído	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	31	acl:relcl	_	_
+35	leídas	leer	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	31	acl:relcl	_	_
 36	por	por	ADP	_	_	39	case	_	_
 37	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	39	det	_	_
 38	privilegiado	privilegiado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
@@ -13128,7 +13128,7 @@
 8	de	de	ADP	_	_	9	case	_	_
 9	buses	bus	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-11	incluído	incluído	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	_
+11	incluído	incluir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	acl	_	_
 12	en	en	ADP	_	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	precio	precio	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
