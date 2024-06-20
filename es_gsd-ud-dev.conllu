@@ -12715,7 +12715,7 @@
 30	vez	vez	NOUN	_	Gender=Fem|Number=Sing	33	obl	_	_
 31	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	poco	poco	PRON	_	NumType=Card|PronType=Ind	33	obl	_	_
-33	subido	subido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	24	conj	_	_
+33	subido	subir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	24	conj	_	_
 34	de	de	ADP	_	_	35	case	_	_
 35	precio	precio	NOUN	_	Gender=Masc|Number=Sing	33	obl	_	SpaceAfter=No
 36	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -14805,7 +14805,7 @@
 # sent_id = es-dev-002-s4
 # text = Muebles concebidos por diseñadores y técnicos de primera línea.
 1	Muebles	muebles	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-2	concebidos	concebido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	1	acl	_	_
+2	concebidos	concebir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	1	acl	_	_
 3	por	por	ADP	_	_	4	case	_	_
 4	diseñadores	diseñador	NOUN	_	Gender=Masc|Number=Plur	2	obl:agent	_	_
 5	y	y	CCONJ	_	_	6	cc	_	_
@@ -29714,7 +29714,7 @@
 28	de	de	ADP	_	_	29	case	_	_
 29	izquierda	izquierda	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-31	comprometido	comprometido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	_
+31	comprometido	comprometir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	_
 32	con	con	ADP	_	_	33	case	_	_
 33	causas	causa	NOUN	_	Gender=Fem|Number=Plur	31	obl	_	_
 34	sociales	social	ADJ	_	Number=Plur	33	amod	_	SpaceAfter=No
