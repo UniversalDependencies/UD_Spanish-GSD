@@ -6977,7 +6977,7 @@
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	Hospital	hospital	NOUN	_	_	26	obl	_	_
 30	Universitario	universitario	ADJ	_	Gender=Masc|Number=Sing	29	amod	_	_
-31	Dr.	dr.	PROPN	_	_	29	appos	_	_
+31	Dr.	dr.	NOUN	_	Abbr=Yes	29	appos	_	_
 32	Alfredo	alfredo	PROPN	_	_	31	appos	_	_
 33	Van	ir	PROPN	_	Number=Plur	32	flat	_	_
 34	Grieken	grieken	PROPN	_	_	32	flat	_	_
