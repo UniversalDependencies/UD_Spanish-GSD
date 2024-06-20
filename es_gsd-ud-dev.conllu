@@ -34152,7 +34152,7 @@
 18	reclamar	reclamar	VERB	_	VerbForm=Inf	7	advcl	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	deuda	deuda	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
-21	contraída	contraído	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	20	acl	_	_
+21	contraída	contraer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	20	acl	_	_
 22	por	por	ADP	_	_	24	case	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	21	obl:agent	_	_
