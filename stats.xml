@@ -10,7 +10,7 @@
     <dev><sentences>1400</sentences><tokens>36464</tokens><words>37154</words><fused>688</fused></dev>
     <test><sentences>427</sentences><tokens>11735</tokens><words>12002</words><fused>267</fused></test>
   </size>
-  <lemmas unique="35148" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
+  <lemmas unique="35147" /><!-- el, de, ,, ., en, y, a, él, uno, que, ser, su, por, con, " -->
   <forms unique="45487" /><!-- de, ,, el, ., la, en, y, a, que, los, se, un, por, con, una -->
   <fusions unique="864" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -50,10 +50,10 @@
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">196</feat><!-- the, I, Let, Bass, Boy, Kick, You, a, de, is -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">68264</feat><!-- la, una, las, esta, parte, población, ciudad, personas, primera, familia -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">90196</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">90195</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">603</feat><!-- sería, podría, habría, podrían, tendría, serían, debería, gustaría, estaría, haría -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">80</feat><!-- pese, pase, Let, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">28136</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">28137</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">1214</feat><!-- sea, haya, sean, tenga, pueda, puedan, fuese, fuera, hubiera, crea -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">53213</feat><!-- los, las, sus, son, dos, años, eran, han, personas, otros -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157402</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
@@ -62,7 +62,7 @@
     <feat name="NumForm" value="Word" upos="NUM">1640</feat><!-- dos, tres, cuatro, cinco, seis, un, mil, siete, ocho, una -->
     <feat name="NumType" value="Card" upos="DET,NUM,PRON">12008</feat><!-- dos, tres, 2010, 0, tanto, cuatro, 3, 1, 2, muchos -->
     <feat name="NumType" value="Ord" upos="ADJ">1033</feat><!-- primera, primer, segunda, segundo, primeros, tercera, primeras, tercer, cuarto, cuarta -->
-    <feat name="Person" value="1" upos="AUX,DET,PRON,VERB,X">2028</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->
+    <feat name="Person" value="1" upos="AUX,DET,PRON,VERB,X">2029</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,SYM,VERB,X">487</feat><!-- te, ², os, tu, tienes, puedes, tú, usted, vosotros, ti -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,SYM,VERB,X">42030</feat><!-- se, es, su, fue, lo, sus, ha, le, son, eran -->
     <feat name="Polarity" value="Neg" upos="ADJ,ADP,ADV,CCONJ,PART,PROPN,X">1763</feat><!-- no, nunca, ni, tampoco, jamás, not, gran, o, para, sino -->
@@ -95,8 +95,8 @@
     <feat name="Tense" value="Fut" upos="AUX,VERB">830</feat><!-- será, podrá, podrán, serán, tendrá, estará, hará, permitirá, tendrán, contará -->
     <feat name="Tense" value="Imp" upos="AUX,VERB">3947</feat><!-- eran, era, había, estaba, tenía, habían, pertenecían, estaban, tenían, podía -->
     <feat name="Tense" value="Past" upos="AUX,VERB">11638</feat><!-- fue, fueron, sido, tuvo, hizo, comenzó, nació, dijo, dio, ganó -->
-    <feat name="Tense" value="Pres" upos="AUX,VERB">16284</feat><!-- es, ha, son, tiene, está, han, puede, encuentra, hay, hace -->
-    <feat name="Typo" value="Yes" upos="ADJ,ADV,AUX,CCONJ,DET,NOUN,NUM,PRON,PROPN,PUNCT,SCONJ,VERB">981</feat><!-- mas, esta, video, periodo, este, tenia, tambien, Milan, guion, estan -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">16285</feat><!-- es, ha, son, tiene, está, han, puede, encuentra, hay, hace -->
+    <feat name="Typo" value="Yes" upos="ADJ,ADV,AUX,CCONJ,DET,NOUN,NUM,PRON,PROPN,PUNCT,SCONJ,VERB">980</feat><!-- mas, esta, video, periodo, este, tenia, tambien, Milan, guion, estan -->
     <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">31048</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
     <feat name="VerbForm" value="Ger" upos="ADJ,AUX,NOUN,PROPN,VERB,X">2044</feat><!-- siendo, residiendo, haciendo, incluyendo, llegando, teniendo, dejando, pasando, dando, convirtiendo -->
     <feat name="VerbForm" value="Inf" upos="ADJ,AUX,NOUN,PROPN,VERB,X">7186</feat><!-- ser, hacer, ver, tener, haber, decir, dar, partir, llegar, ir -->
