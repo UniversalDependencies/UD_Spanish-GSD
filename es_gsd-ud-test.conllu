@@ -7746,7 +7746,7 @@
 3	militante	militante	NOUN	_	Number=Sing	8	nsubj	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	izquierdas	izquierda	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
-6	agredido	agredido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
+6	agredido	agredir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	dedica	dedicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	advcl	_	_
 9	a	a	ADP	_	_	10	mark	_	_

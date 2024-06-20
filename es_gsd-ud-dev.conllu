@@ -60,7 +60,7 @@
 30	Los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	28	nmod	_	_
 31	10	10	NUM	_	NumForm=Digit|NumType=Card	30	nummod	_	_
 32	+	+	SYM	_	_	33	dep	_	_
-33	pedidos	pedido	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	30	acl	_	SpaceAfter=No
+33	pedidos	pedir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	30	acl	_	SpaceAfter=No
 34	;	;	PUNCT	_	PunctType=Semi	4	punct	_	_
 
 # sent_id = es-dev-001-s3
@@ -37056,7 +37056,7 @@
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	valor	valor	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
 13	anual	anual	ADJ	_	Number=Sing	12	amod	_	_
-14	medido	medido	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	acl	_	_
+14	medido	medir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	acl	_	_
 15	en	en	ADP	_	_	16	case	_	_
 16	m³	m³	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
 17	o	o	CCONJ	_	_	19	cc	_	_
