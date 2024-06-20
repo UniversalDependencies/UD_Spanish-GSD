@@ -1722,7 +1722,7 @@
 33	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	36	aux	_	_
 34	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	36	aux:pass	_	_
 35	prácticamente	prácticamente	ADV	_	_	36	advmod	_	_
-36	borradas	borrada	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	25	acl:relcl	_	_
+36	borradas	borrar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	25	acl:relcl	_	_
 37-38	del	_	_	_	_	_	_	_	_
 37	de	de	ADP	_	_	39	case	_	_
 38	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
@@ -5157,7 +5157,7 @@
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	mujer	mujer	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-27	bregada	bregada	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	25	acl	_	_
+27	bregada	bregar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	25	acl	_	_
 28	en	en	ADP	_	_	30	case	_	_
 29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	lucha	lucha	NOUN	_	Gender=Fem|Number=Sing	27	obl	_	_

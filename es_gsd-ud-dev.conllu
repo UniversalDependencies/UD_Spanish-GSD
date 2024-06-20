@@ -15937,7 +15937,7 @@
 # sent_id = es-dev-002-s41
 # text = Está catalogada Zona de especial protección para las aves, al ser zona en que nidifican las especies que habitan en las rocas, destacando el buitre leonado.
 1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
-2	catalogada	catalogada	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+2	catalogada	catalogar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 3	Zona	zona	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	especial	especial	ADJ	_	Number=Sing	6	amod	_	_
@@ -24376,7 +24376,7 @@
 22	de	de	ADP	_	_	23	case	_	_
 23	ellas	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	21	nmod	_	_
 24	también	también	ADV	_	_	25	advmod	_	_
-25	llamada	llamado	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	21	amod	_	_
+25	llamada	llamar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	21	amod	_	_
 26	Unare	unare	PROPN	_	_	25	xcomp	_	SpaceAfter=No
 27	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -32388,7 +32388,7 @@
 8	y	y	CCONJ	_	_	9	cc	_	_
 9	escritor	escritor	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
 10	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	fechada	fechada	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+11	fechada	fechar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	día	día	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
 14	de	de	ADP	_	_	15	case	_	_
