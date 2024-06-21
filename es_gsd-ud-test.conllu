@@ -711,7 +711,7 @@
 
 # sent_id = es-dev-003-s440
 # text = Mi seguro cubre el chequeo, pero en el lugar del incidente, no a las puertas de su taller, al que ni siquiera llegamos entrar.
-1	Mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	seguro	seguro	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	cubre	cubrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -1338,7 +1338,7 @@
 29	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	30	det	_	_
 30	demandas	demanda	NOUN	_	Gender=Fem|Number=Plur	26	nmod	_	_
 31	de	de	ADP	_	_	33	case	_	_
-32	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	33	det	_	_
+32	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	33	det	_	_
 33	clientes	cliente	NOUN	_	Number=Plur	30	nmod	_	SpaceAfter=No
 34	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
@@ -3429,7 +3429,7 @@
 # text = Fui con mis hijas para que probaran el cocido en el restaurante que pasa por ser el mejor de madrid en ese plato.
 1	Fui	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 2	con	con	ADP	_	_	4	case	_	_
-3	mis	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	hijas	hija	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
 5	para	para	ADP	_	_	7	mark	_	_
 6	que	que	CCONJ	_	_	5	fixed	_	_
@@ -4752,7 +4752,7 @@
 4	sabíamos	saber	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	_
 5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
 6	que	que	SCONJ	_	_	11	mark	_	_
-7	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
+7	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	8	det	_	_
 8	vecinos	vecino	NOUN	_	Gender=Masc|Number=Plur	11	nsubj	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	Portugal	portugal	PROPN	_	_	8	nmod	_	_
@@ -5236,7 +5236,7 @@
 2	Tambien	también	ADV	_	Typo=Yes	4	advmod	_	CorrectForm=También
 3	podras	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|Typo=Yes|VerbForm=Fin	4	aux	_	CorrectForm=podrás
 4	encontrar	encontrar	VERB	_	VerbForm=Inf	0	root	_	_
-5	nuestro	nuestro	DET	_	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
+5	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 6	material	material	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	en	en	ADP	_	_	8	case	_	_
 8	Conciertos	conciertos	NOUN	_	_	4	obl	_	SpaceAfter=No
@@ -6561,7 +6561,7 @@
 28	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	25	obl	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 30	seguí	seguí	VERB	_	VerbForm=Fin	1	parataxis	_	_
-31	tu	tu	DET	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	32	det	_	_
+31	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	32	det	_	_
 32	vida	vida	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	SpaceAfter=No
 33	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
 34	no	no	ADV	_	Polarity=Neg	35	advmod	_	_
@@ -6723,7 +6723,7 @@
 6	ustedes	tú	PRON	_	Case=Acc,Nom|Number=Plur|Person=2|Polite=Form|PronType=Prs	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
-9	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
+9	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
 10	"	"	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
 11	clientes	cliente	NOUN	_	Number=Plur	4	parataxis	_	SpaceAfter=No
 12	"	"	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
@@ -6803,7 +6803,7 @@
 1	"	"	PUNCT	_	PunctType=Quot	2	punct	_	SpaceAfter=No
 2	Quiero	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	mostrar	mostrar	VERB	_	VerbForm=Inf	2	xcomp	_	_
-4	mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
+4	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	5	det	_	_
 5	satisfacción	satisfacción	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
 6	por	por	ADP	_	_	8	case	_	_
 7	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
@@ -7224,7 +7224,7 @@
 # text = Ahora ya nuestra deuda sobrepasa los setenta mil millones de dólares, después de haber recibido en 11 años más de un mil millones de dólares que nadie puede decir dónde están, porque no hay una sola obra que indique el desembolso grande de nuestras finanzas.
 1	Ahora	ahora	ADV	_	_	5	advmod	_	_
 2	ya	ya	ADV	_	_	5	advmod	_	_
-3	nuestra	nuestro	DET	_	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+3	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	deuda	deuda	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 5	sobrepasa	sobrepasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
@@ -7267,7 +7267,7 @@
 43	desembolso	desembolso	NOUN	_	Gender=Masc|Number=Sing	41	obj	_	_
 44	grande	grande	ADJ	_	Number=Sing	43	amod	_	_
 45	de	de	ADP	_	_	47	case	_	_
-46	nuestras	nuestro	DET	_	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	47	det	_	_
+46	nuestras	nuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	47	det	_	_
 47	finanzas	finanzas	NOUN	_	Gender=Fem|Number=Plur	43	nmod	_	SpaceAfter=No
 48	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
@@ -7482,7 +7482,7 @@
 
 # sent_id = es-test-001-s92
 # text = Tu opinión es importante para Sare Antifaxista.
-1	Tu	tu	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
+1	Tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	opinión	opinión	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	importante	importante	ADJ	_	Number=Sing	0	root	_	_
@@ -9100,7 +9100,7 @@
 38	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	_
 39	agricultores	agricultor	NOUN	_	Gender=Masc|Number=Plur	35	obj	_	_
 40	y	y	CCONJ	_	_	42	cc	_	_
-41	nuestra	nuestro	DET	_	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	42	det	_	_
+41	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	42	det	_	_
 42	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	39	conj	_	_
 43	con	con	ADP	_	_	44	case	_	_
 44	campañas	campaña	NOUN	_	Gender=Fem|Number=Plur	35	obl	_	_
@@ -9143,7 +9143,7 @@
 80	de	de	ADP	_	_	81	case	_	_
 81	naranja	naranja	NOUN	_	Gender=Fem|Number=Sing	79	nmod	_	_
 82	de	de	ADP	_	_	84	case	_	_
-83	nuestra	nuestro	DET	_	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	84	det	_	_
+83	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	84	det	_	_
 84	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	77	nmod	_	_
 85	que	que	SCONJ	_	_	87	mark	_	_
 86	no	no	ADV	_	Polarity=Neg	87	advmod	_	_
@@ -9183,7 +9183,7 @@
 13	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
 15	demuestra	demostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
-16	tu	tu	DET	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	17	det	_	_
+16	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	17	det	_	_
 17	civilidad	civilidad	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
 18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -10651,7 +10651,7 @@
 6	tema	tema	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 8	pero	pero	CCONJ	_	_	10	cc	_	_
-9	mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
+9	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	función	función	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
 11	allí	allí	ADV	_	_	10	advmod	_	_
 12	siempre	siempre	ADV	_	_	10	advmod	_	_
@@ -10724,7 +10724,7 @@
 
 # sent_id = es-test-001-s169
 # text = Nuestros colegas de Slashgear han hecho una comparativa mano a mano de cómo se ven estos juegos y cómo se disfrutan en los potentes dos núcleos de la tablet de Apple y en los cuatro núcleos del buque insignia de las tablets Android, con estos dos juegos, y creemos que puede ser muy interesante para vosotros si no os decidís por una u otra del todo (aunque en el caso de la Transformer no podréis adquirirla estas navidades aún...).
-1	Nuestros	nuestro	DET	_	Gender=Fem|Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+1	Nuestros	nuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	colegas	colega	NOUN	_	Number=Plur	6	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Slashgear	slashgear	PROPN	_	_	2	nmod	_	_
@@ -12014,7 +12014,7 @@
 15	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	13	punct	_	_
 16	y	y	CCONJ	_	_	21	cc	_	_
 17	en	en	ADP	_	_	19	case	_	_
-18	mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
+18	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	19	det	_	_
 19	familia	familia	NOUN	_	Gender=Fem|Number=Sing	21	obl	_	_
 20	no	no	ADV	_	Polarity=Neg	21	advmod	_	_
 21	somos	ser	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	6	conj	_	_
@@ -12177,7 +12177,7 @@
 5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
 6	este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	9	nsubj	_	_
 7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
-8	tu	tu	DET	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	_
+8	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	9	det	_	_
 9	bar	bar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
@@ -12302,7 +12302,7 @@
 9	saben	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 10	sacar	sacar	VERB	_	VerbForm=Inf	9	xcomp	_	_
 11	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	14	det	_	_
-12	tu	tu	DET	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	_
+12	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	14	det	_	_
 13	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	14	amod	_	_
 14	rendimiento	rendimiento	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
 15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
@@ -12474,7 +12474,7 @@
 
 # sent_id = es-test-001-s223
 # text = Mi queja principal es hacia la falta de información a la hora de diagnosticar el problema y el tiempo para la reparación.
-1	Mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+1	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
 2	queja	queja	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	principal	principal	ADJ	_	Number=Sing	2	amod	_	_
 4	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -13322,7 +13322,7 @@
 # text = Estuvimos almorzando mi esposa y yo, pedimos un menú degustación de 8 platos, todos muy buenos, calidad y cantidad, dado el número de platos, como no nos gustan mucho los quesos, cambiamos el plato de quesos por un postre más, sin problemas, bien servidos y atendidos.
 1	Estuvimos	estar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 2	almorzando	almorzar	VERB	_	VerbForm=Ger	1	advcl	_	_
-3	mi	mi	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
+3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	esposa	esposa	NOUN	_	Gender=Fem|Number=Sing	1	nsubj	_	_
 5	y	y	CCONJ	_	_	6	cc	_	_
 6	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	conj	_	SpaceAfter=No
@@ -13428,7 +13428,7 @@
 45	especial	especial	ADJ	_	Number=Sing	44	fixed	_	SpaceAfter=No
 46	,	,	PUNCT	_	PunctType=Comm	49	punct	_	_
 47	en	en	ADP	_	_	49	case	_	_
-48	nuestro	nuestro	DET	_	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	49	det	_	_
+48	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	49	det	_	_
 49	caso	caso	NOUN	_	Gender=Masc|Number=Sing	52	nmod	_	SpaceAfter=No
 50	,	,	PUNCT	_	PunctType=Comm	49	punct	_	_
 51	con	con	ADP	_	_	52	case	_	_

@@ -34,7 +34,7 @@
     <tag name="X">1863</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="66">
+  <feats unique="68">
     <feat name="Abbr" value="Yes" upos="NOUN,PROPN">25</feat><!-- Dr., Inc., ha, D, D., N° -->
     <feat name="Case" value="Acc" upos="PRON">2227</feat><!-- lo, la, los, las, sí, mí, ti, se, Me, em -->
     <feat name="Case" value="Acc,Dat" upos="PRON">5526</feat><!-- se, me, nos, te, os -->
@@ -55,8 +55,10 @@
     <feat name="Mood" value="Imp" upos="AUX,VERB">80</feat><!-- pese, pase, Let, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">28137</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">1214</feat><!-- sea, haya, sean, tenga, pueda, puedan, fuese, fuera, hubiera, crea -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">53213</feat><!-- los, las, sus, son, dos, años, eran, han, personas, otros -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157403</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">53134</feat><!-- los, las, sus, son, dos, años, eran, han, personas, otros -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157482</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
+    <feat name="Number[psor]" value="Plur" upos="DET">148</feat><!-- nuestra, nuestros, nuestro, nuestras, vuestra, vuestras, vuestro -->
+    <feat name="Number[psor]" value="Sing" upos="DET">213</feat><!-- mi, tu, mis, tus -->
     <feat name="NumForm" value="Digit" upos="NUM">8954</feat><!-- 2010, 0, 3, 1, 2, 10, 4, 5, 20, 2011 -->
     <feat name="NumForm" value="Roman" upos="ADJ,NUM">456</feat><!-- II, I, III, XIX, XX, IV, V, XVIII, XVI, VIII -->
     <feat name="NumForm" value="Word" upos="NUM">1640</feat><!-- dos, tres, cuatro, cinco, seis, un, mil, siete, ocho, una -->

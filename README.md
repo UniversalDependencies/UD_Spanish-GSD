@@ -27,6 +27,7 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 * 2024-11-15 v2.15
   * Added PunctType and PunctSide to converge with AnCora.
+  * Fixed Number and added Number[psor] to possessive determiners.
 * 2024-05-15 v2.14
   * Dependency of "le" should be obl:arg or expl but not obj.
 * 2023-11-15 v2.13
