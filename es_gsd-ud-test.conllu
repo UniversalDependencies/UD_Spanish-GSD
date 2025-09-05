@@ -5262,7 +5262,7 @@
 4	a	a	ADP	_	_	5	case	_	_
 5	Ibsen	ibsen	NOUN	_	_	3	obj	_	_
 6	que	que	SCONJ	_	_	16	mark	_	_
-7	a	a	ADP	_	_	11	case	_	_
+7	a	a	ADP	_	ExtPos=ADP	11	case	_	_
 8	partir	partir	ADP	_	_	7	fixed	_	_
 9	de	de	ADP	_	_	7	fixed	_	_
 10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
@@ -5894,7 +5894,7 @@
 8	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
 10	viene	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
-11	a	a	ADP	_	_	13	case	_	_
+11	a	a	ADP	_	ExtPos=ADP	13	case	_	_
 12	por	por	ADP	_	_	11	fixed	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	obl	_	_
 14	en	en	ADP	_	_	15	case	_	_

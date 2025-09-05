@@ -48,7 +48,7 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,PRON">2053</feat><!-- más, mayor, menos, mejor, mejores, menor, mayores, menores, peor, peores -->
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- Annual, Clear -->
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
-    <feat name="ExtPos" value="ADP" upos="ADJ">110</feat><!-- junto, previo, Anterior, Aparte, Contrario, detrás, justo, salvo -->
+    <feat name="ExtPos" value="ADP" upos="ADJ,ADP">175</feat><!-- junto, a, en, Al, por, con, aparte, de, dentro, previo -->
     <feat name="ExtPos" value="ADV" upos="ADP">110</feat><!-- sin, en, a, por, Al, desde, De, Mientras, sobre -->
     <feat name="ExtPos" value="SCONJ" upos="NOUN">4</feat><!-- puesto, vez -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">199</feat><!-- the, I, Inc., Let, Bass, Boy, Kick, You, a, de -->
