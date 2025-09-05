@@ -2317,7 +2317,7 @@
 
 # sent_id = es-dev-001-s85
 # text = Sin embargo, esta forma de gobierno fue breve, pues el sultán y el gobierno electo mediante un sistema que mantenía el control en manos de la élite árabe fueron derrocados el 12 de enero de 1964 en la Revolución de Zanzíbar, dirigida por John Okello, un revolucionario de origen ugandés.
-1	Sin	sin	ADP	_	_	9	advmod	_	_
+1	Sin	sin	ADP	_	ExtPos=ADV	9	advmod	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
@@ -3550,7 +3550,7 @@
 
 # sent_id = es-dev-001-s125
 # text = Por supuesto, todos los gobernantes de los países visitados lo elogiaron hasta no más dar en agradecimiento por actuación tan generosa (en lenguaje popular venezolano se dice "cayó un venadito").
-1	Por	por	ADP	_	_	12	advmod	_	_
+1	Por	por	ADP	_	ExtPos=ADV	12	advmod	_	_
 2	supuesto	suponer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
@@ -5355,7 +5355,7 @@
 18	abaratar	abaratar	VERB	_	VerbForm=Inf	13	csubj	_	_
 19	o	o	CCONJ	_	_	29	cc	_	_
 20-21	al	_	_	_	_	_	_	_	_
-20	a	a	ADP	_	_	29	advmod	_	_
+20	a	a	ADP	_	ExtPos=ADV	29	advmod	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 22	menos	menos	ADV	_	Degree=Cmp	20	fixed	_	_
 23	por	por	ADP	_	_	25	case	_	_
@@ -17986,7 +17986,7 @@
 40	o	o	CCONJ	_	_	41	cc	_	_
 41	980	980	NUM	_	NumForm=Digit|NumType=Card	39	conj	_	_
 42	pies	pie	NOUN	_	Gender=Masc|Number=Plur	41	conj	_	_
-43	por	por	ADP	_	_	39	advmod	_	_
+43	por	por	ADP	_	ExtPos=ADV	39	advmod	_	_
 44	encima	encima	ADV	_	_	43	fixed	_	_
 45	de	de	ADP	_	_	43	case	_	_
 46	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	_
@@ -20593,7 +20593,7 @@
 
 # sent_id = es-dev-002-s203
 # text = Al menos dos soldados han muerto a causa de los disparos de artillería efectuados este martes por Corea del Norte contra la isla de Yeonpyeong, situada en aguas disputadas por ambos países en la costa oeste de la península, según un nuevo balance oficial difundido por la agencia de noticias Yonhap.
-1	Al	al	ADP	_	_	3	advmod	_	_
+1	Al	al	ADP	_	ExtPos=ADV	3	advmod	_	_
 2	menos	menos	ADV	_	Degree=Cmp	1	fixed	_	_
 3	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
 4	soldados	soldado	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -23650,7 +23650,7 @@
 
 # sent_id = es-dev-002-s293
 # text = En cuanto a Bojan, afirmó que esperan cerrar su salida al AS Roma en breve dada la voluntad del jugador de tener más minutos.
-1	En	en	ADP	_	_	4	advmod	_	_
+1	En	en	ADP	_	ExtPos=ADV	4	advmod	_	_
 2	cuanto	cuanto	ADV	_	_	1	fixed	_	_
 3	a	a	ADP	_	_	1	fixed	_	_
 4	Bojan	bojan	PROPN	_	_	6	obl	_	SpaceAfter=No
@@ -24335,7 +24335,7 @@
 
 # sent_id = es-dev-002-s316
 # text = Por supuesto, las herramientas clásicas de Adobe Reader siguen en su sitio.
-1	Por	por	ADP	_	_	10	advmod	_	_
+1	Por	por	ADP	_	ExtPos=ADV	10	advmod	_	_
 2	supuesto	supuesto	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
@@ -24546,7 +24546,7 @@
 9	mucho	mucho	PRON	_	NumType=Card|PronType=Ind	10	nmod	_	_
 10	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
 11	seguro	seguro	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-12	en	en	ADP	_	_	16	advmod	_	_
+12	en	en	ADP	_	ExtPos=ADV	16	advmod	_	_
 13	cuanto	cuanto	ADV	_	_	12	fixed	_	_
 14	a	a	ADP	_	_	12	fixed	_	_
 15	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	16	det	_	_
@@ -31421,7 +31421,7 @@
 
 # sent_id = es-dev-003-s51
 # text = Sin embargo, el Consejo de Seguridad de la ONU aclaró que se realizarán ataques con fuerzas militares en la zona aunque "sin la ocupación del territorio".
-1	Sin	sin	ADP	_	_	11	advmod	_	_
+1	Sin	sin	ADP	_	ExtPos=ADV	11	advmod	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -33956,7 +33956,7 @@
 
 # sent_id = es-dev-003-s144
 # text = Sin embargo, la Comisión recomienda lavar bien las frutas y hortalizas.
-1	Sin	sin	ADP	_	_	6	advmod	_	_
+1	Sin	sin	ADP	_	ExtPos=ADV	6	advmod	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -35234,7 +35234,7 @@
 7	Nicolas	nicolas	PROPN	_	_	4	appos	_	_
 8	Sarkozy	sarkozy	PROPN	_	_	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
-10	sin	sin	ADP	_	_	14	advmod	_	_
+10	sin	sin	ADP	_	ExtPos=ADV	14	advmod	_	_
 11	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	10	fixed	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 13	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
@@ -37203,7 +37203,7 @@
 26	intendente	intendente	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
 27	Federico	federico	PROPN	_	Gender=Masc|Number=Sing	26	appos	_	_
 28	Sciurano	sciurano	PROPN	_	_	27	flat	_	_
-29	en	en	ADP	_	_	32	advmod	_	_
+29	en	en	ADP	_	ExtPos=ADV	32	advmod	_	_
 30	cuanto	cuanto	ADV	_	_	29	fixed	_	_
 31	a	a	ADP	_	_	29	fixed	_	_
 32	prioridades	prioridad	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	SpaceAfter=No

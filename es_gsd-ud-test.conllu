@@ -808,7 +808,7 @@
 
 # sent_id = es-dev-003-s443
 # text = Sin embargo, la relación entre Macaulay y Kit, que además era su manager, fue bastante tormentosa.
-1	Sin	sin	ADP	_	_	19	advmod	_	_
+1	Sin	sin	ADP	_	ExtPos=ADV	19	advmod	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -6377,7 +6377,7 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	Osasuna	osasuna	PROPN	_	_	14	nmod	_	_
 18	y	y	CCONJ	_	_	22	cc	_	_
-19	en	en	ADP	_	_	22	advmod	_	_
+19	en	en	ADP	_	ExtPos=ADV	22	advmod	_	_
 20	concreto	concreto	ADJ	_	Gender=Masc|Number=Sing	19	fixed	_	_
 21	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
 22	fichado	fichar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
@@ -6398,7 +6398,7 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	Benfica	benfica	PROPN	_	_	2	obl	_	_
 6-7	al	_	_	_	_	_	_	_	_
-6	a	a	ADP	_	_	9	advmod	_	_
+6	a	a	ADP	_	ExtPos=ADV	9	advmod	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 8	menos	menos	ADV	_	Degree=Cmp	6	fixed	_	_
 9	una	uno	NUM	_	Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	10	nummod	_	_
@@ -7648,7 +7648,7 @@
 44	Premier	premier	PROPN	_	_	45	amod	_	_
 45	League	league	PROPN	_	_	38	obl	_	_
 46	y	y	CCONJ	_	_	50	cc	_	_
-47	en	en	ADP	_	_	50	advmod	_	_
+47	en	en	ADP	_	ExtPos=ADV	50	advmod	_	_
 48	concreto	concreto	ADJ	_	Gender=Masc|Number=Sing	47	fixed	_	_
 49	de	de	ADP	_	_	50	case	_	_
 50	Londres	londres	PROPN	_	_	45	conj	_	_
@@ -12064,7 +12064,7 @@
 65	monologuistas	monologuista	NOUN	_	Number=Plur	63	obl	_	SpaceAfter=No
 66	,	,	PUNCT	_	PunctType=Comm	72	punct	_	_
 67	pero	pero	CCONJ	_	_	72	cc	_	_
-68	desde	desde	ADP	_	_	72	advmod	_	_
+68	desde	desde	ADP	_	ExtPos=ADV	72	advmod	_	_
 69	luego	luego	ADV	_	_	68	fixed	_	_
 70	que	que	CCONJ	_	_	68	fixed	_	_
 71	mal	mal	ADV	_	_	72	advmod	_	_
@@ -13424,7 +13424,7 @@
 41	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	42	det	_	_
 42	profesionales	profesional	NOUN	_	Number=Plur	38	conj	_	SpaceAfter=No
 43	,	,	PUNCT	_	PunctType=Comm	44	punct	_	_
-44	en	en	ADP	_	_	52	advmod	_	_
+44	en	en	ADP	_	ExtPos=ADV	52	advmod	_	_
 45	especial	especial	ADJ	_	Number=Sing	44	fixed	_	SpaceAfter=No
 46	,	,	PUNCT	_	PunctType=Comm	49	punct	_	_
 47	en	en	ADP	_	_	49	case	_	_
