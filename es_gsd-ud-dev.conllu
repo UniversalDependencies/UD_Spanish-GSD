@@ -2651,7 +2651,7 @@
 24	y	y	CCONJ	_	_	32	cc	_	_
 25	que	que	SCONJ	_	_	32	mark	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
-27	junto	junto	ADJ	_	Gender=Masc|Number=Sing	29	case	_	_
+27	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	29	case	_	_
 28	a	a	ADP	_	_	27	fixed	_	_
 29	Domingo	domingo	PROPN	_	_	32	obl	_	_
 30	Serrano	serrano	PROPN	_	_	29	flat	_	SpaceAfter=No
@@ -4517,7 +4517,7 @@
 
 # sent_id = es-dev-001-s158
 # text = Junto a él y Ka - Zar se enfrentaron a Zaladane antes de que se marchara de la Tierra Salvaje, en ese momento Magneto senia una atracción por ella pero ella no sentía lo mismo por él.
-1	Junto	junto	ADJ	_	Gender=Masc|Number=Sing	3	case	_	_
+1	Junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	3	case	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	obl	_	_
 4	y	y	CCONJ	_	_	5	cc	_	_
@@ -6574,7 +6574,7 @@
 43	"	"	PUNCT	_	PunctType=Quot	41	punct	_	_
 44	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	45	aux:pass	_	_
 45	tocado	tocar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	advcl	_	_
-46	junto	junto	ADJ	_	Gender=Masc|Number=Sing	49	case	_	_
+46	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	49	case	_	_
 47	a	a	ADP	_	_	46	fixed	_	_
 48	"	"	PUNCT	_	PunctType=Quot	49	punct	_	SpaceAfter=No
 49	Save	save	PROPN	_	_	45	obl	_	_
@@ -11790,7 +11790,7 @@
 # text = Salcedo afrontará junto a su compatriota, Eduardo Ledesma, la presión extra del público al medirse de visitante al 'tetracampeón' paraguayo.
 1	Salcedo	salcedo	PROPN	_	_	2	nsubj	_	_
 2	afrontará	afrontar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-3	junto	junto	ADJ	_	Gender=Masc|Number=Sing	6	case	_	_
+3	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	6	case	_	_
 4	a	a	ADP	_	_	3	fixed	_	_
 5	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	6	det	_	_
 6	compatriota	compatriota	NOUN	_	Number=Sing	2	obl	_	SpaceAfter=No
@@ -12277,7 +12277,7 @@
 28	Leda	leda	PROPN	_	_	27	appos	_	_
 29	y	y	CCONJ	_	_	30	cc	_	_
 30	María	maría	PROPN	_	_	28	conj	_	_
-31	junto	junto	ADJ	_	Gender=Masc|Number=Sing	33	case	_	_
+31	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	33	case	_	_
 32	a	a	ADP	_	_	31	fixed	_	_
 33	Leda	leda	PROPN	_	_	21	obl	_	_
 34	Valladares	valladares	PROPN	_	_	33	flat	_	_
@@ -20728,7 +20728,7 @@
 
 # sent_id = es-dev-002-s206
 # text = Junto con su hermano César, procedía de una familia de la buena sociedad de Cádiz.
-1	Junto	junto	ADJ	_	Gender=Masc|Number=Sing	4	case	_	_
+1	Junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	4	case	_	_
 2	con	con	ADP	_	_	1	fixed	_	_
 3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
@@ -21102,7 +21102,7 @@
 2	destacar	destacar	VERB	_	VerbForm=Inf	1	csubj	_	_
 3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	localización	localización	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
-5	junto	junto	ADJ	_	Gender=Masc|Number=Sing	8	case	_	_
+5	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	8	case	_	_
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	_	_	5	fixed	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -24470,7 +24470,7 @@
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	museo	museo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	temático	temático	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
-8	junto	junto	ADJ	_	Gender=Masc|Number=Sing	12	case	_	_
+8	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	12	case	_	_
 9-10	al	_	_	_	_	_	_	_	_
 9	a	a	ADP	_	_	8	fixed	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -26275,7 +26275,7 @@
 22	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
 23	producción	producción	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
-25	previo	previo	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	28	case	_	_
+25	previo	previo	ADJ	_	ExtPos=ADP|Gender=Fem|Number=Plur|VerbForm=Part	28	case	_	_
 26-27	al	_	_	_	_	_	_	_	_
 26	a	a	ADP	_	_	25	fixed	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -29238,7 +29238,7 @@
 28	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 29	que	que	SCONJ	_	_	30	mark	_	_
 30	pertencian	pertenciar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
-31	junto	junto	ADJ	_	Gender=Masc|Number=Sing	33	case	_	_
+31	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	33	case	_	_
 32	con	con	ADP	_	_	31	fixed	_	_
 33	Uruguay	uruguay	PROPN	_	_	30	obl	_	_
 34	a	a	ADP	_	_	37	case	_	_
@@ -39934,7 +39934,7 @@
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 14	Edward	edward	PROPN	_	_	2	nsubj	_	_
 15	Whymper	whymper	PROPN	_	Number=Sing	14	flat	_	_
-16	junto	junto	ADJ	_	Gender=Masc|Number=Sing	19	case	_	_
+16	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	19	case	_	_
 17	con	con	ADP	_	_	16	fixed	_	_
 18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	guías	guía	NOUN	_	Number=Plur	2	obl	_	_
@@ -40537,7 +40537,7 @@
 20	2010	2010	NUM	_	NumForm=Digit|NumType=Card	18	appos	_	SpaceAfter=No
 21	"	"	PUNCT	_	PunctType=Quot	18	punct	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-23	junto	junto	ADJ	_	Gender=Masc|Number=Sing	27	case	_	_
+23	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	27	case	_	_
 24	con	con	ADP	_	_	23	fixed	_	_
 25	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 26	principales	principal	ADJ	_	Number=Plur	27	amod	_	_
@@ -40625,7 +40625,7 @@
 28	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	29	amod	_	_
 29	puntajes	puntaje	NOUN	_	Gender=Masc|Number=Plur	24	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
-31	junto	junto	ADJ	_	Gender=Masc|Number=Sing	33	case	_	_
+31	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	33	case	_	_
 32	con	con	ADP	_	_	31	fixed	_	_
 33	Ahmed	ahmed	PROPN	_	_	23	obl	_	_
 34	Attaf	attaf	PROPN	_	_	33	flat	_	SpaceAfter=No
