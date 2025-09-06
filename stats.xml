@@ -34,7 +34,7 @@
     <tag name="X">1863</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="71">
+  <feats unique="72">
     <feat name="Abbr" value="Yes" upos="NOUN,PROPN">25</feat><!-- Dr., Inc., ha, D, D., N° -->
     <feat name="Case" value="Acc" upos="PRON">2227</feat><!-- lo, la, los, las, sí, mí, ti, se, Me, em -->
     <feat name="Case" value="Acc,Dat" upos="PRON">5526</feat><!-- se, me, nos, te, os -->
@@ -50,6 +50,7 @@
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
     <feat name="ExtPos" value="ADP" upos="ADJ,ADP">175</feat><!-- junto, a, en, Al, por, con, aparte, de, dentro, previo -->
     <feat name="ExtPos" value="ADV" upos="ADP,CCONJ">127</feat><!-- sin, en, a, ni, por, Al, desde, De, Mientras, o -->
+    <feat name="ExtPos" value="CCONJ" upos="ADJ,ADP,ADV,CCONJ,PRON,VERB,X">365</feat><!-- sin, así, es, no, además, mientras, o, sino, a, ya -->
     <feat name="ExtPos" value="SCONJ" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,PRON,SCONJ,VERB,X">621</feat><!-- ya, para, mientras, después, antes, a, si, puesto, así, dado -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">199</feat><!-- the, I, Inc., Let, Bass, Boy, Kick, You, a, de -->
     <feat name="Gender" value="Fem" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">68264</feat><!-- la, una, las, esta, parte, población, ciudad, personas, primera, familia -->

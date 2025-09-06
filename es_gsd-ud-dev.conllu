@@ -1053,7 +1053,7 @@
 
 # sent_id = es-dev-001-s42
 # text = Sin embargo, la aplicación de la ley canónica solía quedar restringida a las áreas bajo control normando.
-1	Sin	sin	ADP	_	_	10	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	10	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -1125,7 +1125,7 @@
 6	de	de	ADP	_	_	7	case	_	_
 7	Hesiodo	hesiodo	PROPN	_	_	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-9	así	así	ADV	_	_	2	cc	_	_
+9	así	así	ADV	_	ExtPos=CCONJ	2	cc	_	_
 10	como	como	CCONJ	_	_	9	fixed	_	_
 11	por	por	ADP	_	_	12	case	_	_
 12	Apolodoro	apolodoro	PROPN	_	_	2	nmod	_	SpaceAfter=No
@@ -3223,7 +3223,7 @@
 20	Pelham	pelham	PROPN	_	_	17	flat	_	_
 21	123	123	NUM	_	NumForm=Digit|NumType=Card	17	flat	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
-23	mientras	mientras	ADV	_	_	36	cc	_	_
+23	mientras	mientras	ADV	_	ExtPos=CCONJ	36	cc	_	_
 24	que	que	CCONJ	_	_	23	fixed	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	canción	canción	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	_	_
@@ -5529,7 +5529,7 @@
 21	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	madera	madera	NOUN	_	Gender=Fem|Number=Sing	19	conj	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-24	así	así	ADV	_	_	27	cc	_	_
+24	así	así	ADV	_	ExtPos=CCONJ	27	cc	_	_
 25	como	como	CCONJ	_	_	24	fixed	_	_
 26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	vega	vega	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
@@ -7225,7 +7225,7 @@
 
 # sent_id = es-dev-001-s247
 # text = Sin embargo, varios otros escritores mormones se han referido a Kólob como una estrella, incluyendo B. H. Roberts y el presidente David O. McKay.
-1	Sin	sin	ADP	_	_	10	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	10	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	6	det	_	_
@@ -10736,7 +10736,7 @@
 
 # sent_id = es-dev-001-s370
 # text = Sin embargo, una memoria USB o cualquier otro dispositivo puede ser formateado usando cualquier otro sistema de archivos (por ejemplo HFS + en un Apple Macintosh, o ext2 bajo Linux, o UFS bajo Solaris o BSD).
-1	Sin	sin	ADP	_	_	13	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	13	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -12588,7 +12588,7 @@
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	bioandroide	bioandroide	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
-27	sin	sin	ADP	_	_	37	cc	_	_
+27	sin	sin	ADP	_	ExtPos=CCONJ	37	cc	_	_
 28	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	27	fixed	_	_
 29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	pérdida	pérdida	NOUN	_	Gender=Fem|Number=Sing	37	nsubj	_	_
@@ -13342,7 +13342,7 @@
 
 # sent_id = es-dev-001-s453
 # text = Sin embargo, en otras áreas el impacto fue destructivo, como fue el caso de los ferrocarriles.
-1	Sin	sin	ADP	_	_	10	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	10	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	en	en	ADP	_	_	6	case	_	_
@@ -16276,7 +16276,7 @@
 15	y	y	CCONJ	_	_	16	cc	_	_
 16	compartidas	compartido	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	14	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-18	así	así	ADV	_	_	23	cc	_	_
+18	así	así	ADV	_	ExtPos=CCONJ	23	cc	_	_
 19	como	como	CCONJ	_	_	18	fixed	_	_
 20	en	en	ADP	_	_	23	case	_	_
 21	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
@@ -17242,7 +17242,7 @@
 
 # sent_id = es-dev-002-s87
 # text = Sin embargo no permanecería mucho tiempo en este lugar, y ya en 1769 se intentó conseguir una ubicación definitiva.
-1	Sin	sin	ADP	_	_	4	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	4	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
 3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
 4	permanecería	permanecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
@@ -17788,7 +17788,7 @@
 
 # sent_id = es-dev-002-s107
 # text = Sin embargo, en la Segunda Conferencia de El Cairo en 1943, Franklin D. Roosevelt, Winston Churchill e İsmet İnönü llegaron a un acuerdo sobre las cuestiones relativas a la posible contribución de Turquía a los aliados, y se decidió que Turquía debía mantener su neutralidad y así bloquear el acceso del Eje a las reservas estratégicas de petróleo de Oriente Medio.
-1	Sin	sin	ADP	_	_	23	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	23	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	en	en	ADP	_	_	7	case	_	_
@@ -18117,7 +18117,7 @@
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	global	global	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-6	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cc	_	_
+6	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cc	_	_
 7	decir	decir	VERB	_	VerbForm=Inf	6	fixed	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 9	que	que	SCONJ	_	_	11	mark	_	_
@@ -18258,7 +18258,7 @@
 
 # sent_id = es-dev-002-s123
 # text = Sin embargo, estas propiedades están presentes en sistemas nerviosos más simples, como en Aplysia, un caracol marino que retrae la branquia cuando se le aplica un estímulo en el sifón o en el lóbulo del manto.
-1	Sin	sin	ADP	_	_	7	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	7	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	5	det	_	_
@@ -18435,7 +18435,7 @@
 
 # sent_id = es-dev-002-s130
 # text = Sin embargo, Molina ha comenzado a desarrollar genuinos sentimientos románticos por Arregui.
-1	Sin	sin	ADP	_	_	6	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	6	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	Molina	molina	PROPN	_	_	6	nsubj	_	_
@@ -19037,7 +19037,7 @@
 26	algoritmos	algoritmo	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	_
 27	matemáticos	matemático	ADJ	_	Gender=Masc|Number=Plur	26	amod	_	SpaceAfter=No
 28	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
-29	así	así	ADV	_	_	33	cc	_	_
+29	así	así	ADV	_	ExtPos=CCONJ	33	cc	_	_
 30	como	como	CCONJ	_	_	29	fixed	_	_
 31	para	para	ADP	_	_	33	case	_	_
 32	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
@@ -19744,7 +19744,7 @@
 30	de	de	ADP	_	_	31	case	_	_
 31	Koriakia	koriakia	PROPN	_	_	28	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-33	mientras	mientras	CCONJ	_	_	39	cc	_	_
+33	mientras	mientras	CCONJ	_	ExtPos=CCONJ	39	cc	_	_
 34	que	que	CCONJ	_	_	33	fixed	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	39	nsubj	_	_
@@ -20259,7 +20259,7 @@
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	duelo	duelo	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-18	así	así	ADV	_	_	22	cc	_	_
+18	así	así	ADV	_	ExtPos=CCONJ	22	cc	_	_
 19	como	como	CCONJ	_	_	18	fixed	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	_	_	22	case	_	_
@@ -20867,7 +20867,7 @@
 8	=	=	SYM	_	_	7	dep	_	_
 9	8	8	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
 10	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	7	punct	_	_
-11	sin	sin	ADP	_	_	14	cc	_	_
+11	sin	sin	ADP	_	ExtPos=CCONJ	14	cc	_	_
 12	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	11	fixed	_	_
 13	Boechera	boechera	PROPN	_	_	14	nsubj	_	_
 14	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -21450,7 +21450,7 @@
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	sur	sur	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-10	mientras	mientras	ADV	_	_	14	cc	_	_
+10	mientras	mientras	ADV	_	ExtPos=CCONJ	14	cc	_	_
 11	que	que	CCONJ	_	_	10	fixed	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	turco	turco	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
@@ -21885,7 +21885,7 @@
 
 # sent_id = es-dev-002-s243
 # text = Sin embargo, Bureau no tiene más remedio que llamarlo.
-1	Sin	sin	ADP	_	_	6	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	6	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	Bureau	bureau	PROPN	_	_	6	nsubj	_	_
@@ -23025,7 +23025,7 @@
 
 # sent_id = es-dev-002-s278
 # text = Sin embargo, la noción de causalidad fuerte no elimina la posibilidad de que una pequeña variación el campo gravitatorio pueda dar lugar a una CTC.
-1	Sin	sin	ADP	_	_	10	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	10	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -23800,7 +23800,7 @@
 
 # sent_id = es-dev-002-s297
 # text = Sin embargo eso cambió en los 80, pues la década comenzó con el traspaso del equipo al Grupo Protexa, quien posteriormente se erigiría en dueño del club y de El Cerrito, a pesar del compromiso moral que habían establecido las empresas regiomontanas que habían colaborado con el club y que señalaron que el Monterrey era patrimonio de la comunidad regiomontana.
-1	Sin	sin	ADP	_	_	4	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	4	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
 3	eso	ese	PRON	_	Number=Sing|PronType=Dem	4	nsubj	_	_
 4	cambió	cambiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -24961,7 +24961,7 @@
 17	Pacífico	pacífico	PROPN	_	_	8	nmod	_	_
 18	Norte	norte	PROPN	_	_	17	appos	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-20	así	así	ADV	_	_	23	cc	_	_
+20	así	así	ADV	_	ExtPos=CCONJ	23	cc	_	_
 21	como	como	CCONJ	_	_	20	fixed	_	_
 22	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
 23	Tuvalu	tuvalu	PROPN	_	_	8	conj	_	SpaceAfter=No
@@ -25076,7 +25076,7 @@
 26	jinete	jinete	NOUN	_	Gender=Masc|Number=Sing	24	conj	_	_
 27	enemigo	enemigo	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	SpaceAfter=No
 28	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
-29	además	además	ADV	_	_	32	cc	_	_
+29	además	además	ADV	_	ExtPos=CCONJ	32	cc	_	_
 30	de	de	ADP	_	_	29	fixed	_	_
 31	estar	estar	AUX	_	VerbForm=Inf	32	aux:pass	_	_
 32	entrenados	entrenar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	7	conj	_	_
@@ -25150,7 +25150,7 @@
 
 # sent_id = es-dev-002-s343
 # text = Sin embargo a causa de la disolución del gobierno nacional en las Provincias Unidas, la mayor parte de los costos recayó en el gobierno de Chile.
-1	Sin	sin	ADP	_	_	23	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	23	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
 3	a	a	ADP	_	_	4	case	_	_
 4	causa	causa	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_
@@ -26306,7 +26306,7 @@
 15	USD	usd	X	_	_	12	obl	_	_
 16	20.000	20000	NUM	_	NumForm=Digit|NumType=Card	15	nummod	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-18	o	o	CCONJ	_	_	20	cc	_	_
+18	o	o	CCONJ	_	ExtPos=CCONJ	20	cc	_	_
 19	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	fixed	_	_
 20	$	$	SYM	_	Gender=Masc|Number=Sing|VerbForm=Part	15	conj	_	_
 21	80.000	80000	NUM	_	NumForm=Digit|NumType=Card	20	nummod	_	_
@@ -27187,7 +27187,7 @@
 9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	Whitmans	whitmans	PROPN	_	_	7	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
-12	así	así	ADV	_	_	15	cc	_	_
+12	así	así	ADV	_	ExtPos=CCONJ	15	cc	_	_
 13	como	como	CCONJ	_	_	12	fixed	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	recuperación	recuperación	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
@@ -28757,7 +28757,7 @@
 
 # sent_id = es-dev-002-s458
 # text = Sin embargo, para el año 1916 Puccini había terminado la tragedia en un solo acto Il tabarro y, después de considerar varias ideas, empezó a trabajar al año siguiente en la ópera religiosa y solemne, íntegramente femenina Suor Angelica.
-1	Sin	sin	ADP	_	_	10	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	10	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	para	para	ADP	_	_	6	case	_	_
@@ -29147,7 +29147,7 @@
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	República	república	NOUN	_	_	17	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
-22	así	así	ADV	_	_	25	cc	_	_
+22	así	así	ADV	_	ExtPos=CCONJ	25	cc	_	_
 23	como	como	CCONJ	_	_	22	fixed	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	Mesa	mesa	NOUN	_	_	12	conj	_	_
@@ -30889,7 +30889,7 @@
 
 # sent_id = es-dev-003-s34
 # text = Sin embargo, para lograr la afiliación, la Asociación le exigió la fusión con el Club Atlético Universitario y con el Club Naútico Universitario.
-1	Sin	sin	ADP	_	_	12	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	12	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	para	para	ADP	_	_	5	mark	_	_
@@ -31035,7 +31035,7 @@
 
 # sent_id = es-dev-003-s37
 # text = Sin embargo luego ambos se volverían amigos personales y Oltuski trabajaría a las órdenes de Guevara por cinco años.
-1	Sin	sin	ADP	_	_	6	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	6	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
 3	luego	luego	ADV	_	_	6	advmod	_	_
 4	ambos	ambos	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Tot	6	nsubj	_	_
@@ -31734,7 +31734,7 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	rey	rey	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
-16	así	así	ADV	_	_	18	cc	_	_
+16	así	así	ADV	_	ExtPos=CCONJ	18	cc	_	_
 17	como	como	ADP	_	_	16	fixed	_	_
 18	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	11	conj	_	_
 19	económica	económico	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	_
@@ -34639,7 +34639,7 @@
 
 # sent_id = es-dev-003-s168
 # text = Sin embargo, las dificultades políticas continuaron en el país y el 13 de enero de 1967, los militares llegaron de nuevo al poder.
-1	Sin	sin	ADP	_	_	7	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	7	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
@@ -36088,7 +36088,7 @@
 
 # sent_id = es-dev-003-s218
 # text = Sin embargo, antes de iniciar el rodaje, sufrió un accidente cerebrovascular y falleció nueve días más tarde, con 45 años de edad.
-1	Sin	sin	ADP	_	_	10	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	10	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	antes	antes	ADV	_	_	6	advmod	_	_
@@ -38429,7 +38429,7 @@
 
 # sent_id = es-dev-003-s297
 # text = Sin embargo, Rockefeller anunció que no sería candidato a la presidencia después de una gira a nivel nacional que reveló que la gran mayoría de los republicanos estaban a favor de Nixon.
-1	Sin	sin	ADP	_	_	5	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	5	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	Rockefeller	rockefeller	PROPN	_	_	5	nsubj	_	_
@@ -39308,7 +39308,7 @@
 
 # sent_id = es-dev-003-s326
 # text = Sin embargo, la influencia de Kraepelin fue limitada fuera de Alemania hasta el primer tercio del s.XX, puesto que sólo en este periodo la psiquiatría se incardinó como especialidad médica y abandonó la condición de ciencia especial o de alienismo que había mantenido durante el siglo XIX.
-1	Sin	sin	ADP	_	_	9	cc	_	_
+1	Sin	sin	ADP	_	ExtPos=CCONJ	9	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -41042,7 +41042,7 @@
 15	tomar	tomar	VERB	_	VerbForm=Inf	13	advcl	_	_
 16	Dumnonia	dumnonia	PROPN	_	_	15	obj	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-18	además	además	ADV	_	_	22	cc	_	_
+18	además	además	ADV	_	ExtPos=CCONJ	22	cc	_	_
 19	de	de	ADP	_	_	18	fixed	_	_
 20	que	que	SCONJ	_	_	22	mark	_	_
 21	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl:pv	_	_
@@ -41631,7 +41631,7 @@
 
 # sent_id = es-dev-003-s400
 # text = No obstante también las cabras y las gallinas se alimentan de sus propios excrementos.
-1	No	no	ADV	_	_	10	cc	_	_
+1	No	no	ADV	_	ExtPos=CCONJ	10	cc	_	_
 2	obstante	obstante	ADJ	_	Number=Plur	1	fixed	_	_
 3	también	también	ADV	_	_	10	advmod	_	_
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
