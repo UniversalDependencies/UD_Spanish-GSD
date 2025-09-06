@@ -49,7 +49,7 @@
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- Annual, Clear -->
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
     <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,CCONJ,NOUN,VERB">821</feat><!-- junto, después, dentro, frente, antes, cerca, además, gracias, debido, a -->
-    <feat name="ExtPos" value="ADV" upos="ADP,CCONJ">127</feat><!-- sin, en, a, ni, por, Al, desde, De, Mientras, o -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,CCONJ,VERB">408</feat><!-- después, antes, además, sin, en, dentro, a, cerca, ni, fuera -->
     <feat name="ExtPos" value="CCONJ" upos="ADJ,ADP,ADV,CCONJ,PRON,VERB">365</feat><!-- sin, así, es, no, además, mientras, o, sino, a, ya -->
     <feat name="ExtPos" value="SCONJ" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,PRON,SCONJ,VERB">621</feat><!-- ya, para, mientras, después, antes, a, si, puesto, así, dado -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">202</feat><!-- the, I, Inc., Let, Bass, Boy, Kick, You, a, de -->

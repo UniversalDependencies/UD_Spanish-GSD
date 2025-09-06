@@ -1302,7 +1302,7 @@
 
 # sent_id = es-dev-001-s54
 # text = Mientras tanto, los menores de 12 años podrán divertirse con los payasos en el salón Royal Club, donde estarán acompañados de cuidadoras y donde podrán degustar un buffet a su medida.
-1	Mientras	mientras	ADV	_	_	10	advmod	_	_
+1	Mientras	mientras	ADV	_	ExtPos=ADV	10	advmod	_	_
 2	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
@@ -1381,7 +1381,7 @@
 14	jugó	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
 15	en	en	ADP	_	_	16	case	_	_
 16	Primera	primero	ADJ	_	NumType=Ord	14	obl	_	_
-17	después	después	ADV	_	_	20	advmod	_	_
+17	después	después	ADV	_	ExtPos=ADV	20	advmod	_	_
 18	de	de	ADP	_	_	17	fixed	_	_
 19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
@@ -2228,7 +2228,7 @@
 9	a	a	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	RFF	rff	PROPN	_	_	8	obl:arg	_	_
-12	mientras	mientras	ADV	_	_	16	advmod	_	_
+12	mientras	mientras	ADV	_	ExtPos=ADV	16	advmod	_	_
 13	que	que	CCONJ	_	_	12	fixed	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	SNCF	sncf	PROPN	_	_	16	nsubj	_	_
@@ -6213,7 +6213,7 @@
 7	que	que	SCONJ	_	_	16	mark	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 9	igual	igual	ADV	_	_	13	advmod	_	_
-10	dentro	dentro	ADV	_	_	13	advmod	_	_
+10	dentro	dentro	ADV	_	ExtPos=ADV	13	advmod	_	_
 11	de	de	ADP	_	_	10	fixed	_	_
 12	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	13	nummod	_	_
 13	años	año	NOUN	_	Gender=Masc|Number=Plur	16	obl	_	SpaceAfter=No
@@ -7974,7 +7974,7 @@
 5	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 6	novia	novia	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 7	y	y	CCONJ	_	_	17	cc	_	_
-8	despues	después	ADV	_	Typo=Yes	10	advmod	_	CorrectForm=después
+8	despues	después	ADV	_	ExtPos=ADV|Typo=Yes	10	advmod	_	CorrectForm=después
 9	de	de	ADP	_	_	8	fixed	_	_
 10	leer	leer	VERB	_	VerbForm=Inf	17	advcl	_	_
 11	buenos	buen	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	_
@@ -18087,7 +18087,7 @@
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	martes	martes	PROPN	_	_	20	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
-25	después	después	ADV	_	_	28	advmod	_	_
+25	después	después	ADV	_	ExtPos=ADV	28	advmod	_	_
 26	de	de	ADP	_	_	25	fixed	_	_
 27	haber	haber	AUX	_	VerbForm=Inf	28	aux	_	_
 28	cometido	cometer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	35	advcl	_	_
@@ -19952,7 +19952,7 @@
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 6	moderno	moderno	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
-7	dentro	dentro	ADV	_	_	10	advmod	_	_
+7	dentro	dentro	ADV	_	ExtPos=ADV	10	advmod	_	_
 8	de	de	ADP	_	_	7	fixed	_	_
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	fachada	fachada	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
@@ -20823,7 +20823,7 @@
 18	Cristiano	cristiano	PROPN	_	_	16	nmod	_	_
 19	Ronaldo	ronaldo	PROPN	_	_	18	flat	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-21	además	además	ADV	_	_	23	advmod	_	_
+21	además	además	ADV	_	ExtPos=ADV	23	advmod	_	_
 22	de	de	ADP	_	_	21	fixed	_	_
 23	Kaká	kaká	PROPN	_	_	12	nmod	_	SpaceAfter=No
 24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -22512,7 +22512,7 @@
 1	Aunque	aunque	SCONJ	_	_	3	mark	_	_
 2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
-4	dentro	dentro	ADV	_	_	7	advmod	_	_
+4	dentro	dentro	ADV	_	ExtPos=ADV	7	advmod	_	_
 5	de	de	ADP	_	_	4	fixed	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	categoría	categoría	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
@@ -23381,7 +23381,7 @@
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 30	último	último	ADJ	_	Gender=Masc|Number=Sing	31	amod	_	_
 31	bocado	bocado	NOUN	_	Gender=Masc|Number=Sing	28	obj	_	_
-32	antes	antes	ADV	_	_	36	advmod	_	_
+32	antes	antes	ADV	_	ExtPos=ADV	36	advmod	_	_
 33-34	del	_	_	_	_	_	_	_	_
 33	de	de	ADP	_	_	32	fixed	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
@@ -23887,7 +23887,7 @@
 # text = Unos días después del anuncio de General Motors (GM) en donde confirmaba la producción de sus propios motores eléctricos, la fabricante alemana Volkswagen se ha sumado a la tendencia en una época en donde la presencia de autos híbridos y eléctricos es cada vez más alta, reportó terra.cl.
 1	Unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	días	día	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
-3	después	después	ADV	_	_	6	advmod	_	_
+3	después	después	ADV	_	ExtPos=ADV	6	advmod	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	_	_	3	fixed	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
@@ -28346,7 +28346,7 @@
 45	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	47	aux	_	_
 46	haber	haber	AUX	_	VerbForm=Inf	47	aux	_	_
 47	empezado	empezar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	38	ccomp	_	_
-48	antes	antes	ADV	_	_	50	advmod	_	_
+48	antes	antes	ADV	_	ExtPos=ADV	50	advmod	_	_
 49	de	de	ADP	_	_	48	fixed	_	_
 50	589	589	NUM	_	NumForm=Digit|NumType=Card	47	obl	_	SpaceAfter=No
 51	.	.	PUNCT	_	PunctType=Peri	21	punct	_	_
@@ -28362,7 +28362,7 @@
 
 # sent_id = es-dev-002-s443
 # text = Así que debemos darle la bienvenida al nuevo sistema.
-1	Así	así	ADV	_	_	4	advmod	_	_
+1	Así	así	ADV	_	ExtPos=ADV	4	advmod	_	_
 2	que	que	CCONJ	_	_	1	fixed	_	_
 3	debemos	deber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4-5	darle	_	_	_	_	_	_	_	_
@@ -28950,7 +28950,7 @@
 
 # sent_id = es-dev-002-s465
 # text = Hoy día cada una de las organizaciones tiene incluso distintos grupos de trabajo en distintos lugares de España.
-1	Hoy	hoy	ADV	_	_	8	advmod	_	_
+1	Hoy	hoy	ADV	_	ExtPos=ADV	8	advmod	_	_
 2	día	día	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
 3	cada	cada	DET	_	Number=Sing|PronType=Tot	4	det	_	_
 4	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	8	nsubj	_	_
@@ -29372,7 +29372,7 @@
 # sent_id = es-dev-002-s479
 # text = C. Mientras tanto, Hidrieo había cumplido su parte enviando a Chipre 40 navíos y 8.000 mercenarios bajo el mando del ateniense Foción y el líder chipriota Evágoras II.
 1	C.	c.	X	_	_	7	discourse	_	_
-2	Mientras	mientras	ADV	_	_	7	advmod	_	_
+2	Mientras	mientras	ADV	_	ExtPos=ADV	7	advmod	_	_
 3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 5	Hidrieo	hidrieo	NOUN	_	_	7	nsubj	_	_
@@ -30859,7 +30859,7 @@
 
 # sent_id = es-dev-003-s32
 # text = Así mismo, en 1927 introdujo el motor diésel en la aviación.
-1	Así	así	ADV	_	_	6	advmod	_	_
+1	Así	así	ADV	_	ExtPos=ADV	6	advmod	_	_
 2	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	en	en	ADP	_	_	5	case	_	_
@@ -32526,7 +32526,7 @@
 6	forma	forma	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 7	como	como	ADP	_	_	24	case	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-9	tal	tal	ADV	_	_	12	advmod	_	_
+9	tal	tal	ADV	_	ExtPos=ADV	12	advmod	_	_
 10	y	y	CCONJ	_	_	9	fixed	_	_
 11	como	como	ADV	_	_	9	fixed	_	_
 12	apuntaba	apuntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	parataxis	_	_
@@ -35239,7 +35239,7 @@
 12	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 13	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	cop	_	_
 14	cauteloso	cauteloso	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
-15	acerca	acerca	ADV	_	_	17	advmod	_	_
+15	acerca	acerca	ADV	_	ExtPos=ADV	17	advmod	_	_
 16	de	de	ADP	_	_	15	fixed	_	_
 17	repetir	repetir	VERB	_	VerbForm=Inf	14	advcl	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -35267,7 +35267,7 @@
 40	y	y	CCONJ	_	_	42	cc	_	_
 41	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	42	det	_	_
 42	palestinos	palestino	NOUN	_	Gender=Masc|Number=Plur	39	conj	_	_
-43	antes	antes	ADV	_	_	47	advmod	_	_
+43	antes	antes	ADV	_	ExtPos=ADV	47	advmod	_	_
 44	de	de	ADP	_	_	43	fixed	_	_
 45	que	que	SCONJ	_	_	47	mark	_	_
 46	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	47	expl:pv	_	_
@@ -36091,7 +36091,7 @@
 1	Sin	sin	ADP	_	ExtPos=CCONJ	10	cc	_	_
 2	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
-4	antes	antes	ADV	_	_	6	advmod	_	_
+4	antes	antes	ADV	_	ExtPos=ADV	6	advmod	_	_
 5	de	de	ADP	_	_	4	fixed	_	_
 6	iniciar	iniciar	VERB	_	VerbForm=Inf	10	advcl	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -37240,7 +37240,7 @@
 19	asiático	asiático	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 21	por	por	ADP	_	_	22	case	_	_
-22	detrás	detrás	ADV	_	_	6	advmod	_	_
+22	detrás	detrás	ADV	_	ExtPos=ADV	6	advmod	_	_
 23	de	de	ADP	_	_	22	fixed	_	_
 24	Francia	francia	PROPN	_	_	22	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
@@ -38572,7 +38572,7 @@
 
 # sent_id = es-dev-003-s301
 # text = Mientras tanto, la armada de Napier se enfrentó a la flota absolutista cerca del Cabo de San Vicente, venciendo en la Batalla del Cabo de San Vicente en 1833.
-1	Mientras	mientras	ADV	_	_	9	advmod	_	_
+1	Mientras	mientras	ADV	_	ExtPos=ADV	9	advmod	_	_
 2	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -40354,7 +40354,7 @@
 6	cada	cada	DET	_	Number=Sing|PronType=Tot	7	det	_	_
 7	día	día	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 8	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
-9	cerca	cerca	ADV	_	_	11	advmod	_	_
+9	cerca	cerca	ADV	_	ExtPos=ADV	11	advmod	_	_
 10	de	de	ADP	_	_	9	fixed	_	_
 11	ser	ser	VERB	_	VerbForm=Inf	5	advcl	_	_
 12	fichaje	fichaje	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
@@ -41834,7 +41834,7 @@
 22	de	de	ADP	_	_	23	case	_	_
 23	Langreo	langreo	PROPN	_	_	21	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
-25	cerca	cerca	ADV	_	_	28	advmod	_	_
+25	cerca	cerca	ADV	_	ExtPos=ADV	28	advmod	_	_
 26	de	de	ADP	_	_	25	fixed	_	_
 27	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 28	montañas	montaña	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	SpaceAfter=No
@@ -41878,7 +41878,7 @@
 
 # sent_id = es-dev-003-s409
 # text = Además de eso, estudió las estadísticas de mortalidad en Londres, y llego a la conclusión de que un 14 % de la población había muerto a causa de esta enfermedad, donde alrededor de un 40 %, murió durante las epidemias.
-1	Además	además	ADV	_	_	3	advmod	_	_
+1	Además	además	ADV	_	ExtPos=ADV	3	advmod	_	_
 2	de	de	ADP	_	_	1	fixed	_	_
 3	eso	ese	PRON	_	Number=Sing|PronType=Dem	5	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
