@@ -515,7 +515,7 @@
 6	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	7	amod	_	_
 7	interpretación	interpretación	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-9	ya	ya	ADV	_	_	13	mark	_	_
+9	ya	ya	ADV	_	ExtPos=SCONJ	13	mark	_	_
 10	que	que	SCONJ	_	_	9	fixed	_	_
 11	probablemente	probablemente	ADV	_	_	13	advmod	_	_
 12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
@@ -1086,7 +1086,7 @@
 24	a	a	ADP	_	_	26	case	_	_
 25	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
 26	personas	persona	NOUN	_	Gender=Fem|Number=Plur	22	obl:arg	_	_
-27	para	para	ADP	_	_	37	mark	_	_
+27	para	para	ADP	_	ExtPos=SCONJ	37	mark	_	_
 28	que	que	CCONJ	_	_	27	fixed	_	_
 29	puedan	poder	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	aux	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
@@ -1791,7 +1791,7 @@
 30	concedió	conceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	_
 31	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	32	det	_	_
 32	petición	petición	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	_
-33	así	así	ADV	_	_	35	mark	_	_
+33	así	así	ADV	_	ExtPos=SCONJ	35	mark	_	_
 34	que	que	SCONJ	_	_	33	fixed	_	_
 35	deja	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	advcl	_	_
 36	Veracruz	veracruz	PROPN	_	_	35	obj	_	_
@@ -1922,7 +1922,7 @@
 
 # sent_id = es-dev-003-s482
 # text = Así que utilizando este argumento llegamos a la conclusión de que realmente el empresario no es el jefe y quien tiene la sarten por el mango, sino que el jefe son los trabajadores y son los que tienen la sarten por el mango, pero no se dan cuenta.
-1	Así	así	ADV	_	_	6	mark	_	_
+1	Así	así	ADV	_	ExtPos=SCONJ	6	mark	_	_
 2	que	que	CCONJ	_	_	1	fixed	_	_
 3	utilizando	utilizar	VERB	_	VerbForm=Ger	6	advcl	_	_
 4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
@@ -2236,7 +2236,7 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	recital	recital	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-16	ya	ya	ADV	_	_	20	mark	_	_
+16	ya	ya	ADV	_	ExtPos=SCONJ	20	mark	_	_
 17	que	que	SCONJ	_	_	16	fixed	_	_
 18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	gente	gente	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
@@ -2258,7 +2258,7 @@
 35	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	37	det	_	_
 36	mágicos	mágico	ADJ	_	Gender=Masc|Number=Plur	37	amod	_	_
 37	dedos	dedo	NOUN	_	Gender=Masc|Number=Plur	29	obl	_	_
-38	después	después	ADV	_	_	40	mark	_	_
+38	después	después	ADV	_	ExtPos=SCONJ	40	mark	_	_
 39	de	de	ADP	_	_	38	fixed	_	_
 40	tocar	tocar	VERB	_	VerbForm=Inf	29	advcl	_	_
 41	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
@@ -3431,7 +3431,7 @@
 2	con	con	ADP	_	_	4	case	_	_
 3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	hijas	hija	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
-5	para	para	ADP	_	_	7	mark	_	_
+5	para	para	ADP	_	ExtPos=SCONJ	7	mark	_	_
 6	que	que	CCONJ	_	_	5	fixed	_	_
 7	probaran	probar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -4809,7 +4809,7 @@
 26	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	27	det	_	_
 27	documento	documento	NOUN	_	Gender=Masc|Number=Sing	22	conj	_	_
 28	acreditativo	acreditativo	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
-29	con	con	ADP	_	_	33	mark	_	_
+29	con	con	ADP	_	ExtPos=SCONJ	33	mark	_	_
 30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	fixed	_	_
 31	fin	fin	NOUN	_	Gender=Masc|Number=Sing	29	fixed	_	_
 32	de	de	ADP	_	_	29	fixed	_	_
@@ -5038,7 +5038,7 @@
 14	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	Socorro	socorro	PROPN	_	_	13	flat	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-17	mientras	mientras	ADV	_	_	22	mark	_	_
+17	mientras	mientras	ADV	_	ExtPos=SCONJ	22	mark	_	_
 18	que	que	CCONJ	_	_	17	fixed	_	_
 19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	deportistas	deportista	NOUN	_	Number=Plur	22	nsubj	_	_
@@ -5403,7 +5403,7 @@
 7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
 9	calientes	caliente	ADJ	_	Number=Plur	0	root	_	_
-10	en	en	ADP	_	_	15	mark	_	_
+10	en	en	ADP	_	ExtPos=SCONJ	15	mark	_	_
 11	cuanto	cuanto	ADV	_	_	10	fixed	_	_
 12	a	a	ADP	_	_	13	case	_	_
 13	tanganas	tangana	NOUN	_	Gender=Fem|Number=Plur	15	obl	_	_
@@ -5966,7 +5966,7 @@
 13	Arsenal	arsenal	PROPN	_	_	10	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 15-16	al	_	_	_	_	_	_	_	_
-15	a	a	ADP	_	_	20	mark	_	_
+15	a	a	ADP	_	ExtPos=SCONJ	20	mark	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 17	menos	menos	ADV	_	Degree=Cmp	15	fixed	_	_
 18	eso	ese	PRON	_	Number=Sing|PronType=Dem	20	nsubj	_	_
@@ -6068,7 +6068,7 @@
 40	de	de	ADP	_	_	41	case	_	_
 41	Radio	radio	PROPN	_	_	39	nmod	_	_
 42	Sagua	sagua	PROPN	_	_	41	flat	_	_
-43	ya	ya	ADV	_	_	51	mark	_	_
+43	ya	ya	ADV	_	ExtPos=SCONJ	51	mark	_	_
 44	que	que	CCONJ	_	_	43	fixed	_	_
 45	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	47	det	_	_
 46	pobres	pobre	ADJ	_	Number=Plur	47	amod	_	_
@@ -7821,7 +7821,7 @@
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	España	españa	PROPN	_	_	11	obl	_	_
-15	dado	dar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	18	mark	_	_
+15	dado	dar	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	18	mark	_	_
 16	que	que	CCONJ	_	_	15	fixed	_	_
 17	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
 18	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
@@ -8165,7 +8165,7 @@
 54	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	55	det	_	_
 55	embarazo	embarazo	NOUN	_	Gender=Masc|Number=Sing	52	nmod	_	SpaceAfter=No
 56	,	,	PUNCT	_	PunctType=Comm	75	punct	_	_
-57	dado	dar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	75	mark	_	_
+57	dado	dar	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	75	mark	_	_
 58	que	que	CCONJ	_	_	57	fixed	_	_
 59	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	60	det	_	_
 60	informe	informe	NOUN	_	Gender=Masc|Number=Sing	75	nsubj	_	_
@@ -8567,7 +8567,7 @@
 47	vivienda	vivienda	NOUN	_	Gender=Fem|Number=Sing	39	obl	_	_
 48	protegida	protegido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	47	amod	_	SpaceAfter=No
 49	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
-50	para	para	ADP	_	_	62	mark	_	_
+50	para	para	ADP	_	ExtPos=SCONJ	62	mark	_	_
 51	que	que	CCONJ	_	_	50	fixed	_	_
 52	finalmente	finalmente	ADV	_	_	62	advmod	_	_
 53	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	55	det	_	_
@@ -9116,7 +9116,7 @@
 54	"	"	PUNCT	_	PunctType=Quot	28	punct	_	SpaceAfter=No
 55	,	,	PUNCT	_	PunctType=Comm	61	punct	_	_
 56-57	al	_	_	_	_	_	_	_	_
-56	a	a	ADP	_	_	61	mark	_	_
+56	a	a	ADP	_	ExtPos=SCONJ	61	mark	_	_
 57	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	_
 58	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	56	fixed	_	_
 59	que	que	CCONJ	_	_	56	fixed	_	_
@@ -10359,7 +10359,7 @@
 30	en	en	ADP	_	_	31	case	_	_
 31	Europa	europa	PROPN	_	_	26	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-33	ya	ya	ADV	_	_	40	mark	_	_
+33	ya	ya	ADV	_	ExtPos=SCONJ	40	mark	_	_
 34	que	que	CCONJ	_	_	33	fixed	_	_
 35	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	37	det	_	_
 36	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
@@ -11670,7 +11670,7 @@
 31	de	de	ADP	_	_	30	case	_	_
 32	euros	euro	NOUN	_	_	25	nmod	_	SpaceAfter=No
 33	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
-34	mientras	mientras	SCONJ	_	_	44	mark	_	_
+34	mientras	mientras	SCONJ	_	ExtPos=SCONJ	44	mark	_	_
 35	que	que	CCONJ	_	_	34	fixed	_	_
 36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	negocio	negocio	NOUN	_	Gender=Masc|Number=Sing	44	nsubj	_	_
@@ -11907,7 +11907,7 @@
 23	precipitación	precipitación	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
 24	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	23	amod	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-26	ya	ya	ADV	_	_	28	mark	_	_
+26	ya	ya	ADV	_	ExtPos=SCONJ	28	mark	_	_
 27	que	que	CCONJ	_	_	26	fixed	_	_
 28	acumuló	acumular	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	_
 29	12	12	NUM	_	NumForm=Digit|NumType=Card	30	nummod	_	_
@@ -12118,7 +12118,7 @@
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
-11	a	a	ADP	_	_	15	mark	_	_
+11	a	a	ADP	_	ExtPos=SCONJ	15	mark	_	_
 12	no	no	ADV	_	_	11	fixed	_	_
 13	ser	ser	VERB	_	VerbForm=Inf	11	fixed	_	_
 14	que	que	CCONJ	_	_	11	fixed	_	_
@@ -12977,7 +12977,7 @@
 9	bajan	bajar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	automático	automático	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
-12	para	para	ADP	_	_	15	mark	_	_
+12	para	para	ADP	_	ExtPos=SCONJ	15	mark	_	_
 13	que	que	CCONJ	_	_	12	fixed	_	_
 14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
 15	gastes	gaste	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
@@ -13535,7 +13535,7 @@
 # sent_id = es-test-001-s300
 # text = Es como si los hubieran estado golpeando contra la pared durante horas.
 1	Es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	como	como	ADP	_	_	6	mark	_	_
+2	como	como	ADP	_	ExtPos=SCONJ	6	mark	_	_
 3	si	si	CCONJ	_	_	2	fixed	_	_
 4	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
 5	hubieran	haber	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
