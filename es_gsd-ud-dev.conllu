@@ -20530,7 +20530,7 @@
 
 # sent_id = es-dev-002-s200
 # text = Pucinskaite se adjudica también la clasificación de la montaña y Ljungskog, la de los puntos.
-1	Pucinskaite	pucinskaite	PROPN	_	_	3	nsubj	_	_
+1	Pucinskaite	Pucinskaite	PROPN	_	_	3	nsubj	_	_
 2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
 3	adjudica	adjudicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	también	también	ADV	_	_	3	advmod	_	_
@@ -20540,9 +20540,9 @@
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	montaña	montaña	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
 10	y	y	CCONJ	_	_	11	cc	_	_
-11	Ljungskog	ljungskog	PROPN	_	_	3	conj	_	SpaceAfter=No
+11	Ljungskog	Ljungskog	PROPN	_	_	3	conj	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	orphan	_	_
 14	de	de	ADP	_	_	16	case	_	_
 15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	puntos	punto	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	SpaceAfter=No
