@@ -578,7 +578,7 @@
 9	ser	ser	AUX	_	VerbForm=Inf	11	cop	_	_
 10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	artista	artista	NOUN	_	Number=Sing	8	xcomp	_	_
-12	lejos	lejos	ADV	_	_	15	case	_	_
+12	lejos	lejos	ADV	_	ExtPos=ADP	15	case	_	_
 13	de	de	ADP	_	_	12	fixed	_	_
 14	Nueva	nueva	PROPN	_	_	15	amod	_	_
 15	York	york	PROPN	_	_	11	nmod	_	SpaceAfter=No
@@ -2128,7 +2128,7 @@
 18	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	_
 19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	espía	espía	NOUN	_	Number=Sing	14	ccomp	_	_
-21	dentro	dentro	ADV	_	_	24	case	_	_
+21	dentro	dentro	ADV	_	ExtPos=ADP	24	case	_	_
 22-23	del	_	_	_	_	_	_	_	_
 22	de	de	ADP	_	_	21	fixed	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
@@ -2253,7 +2253,7 @@
 30	en	en	ADP	_	_	32	case	_	_
 31	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	bolsillo	bolsillo	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	_
-33	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	37	case	_	_
+33	gracias	gracia	NOUN	_	ExtPos=ADP|Gender=Fem|Number=Plur	37	case	_	_
 34	a	a	ADP	_	_	33	fixed	_	_
 35	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	37	det	_	_
 36	mágicos	mágico	ADJ	_	Gender=Masc|Number=Plur	37	amod	_	_
@@ -2902,7 +2902,7 @@
 18	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	difícil	difícil	ADJ	_	Number=Sing	20	amod	_	_
 20	convivencia	convivencia	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
-21	debido	deber	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	25	case	_	_
+21	debido	deber	VERB	_	ExtPos=ADP|Gender=Masc|Number=Sing|VerbForm=Part	25	case	_	_
 22	a	a	ADP	_	_	21	fixed	_	_
 23	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 24	mal	mal	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	_
@@ -2914,7 +2914,7 @@
 
 # sent_id = es-dev-004-s14
 # text = Alrededor del 9.30 % de la población estaba bajo el umbral de pobreza nacional.
-1	Alrededor	alrededor	ADV	_	_	5	case	_	_
+1	Alrededor	alrededor	ADV	_	ExtPos=ADP	5	case	_	_
 2-3	del	_	_	_	_	_	_	_	_
 2	de	de	ADP	_	_	1	fixed	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -3367,7 +3367,7 @@
 
 # sent_id = es-dev-004-s28
 # text = Gracias a la iteración Tunguska, el traje es lo suficientemente potente para alterar la configuración de las todas las nanoesporas.
-1	Gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	4	case	_	_
+1	Gracias	gracia	NOUN	_	ExtPos=ADP|Gender=Fem|Number=Plur	4	case	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	iteración	iteración	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
@@ -4047,7 +4047,7 @@
 
 # sent_id = es-dev-004-s51
 # text = Alrededor del 1.3 % de la población estaban por debajo del umbral de pobreza.
-1	Alrededor	alrededor	ADV	_	_	5	case	_	_
+1	Alrededor	alrededor	ADV	_	ExtPos=ADP	5	case	_	_
 2-3	del	_	_	_	_	_	_	_	_
 2	de	de	ADP	_	_	1	fixed	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -4058,7 +4058,7 @@
 8	población	población	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 9	estaban	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 10	por	por	ADP	_	_	14	case	_	_
-11	debajo	debajo	ADV	_	_	14	case	_	_
+11	debajo	debajo	ADV	_	ExtPos=ADP	14	case	_	_
 12-13	del	_	_	_	_	_	_	_	_
 12	de	de	ADP	_	_	11	fixed	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -4321,7 +4321,7 @@
 
 # sent_id = es-dev-004-s62
 # text = Después de los estudios de Roberval, Newton se percató de que el método de tangentes podía utilizarse para obtener las velocidades instantáneas de una trayectoria conocida.
-1	Después	después	ADV	_	_	4	case	_	_
+1	Después	después	ADV	_	ExtPos=ADP	4	case	_	_
 2	de	de	ADP	_	_	1	fixed	_	_
 3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	estudios	estudio	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
@@ -4386,7 +4386,7 @@
 30	Breugnot	breugnot	PROPN	_	Number=Sing	29	flat	_	_
 31	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	obl	_	_
 32	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	36	nmod	_	_
-33	antes	antes	ADV	_	_	36	case	_	_
+33	antes	antes	ADV	_	ExtPos=ADP	36	case	_	_
 34	de	de	ADP	_	_	33	fixed	_	_
 35	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
 36	muerte	muerte	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
@@ -9595,7 +9595,7 @@
 15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 16	estaban	estar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	parataxis	_	_
 17	por	por	ADP	_	_	21	case	_	_
-18	encima	encima	ADV	_	_	21	case	_	_
+18	encima	encima	ADV	_	ExtPos=ADP	21	case	_	_
 19-20	del	_	_	_	_	_	_	_	_
 19	de	de	ADP	_	_	18	fixed	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
