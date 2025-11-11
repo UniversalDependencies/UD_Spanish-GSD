@@ -25,6 +25,9 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2025-11-15 v2.17
+  * Added the ExtPos feature to fixed expressions.
+  * Fixed spurious dependents of determiners.
 * 2024-11-15 v2.15
   * Added PunctType and PunctSide to converge with AnCora.
   * Fixed Number and added Number[psor] to possessive determiners.
@@ -135,6 +138,7 @@ See https://github.com/ryanmcd/uni-dep-tb for more details
 Data available since: UD v1.0
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: blog news reviews wiki
 Lemmas: automatic
 UPOS: converted from manual
