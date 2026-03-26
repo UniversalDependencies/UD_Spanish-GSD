@@ -22,11 +22,11 @@
     <tag name="CCONJ">13786</tag><!-- y, o, pero, que, e, como, ni, sino, mientras, si -->
     <tag name="DET">60886</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">36</tag><!-- sí, salve -->
-    <tag name="NOUN">77583</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
+    <tag name="NOUN">77705</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
     <tag name="NUM">11062</tag><!-- dos, tres, 2010, 0, 3, cuatro, 1, 2, 10, 4 -->
     <tag name="PART">40</tag><!-- hola, ex, re, co, ir, l, no, not, abandono, adio -->
     <tag name="PRON">14046</tag><!-- él, que, yo, uno, este, cual, tú, quien, todo, otro -->
-    <tag name="PROPN">39238</tag><!-- san, unido, españa, juan, madrid, estados, josé, septiembre, julio, enero -->
+    <tag name="PROPN">39116</tag><!-- san, unido, españa, juan, madrid, estados, josé, septiembre, julio, enero -->
     <tag name="PUNCT">47529</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
     <tag name="SCONJ">8181</tag><!-- que, cuando, si, para, aunque, porque, como, mientras, pues, según -->
     <tag name="SYM">1660</tag><!-- %, ², km, $, º, °, €, h, m, ª -->
