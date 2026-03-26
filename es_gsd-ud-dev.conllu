@@ -6589,7 +6589,7 @@
 58	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	59	det	_	_
 59	9	9	NUM	_	NumForm=Digit|NumType=Card	45	obl	_	_
 60	de	de	ADP	_	_	61	case	_	_
-61	julio	julio	PROPN	_	_	59	nmod	_	_
+61	julio	julio	NOUN	_	_	59	nmod	_	_
 62	de	de	ADP	_	_	63	case	_	_
 63	2011	2011	NUM	_	NumForm=Digit|NumType=Card	61	nmod	_	_
 64	en	en	ADP	_	_	66	case	_	_
@@ -12536,7 +12536,7 @@
 4	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	5	punct	_	SpaceAfter=No
 5	21	21	NUM	_	NumForm=Digit|NumType=Card	1	nmod	_	_
 6	de	de	ADP	_	_	7	case	_	_
-7	julio	julio	PROPN	_	_	5	nmod	_	_
+7	julio	julio	NOUN	_	_	5	nmod	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	1934	1934	NUM	_	NumForm=Digit|NumType=Card	7	nmod	_	_
 10	--	--	PUNCT	_	_	11	punct	_	_
@@ -13496,7 +13496,7 @@
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	18	18	NUM	_	NumForm=Digit|NumType=Card	16	obl	_	_
 19	de	de	ADP	_	_	20	case	_	_
-20	julio	julio	PROPN	_	_	18	nmod	_	_
+20	julio	julio	NOUN	_	_	18	nmod	_	_
 21	de	de	ADP	_	_	22	case	_	_
 22	1975	1975	NUM	_	NumForm=Digit|NumType=Card	20	nmod	_	SpaceAfter=No
 23	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
@@ -16900,7 +16900,7 @@
 3	Nueva	nuevo	PROPN	_	_	4	amod	_	_
 4	Zelanda	zelanda	PROPN	_	_	1	conj	_	_
 5	entre	entre	ADP	_	_	6	case	_	_
-6	julio	julio	PROPN	_	_	1	nmod	_	_
+6	julio	julio	NOUN	_	_	1	nmod	_	_
 7	y	y	CCONJ	_	_	8	cc	_	_
 8	agosto	agosto	PROPN	_	_	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
@@ -17007,7 +17007,7 @@
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	mes	mes	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
 24	de	de	ADP	_	_	25	case	_	_
-25	Julio	julio	PROPN	_	_	23	nmod	_	_
+25	Julio	julio	NOUN	_	_	23	nmod	_	_
 26	a	a	ADP	_	_	28	case	_	_
 27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	Roma	roma	PROPN	_	_	16	obl:arg	_	_
@@ -19329,7 +19329,7 @@
 9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 10	7	7	NUM	_	NumForm=Digit|NumType=Card	6	appos	_	_
 11	de	de	ADP	_	_	12	case	_	_
-12	julio	julio	PROPN	_	_	10	nmod	_	_
+12	julio	julio	NOUN	_	_	10	nmod	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	1947	1947	NUM	_	NumForm=Digit|NumType=Card	12	nmod	_	SpaceAfter=No
 15	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	6	punct	_	SpaceAfter=No
@@ -26069,7 +26069,7 @@
 21	Cataluña	cataluña	PROPN	_	_	19	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 23	entre	entre	ADP	_	_	24	case	_	_
-24	julio	julio	PROPN	_	_	1	obl	_	_
+24	julio	julio	NOUN	_	_	1	obl	_	_
 25	y	y	CCONJ	_	_	26	cc	_	_
 26	septiembre	septiembre	PROPN	_	_	24	conj	_	_
 27	de	de	ADP	_	_	28	case	_	_
@@ -26117,7 +26117,7 @@
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	15	15	NUM	_	NumForm=Digit|NumType=Card	15	obl	_	_
 19	de	de	ADP	_	_	20	case	_	_
-20	Julio	julio	PROPN	_	_	18	nmod	_	SpaceAfter=No
+20	Julio	julio	NOUN	_	_	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 22	fecha	fecha	NOUN	_	Gender=Fem|Number=Sing	18	appos	_	_
 23	de	de	ADP	_	_	24	case	_	_
@@ -29216,7 +29216,7 @@
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	18	18	NUM	_	NumForm=Digit|NumType=Card	6	obl	_	_
 9	de	de	ADP	_	_	10	case	_	_
-10	julio	julio	PROPN	_	_	8	nmod	_	_
+10	julio	julio	NOUN	_	_	8	nmod	_	_
 11	de	de	ADP	_	_	12	case	_	_
 12	1868	1868	NUM	_	NumForm=Digit|NumType=Card	10	nmod	_	_
 13	en	en	ADP	_	_	15	case	_	_
@@ -32887,7 +32887,7 @@
 9	a	a	ADP	_	_	10	case	_	_
 10	mediados	mediado	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
 11	de	de	ADP	_	_	12	case	_	_
-12	julio	julio	PROPN	_	_	10	nmod	_	_
+12	julio	julio	NOUN	_	_	10	nmod	_	_
 13	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	17	punct	_	SpaceAfter=No
 14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	reservas	reserva	NOUN	_	Gender=Fem|Number=Plur	17	nsubj	_	_
@@ -34026,7 +34026,7 @@
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	29	29	NUM	_	NumForm=Digit|NumType=Card	9	conj	_	_
 13	de	de	ADP	_	_	14	case	_	_
-14	julio	julio	PROPN	_	_	9	nmod	_	SpaceAfter=No
+14	julio	julio	NOUN	_	_	9	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
@@ -36398,7 +36398,7 @@
 7	hoy	hoy	ADV	_	_	5	advmod	_	_
 8	27	27	NUM	_	NumForm=Digit|NumType=Card	7	appos	_	_
 9	de	de	ADP	_	_	10	case	_	_
-10	julio	julio	PROPN	_	_	8	nmod	_	_
+10	julio	julio	NOUN	_	_	8	nmod	_	_
 11	a	a	ADP	_	_	13	case	_	_
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	Gestores	gestores	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
@@ -40843,7 +40843,7 @@
 19	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 20	ya	ya	ADV	_	_	22	advmod	_	_
 21	en	en	ADP	_	_	22	case	_	_
-22	julio	julio	PROPN	_	_	28	nmod	_	SpaceAfter=No
+22	julio	julio	NOUN	_	_	28	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	trato	trato	NOUN	_	Gender=Masc|Number=Sing	28	nsubj	_	_
