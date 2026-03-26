@@ -1261,7 +1261,7 @@
 5	1	1	NUM	_	NumForm=Digit|NumType=Card	3	obl	_	_
 6	º	º	SYM	_	_	5	dep	_	_
 7	de	de	ADP	_	_	8	case	_	_
-8	agosto	agosto	PROPN	_	_	5	nmod	_	_
+8	agosto	agosto	NOUN	_	_	5	nmod	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	1938	1938	NUM	_	NumForm=Digit|NumType=Card	8	nmod	_	_
 11	en	en	ADP	_	_	12	case	_	_
@@ -1402,7 +1402,7 @@
 # sent_id = es-dev-001-s57
 # text = En agosto visita varios países de la OPEP con el fin de darle un papel más activo a la organización, también se destacó su entrevista con el líder Iraquí Saddam Hussein en Bagdad.
 1	En	en	ADP	_	_	2	case	_	_
-2	agosto	agosto	PROPN	_	_	3	obl	_	_
+2	agosto	agosto	NOUN	_	_	3	obl	_	_
 3	visita	visita	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
 5	países	país	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
@@ -7393,7 +7393,7 @@
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	27	27	NUM	_	NumForm=Digit|NumType=Card	17	obl	_	_
 20	de	de	ADP	_	_	21	case	_	_
-21	agosto	agosto	PROPN	_	_	19	nmod	_	_
+21	agosto	agosto	NOUN	_	_	19	nmod	_	_
 22-23	del	_	_	_	_	_	_	_	_
 22	de	de	ADP	_	_	24	case	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
@@ -15586,7 +15586,7 @@
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	4	4	NUM	_	NumForm=Digit|NumType=Card	1	obl	_	_
 10	de	de	ADP	_	_	11	case	_	_
-11	agosto	agosto	PROPN	_	_	9	nmod	_	_
+11	agosto	agosto	NOUN	_	_	9	nmod	_	_
 12	en	en	ADP	_	_	14	case	_	_
 13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	partido	partido	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -16902,7 +16902,7 @@
 5	entre	entre	ADP	_	_	6	case	_	_
 6	julio	julio	NOUN	_	_	1	nmod	_	_
 7	y	y	CCONJ	_	_	8	cc	_	_
-8	agosto	agosto	PROPN	_	_	6	conj	_	SpaceAfter=No
+8	agosto	agosto	NOUN	_	_	6	conj	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 11	mini	mini	ADJ	_	_	12	amod	_	_
@@ -18510,7 +18510,7 @@
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	16	16	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
 14	de	de	ADP	_	_	15	case	_	_
-15	agosto	agosto	PROPN	_	_	13	nmod	_	SpaceAfter=No
+15	agosto	agosto	NOUN	_	_	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 17	entrando	entrar	VERB	_	VerbForm=Ger	2	advcl	_	_
 18	en	en	ADP	_	_	20	case	_	_
@@ -27005,7 +27005,7 @@
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	treinta	treinta	NUM	_	Number=Sing|NumForm=Word|NumType=Card	3	obl	_	_
 8	de	de	ADP	_	_	9	case	_	_
-9	agosto	agosto	PROPN	_	_	7	nmod	_	SpaceAfter=No
+9	agosto	agosto	NOUN	_	_	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 11	cuando	cuando	SCONJ	_	_	14	mark	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -29131,7 +29131,7 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	3	3	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
 6	de	de	ADP	_	_	7	case	_	_
-7	agosto	agosto	PROPN	_	_	5	nmod	_	_
+7	agosto	agosto	NOUN	_	_	5	nmod	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	2006	2006	NUM	_	NumForm=Digit|NumType=Card	7	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
@@ -29679,7 +29679,7 @@
 29	próximo	próximo	ADJ	_	Gender=Masc|Number=Sing	30	amod	_	_
 30	1	1	NUM	_	NumForm=Digit|NumType=Card	26	obl	_	_
 31	de	de	ADP	_	_	32	case	_	_
-32	agosto	agosto	PROPN	_	_	30	nmod	_	SpaceAfter=No
+32	agosto	agosto	NOUN	_	_	30	nmod	_	SpaceAfter=No
 33	.	.	PUNCT	_	PunctType=Peri	18	punct	_	_
 
 # sent_id = es-dev-002-s489

@@ -6201,7 +6201,7 @@
 # sent_id = es-test-001-s50
 # text = En agosto de 2006, líderes sindicales de la EPA acusaron a las autoridades del organismo de ceder ante la presión política y permitir el uso de químicos perjudiciales.
 1	En	en	ADP	_	_	2	case	_	_
-2	agosto	agosto	PROPN	_	_	11	obl	_	_
+2	agosto	agosto	NOUN	_	_	11	obl	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	2006	2006	NUM	_	NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
@@ -8713,7 +8713,7 @@
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	mes	mes	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
 28	de	de	ADP	_	_	29	case	_	_
-29	agosto	agosto	PROPN	_	_	27	nmod	_	_
+29	agosto	agosto	NOUN	_	_	27	nmod	_	_
 30-31	del	_	_	_	_	_	_	_	_
 30	de	de	ADP	_	_	32	case	_	_
 31	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
