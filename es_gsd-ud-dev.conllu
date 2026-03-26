@@ -2522,7 +2522,7 @@
 19	precisamente	precisamente	ADV	_	_	10	advmod	_	_
 20	en	en	ADP	_	_	22	case	_	_
 21	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	domingo	domingo	PROPN	_	_	19	nmod	_	_
+22	domingo	domingo	NOUN	_	_	19	nmod	_	_
 23	triste	triste	ADJ	_	Number=Sing	22	amod	_	SpaceAfter=No
 24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 

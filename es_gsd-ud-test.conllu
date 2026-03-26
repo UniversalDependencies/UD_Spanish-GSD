@@ -3257,7 +3257,7 @@
 41	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	42	obj	_	_
 42	realiza	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	parataxis	_	_
 43	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
-44	domingo	domingo	PROPN	_	_	42	obl	_	_
+44	domingo	domingo	NOUN	_	_	42	obl	_	_
 45	de	de	ADP	_	_	46	case	_	_
 46	carnaval	carnaval	NOUN	_	Gender=Masc|Number=Sing	44	nmod	_	SpaceAfter=No
 47	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
@@ -7095,7 +7095,7 @@
 7	enamorados	enamorado	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
 8	coincide	coincidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
 9	en	en	ADP	_	_	10	case	_	_
-10	domingo	domingo	PROPN	_	_	8	obl	_	SpaceAfter=No
+10	domingo	domingo	NOUN	_	_	8	obl	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	firma	firma	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
@@ -11467,7 +11467,7 @@
 2	mensaje	mensaje	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
 3	pronunciado	pronunciar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	domingo	domingo	PROPN	_	_	3	obl	_	_
+5	domingo	domingo	NOUN	_	_	3	obl	_	_
 6	por	por	ADP	_	_	7	case	_	_
 7	Humberto	humberto	PROPN	_	_	3	obl:agent	_	_
 8	Moreira	moreira	PROPN	_	_	7	flat	_	_
@@ -13140,7 +13140,7 @@
 20	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 21	aunque	aunque	SCONJ	_	_	39	mark	_	_
 22	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
-23	domingos	domingo	PROPN	_	Gender=Masc|Number=Plur	39	obl	_	SpaceAfter=No
+23	domingos	domingo	NOUN	_	Gender=Masc|Number=Plur	39	obl	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 25	cuando	cuando	SCONJ	_	_	26	mark	_	_
 26	lleve	llevar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	advcl	_	_
