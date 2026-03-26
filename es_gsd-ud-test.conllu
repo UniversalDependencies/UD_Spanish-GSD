@@ -548,7 +548,7 @@
 2	temperatura	temperatura	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	media	medio	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	_	_	5	case	_	_
-5	enero	enero	PROPN	_	_	2	nmod	_	_
+5	enero	enero	NOUN	_	_	2	nmod	_	_
 6	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	de	de	ADP	_	_	10	case	_	_
 8	1,6	1.6	NUM	_	NumForm=Digit|NumType=Card	10	nummod	_	_
@@ -640,7 +640,7 @@
 25	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
 26	municipales	municipal	NOUN	_	Number=Plur	19	obj	_	_
 27	de	de	ADP	_	_	28	case	_	_
-28	mayo	mayo	PROPN	_	_	26	nmod	_	SpaceAfter=No
+28	mayo	mayo	NOUN	_	_	26	nmod	_	SpaceAfter=No
 29	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-003-s437
@@ -1176,7 +1176,7 @@
 5	:	:	PUNCT	_	PunctType=Colo	6	punct	_	_
 6	3	3	NUM	_	NumForm=Digit|NumType=Card	1	parataxis	_	_
 7	de	de	ADP	_	_	8	case	_	_
-8	febrero	febrero	PROPN	_	_	6	nmod	_	SpaceAfter=No
+8	febrero	febrero	NOUN	_	_	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 10	sede	sede	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
 11	y	y	CCONJ	_	_	13	cc	_	_
@@ -1642,7 +1642,7 @@
 # text = Allá por marzo supimos que tarde o temprano los usuarios del N900 contarían con arranque dual, de forma que pudieran escoger entre la nueva experiencia MeeGo o seguir con el conocido Maemo.
 1	Allá	allá	ADV	_	_	4	advmod	_	_
 2	por	por	ADP	_	_	3	case	_	_
-3	marzo	marzo	PROPN	_	_	1	nmod	_	_
+3	marzo	marzo	NOUN	_	_	1	nmod	_	_
 4	supimos	saber	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 5	que	que	SCONJ	_	_	14	mark	_	_
 6	tarde	tarde	ADV	_	_	14	advmod	_	_
@@ -1798,7 +1798,7 @@
 37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
 38	17	17	NUM	_	NumForm=Digit|NumType=Card	35	obl	_	_
 39	de	de	ADP	_	_	40	case	_	_
-40	diciembre	diciembre	PROPN	_	_	38	nmod	_	_
+40	diciembre	diciembre	NOUN	_	_	38	nmod	_	_
 41	de	de	ADP	_	_	42	case	_	_
 42	1862	1862	NUM	_	NumForm=Digit|NumType=Card	40	nmod	_	SpaceAfter=No
 43	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -2005,7 +2005,7 @@
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	19	19	NUM	_	NumForm=Digit|NumType=Card	7	obl	_	_
 3	de	de	ADP	_	_	4	case	_	_
-4	mayo	mayo	PROPN	_	_	2	nmod	_	_
+4	mayo	mayo	NOUN	_	_	2	nmod	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	2000	2000	NUM	_	NumForm=Digit|NumType=Card	4	nmod	_	_
 7	debuta	debutar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -3152,7 +3152,7 @@
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	7	7	NUM	_	NumForm=Digit|NumType=Card	5	nmod	_	_
 9	de	de	ADP	_	_	10	case	_	_
-10	febrero	febrero	PROPN	_	_	8	nmod	_	_
+10	febrero	febrero	NOUN	_	_	8	nmod	_	_
 11	y	y	CCONJ	_	_	13	cc	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	St.	st.	PROPN	_	_	5	conj	_	_
@@ -3161,7 +3161,7 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	29	29	NUM	_	NumForm=Digit|NumType=Card	13	nmod	_	_
 18	de	de	ADP	_	_	19	case	_	_
-19	junio	junio	PROPN	_	_	17	nmod	_	_
+19	junio	junio	NOUN	_	_	17	nmod	_	_
 20	de	de	ADP	_	_	21	case	_	_
 21	1679	1679	NUM	_	NumForm=Digit|NumType=Card	19	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
@@ -3410,7 +3410,7 @@
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	13	13	NUM	_	NumForm=Digit|NumType=Card	3	nmod	_	_
 17	de	de	ADP	_	_	18	case	_	_
-18	enero	enero	PROPN	_	_	16	nmod	_	_
+18	enero	enero	NOUN	_	_	16	nmod	_	_
 19	de	de	ADP	_	_	20	case	_	_
 20	1945	1945	NUM	_	NumForm=Digit|NumType=Card	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
@@ -4085,7 +4085,7 @@
 # sent_id = es-dev-004-s53
 # text = En enero de 2010 El Paraje cuenta con un padrón de 393 habitantes, lo que la convierten en la pedanía más poblada del municipio.
 1	En	en	ADP	_	_	2	case	_	_
-2	enero	enero	PROPN	_	_	7	obl	_	_
+2	enero	enero	NOUN	_	_	7	obl	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	2010	2010	NUM	_	NumForm=Digit|NumType=Card	2	nmod	_	_
 5	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -4292,7 +4292,7 @@
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	26	26	NUM	_	NumForm=Digit|NumType=Card	13	obl	_	_
 4	de	de	ADP	_	_	5	case	_	_
-5	septiembre	septiembre	PROPN	_	_	3	nmod	_	_
+5	septiembre	septiembre	NOUN	_	_	3	nmod	_	_
 6-7	del	_	_	_	_	_	_	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -5898,7 +5898,7 @@
 12	por	por	ADP	_	_	11	fixed	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	obl	_	_
 14	en	en	ADP	_	_	15	case	_	_
-15	Junio	junio	PROPN	_	_	10	obl	_	_
+15	Junio	junio	NOUN	_	_	10	obl	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	2011	2011	NUM	_	NumForm=Digit|NumType=Card	15	nmod	_	_
 18	/	/	PUNCT	_	PunctType=Colo	19	punct	_	_
@@ -9461,7 +9461,7 @@
 21	sábado	sábado	NOUN	_	_	19	obl	_	_
 22	30	30	NUM	_	NumForm=Digit|NumType=Card	21	appos	_	_
 23	de	de	ADP	_	_	24	case	_	_
-24	enero	enero	PROPN	_	_	22	nmod	_	SpaceAfter=No
+24	enero	enero	NOUN	_	_	22	nmod	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 # sent_id = es-test-001-s139
@@ -10901,7 +10901,7 @@
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	3	3	NUM	_	NumForm=Digit|NumType=Card	7	obl	_	_
 10	de	de	ADP	_	_	11	case	_	_
-11	abril	abril	PROPN	_	_	9	nmod	_	SpaceAfter=No
+11	abril	abril	NOUN	_	_	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 13	concede	conceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 14	8,1	8.1	NUM	_	NumForm=Digit|NumType=Card	15	nummod	_	_
@@ -10967,7 +10967,7 @@
 42	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 43	11	11	NUM	_	NumForm=Digit|NumType=Card	40	nmod	_	_
 44	de	de	ADP	_	_	45	case	_	_
-45	mayo	mayo	PROPN	_	_	43	nmod	_	SpaceAfter=No
+45	mayo	mayo	NOUN	_	_	43	nmod	_	SpaceAfter=No
 46	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-test-001-s175
@@ -11877,7 +11877,7 @@
 41	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	42	amod	_	_
 42	mes	mes	NOUN	_	Gender=Masc|Number=Sing	32	obl	_	_
 43	de	de	ADP	_	_	44	case	_	_
-44	enero	enero	PROPN	_	_	42	nmod	_	SpaceAfter=No
+44	enero	enero	NOUN	_	_	42	nmod	_	SpaceAfter=No
 45	.	.	PUNCT	_	PunctType=Peri	32	punct	_	_
 
 # sent_id = es-test-001-s198
@@ -13202,7 +13202,7 @@
 3	a	a	ADP	_	_	4	case	_	_
 4	principios	principio	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
 5	de	de	ADP	_	_	6	case	_	_
-6	enero	enero	PROPN	_	_	4	nmod	_	_
+6	enero	enero	NOUN	_	_	4	nmod	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	2011	2011	NUM	_	NumForm=Digit|NumType=Card	6	nmod	_	_
 9	y	y	CCONJ	_	_	13	cc	_	_
