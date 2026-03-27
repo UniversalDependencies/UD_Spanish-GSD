@@ -23211,7 +23211,7 @@
 # sent_id = es-dev-002-s283
 # text = El Domingo de Resurrección o Pascua se hace a medio día la misa de resurrección donde concurre un importante número de personas, las cuales pasada la misa acompañan a una imagen "Jesús Cristo Resucitado" por las calles del pueblo, esta dura unas cinco horas y es costumbre de muchos vecinos hacer toda la travesía, que recorre el antiguo confín del pueblo, esta procesión se caracteriza por dejar una marca de pétalos de flores que indica el camino de Jesús y por que los acompañantes llevan cañas de azúcar con todo y hojas las cuales deben servir para adornar la marcha, muchas de las calles son adornadas con guirnaldas que son puestas por los vecinos, con una multitud de diseños de los más creativo.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	Domingo	domingo	PROPN	_	Gender=Masc|Number=Sing	8	obl	_	_
+2	Domingo	domingo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Resurrección	resurrección	NOUN	_	_	2	nmod	_	_
 5	o	o	CCONJ	_	_	6	cc	_	_
