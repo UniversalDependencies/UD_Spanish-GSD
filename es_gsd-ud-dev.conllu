@@ -15949,7 +15949,7 @@
 11-12	al	_	_	_	_	_	_	_	_
 11	a	a	ADP	_	_	14	mark	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	14	cop	_	_
+13	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	14	cop	_	_
 14	zona	zona	NOUN	_	Gender=Fem|Number=Sing	2	advcl	_	_
 15	en	en	ADP	_	_	16	case	_	_
 16	que	que	PRON	_	PronType=Rel	17	obl	_	_
@@ -20576,7 +20576,7 @@
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	_	_	9	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	9	aux:pass	_	_
+8	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	9	aux:pass	_	_
 9	nombrado	nombrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
 10	Kapellmeister	kapellmeister	PROPN	_	_	9	obj	_	_
 11	de	de	ADP	_	_	13	case	_	_
@@ -24035,7 +24035,7 @@
 27	ya	ya	ADV	_	_	28	advmod	_	_
 28	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	22	acl:relcl	_	_
 29	que	que	SCONJ	_	_	31	mark	_	_
-30	esta	estar	AUX	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Fin	31	aux	_	CorrectForm=está
+30	esta	estar	AUX	_	Number=Sing|Typo=Yes|VerbForm=Fin	31	aux	_	CorrectForm=está
 31	apartado	apartar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	28	csubj:pass	_	_
 32	por	por	ADP	_	_	35	case	_	_
 33	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
@@ -33390,7 +33390,7 @@
 40-41	al	_	_	_	_	_	_	_	_
 40	a	a	ADP	_	_	44	case	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
-42	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	43	aux:pass	_	_
+42	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	43	aux:pass	_	_
 43	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
 44	negro	negro	ADJ	_	Gender=Masc|Number=Sing	43	xcomp	_	SpaceAfter=No
 45	.	.	PUNCT	_	PunctType=Peri	27	punct	_	_
