@@ -1012,7 +1012,7 @@
 26	cuando	cuando	SCONJ	_	_	29	mark	_	_
 27	éste	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	29	nsubj	_	_
 28	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	29	obj	_	_
-29	patea	patea	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	25	advcl	_	_
+29	patea	patear	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	25	advcl	_	_
 30	con	con	ADP	_	_	32	case	_	_
 31	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	pie	pie	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	SpaceAfter=No
@@ -2630,7 +2630,7 @@
 35	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 36	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	_	_
 37	cuales	cual	PRON	_	Number=Plur|PronType=Rel	38	obj	_	_
-38	considero	considero	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	conj	_	_
+38	considero	considerar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	conj	_	_
 39	muy	mucho	ADV	_	_	40	advmod	_	_
 40	importantes	importante	ADJ	_	Number=Plur	38	xcomp	_	_
 41	por	por	ADP	_	_	43	case	_	_
@@ -4041,7 +4041,7 @@
 15	Sông	sông	X	_	_	16	compound	_	_
 16	Hương	hương	X	_	_	14	appos	_	_
 17	o	o	CCONJ	_	_	18	cc	_	_
-18	río	río	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	14	conj	_	_
+18	río	reír	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	14	conj	_	_
 19	Perfume	perfume	PROPN	_	_	18	nsubj	_	SpaceAfter=No
 20	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
@@ -4562,7 +4562,7 @@
 42	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 43	producto	producto	NOUN	_	Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
 44	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
-45	cambias	cambia	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	38	conj	_	_
+45	cambias	cambiar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	38	conj	_	_
 46	de	de	ADP	_	_	47	case	_	_
 47	opinión	opinión	NOUN	_	Gender=Fem|Number=Sing	45	obl	_	_
 48	sobre	sobre	ADP	_	_	50	case	_	_
@@ -5369,7 +5369,7 @@
 109	fiscales	fiscal	NOUN	_	Number=Plur	107	conj	_	_
 110	que	que	SCONJ	_	_	112	mark	_	_
 111	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	112	obj	_	_
-112	juzgan	juzgan	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	107	acl:relcl	_	_
+112	juzgan	juzgar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	107	acl:relcl	_	_
 113	desde	desde	ADP	_	_	115	case	_	_
 114	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	115	det	_	_
 115	punto	punto	NOUN	_	Gender=Masc|Number=Sing	112	obl	_	_
@@ -5456,7 +5456,7 @@
 # text = Una vez electos, los referentes de la oposición al Gobierno Radical K, parecieran olvidar este tipo de escandalos y unirse al circulo corrupto del poder.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-3	electos	electo	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	16	advcl	_	SpaceAfter=No
+3	electos	eligir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	16	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	referentes	referente	NOUN	_	Number=Plur	16	nsubj	_	_
@@ -6145,7 +6145,7 @@
 1	ASI	asi	ADV	_	ExtPos=ADV	4	advmod	_	_
 2	MISMO	mismo	ADV	_	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
-4	BUSCAMOS	buscamos	VERB	_	VerbForm=Fin	0	root	_	_
+4	BUSCAMOS	buscar	VERB	_	VerbForm=Fin	0	root	_	_
 5	LA	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	DENUNCIA	denuncia	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	DE	de	ADP	_	_	9	case	_	_
@@ -6168,7 +6168,7 @@
 24	CON	con	ADP	_	_	27	case	_	_
 25	QUIEN	quien	PRON	_	Number=Sing|PronType=Rel	27	nsubj	_	_
 26	LO	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	_	_
-27	SUFRA	sufra	VERB	_	VerbForm=Fin	23	advcl	_	_
+27	SUFRA	sufrir	VERB	_	VerbForm=Fin	23	advcl	_	_
 28	EN	en	ADP	_	_	31	case	_	_
 29	TODOS	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	31	det	_	_
 30	SUS	sus	DET	_	Number=Sing|Poss=Yes|PronType=Prs	31	det	_	_
@@ -6499,7 +6499,7 @@
 
 # sent_id = es-test-001-s59
 # text = Arranca en Australia el Mundial de Fórmula 1 y con la primera carrera ya tenemos los primeros análisis y sorpresas del campeonato.
-1	Arranca	arranca	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Arranca	arrancar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	Australia	australia	PROPN	_	_	1	obl	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -6533,7 +6533,7 @@
 3	tranquilo	tranquilo	ADJ	_	Gender=Masc|Number=Sing	1	xcomp	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 5-6	rendite	_	_	_	_	_	_	_	CorrectForm=réndite|SpaceAfter=No
-5	rendi	rendi	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
+5	rendi	rendir	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
 6	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	5	obl:arg	_	_
 7	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
@@ -6560,7 +6560,7 @@
 27	de	de	ADP	_	_	28	case	_	_
 28	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	25	obl	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-30	seguí	seguí	VERB	_	VerbForm=Fin	1	parataxis	_	_
+30	seguí	seguir	VERB	_	VerbForm=Fin	1	parataxis	_	_
 31	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	32	det	_	_
 32	vida	vida	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	SpaceAfter=No
 33	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
@@ -9370,7 +9370,7 @@
 # text = Si nos centramos en la tasa anual, la nueva construcción aumentó a 560.000 unidades desde las 541.000 anteriores.
 1	Si	si	SCONJ	_	_	3	mark	_	_
 2	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
-3	centramos	centramo	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+3	centramos	centrar	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 4	en	en	ADP	_	_	6	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	tasa	tasa	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
@@ -9466,7 +9466,7 @@
 
 # sent_id = es-test-001-s139
 # text = Arraigadas aquí por los monjes agustinos tras la Conquista (1519-1521), estas fiestas han cambiado con el paso del tiempo.
-1	Arraigadas	arraigada	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	15	acl	_	_
+1	Arraigadas	arraigar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	15	acl	_	_
 2	aquí	aquí	ADV	_	_	1	advmod	_	_
 3	por	por	ADP	_	_	5	case	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
@@ -9562,7 +9562,7 @@
 1	"	"	PUNCT	_	PunctType=Quot	4	punct	_	SpaceAfter=No
 2	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 3	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
-4	enamoro	enamoro	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
+4	enamoro	enamorar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
 5	quince	quince	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
 6	o	o	CCONJ	_	_	7	cc	_	_
 7	veinte	veinte	NUM	_	Number=Plur|NumForm=Word|NumType=Card	5	conj	_	_
@@ -10635,7 +10635,7 @@
 16	utilizar	utilizar	VERB	_	VerbForm=Inf	15	xcomp	_	_
 17	y	y	CCONJ	_	_	19	cc	_	_
 18	las	él	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	19	obj	_	_
-19	subimos	subimo	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	11	conj	_	_
+19	subimos	subir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	11	conj	_	_
 20	a	a	ADP	_	_	21	case	_	_
 21	Reel	reel	PROPN	_	_	19	obl	_	SpaceAfter=No
 22	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -10787,7 +10787,7 @@
 60	si	si	SCONJ	_	_	63	mark	_	_
 61	no	no	ADV	_	Polarity=Neg	63	advmod	_	_
 62	os	tú	PRON	_	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	63	obl:arg	_	_
-63	decidís	decidí	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	57	advcl	_	_
+63	decidís	decidir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	57	advcl	_	_
 64	por	por	ADP	_	_	65	case	_	_
 65	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	63	obl	_	_
 66	u	u	CCONJ	_	_	67	cc	_	_
@@ -10843,7 +10843,7 @@
 # sent_id = es-test-001-s171
 # text = Dime qué perro tienes y te diré que cazador eres'.
 1-2	Dime	_	_	_	_	_	_	_	_
-1	Di	di	VERB	_	VerbForm=Fin	0	root	_	_
+1	Di	dar	VERB	_	VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	qué	qué	DET	_	Number=Sing|PronType=Int	4	det	_	_
 4	perro	perro	NOUN	_	Number=Sing	5	obj	_	_
@@ -11023,7 +11023,7 @@
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	Administración	administración	NOUN	_	_	15	nsubj	_	_
 14	"	"	PUNCT	_	PunctType=Quot	15	punct	_	SpaceAfter=No
-15	pagase	pagase	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	csubj	_	SpaceAfter=No
+15	pagase	pagar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	csubj	_	SpaceAfter=No
 16	"	"	PUNCT	_	PunctType=Quot	15	punct	_	_
 17	y	y	CCONJ	_	_	19	cc	_	_
 18	"	"	PUNCT	_	PunctType=Quot	19	punct	_	SpaceAfter=No
@@ -12148,7 +12148,7 @@
 16	AREAS	área	NOUN	_	Typo=Yes	14	nmod	_	CorrectForm=ÁREAS|SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 18	OS	tú	PRON	_	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	19	obl:arg	_	_
-19	ECHO	echo	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
+19	ECHO	echar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 20	LA	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	MALDICION	maldicion	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	_
 22	DE	de	ADP	_	_	24	case	_	_
@@ -12157,7 +12157,7 @@
 25	QUE	que	SCONJ	_	_	28	mark	_	_
 26	SE	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl:pv	_	_
 27	OS	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	28	obl:arg	_	_
-28	GIRE	gire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	ccomp	_	_
+28	GIRE	girar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	ccomp	_	_
 29	TODO	todo	PRON	_	PronType=Tot	28	nsubj	_	_
 30	EN	en	ADP	_	_	32	case	_	_
 31	LA	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
@@ -12251,7 +12251,7 @@
 1	Super	super	ADV	_	_	2	advmod	_	_
 2	recomendable	recomendable	ADJ	_	Number=Sing	0	root	_	_
 3	si	si	SCONJ	_	_	4	mark	_	_
-4	buscáis	buscáis	VERB	_	VerbForm=Ger	2	advcl	_	_
+4	buscáis	buscar	VERB	_	VerbForm=Ger	2	advcl	_	_
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	sitio	sitio	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	en	en	ADP	_	_	9	case	_	_
@@ -12651,7 +12651,7 @@
 # text = ESTE BALNEARIO TIENE TODO TIPO DE TRATAMIENTOS TERMALES AGUAS SULFUROSAS Y DEALES PARA RELAJARSE Y PARA LA PIEL
 1	ESTE	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	BALNEARIO	balneario	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	TIENE	tiene	VERB	_	VerbForm=Fin	0	root	_	_
+3	TIENE	tener	VERB	_	VerbForm=Fin	0	root	_	_
 4	TODO	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
 5	TIPO	tipo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 6	DE	de	ADP	_	_	7	case	_	_
@@ -12983,7 +12983,7 @@
 15	gastes	gaste	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 16	luz	luz	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
 17	y	y	CCONJ	_	_	18	cc	_	_
-18	abras	abra	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	15	conj	_	_
+18	abras	abrir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	15	conj	_	_
 19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	ventanas	ventana	NOUN	_	Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
@@ -13156,7 +13156,7 @@
 36	y	y	CCONJ	_	_	37	cc	_	_
 37	bus	bus	NOUN	_	Gender=Masc|Number=Sing	35	conj	_	SpaceAfter=No
 38	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-39	irás	irás	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	2	advcl	_	_
+39	irás	ir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	2	advcl	_	_
 40	tan	tanto	ADV	_	_	41	advmod	_	_
 41	apretado	apretado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	xcomp	_	_
 42	que	que	CCONJ	_	_	44	case	_	_
