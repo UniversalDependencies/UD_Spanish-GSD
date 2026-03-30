@@ -1012,7 +1012,7 @@
 26	cuando	cuando	SCONJ	_	_	29	mark	_	_
 27	éste	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	29	nsubj	_	_
 28	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	29	obj	_	_
-29	patea	patear	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	25	advcl	_	_
+29	patea	patear	VERB	_	Number=Sing|VerbForm=Fin	25	advcl	_	_
 30	con	con	ADP	_	_	32	case	_	_
 31	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	pie	pie	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	SpaceAfter=No
@@ -3850,7 +3850,7 @@
 9	patrones	patrón	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nsubj	_	_
-12	tuvo	tener	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+12	tuvo	tener	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 13	que	que	CCONJ	_	_	14	mark	_	_
 14	trabajar	trabajar	VERB	_	VerbForm=Inf	12	xcomp	_	_
 15	también	también	ADV	_	_	12	advmod	_	_
@@ -4005,7 +4005,7 @@
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 25	arboreto	arboreto	NOUN	_	Gender=Masc|Number=Sing	23	conj	_	_
 26	y	y	CCONJ	_	_	27	cc	_	_
-27	jardín	jardín	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	23	conj	_	_
+27	jardín	jardín	VERB	_	Number=Sing|VerbForm=Fin	23	conj	_	_
 28	botánico	botánico	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
 29	en	en	ADP	_	_	31	case	_	_
 30	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
@@ -4041,7 +4041,7 @@
 15	Sông	sông	X	_	_	16	compound	_	_
 16	Hương	hương	X	_	_	14	appos	_	_
 17	o	o	CCONJ	_	_	18	cc	_	_
-18	río	reír	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	14	conj	_	_
+18	río	reír	VERB	_	Number=Sing|VerbForm=Fin	14	conj	_	_
 19	Perfume	perfume	PROPN	_	_	18	nsubj	_	SpaceAfter=No
 20	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
@@ -4562,7 +4562,7 @@
 42	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 43	producto	producto	NOUN	_	Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
 44	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
-45	cambias	cambiar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	38	conj	_	_
+45	cambias	cambiar	VERB	_	Number=Plur|VerbForm=Fin	38	conj	_	_
 46	de	de	ADP	_	_	47	case	_	_
 47	opinión	opinión	NOUN	_	Gender=Fem|Number=Sing	45	obl	_	_
 48	sobre	sobre	ADP	_	_	50	case	_	_
@@ -6499,7 +6499,7 @@
 
 # sent_id = es-test-001-s59
 # text = Arranca en Australia el Mundial de Fórmula 1 y con la primera carrera ya tenemos los primeros análisis y sorpresas del campeonato.
-1	Arranca	arrancar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Arranca	arrancar	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	Australia	australia	PROPN	_	_	1	obl	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -10847,7 +10847,7 @@
 2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	qué	qué	DET	_	Number=Sing|PronType=Int	4	det	_	_
 4	perro	perro	NOUN	_	Number=Sing	5	obj	_	_
-5	tienes	tener	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	1	ccomp	_	_
+5	tienes	tener	VERB	_	Number=Plur|VerbForm=Fin	1	ccomp	_	_
 6	y	y	CCONJ	_	_	8	cc	_	_
 7	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
 8	diré	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
@@ -11259,7 +11259,7 @@
 14-15	al	_	_	_	_	_	_	_	_
 14	a	a	ADP	_	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	carecer	carecer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	24	advcl	_	_
+16	carecer	carecer	VERB	_	Number=Sing|VerbForm=Fin	24	advcl	_	_
 17	de	de	ADP	_	_	19	case	_	_
 18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	mismos	mismo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	16	obl	_	SpaceAfter=No
@@ -11416,7 +11416,7 @@
 14	aprendieron	aprender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	saber	saber	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	10	appos	_	_
+17	saber	saber	VERB	_	Number=Sing|VerbForm=Fin	10	appos	_	_
 18	como	como	ADV	_	_	19	advmod	_	_
 19	coger	coger	VERB	_	VerbForm=Inf	17	xcomp	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -12346,7 +12346,7 @@
 
 # sent_id = es-test-001-s216
 # text = Vuelvo a repetir: buen servicio y buena atención.
-1	Vuelvo	volver	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Vuelvo	volver	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	repetir	repetir	VERB	_	VerbForm=Inf	1	xcomp	_	SpaceAfter=No
 4	:	:	PUNCT	_	PunctType=Colo	6	punct	_	_
@@ -12567,7 +12567,7 @@
 # text = Al final comimos de mala gana porque no te queda más remedio o te vas a las 15:00 a buscar otro sitio, que en Pelegrina no hay y después de quejarnos y de montarle un medio follón no nos cobraron la comida.
 1	Al	al	ADP	_	_	2	case	_	_
 2	final	final	NOUN	_	Number=Sing	3	obl	_	_
-3	comimos	comer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	0	root	_	_
+3	comimos	comer	VERB	_	Number=Plur|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	mala	malo	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 6	gana	ganar	NOUN	_	Number=Sing	3	obl	_	_
@@ -12579,7 +12579,7 @@
 12	remedio	remedio	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
 13	o	o	CCONJ	_	_	15	cc	_	_
 14	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	15	obl:arg	_	_
-15	vas	ir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	10	conj	_	_
+15	vas	ir	VERB	_	Number=Plur|VerbForm=Fin	10	conj	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
 18	15:00	15:00	NUM	_	NumForm=Digit|NumType=Card	15	obl	_	_
@@ -12983,7 +12983,7 @@
 15	gastes	gaste	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 16	luz	luz	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
 17	y	y	CCONJ	_	_	18	cc	_	_
-18	abras	abrir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	15	conj	_	_
+18	abras	abrir	VERB	_	Number=Plur|VerbForm=Fin	15	conj	_	_
 19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	ventanas	ventana	NOUN	_	Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
@@ -13156,7 +13156,7 @@
 36	y	y	CCONJ	_	_	37	cc	_	_
 37	bus	bus	NOUN	_	Gender=Masc|Number=Sing	35	conj	_	SpaceAfter=No
 38	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-39	irás	ir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	2	advcl	_	_
+39	irás	ir	VERB	_	Number=Sing|VerbForm=Fin	2	advcl	_	_
 40	tan	tanto	ADV	_	_	41	advmod	_	_
 41	apretado	apretado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	xcomp	_	_
 42	que	que	CCONJ	_	_	44	case	_	_
