@@ -293,7 +293,7 @@
 22	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 23	a	a	ADP	_	_	25	case	_	_
 24	que	que	SCONJ	_	_	25	mark	_	_
-25	maneje	manejar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	8	advcl	_	_
+25	maneje	manejar	VERB	_	Number=Sing|VerbForm=Fin	8	advcl	_	_
 26	de	de	ADP	_	_	27	case	_	_
 27	manera	manera	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	_
 28	profesional	profesional	ADJ	_	Number=Sing	27	amod	_	_
@@ -384,7 +384,7 @@
 17	de	de	ADP	_	_	20	case	_	_
 18	que	que	SCONJ	_	_	20	mark	_	_
 19	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
-20	retire	retirar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	13	advcl	_	SpaceAfter=No
+20	retire	retirar	VERB	_	Number=Sing|VerbForm=Fin	13	advcl	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-001-s16
@@ -1493,7 +1493,7 @@
 2	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	3	det	_	_
 3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 4	que	que	SCONJ	_	_	5	mark	_	_
-5	necesitas	necesitar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	3	acl:relcl	_	_
+5	necesitas	necesitar	VERB	_	Number=Plur|VerbForm=Fin	3	acl:relcl	_	_
 6	para	para	ADP	_	_	7	mark	_	_
 7-8	relajarte	_	_	_	_	_	_	_	_
 7	relajar	relajar	VERB	_	VerbForm=Inf	5	advcl	_	_
@@ -2450,7 +2450,7 @@
 14	calidad	calidad	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 15	contrastada	contrastado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	14	amod	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
-17	tecnología	tecnología	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	14	conj	_	_
+17	tecnología	tecnología	VERB	_	Number=Sing|VerbForm=Fin	14	conj	_	_
 18	punta	punta	NOUN	_	Gender=Fem|Number=Sing	17	compound	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 20	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	23	nmod	_	_
@@ -2470,7 +2470,7 @@
 # sent_id = es-dev-001-s90
 # text = Cuando camina, parece lento y cuidadoso.
 1	Cuando	cuando	SCONJ	_	_	2	mark	_	_
-2	camina	caminar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	4	advcl	_	SpaceAfter=No
+2	camina	caminar	VERB	_	Number=Sing|VerbForm=Fin	4	advcl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	lento	lento	ADJ	_	Gender=Masc|Number=Sing	4	xcomp	_	_
@@ -2609,7 +2609,7 @@
 
 # sent_id = es-dev-001-s97
 # text = Vengo de rebote de otro servicio técnico por sospechas de malas prácticas.
-1	Vengo	venir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Vengo	venir	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	rebote	rebote	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	de	de	ADP	_	_	6	case	_	_
@@ -5030,7 +5030,7 @@
 15	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 16	ya	ya	ADV	_	_	18	advmod	_	_
 17	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
-18	conocíamos	conocer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	0	root	_	_
+18	conocíamos	conocer	VERB	_	Number=Plur|VerbForm=Fin	0	root	_	_
 19-20	del	_	_	_	_	_	_	_	_
 19	de	de	ADP	_	_	21	case	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
@@ -5350,7 +5350,7 @@
 13	cree	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 14	que	que	SCONJ	_	_	18	mark	_	_
 15	si	si	SCONJ	_	_	16	mark	_	_
-16	entra	entrar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	18	advcl	_	_
+16	entra	entrar	VERB	_	Number=Sing|VerbForm=Fin	18	advcl	_	_
 17	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	18	aux	_	_
 18	abaratar	abaratar	VERB	_	VerbForm=Inf	13	csubj	_	_
 19	o	o	CCONJ	_	_	29	cc	_	_
@@ -6513,7 +6513,7 @@
 1	Gita	gita	PROPN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 2	Manjari	manjari	PROPN	_	Number=Sing	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
-4	atestigua	atestiguar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+4	atestigua	atestiguar	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	_	_	6	case	_	_
 6	profundidad	profundidad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -10308,7 +10308,7 @@
 21	fumar	fumar	VERB	_	VerbForm=Inf	11	conj	_	_
 22	tabaco	tabaco	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
 23	de	de	ADP	_	_	24	case	_	_
-24	liar	liar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	22	advcl	_	_
+24	liar	liar	VERB	_	Number=Sing|VerbForm=Fin	22	advcl	_	_
 25	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	27	punct	_	SpaceAfter=No
 26	para	para	SCONJ	_	_	27	mark	_	_
 27	evitar	evitar	VERB	_	VerbForm=Inf	21	advcl	_	_
@@ -10420,7 +10420,7 @@
 
 # sent_id = es-dev-001-s359
 # text = Cambie de growshop por mala atencion al publico, sin duda con este growshop no pasa, atencion 100 % personalizada con total confianza y ahora en crisis siempre descuentan algo y me redondean por lo bajo... un gustazo!
-1	Cambie	cambie	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Cambie	cambie	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	growshop	growshop	X	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	por	por	ADP	_	_	6	case	_	_
@@ -11809,7 +11809,7 @@
 17	a	a	ADP	_	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19-20	medirse	_	_	_	_	_	_	_	_
-19	medir	medir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	2	advcl	_	_
+19	medir	medir	VERB	_	Number=Sing|VerbForm=Fin	2	advcl	_	_
 20	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl:pv	_	_
 21	de	de	ADP	_	_	22	case	_	_
 22	visitante	visitante	NOUN	_	Number=Sing	19	obl	_	_
@@ -12093,7 +12093,7 @@
 12	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	14	nsubj	_	_
 13	asustada	asustado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	12	amod	_	_
 14	corre	correr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	conj	_	_
-15	pidiento	pedir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	14	advcl	_	_
+15	pidiento	pedir	VERB	_	Number=Sing|VerbForm=Fin	14	advcl	_	_
 16	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
 17	con	con	ADP	_	_	18	case	_	_
 18	Mike	mike	PROPN	_	_	14	obl	_	_
@@ -13768,7 +13768,7 @@
 
 # sent_id = es-dev-001-s468
 # text = Juega de centrocampista y su actual equipo es el Real Sporting de Gijón "B" de la Segunda División B de España.
-1	Juega	jugar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Juega	jugar	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	centrocampista	centrocampista	NOUN	_	Number=Sing	1	obl	_	_
 4	y	y	CCONJ	_	_	7	cc	_	_
@@ -15949,7 +15949,7 @@
 11-12	al	_	_	_	_	_	_	_	_
 11	a	a	ADP	_	_	14	mark	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	14	cop	_	_
+13	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	14	cop	_	_
 14	zona	zona	NOUN	_	Gender=Fem|Number=Sing	2	advcl	_	_
 15	en	en	ADP	_	_	16	case	_	_
 16	que	que	PRON	_	PronType=Rel	17	obl	_	_
@@ -17420,7 +17420,7 @@
 17	heterocigotas	heterocigotas	NOUN	_	Number=Plur	14	nmod	_	SpaceAfter=No
 18	"	"	PUNCT	_	PunctType=Quot	14	punct	_	_
 19	y	y	CCONJ	_	_	20	cc	_	_
-20	continua	continuar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	7	conj	_	_
+20	continua	continuar	VERB	_	Number=Sing|VerbForm=Fin	7	conj	_	_
 21	siendo	ser	AUX	_	VerbForm=Ger	23	cop	_	_
 22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	tema	tema	NOUN	_	Gender=Masc|Number=Sing	20	advcl	_	_
@@ -17871,7 +17871,7 @@
 
 # sent_id = es-dev-002-s109
 # text = Ingeniería y grabación: Valgeir Sigurdsson en los estudios de Greenhouse, Reykjavík y Osterted, Copenhague.
-1	Ingeniería	ingeniería	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Ingeniería	ingeniería	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	y	y	CCONJ	_	_	3	cc	_	_
 3	grabación	grabación	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
 4	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
@@ -18358,7 +18358,7 @@
 # sent_id = es-dev-002-s127
 # text = Bárbara forma parte del staff de modelos de la agencia Multitalent Agency.
 1	Bárbara	bárbara	PROPN	_	Number=Sing	2	nsubj	_	_
-2	forma	formar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+2	forma	formar	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 3	parte	parte	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	_	_	6	case	_	_
@@ -18707,9 +18707,9 @@
 5	que	que	SCONJ	_	_	11	mark	_	_
 6	cuando	cuando	SCONJ	_	_	8	mark	_	_
 7	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
-8	examinas	examinar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	11	advcl	_	_
+8	examinas	examinar	VERB	_	Number=Plur|VerbForm=Fin	11	advcl	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
-10	apruebas	aprobar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	8	conj	_	_
+10	apruebas	aprobar	VERB	_	Number=Plur|VerbForm=Fin	8	conj	_	_
 11	tardan	tardar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	csubj	_	_
 12	en	en	ADP	_	_	13	mark	_	_
 13-14	darte	_	_	_	_	_	_	_	_
@@ -19261,7 +19261,7 @@
 19	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 20	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	22	obl:arg	_	_
 21	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	22	obj	_	_
-22	pasas	pasar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	1	parataxis	_	_
+22	pasas	pasar	VERB	_	Number=Plur|VerbForm=Fin	1	parataxis	_	_
 23	muy	mucho	ADV	_	_	24	advmod	_	_
 24	bien	bien	ADV	_	_	22	advmod	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -20576,7 +20576,7 @@
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	_	_	9	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	9	aux:pass	_	_
+8	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	9	aux:pass	_	_
 9	nombrado	nombrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
 10	Kapellmeister	kapellmeister	PROPN	_	_	9	obj	_	_
 11	de	de	ADP	_	_	13	case	_	_
@@ -20734,7 +20734,7 @@
 4	hermano	hermano	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 5	César	césar	PROPN	_	_	4	appos	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
-7	procedía	proceder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+7	procedía	proceder	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
@@ -21417,7 +21417,7 @@
 23	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	_
 24	y	y	CCONJ	_	_	26	cc	_	_
 25	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	26	obj	_	_
-26	interroga	interrogar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	10	conj	_	SpaceAfter=No
+26	interroga	interrogar	VERB	_	Number=Sing|VerbForm=Fin	10	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 # sent_id = es-dev-002-s229
@@ -21479,7 +21479,7 @@
 13	a	a	ADP	_	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15-16	esconderse	_	_	_	_	_	_	_	_
-15	esconder	esconder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	10	advcl	_	_
+15	esconder	esconder	VERB	_	Number=Sing|VerbForm=Fin	10	advcl	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 17	en	en	ADP	_	_	19	case	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -23256,7 +23256,7 @@
 43	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
 44	,	,	PUNCT	_	PunctType=Comm	46	punct	_	_
 45	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	46	nsubj	_	_
-46	dura	durar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	29	parataxis	_	_
+46	dura	durar	VERB	_	Number=Sing|VerbForm=Fin	29	parataxis	_	_
 47	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	48	obl	_	_
 48	cinco	cinco	NUM	_	Number=Plur|NumForm=Word|NumType=Card	49	nummod	_	_
 49	horas	hora	NOUN	_	Gender=Fem|Number=Plur	46	obl	_	_
@@ -24035,7 +24035,7 @@
 27	ya	ya	ADV	_	_	28	advmod	_	_
 28	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	22	acl:relcl	_	_
 29	que	que	SCONJ	_	_	31	mark	_	_
-30	esta	estar	AUX	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Fin	31	aux	_	CorrectForm=está
+30	esta	estar	AUX	_	Number=Sing|Typo=Yes|VerbForm=Fin	31	aux	_	CorrectForm=está
 31	apartado	apartar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	28	csubj:pass	_	_
 32	por	por	ADP	_	_	35	case	_	_
 33	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
@@ -28222,7 +28222,7 @@
 15	canción	canción	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
 16	que	que	PRON	_	PronType=Rel	18	obj	_	_
 17	tú	tú	PRON	_	Case=Nom|Number=Sing|Person=2|PronType=Prs	18	nsubj	_	_
-18	cantabas	cantar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
+18	cantabas	cantar	VERB	_	Number=Plur|VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 20	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	sabor	sabor	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
@@ -30762,7 +30762,7 @@
 5	y	y	CCONJ	_	_	8	cc	_	_
 6	cada	cada	DET	_	Number=Sing|PronType=Tot	7	det	_	_
 7	día	día	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
-8	recibo	recibir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	2	conj	_	_
+8	recibo	recibir	VERB	_	Number=Sing|VerbForm=Fin	2	conj	_	_
 9	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	10	amod	_	_
 10	trato	trato	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -31058,7 +31058,7 @@
 
 # sent_id = es-dev-003-s38
 # text = Debuta en la Premier League de Escocia el 8 de septiembre en el partido Celtic 3-1 Dunfermline Athletic FC, y cuatro partidos más tarde anota su primer gol (20 de octubre contra el Dundee United).
-1	Debuta	debutar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Debuta	debutar	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Premier	premier	PROPN	_	_	1	obl	_	_
@@ -31152,7 +31152,7 @@
 31	/	/	SYM	_	_	32	case	_	_
 32	día	día	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
 33-34	ampliándose	_	_	_	_	_	_	_	SpaceAfter=No
-33	ampliando	ampliar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	3	advcl	_	_
+33	ampliando	ampliar	VERB	_	Number=Sing|VerbForm=Fin	3	advcl	_	_
 34	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	33	expl:pv	_	_
 35	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 36	a	a	ADP	_	_	38	case	_	_
@@ -31330,7 +31330,7 @@
 25	en	en	ADP	_	_	26	case	_	_
 26	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	_
 27	si	si	ADV	_	_	28	advcl	_	_
-28	ama	amar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	23	ccomp	_	_
+28	ama	amar	VERB	_	Number=Sing|VerbForm=Fin	23	ccomp	_	_
 29	a	a	ADP	_	_	30	case	_	_
 30	Cruci	cruci	PROPN	_	_	28	obj	_	_
 31	por	por	ADP	_	_	33	case	_	_
@@ -31908,7 +31908,7 @@
 9-10	al	_	_	_	_	_	_	_	_
 9	a	a	ADP	_	_	11	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	entrar	entrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	8	advcl	_	_
+11	entrar	entrar	VERB	_	Number=Sing|VerbForm=Fin	8	advcl	_	_
 12	entre	entre	ADP	_	_	13	case	_	_
 13	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
@@ -32346,7 +32346,7 @@
 
 # sent_id = es-dev-003-s85
 # text = Fajín rojo y ancho con doble caída.
-1	Fajín	fajín	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Fajín	fajín	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	rojo	rojo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	y	y	CCONJ	_	_	4	cc	_	_
 4	ancho	ancho	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
@@ -32715,7 +32715,7 @@
 # sent_id = es-dev-003-s98
 # text = Como confirma Calciomercato, el futbolista lo habría confirmado hace unas horas y quiere llegar para ser el puntal del equipo italiano.
 1	Como	como	SCONJ	_	_	2	mark	_	_
-2	confirma	confirmar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	9	advcl	_	_
+2	confirma	confirmar	VERB	_	Number=Sing|VerbForm=Fin	9	advcl	_	_
 3	Calciomercato	calciomercato	PROPN	_	_	2	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -33390,7 +33390,7 @@
 40-41	al	_	_	_	_	_	_	_	_
 40	a	a	ADP	_	_	44	case	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	44	det	_	_
-42	ser	ser	AUX	_	Gender=Masc|Number=Sing|VerbForm=Fin	43	aux:pass	_	_
+42	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	43	aux:pass	_	_
 43	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
 44	negro	negro	ADJ	_	Gender=Masc|Number=Sing	43	xcomp	_	SpaceAfter=No
 45	.	.	PUNCT	_	PunctType=Peri	27	punct	_	_
@@ -37816,7 +37816,7 @@
 # text = ¿Lo conoces?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	3	punct	_	SpaceAfter=No
 2	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
-3	conoces	conocer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	conoces	conocer	VERB	_	Number=Plur|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	?	?	PUNCT	_	PunctSide=Fin|PunctType=Qest	3	punct	_	_
 
 # sent_id = es-dev-003-s276
@@ -38198,7 +38198,7 @@
 18	silla	silla	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
 19	pero	pero	CCONJ	_	_	21	cc	_	_
 20	accidentalmente	accidentalmente	ADV	_	_	21	advmod	_	_
-21	golpeo	golpear	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Fin	6	conj	_	CorrectForm=golpeó
+21	golpeo	golpear	VERB	_	Number=Sing|Typo=Yes|VerbForm=Fin	6	conj	_	CorrectForm=golpeó
 22	a	a	ADP	_	_	23	case	_	_
 23	Sika	sika	PROPN	_	_	21	obj	_	_
 24	y	y	CCONJ	_	_	27	cc	_	_
@@ -38871,7 +38871,7 @@
 # text = Todos los encuentros son jugados en la nación anfitriona, y los diez seleccionados nacionales Sub - 17 de la CONMEBOL participan en cada edición (a menos que alguna asociación se retire).
 1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	encuentros	encontrar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	5	nsubj:pass	_	_
+3	encuentros	encontrar	VERB	_	Number=Plur|VerbForm=Fin	5	nsubj:pass	_	_
 4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 5	jugados	jugar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 6	en	en	ADP	_	_	8	case	_	_
@@ -40350,7 +40350,7 @@
 2	argentino	argentino	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	Kun	kun	PROPN	_	_	2	appos	_	_
 4	Agüero	agüero	PROPN	_	_	3	flat	_	_
-5	esta	estar	VERB	_	Gender=Fem|Number=Sing|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=está
+5	esta	estar	VERB	_	Number=Sing|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=está
 6	cada	cada	DET	_	Number=Sing|PronType=Tot	7	det	_	_
 7	día	día	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 8	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
@@ -40474,7 +40474,7 @@
 2	grado	grado	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	analfabetismo	analfabetismo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
-5	gira	girar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Fin	0	root	_	_
+5	gira	girar	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 6	en	en	ADP	_	_	7	case	_	_
 7	torno	torno	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 8	a	a	ADP	_	_	9	case	_	_
@@ -41584,7 +41584,7 @@
 
 # sent_id = es-dev-003-s398
 # text = Vivo en Parla este y estaba buscando una clínica veterinaria por aquí cerca, puesto que antes vivía en Fuenlabrada y no conozco veterinarios aquí en Parla.
-1	Vivo	vivir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Vivo	vivir	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	Parla	parla	PROPN	_	_	1	obl	_	_
 4	este	este	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
@@ -41891,7 +41891,7 @@
 11	Londres	londres	PROPN	_	_	7	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 13	y	y	CCONJ	_	_	14	cc	_	_
-14	llego	llegar	VERB	_	Gender=Masc|Number=Sing|Typo=Yes|VerbForm=Fin	5	conj	_	CorrectForm=llegó
+14	llego	llegar	VERB	_	Number=Sing|Typo=Yes|VerbForm=Fin	5	conj	_	CorrectForm=llegó
 15	a	a	ADP	_	_	17	case	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	conclusión	conclusión	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
