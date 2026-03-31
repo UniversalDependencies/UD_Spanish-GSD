@@ -31152,7 +31152,7 @@
 31	/	/	SYM	_	_	32	case	_	_
 32	día	día	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
 33-34	ampliándose	_	_	_	_	_	_	_	SpaceAfter=No
-33	ampliando	ampliar	VERB	_	Number=Sing|VerbForm=Fin	3	advcl	_	_
+33	ampliando	ampliar	VERB	_	VerbForm=Ger	3	advcl	_	_
 34	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	33	expl:pv	_	_
 35	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 36	a	a	ADP	_	_	38	case	_	_
