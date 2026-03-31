@@ -11809,7 +11809,7 @@
 17	a	a	ADP	_	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19-20	medirse	_	_	_	_	_	_	_	_
-19	medir	medir	VERB	_	Number=Sing|VerbForm=Fin	2	advcl	_	_
+19	medir	medir	VERB	_	VerbForm=Inf	2	advcl	_	_
 20	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl:pv	_	_
 21	de	de	ADP	_	_	22	case	_	_
 22	visitante	visitante	NOUN	_	Number=Sing	19	obl	_	_
@@ -15949,7 +15949,7 @@
 11-12	al	_	_	_	_	_	_	_	_
 11	a	a	ADP	_	_	14	mark	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-13	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	14	cop	_	_
+13	ser	ser	AUX	_	VerbForm=Inf	14	cop	_	_
 14	zona	zona	NOUN	_	Gender=Fem|Number=Sing	2	advcl	_	_
 15	en	en	ADP	_	_	16	case	_	_
 16	que	que	PRON	_	PronType=Rel	17	obl	_	_
@@ -20576,7 +20576,7 @@
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	_	_	9	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-8	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	9	aux:pass	_	_
+8	ser	ser	AUX	_	VerbForm=Inf	9	aux:pass	_	_
 9	nombrado	nombrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
 10	Kapellmeister	kapellmeister	PROPN	_	_	9	obj	_	_
 11	de	de	ADP	_	_	13	case	_	_
@@ -21479,7 +21479,7 @@
 13	a	a	ADP	_	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15-16	esconderse	_	_	_	_	_	_	_	_
-15	esconder	esconder	VERB	_	Number=Sing|VerbForm=Fin	10	advcl	_	_
+15	esconder	esconder	VERB	_	VerbForm=Inf	10	advcl	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 17	en	en	ADP	_	_	19	case	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -31908,7 +31908,7 @@
 9-10	al	_	_	_	_	_	_	_	_
 9	a	a	ADP	_	_	11	case	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
-11	entrar	entrar	VERB	_	Number=Sing|VerbForm=Fin	8	advcl	_	_
+11	entrar	entrar	VERB	_	VerbForm=Inf	8	advcl	_	_
 12	entre	entre	ADP	_	_	13	case	_	_
 13	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	4	nmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
@@ -33390,7 +33390,7 @@
 40-41	al	_	_	_	_	_	_	_	_
 40	a	a	ADP	_	_	43	case	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
-42	ser	ser	AUX	_	Number=Sing|VerbForm=Fin	43	aux:pass	_	_
+42	ser	ser	AUX	_	VerbForm=Inf	43	aux:pass	_	_
 43	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
 44	negro	negro	ADJ	_	Gender=Masc|Number=Sing	43	xcomp	_	SpaceAfter=No
 45	.	.	PUNCT	_	PunctType=Peri	27	punct	_	_

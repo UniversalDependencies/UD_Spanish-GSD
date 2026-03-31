@@ -11259,7 +11259,7 @@
 14-15	al	_	_	_	_	_	_	_	_
 14	a	a	ADP	_	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	carecer	carecer	VERB	_	Number=Sing|VerbForm=Fin	24	advcl	_	_
+16	carecer	carecer	VERB	_	VerbForm=Inf	24	advcl	_	_
 17	de	de	ADP	_	_	19	case	_	_
 18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
 19	mismos	mismo	PRON	_	Gender=Masc|Number=Plur|PronType=Dem	16	obl	_	SpaceAfter=No
