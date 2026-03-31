@@ -2450,7 +2450,7 @@
 14	calidad	calidad	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 15	contrastada	contrastado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	14	amod	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
-17	tecnología	tecnología	VERB	_	Number=Sing|VerbForm=Fin	14	conj	_	_
+17	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	_
 18	punta	punta	NOUN	_	Gender=Fem|Number=Sing	17	compound	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 20	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	23	nmod	_	_
