@@ -11257,7 +11257,7 @@
 12	y	y	CCONJ	_	_	24	cc	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 14-15	al	_	_	_	_	_	_	_	_
-14	a	a	ADP	_	_	16	case	_	_
+14	a	a	ADP	_	_	16	mark	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	carecer	carecer	VERB	_	VerbForm=Inf	24	advcl	_	_
 17	de	de	ADP	_	_	19	case	_	_

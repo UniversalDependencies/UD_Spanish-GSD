@@ -11806,7 +11806,7 @@
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	público	público	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
 17-18	al	_	_	_	_	_	_	_	_
-17	a	a	ADP	_	_	19	case	_	_
+17	a	a	ADP	_	_	19	mark	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19-20	medirse	_	_	_	_	_	_	_	_
 19	medir	medir	VERB	_	VerbForm=Inf	2	advcl	_	_
@@ -20574,7 +20574,7 @@
 4	a	a	ADP	_	_	5	case	_	_
 5	Dresde	dresde	PROPN	_	_	3	obl	_	_
 6-7	al	_	_	_	_	_	_	_	_
-6	a	a	ADP	_	_	9	case	_	_
+6	a	a	ADP	_	_	9	mark	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 8	ser	ser	AUX	_	VerbForm=Inf	9	aux:pass	_	_
 9	nombrado	nombrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	advcl	_	_
@@ -21476,7 +21476,7 @@
 11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	inocencia	inocencia	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
 13-14	al	_	_	_	_	_	_	_	_
-13	a	a	ADP	_	_	15	case	_	_
+13	a	a	ADP	_	_	15	mark	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15-16	esconderse	_	_	_	_	_	_	_	_
 15	esconder	esconder	VERB	_	VerbForm=Inf	10	advcl	_	_
@@ -31906,7 +31906,7 @@
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	detecta	detectar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 9-10	al	_	_	_	_	_	_	_	_
-9	a	a	ADP	_	_	11	case	_	_
+9	a	a	ADP	_	_	11	mark	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	entrar	entrar	VERB	_	VerbForm=Inf	8	advcl	_	_
 12	entre	entre	ADP	_	_	13	case	_	_
@@ -33388,7 +33388,7 @@
 38	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	39	expl:pv	_	_
 39	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	35	advcl	_	_
 40-41	al	_	_	_	_	_	_	_	_
-40	a	a	ADP	_	_	43	case	_	_
+40	a	a	ADP	_	_	43	mark	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 42	ser	ser	AUX	_	VerbForm=Inf	43	aux:pass	_	_
 43	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
