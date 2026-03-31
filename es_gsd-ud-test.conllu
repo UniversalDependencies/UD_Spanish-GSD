@@ -4038,11 +4038,11 @@
 12	por	por	ADP	_	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	río	río	NOUN	_	Gender=Masc|Number=Sing	11	obl:agent	_	_
-15	Sông	sông	X	_	_	16	compound	_	_
-16	Hương	hương	X	_	_	14	appos	_	_
+15	Sông	Sông	PROPN	_	_	16	compound	_	_
+16	Hương	Hương	PROPN	_	_	14	nmod	_	_
 17	o	o	CCONJ	_	_	18	cc	_	_
-18	río	reír	VERB	_	Number=Sing|VerbForm=Fin	14	conj	_	_
-19	Perfume	perfume	PROPN	_	_	18	nsubj	_	SpaceAfter=No
+18	río	río	NOUN	_	Gender=Masc|Number=Sing	14	conj	_	_
+19	Perfume	perfume	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
 20	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
 # sent_id = es-dev-004-s51
