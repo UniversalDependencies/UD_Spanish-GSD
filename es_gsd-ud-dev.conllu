@@ -34581,7 +34581,7 @@
 15	de	de	ADP	_	_	16	case	_	_
 16	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
 17-18	al	_	_	_	_	_	_	_	_
-17	a	a	ADP	_	_	21	case	_	_
+17	a	a	ADP	_	_	21	mark	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 19	no	no	ADV	_	Polarity=Neg	21	advmod	_	_
 20	estar	estar	AUX	_	VerbForm=Inf	21	cop	_	_
