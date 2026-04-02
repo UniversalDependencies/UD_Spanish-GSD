@@ -12879,7 +12879,7 @@
 6	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	situado	situar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
 8	en	en	ADP	_	_	10	case	_	_
-9	en	el	DET	_	Typo=Yes	10	det	_	CorrectForm=el
+9	en	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Typo=Yes	10	det	_	CorrectForm=el
 10	corazon	corazón	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	7	obl	_	CorrectForm=corazón
 11-12	del	_	_	_	_	_	_	_	_
 11	de	de	ADP	_	_	13	case	_	_
