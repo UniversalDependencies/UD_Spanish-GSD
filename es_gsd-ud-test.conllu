@@ -1012,7 +1012,7 @@
 26	cuando	cuando	SCONJ	_	_	29	mark	_	_
 27	éste	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	29	nsubj	_	_
 28	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	29	obj	_	_
-29	patea	patear	VERB	_	Number=Sing|VerbForm=Fin	25	advcl	_	_
+29	patea	patear	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	25	advcl	_	_
 30	con	con	ADP	_	_	32	case	_	_
 31	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	pie	pie	NOUN	_	Gender=Masc|Number=Sing	29	obl	_	SpaceAfter=No
@@ -1050,7 +1050,7 @@
 
 # sent_id = es-dev-003-s452
 # text = Juega para el club hasta 1970.
-1	Juega	jugar	VERB	_	VerbForm=Fin	0	root	_	_
+1	Juega	jugar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	para	para	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	club	club	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -3850,7 +3850,7 @@
 9	patrones	patrón	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	nsubj	_	_
-12	tuvo	tener	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
+12	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
 13	que	que	CCONJ	_	_	14	mark	_	_
 14	trabajar	trabajar	VERB	_	VerbForm=Inf	12	xcomp	_	_
 15	también	también	ADV	_	_	12	advmod	_	_
@@ -4005,7 +4005,7 @@
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 25	arboreto	arboreto	NOUN	_	Gender=Masc|Number=Sing	23	conj	_	_
 26	y	y	CCONJ	_	_	27	cc	_	_
-27	jardín	jardín	VERB	_	Number=Sing|VerbForm=Fin	23	conj	_	_
+27	jardín	jardín	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	23	conj	_	_
 28	botánico	botánico	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
 29	en	en	ADP	_	_	31	case	_	_
 30	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
@@ -4562,7 +4562,7 @@
 42	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	43	det	_	_
 43	producto	producto	NOUN	_	Gender=Masc|Number=Sing	40	nmod	_	SpaceAfter=No
 44	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
-45	cambias	cambiar	VERB	_	Number=Plur|VerbForm=Fin	38	conj	_	_
+45	cambias	cambiar	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	38	conj	_	_
 46	de	de	ADP	_	_	47	case	_	_
 47	opinión	opinión	NOUN	_	Gender=Fem|Number=Sing	45	obl	_	_
 48	sobre	sobre	ADP	_	_	50	case	_	_
@@ -5864,7 +5864,7 @@
 # sent_id = es-test-001-s37
 # text = El terminó llevándolos a la casa de una abuela, a dos cuadras de ahí.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	nsubj	_	_
-2	terminó	terminar	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
+2	terminó	terminar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
 3-4	llevándolos	_	_	_	_	_	_	_	_
 3	llevando	llevar	VERB	_	VerbForm=Ger	2	xcomp	_	_
 4	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
@@ -6145,7 +6145,7 @@
 1	ASI	asi	ADV	_	ExtPos=ADV	4	advmod	_	_
 2	MISMO	mismo	ADV	_	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
-4	BUSCAMOS	buscar	VERB	_	VerbForm=Fin	0	root	_	_
+4	BUSCAMOS	buscar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 5	LA	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	DENUNCIA	denuncia	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	DE	de	ADP	_	_	9	case	_	_
@@ -6168,7 +6168,7 @@
 24	CON	con	ADP	_	_	27	case	_	_
 25	QUIEN	quien	PRON	_	Number=Sing|PronType=Rel	27	nsubj	_	_
 26	LO	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	_	_
-27	SUFRA	sufrir	VERB	_	VerbForm=Fin	23	advcl	_	_
+27	SUFRA	sufrir	VERB	_	Mood=Ind|VerbForm=Fin	23	advcl	_	_
 28	EN	en	ADP	_	_	31	case	_	_
 29	TODOS	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	31	det	_	_
 30	SUS	sus	DET	_	Number=Sing|Poss=Yes|PronType=Prs	31	det	_	_
@@ -6320,7 +6320,7 @@
 # text = Y SE DESCONOCEN SUS EFECTOS A LARGO PLAZO.
 1	Y	y	CCONJ	_	_	3	cc	_	_
 2	SE	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
-3	DESCONOCEN	desconocer	VERB	_	VerbForm=Fin	0	root	_	_
+3	DESCONOCEN	desconocer	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 4	SUS	sus	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Prs	5	det	_	_
 5	EFECTOS	efecto	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
 6	A	a	ADP	_	_	8	case	_	_
@@ -6499,7 +6499,7 @@
 
 # sent_id = es-test-001-s59
 # text = Arranca en Australia el Mundial de Fórmula 1 y con la primera carrera ya tenemos los primeros análisis y sorpresas del campeonato.
-1	Arranca	arrancar	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
+1	Arranca	arrancar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	Australia	australia	PROPN	_	_	1	obl	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -6560,7 +6560,7 @@
 27	de	de	ADP	_	_	28	case	_	_
 28	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	25	obl	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-30	seguí	seguir	VERB	_	VerbForm=Fin	1	parataxis	_	_
+30	seguí	seguir	VERB	_	Mood=Ind|VerbForm=Fin	1	parataxis	_	_
 31	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	32	det	_	_
 32	vida	vida	NOUN	_	Gender=Fem|Number=Sing	30	obj	_	SpaceAfter=No
 33	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
@@ -7030,7 +7030,7 @@
 
 # sent_id = es-test-001-s77
 # text = Estoy leyendo "Sobre la guerra", de Clausewitz.
-1	Estoy	estar	AUX	_	VerbForm=Fin	2	aux	_	_
+1	Estoy	estar	AUX	_	Mood=Ind|VerbForm=Fin	2	aux	_	_
 2	leyendo	leir	VERB	_	VerbForm=Ger	0	root	_	_
 3	"	"	PUNCT	_	PunctType=Quot	4	punct	_	SpaceAfter=No
 4	Sobre	sobre	PROPN	_	_	2	obj	_	_
@@ -10843,11 +10843,11 @@
 # sent_id = es-test-001-s171
 # text = Dime qué perro tienes y te diré que cazador eres'.
 1-2	Dime	_	_	_	_	_	_	_	_
-1	Di	dar	VERB	_	VerbForm=Fin	0	root	_	_
+1	Di	dar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	qué	qué	DET	_	Number=Sing|PronType=Int	4	det	_	_
 4	perro	perro	NOUN	_	Number=Sing	5	obj	_	_
-5	tienes	tener	VERB	_	Number=Plur|VerbForm=Fin	1	ccomp	_	_
+5	tienes	tener	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	1	ccomp	_	_
 6	y	y	CCONJ	_	_	8	cc	_	_
 7	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	8	obl:arg	_	_
 8	diré	decir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	_
@@ -12226,7 +12226,7 @@
 
 # sent_id = es-test-001-s209
 # text = Estás en pleno centro, no echarás nada d menos no es d lujo pero tiene lo fundamental.
-1	Estás	estar	VERB	_	VerbForm=Fin	0	root	_	_
+1	Estás	estar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	4	case	_	_
 3	pleno	pleno	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
 4	centro	centro	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	SpaceAfter=No
@@ -12346,7 +12346,7 @@
 
 # sent_id = es-test-001-s216
 # text = Vuelvo a repetir: buen servicio y buena atención.
-1	Vuelvo	volver	VERB	_	Number=Sing|VerbForm=Fin	0	root	_	_
+1	Vuelvo	volver	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	repetir	repetir	VERB	_	VerbForm=Inf	1	xcomp	_	SpaceAfter=No
 4	:	:	PUNCT	_	PunctType=Colo	6	punct	_	_
@@ -12567,7 +12567,7 @@
 # text = Al final comimos de mala gana porque no te queda más remedio o te vas a las 15:00 a buscar otro sitio, que en Pelegrina no hay y después de quejarnos y de montarle un medio follón no nos cobraron la comida.
 1	Al	al	ADP	_	_	2	case	_	_
 2	final	final	NOUN	_	Number=Sing	3	obl	_	_
-3	comimos	comer	VERB	_	Number=Plur|VerbForm=Fin	0	root	_	_
+3	comimos	comer	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	mala	malo	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 6	gana	ganar	NOUN	_	Number=Sing	3	obl	_	_
@@ -12579,7 +12579,7 @@
 12	remedio	remedio	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	_
 13	o	o	CCONJ	_	_	15	cc	_	_
 14	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	15	obl:arg	_	_
-15	vas	ir	VERB	_	Number=Plur|VerbForm=Fin	10	conj	_	_
+15	vas	ir	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	10	conj	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
 18	15:00	15:00	NUM	_	NumForm=Digit|NumType=Card	15	obl	_	_
@@ -12651,7 +12651,7 @@
 # text = ESTE BALNEARIO TIENE TODO TIPO DE TRATAMIENTOS TERMALES AGUAS SULFUROSAS Y DEALES PARA RELAJARSE Y PARA LA PIEL
 1	ESTE	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
 2	BALNEARIO	balneario	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	TIENE	tener	VERB	_	VerbForm=Fin	0	root	_	_
+3	TIENE	tener	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
 4	TODO	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
 5	TIPO	tipo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 6	DE	de	ADP	_	_	7	case	_	_
@@ -12983,7 +12983,7 @@
 15	gastes	gaste	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 16	luz	luz	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
 17	y	y	CCONJ	_	_	18	cc	_	_
-18	abras	abrir	VERB	_	Number=Plur|VerbForm=Fin	15	conj	_	_
+18	abras	abrir	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	15	conj	_	_
 19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	ventanas	ventana	NOUN	_	Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
@@ -13156,7 +13156,7 @@
 36	y	y	CCONJ	_	_	37	cc	_	_
 37	bus	bus	NOUN	_	Gender=Masc|Number=Sing	35	conj	_	SpaceAfter=No
 38	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-39	irás	ir	VERB	_	Number=Sing|VerbForm=Fin	2	advcl	_	_
+39	irás	ir	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	2	advcl	_	_
 40	tan	tanto	ADV	_	_	41	advmod	_	_
 41	apretado	apretado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	xcomp	_	_
 42	que	que	CCONJ	_	_	44	case	_	_

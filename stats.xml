@@ -57,7 +57,7 @@
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">89895</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">603</feat><!-- sería, podría, habría, podrían, tendría, serían, debería, gustaría, estaría, haría -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">80</feat><!-- pese, pase, Let, añade, compre, mira, tengan, Afirma, Comprobaremos, Disponemos -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">28155</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">28826</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
     <feat name="Mood" value="Sub" upos="AUX,VERB">1234</feat><!-- sea, haya, sean, tenga, pueda, puedan, fuese, fuera, hubiera, crea -->
     <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">53135</feat><!-- los, las, sus, son, dos, años, eran, han, personas, otros -->
     <feat name="Number" value="Sing" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">157357</feat><!-- el, la, un, una, es, su, fue, lo, este, ha -->
