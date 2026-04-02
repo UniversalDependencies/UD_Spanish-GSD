@@ -103,10 +103,10 @@
     <feat name="Tense" value="Past" upos="AUX,VERB">11636</feat><!-- fue, fueron, sido, tuvo, hizo, comenzó, nació, dijo, dio, ganó -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">16283</feat><!-- es, ha, son, tiene, está, han, puede, encuentra, hay, hace -->
     <feat name="Typo" value="Yes" upos="ADJ,ADV,AUX,CCONJ,DET,NOUN,NUM,PRON,PROPN,PUNCT,SCONJ,VERB">984</feat><!-- mas, esta, video, periodo, este, tenia, tambien, Milan, guion, estan -->
-    <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">30776</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
+    <feat name="VerbForm" value="Fin" upos="AUX,NOUN,VERB">30742</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
     <feat name="VerbForm" value="Ger" upos="ADJ,AUX,NOUN,PROPN,VERB,X">2060</feat><!-- siendo, residiendo, haciendo, incluyendo, llegando, teniendo, dejando, pasando, dando, convirtiendo -->
     <feat name="VerbForm" value="Inf" upos="ADJ,AUX,NOUN,PROPN,VERB,X">7317</feat><!-- ser, hacer, ver, haber, tener, decir, dar, partir, llegar, estar -->
-    <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,PROPN,SYM,VERB,X">9610</feat><!-- sido, ubicado, conocido, debido, llamado, compuesto, conocida, situada, pasado, hecho -->
+    <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,PROPN,SYM,VERB,X">9644</feat><!-- sido, ubicado, conocido, debido, llamado, compuesto, conocida, situada, pasado, hecho -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="43">

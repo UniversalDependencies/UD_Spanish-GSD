@@ -3092,7 +3092,7 @@
 
 # sent_id = es-dev-001-s112
 # text = Puesto que Etiopía fue el único país africano que escapó del colonialismo europeo, y Haile Selassie fue el único líder negro aceptado entre los reyes y reinas europeos, los primeros rastas le guardaban un gran respeto por su represión y nivel de justicia que guardaban desde la esclavitud.
-1	Puesto	poner	VERB	_	ExtPos=SCONJ|Number=Sing|VerbForm=Fin	7	mark	_	_
+1	Puesto	poner	VERB	_	ExtPos=SCONJ|Number=Sing|VerbForm=Part	7	mark	_	_
 2	que	que	SCONJ	_	_	1	fixed	_	_
 3	Etiopía	etiopía	PROPN	_	_	7	nsubj	_	_
 4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
@@ -4907,7 +4907,7 @@
 14	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
 15	herederos	heredero	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-17	puesto	poner	VERB	_	ExtPos=SCONJ|Number=Sing|VerbForm=Fin	20	mark	_	_
+17	puesto	poner	VERB	_	ExtPos=SCONJ|Number=Sing|VerbForm=Part	20	mark	_	_
 18	que	que	SCONJ	_	_	17	fixed	_	_
 19	António	antónio	PROPN	_	_	20	nsubj	_	_
 20	murió	morir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	advcl	_	_
@@ -28322,7 +28322,7 @@
 21	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 22	poco	poco	ADV	_	_	21	advmod	_	_
 23	probable	probable	ADJ	_	Number=Sing	21	xcomp	_	_
-24	debido	deber	VERB	_	VerbForm=Fin	28	acl	_	_
+24	debido	deber	VERB	_	VerbForm=Part	28	acl	_	_
 25	a	a	ADP	_	_	24	fixed	_	_
 26	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 27	cercanas	cercano	ADJ	_	Gender=Fem|Number=Plur	28	amod	_	_
@@ -30145,7 +30145,7 @@
 
 # sent_id = es-dev-003-s7
 # text = Desesperado, se subió a lo alto de una montaña y blasfemó tanto que UL en persona se le apareció.
-1	Desesperado	desesperar	VERB	_	VerbForm=Fin	4	advcl	_	SpaceAfter=No
+1	Desesperado	desesperar	VERB	_	VerbForm=Part	4	advcl	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	subió	subir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
