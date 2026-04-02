@@ -1207,7 +1207,7 @@
 2	Rodríguez	rodríguez	PROPN	_	_	1	flat	_	_
 3	Cueto	cueto	PROPN	_	Gender=Masc|Number=Sing	1	flat	_	_
 4	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=está
-5	licenciado	licenciar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	4	advcl	_	_
+5	licenciado	licenciar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	_
 6	en	en	ADP	_	_	7	case	_	_
 7	Literatura	literatura	NOUN	_	_	5	obl	_	_
 8	Hispánica	hispánica	ADJ	_	_	7	amod	_	_
@@ -5456,7 +5456,7 @@
 # text = Una vez electos, los referentes de la oposición al Gobierno Radical K, parecieran olvidar este tipo de escandalos y unirse al circulo corrupto del poder.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-3	electos	eligir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Fin	16	advcl	_	SpaceAfter=No
+3	electos	eligir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	referentes	referente	NOUN	_	Number=Plur	16	nsubj	_	_
@@ -6404,7 +6404,7 @@
 9	una	uno	NUM	_	Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	10	nummod	_	_
 10	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
 11	como	como	ADP	_	_	12	case	_	_
-12	cedido	ceder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Fin	2	advcl	_	_
+12	cedido	ceder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
 13	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	17	punct	_	SpaceAfter=No
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	año	año	NOUN	_	_	17	obl	_	_
@@ -9466,7 +9466,7 @@
 
 # sent_id = es-test-001-s139
 # text = Arraigadas aquí por los monjes agustinos tras la Conquista (1519-1521), estas fiestas han cambiado con el paso del tiempo.
-1	Arraigadas	arraigar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Fin	15	acl	_	_
+1	Arraigadas	arraigar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	15	acl	_	_
 2	aquí	aquí	ADV	_	_	1	advmod	_	_
 3	por	por	ADP	_	_	5	case	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
