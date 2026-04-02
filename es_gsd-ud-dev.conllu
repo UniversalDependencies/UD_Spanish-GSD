@@ -29817,7 +29817,7 @@
 7	1999	1999	NUM	_	NumForm=Digit|NumType=Card	5	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 9	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
-10	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	_
+10	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obl:arg	_	_
 11	declaró	declarar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	Bien	bien	NOUN	_	_	11	xcomp	_	_
 13	Cultural	cultural	ADJ	_	_	12	amod	_	_
