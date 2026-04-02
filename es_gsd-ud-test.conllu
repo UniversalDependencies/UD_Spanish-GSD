@@ -10843,7 +10843,7 @@
 # sent_id = es-test-001-s171
 # text = Dime qué perro tienes y te diré que cazador eres'.
 1-2	Dime	_	_	_	_	_	_	_	_
-1	Di	dar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+1	Di	decir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	qué	qué	DET	_	Number=Sing|PronType=Int	4	det	_	_
 4	perro	perro	NOUN	_	Number=Sing	5	obj	_	_
