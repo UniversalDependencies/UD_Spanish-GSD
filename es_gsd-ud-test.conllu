@@ -11416,7 +11416,7 @@
 14	aprendieron	aprender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	saber	saber	VERB	_	Number=Sing|VerbForm=Fin	10	appos	_	_
+17	saber	saber	VERB	_	VerbForm=Inf	10	appos	_	_
 18	como	como	ADV	_	_	19	advmod	_	_
 19	coger	coger	VERB	_	VerbForm=Inf	17	xcomp	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -12663,7 +12663,7 @@
 12	DEALES	deale	X	_	Gender=Masc|Number=Sing	7	amod	_	_
 13	PARA	para	ADP	_	_	14	case	_	_
 14-15	RELAJARSE	_	_	_	_	_	_	_	_
-14	RELAJAR	relajar	VERB	_	VerbForm=Fin	12	advcl	_	_
+14	RELAJAR	relajar	VERB	_	VerbForm=Inf	12	advcl	_	_
 15	SE	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl:pv	_	_
 16	Y	y	CCONJ	_	_	19	cc	_	_
 17	PARA	para	ADP	_	_	19	case	_	_

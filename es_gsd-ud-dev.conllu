@@ -10308,7 +10308,7 @@
 21	fumar	fumar	VERB	_	VerbForm=Inf	11	conj	_	_
 22	tabaco	tabaco	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
 23	de	de	ADP	_	_	24	case	_	_
-24	liar	liar	VERB	_	Number=Sing|VerbForm=Fin	22	advcl	_	_
+24	liar	liar	VERB	_	VerbForm=Inf	22	advcl	_	_
 25	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	27	punct	_	SpaceAfter=No
 26	para	para	SCONJ	_	_	27	mark	_	_
 27	evitar	evitar	VERB	_	VerbForm=Inf	21	advcl	_	_
@@ -24188,9 +24188,9 @@
 15	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	18	nsubj	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
 17	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
-18	VER	ver	VERB	_	VerbForm=Fin	7	conj	_	_
+18	VER	ver	VERB	_	VerbForm=Inf	7	conj	_	_
 19	y	y	CCONJ	_	_	20	cc	_	_
-20	TOCAR	tocar	VERB	_	VerbForm=Fin	18	conj	_	SpaceAfter=No
+20	TOCAR	tocar	VERB	_	VerbForm=Inf	18	conj	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-002-s310
@@ -31841,7 +31841,7 @@
 4	finalmente	finalmente	ADV	_	_	3	advmod	_	_
 5	Cansados	cansados	PROPN	_	_	3	obj	_	_
 6	de	de	ADP	_	_	7	case	_	_
-7	Bailar	bailar	VERB	_	VerbForm=Fin	5	advcl	_	_
+7	Bailar	bailar	VERB	_	VerbForm=Inf	5	advcl	_	_
 8	Bakalao	bakalao	PROPN	_	_	7	obj	_	_
 9	con	con	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
