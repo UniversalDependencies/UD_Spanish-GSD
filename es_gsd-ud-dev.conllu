@@ -293,7 +293,7 @@
 22	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 23	a	a	ADP	_	_	25	case	_	_
 24	que	que	SCONJ	_	_	25	mark	_	_
-25	maneje	manejar	VERB	_	Number=Sing|VerbForm=Fin	8	advcl	_	_
+25	maneje	manejar	VERB	_	Mood=Sub|Number=Sing|VerbForm=Fin	8	advcl	_	_
 26	de	de	ADP	_	_	27	case	_	_
 27	manera	manera	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	_
 28	profesional	profesional	ADJ	_	Number=Sing	27	amod	_	_
@@ -384,7 +384,7 @@
 17	de	de	ADP	_	_	20	case	_	_
 18	que	que	SCONJ	_	_	20	mark	_	_
 19	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
-20	retire	retirar	VERB	_	Number=Sing|VerbForm=Fin	13	advcl	_	SpaceAfter=No
+20	retire	retirar	VERB	_	Mood=Sub|Number=Sing|VerbForm=Fin	13	advcl	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-001-s16
@@ -10198,7 +10198,7 @@
 8	que	que	SCONJ	_	_	7	fixed	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	fruto	fruto	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
-11	contrarreste	contrarrestar	VERB	_	Number=Sing|VerbForm=Fin	1	advcl	_	_
+11	contrarreste	contrarrestar	VERB	_	Mood=Sub|Number=Sing|VerbForm=Fin	1	advcl	_	_
 12	generando	generar	VERB	_	VerbForm=Ger	11	advcl	_	_
 13	azúcares	azúcar	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
