@@ -2287,7 +2287,7 @@
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 17	Lihkach	lihkach	PROPN	_	_	1	conj	_	_
 18	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	19	punct	_	SpaceAfter=No
-19	porque	porque	CCONJ	_	_	17	appos	_	SpaceAfter=No
+19	porque	porque	SCONJ	_	_	17	appos	_	SpaceAfter=No
 20	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	19	punct	_	_
 
 # sent_id = es-dev-003-s495
