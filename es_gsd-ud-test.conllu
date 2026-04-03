@@ -5039,7 +5039,7 @@
 15	Socorro	socorro	PROPN	_	_	13	flat	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 17	mientras	mientras	ADV	_	ExtPos=SCONJ	22	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	deportistas	deportista	NOUN	_	Number=Plur	22	nsubj	_	_
 21	orituquenses	orituquense	ADJ	_	Number=Plur	20	amod	_	_
@@ -11671,7 +11671,7 @@
 32	euros	euro	NOUN	_	_	25	nmod	_	SpaceAfter=No
 33	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 34	mientras	mientras	SCONJ	_	ExtPos=SCONJ	44	mark	_	_
-35	que	que	CCONJ	_	_	34	fixed	_	_
+35	que	que	SCONJ	_	_	34	fixed	_	_
 36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	negocio	negocio	NOUN	_	Gender=Masc|Number=Sing	44	nsubj	_	_
 38	bancario	bancario	ADJ	_	Gender=Masc|Number=Sing	37	amod	_	_

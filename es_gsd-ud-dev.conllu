@@ -2229,7 +2229,7 @@
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	RFF	rff	PROPN	_	_	8	obl:arg	_	_
 12	mientras	mientras	ADV	_	ExtPos=ADV	16	advmod	_	_
-13	que	que	CCONJ	_	_	12	fixed	_	_
+13	que	que	SCONJ	_	_	12	fixed	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	SNCF	sncf	PROPN	_	_	16	nsubj	_	_
 16	gestiona	gestionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	_
@@ -3224,7 +3224,7 @@
 21	123	123	NUM	_	NumForm=Digit|NumType=Card	17	flat	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
 23	mientras	mientras	ADV	_	ExtPos=CCONJ	36	cc	_	_
-24	que	que	CCONJ	_	_	23	fixed	_	_
+24	que	que	SCONJ	_	_	23	fixed	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	canción	canción	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	_	_
 27	"	"	PUNCT	_	PunctType=Quot	29	punct	_	SpaceAfter=No
@@ -12088,7 +12088,7 @@
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	joven	joven	NOUN	_	Number=Sing	5	obl	_	_
 9	mientras	mientras	ADV	_	_	5	ccomp	_	_
-10	que	que	CCONJ	_	_	9	fixed	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
 11	después	después	ADV	_	_	14	advmod	_	_
 12	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	14	nsubj	_	_
 13	asustada	asustado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	12	amod	_	_
@@ -19745,7 +19745,7 @@
 31	Koriakia	koriakia	PROPN	_	_	28	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 33	mientras	mientras	CCONJ	_	ExtPos=CCONJ	39	cc	_	_
-34	que	que	CCONJ	_	_	33	fixed	_	_
+34	que	que	SCONJ	_	_	33	fixed	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	39	nsubj	_	_
 37	de	de	ADP	_	_	38	case	_	_
@@ -21451,7 +21451,7 @@
 8	sur	sur	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 10	mientras	mientras	ADV	_	ExtPos=CCONJ	14	cc	_	_
-11	que	que	CCONJ	_	_	10	fixed	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	turco	turco	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
 14	predomina	predominar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
@@ -26425,7 +26425,7 @@
 15	Gómez	gómez	PROPN	_	_	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 17	mientras	mientras	ADV	_	ExtPos=SCONJ	23	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	banda	banda	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
 21	izquierda	izquierdo	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_
