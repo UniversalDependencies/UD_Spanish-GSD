@@ -1302,7 +1302,7 @@
 
 # sent_id = es-dev-001-s54
 # text = Mientras tanto, los menores de 12 años podrán divertirse con los payasos en el salón Royal Club, donde estarán acompañados de cuidadoras y donde podrán degustar un buffet a su medida.
-1	Mientras	mientras	ADV	_	ExtPos=ADV	10	advmod	_	_
+1	Mientras	mientras	SCONJ	_	ExtPos=ADV	10	advmod	_	_
 2	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
@@ -2228,7 +2228,7 @@
 9	a	a	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	RFF	rff	PROPN	_	_	8	obl:arg	_	_
-12	mientras	mientras	ADV	_	ExtPos=ADV	16	advmod	_	_
+12	mientras	mientras	SCONJ	_	ExtPos=SCONJ	16	advmod	_	_
 13	que	que	SCONJ	_	_	12	fixed	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	SNCF	sncf	PROPN	_	_	16	nsubj	_	_
@@ -3223,7 +3223,7 @@
 20	Pelham	pelham	PROPN	_	_	17	flat	_	_
 21	123	123	NUM	_	NumForm=Digit|NumType=Card	17	flat	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
-23	mientras	mientras	ADV	_	ExtPos=CCONJ	36	cc	_	_
+23	mientras	mientras	SCONJ	_	ExtPos=SCONJ	36	cc	_	_
 24	que	que	SCONJ	_	_	23	fixed	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	canción	canción	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	_	_
@@ -4559,7 +4559,7 @@
 
 # sent_id = es-dev-001-s159
 # text = Mientras, Mulan lleva el combate contra Shang Yu a un tejado sin que este último se percate de que se trata de una trampa en la que Mushu le apunta con fuegos artificiales y le mata.
-1	Mientras	mientras	ADV	_	_	4	advmod	_	SpaceAfter=No
+1	Mientras	mientras	SCONJ	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	Mulan	mulan	PROPN	_	_	4	nsubj	_	_
 4	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -6565,8 +6565,8 @@
 34	Young	young	PROPN	_	_	30	flat	_	SpaceAfter=No
 35	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	30	punct	_	SpaceAfter=No
 36	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
-37	mientras	mientras	SCONJ	_	_	45	mark	_	_
-38	que	que	SCONJ	_	_	45	mark	_	_
+37	mientras	mientras	SCONJ	_	ExtPos=SCONJ	45	mark	_	_
+38	que	que	SCONJ	_	_	37	fixed	_	_
 39	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 40	"	"	PUNCT	_	PunctType=Quot	41	punct	_	SpaceAfter=No
 41	Tema	tema	PROPN	_	_	45	nsubj:pass	_	_
@@ -7795,8 +7795,8 @@
 7	de	de	ADP	_	_	8	case	_	_
 8	Poole	poole	PROPN	_	_	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
-10	mientras	mientras	SCONJ	_	_	16	mark	_	_
-11	que	que	SCONJ	_	_	16	mark	_	_
+10	mientras	mientras	SCONJ	_	ExtPos=SCONJ	16	mark	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	porción	porción	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
 14	occidental	occidental	ADJ	_	Number=Sing	13	amod	_	_
@@ -11756,7 +11756,7 @@
 20	en	en	ADP	_	_	21	case	_	_
 21	ventas	venta	NOUN	_	Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
-23	mientras	mientras	CCONJ	_	ExtPos=SCONJ	35	mark	_	_
+23	mientras	mientras	SCONJ	_	ExtPos=SCONJ	35	mark	_	_
 24	que	que	SCONJ	_	_	23	fixed	_	_
 25	"	"	PUNCT	_	PunctType=Quot	26	punct	_	SpaceAfter=No
 26	Heavy	heavy	PROPN	_	_	35	nsubj	_	_
@@ -12087,7 +12087,7 @@
 6	a	a	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	joven	joven	NOUN	_	Number=Sing	5	obl	_	_
-9	mientras	mientras	ADV	_	_	5	ccomp	_	_
+9	mientras	mientras	SCONJ	_	ExtPos=SCONJ	5	ccomp	_	_
 10	que	que	SCONJ	_	_	9	fixed	_	_
 11	después	después	ADV	_	_	14	advmod	_	_
 12	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	14	nsubj	_	_
@@ -15562,7 +15562,7 @@
 14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	balanza	balanza	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-17	mientras	mientras	CCONJ	_	ExtPos=SCONJ	23	mark	_	_
+17	mientras	mientras	SCONJ	_	ExtPos=SCONJ	23	mark	_	_
 18	que	que	SCONJ	_	_	17	fixed	_	_
 19	en	en	ADP	_	_	21	case	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -18418,7 +18418,7 @@
 15	55	55	NUM	_	NumForm=Digit|NumType=Card	16	nummod	_	_
 16	años	año	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
-18	mientras	mientras	CCONJ	_	ExtPos=SCONJ	24	mark	_	_
+18	mientras	mientras	SCONJ	_	ExtPos=SCONJ	24	mark	_	_
 19	que	que	SCONJ	_	_	18	fixed	_	_
 20	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	nsubj	_	_
 21-22	del	_	_	_	_	_	_	_	_
@@ -18635,7 +18635,7 @@
 
 # sent_id = es-dev-002-s137
 # text = Mientras, Gastón asume el rol de Quelentaro, y sigue haciendo presentaciones.
-1	Mientras	mientras	ADV	_	_	4	advmod	_	SpaceAfter=No
+1	Mientras	mientras	SCONJ	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	Gastón	gastón	PROPN	_	_	4	nsubj	_	_
 4	asume	asumir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -19376,7 +19376,7 @@
 
 # sent_id = es-dev-002-s163
 # text = Mientras que tradicionalmente en los videojuegos de lucha los comandos difieren en potencia, diferenciando por ejemplo puñetazo débil o fuerte, Tekken dedica a cada botón cada una de las cuatro extremidades, haciendo el aprendizaje más intuitivo.
-1	Mientras	mientras	ADV	_	ExtPos=SCONJ	11	mark	_	_
+1	Mientras	mientras	SCONJ	_	ExtPos=SCONJ	11	mark	_	_
 2	que	que	SCONJ	_	_	1	fixed	_	_
 3	tradicionalmente	tradicionalmente	ADV	_	_	11	advmod	_	_
 4	en	en	ADP	_	_	6	case	_	_
@@ -19511,8 +19511,8 @@
 18	de	de	ADP	_	_	19	case	_	_
 19	Bellis	bellis	NOUN	_	_	11	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-21	mientras	mientras	ADV	_	_	26	advmod	_	_
-22	que	que	SCONJ	_	_	26	mark	_	_
+21	mientras	mientras	SCONJ	_	ExtPos=SCONJ	26	advmod	_	_
+22	que	que	SCONJ	_	_	21	fixed	_	_
 23	en	en	ADP	_	_	24	case	_	_
 24	Bellium	bellium	PROPN	_	_	26	obl	_	_
 25	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	expl:pv	_	_
@@ -19744,7 +19744,7 @@
 30	de	de	ADP	_	_	31	case	_	_
 31	Koriakia	koriakia	PROPN	_	_	28	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-33	mientras	mientras	CCONJ	_	ExtPos=CCONJ	39	cc	_	_
+33	mientras	mientras	SCONJ	_	ExtPos=SCONJ	39	cc	_	_
 34	que	que	SCONJ	_	_	33	fixed	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	39	nsubj	_	_
@@ -21450,7 +21450,7 @@
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	sur	sur	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-10	mientras	mientras	ADV	_	ExtPos=CCONJ	14	cc	_	_
+10	mientras	mientras	SCONJ	_	ExtPos=SCONJ	14	cc	_	_
 11	que	que	SCONJ	_	_	10	fixed	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	turco	turco	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
@@ -26424,7 +26424,7 @@
 14	Sergi	sergi	PROPN	_	_	11	obl	_	_
 15	Gómez	gómez	PROPN	_	_	14	flat	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-17	mientras	mientras	ADV	_	ExtPos=SCONJ	23	mark	_	_
+17	mientras	mientras	SCONJ	_	ExtPos=SCONJ	23	mark	_	_
 18	que	que	SCONJ	_	_	17	fixed	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	banda	banda	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
@@ -28044,7 +28044,7 @@
 29	pan	pan	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	SpaceAfter=No
 30	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	25	punct	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	42	punct	_	_
-32	mientras	mientras	CCONJ	_	ExtPos=SCONJ	42	mark	_	_
+32	mientras	mientras	SCONJ	_	ExtPos=SCONJ	42	mark	_	_
 33	que	que	SCONJ	_	_	32	fixed	_	_
 34	en	en	ADP	_	_	36	case	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
@@ -29372,7 +29372,7 @@
 # sent_id = es-dev-002-s479
 # text = C. Mientras tanto, Hidrieo había cumplido su parte enviando a Chipre 40 navíos y 8.000 mercenarios bajo el mando del ateniense Foción y el líder chipriota Evágoras II.
 1	C.	c.	X	_	_	7	discourse	_	_
-2	Mientras	mientras	ADV	_	ExtPos=ADV	7	advmod	_	_
+2	Mientras	mientras	SCONJ	_	ExtPos=ADV	7	advmod	_	_
 3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 5	Hidrieo	hidrieo	NOUN	_	_	7	nsubj	_	_
@@ -29510,7 +29510,7 @@
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	Emperador	emperador	PROPN	_	_	12	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
-17	mientras	mientras	CCONJ	_	ExtPos=SCONJ	24	mark	_	_
+17	mientras	mientras	SCONJ	_	ExtPos=SCONJ	24	mark	_	_
 18	que	que	SCONJ	_	_	17	fixed	_	_
 19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 20	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	22	nummod	_	_
@@ -38572,7 +38572,7 @@
 
 # sent_id = es-dev-003-s301
 # text = Mientras tanto, la armada de Napier se enfrentó a la flota absolutista cerca del Cabo de San Vicente, venciendo en la Batalla del Cabo de San Vicente en 1833.
-1	Mientras	mientras	ADV	_	ExtPos=ADV	9	advmod	_	_
+1	Mientras	mientras	SCONJ	_	ExtPos=ADV	9	advmod	_	_
 2	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
