@@ -1391,7 +1391,7 @@
 24	filas	fila	NOUN	_	Gender=Fem|Number=Plur	23	obj	_	_
 25	de	de	ADP	_	_	26	case	_	_
 26	Boca	boca	PROPN	_	_	24	nmod	_	_
-27	Juniors	juniors	PROPN	_	_	26	amod	_	_
+27	Juniors	juniors	PROPN	_	_	26	flat	_	_
 28	también	también	ADV	_	_	23	advmod	_	_
 29	en	en	ADP	_	_	31	case	_	_
 30	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
