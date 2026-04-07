@@ -2269,23 +2269,23 @@
 
 # sent_id = es-dev-003-s494
 # text = Kifach (cómo), Min (qué), Magha (por qué), Lihkach (porque)
-1	Kifach	kifach	PROPN	_	_	0	root	_	_
+1	Kifach	kifach	X	_	Foreign=Yes	0	root	_	_
 2	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	3	punct	_	SpaceAfter=No
-3	cómo	cómo	ADV	_	_	1	appos	_	SpaceAfter=No
+3	cómo	cómo	ADV	_	PronType=Int	1	appos	_	SpaceAfter=No
 4	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	3	punct	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
-6	Min	min	PROPN	_	_	1	conj	_	_
+6	Min	min	X	_	Foreign=Yes	1	conj	_	_
 7	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	8	punct	_	SpaceAfter=No
 8	qué	qué	PRON	_	Number=Sing|PronType=Int	6	appos	_	SpaceAfter=No
 9	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	8	punct	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-11	Magha	magha	PROPN	_	_	1	conj	_	_
+11	Magha	magha	X	_	Foreign=Yes	1	conj	_	_
 12	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	14	punct	_	SpaceAfter=No
 13	por	por	ADP	_	_	14	case	_	_
-14	qué	qué	PRON	_	Number=Sing|PronType=Int	11	nmod	_	SpaceAfter=No
+14	qué	qué	PRON	_	Number=Sing|PronType=Int	11	appos	_	SpaceAfter=No
 15	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	14	punct	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
-17	Lihkach	lihkach	PROPN	_	_	1	conj	_	_
+17	Lihkach	lihkach	X	_	Foreign=Yes	1	conj	_	_
 18	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	19	punct	_	SpaceAfter=No
 19	porque	porque	SCONJ	_	_	17	appos	_	SpaceAfter=No
 20	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	19	punct	_	_
