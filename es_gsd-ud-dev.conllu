@@ -2228,7 +2228,7 @@
 9	a	a	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	RFF	rff	PROPN	_	_	8	obl:arg	_	_
-12	mientras	mientras	SCONJ	_	ExtPos=SCONJ	16	advmod	_	_
+12	mientras	mientras	SCONJ	_	ExtPos=SCONJ	16	mark	_	_
 13	que	que	SCONJ	_	_	12	fixed	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	SNCF	sncf	PROPN	_	_	16	nsubj	_	_
@@ -4559,7 +4559,7 @@
 
 # sent_id = es-dev-001-s159
 # text = Mientras, Mulan lleva el combate contra Shang Yu a un tejado sin que este último se percate de que se trata de una trampa en la que Mushu le apunta con fuegos artificiales y le mata.
-1	Mientras	mientras	SCONJ	_	_	4	advmod	_	SpaceAfter=No
+1	Mientras	mientras	SCONJ	_	_	4	mark	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	Mulan	mulan	PROPN	_	_	4	nsubj	_	_
 4	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -18635,7 +18635,7 @@
 
 # sent_id = es-dev-002-s137
 # text = Mientras, Gastón asume el rol de Quelentaro, y sigue haciendo presentaciones.
-1	Mientras	mientras	SCONJ	_	_	4	advmod	_	SpaceAfter=No
+1	Mientras	mientras	SCONJ	_	_	4	mark	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	Gastón	gastón	PROPN	_	_	4	nsubj	_	_
 4	asume	asumir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -19511,7 +19511,7 @@
 18	de	de	ADP	_	_	19	case	_	_
 19	Bellis	bellis	NOUN	_	_	11	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-21	mientras	mientras	SCONJ	_	ExtPos=SCONJ	26	advmod	_	_
+21	mientras	mientras	SCONJ	_	ExtPos=SCONJ	26	mark	_	_
 22	que	que	SCONJ	_	_	21	fixed	_	_
 23	en	en	ADP	_	_	24	case	_	_
 24	Bellium	bellium	PROPN	_	_	26	obl	_	_
