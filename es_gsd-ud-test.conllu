@@ -2230,7 +2230,7 @@
 8	que	que	SCONJ	_	_	11	mark	_	_
 9	King	king	PROPN	_	_	11	nsubj	_	_
 10	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
-11	adueñó	adueñarse	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	_
+11	adueñó	adueñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	ccomp	_	_
 12-13	del	_	_	_	_	_	_	_	_
 12	de	de	ADP	_	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -4005,7 +4005,7 @@
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 25	arboreto	arboreto	NOUN	_	Gender=Masc|Number=Sing	23	conj	_	_
 26	y	y	CCONJ	_	_	27	cc	_	_
-27	jardín	jardín	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	23	conj	_	_
+27	jardín	jardín	NOUN	_	Gender=Masc|Number=Sing	23	conj	_	_
 28	botánico	botánico	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
 29	en	en	ADP	_	_	31	case	_	_
 30	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
@@ -12980,10 +12980,10 @@
 12	para	para	ADP	_	ExtPos=SCONJ	15	mark	_	_
 13	que	que	CCONJ	_	_	12	fixed	_	_
 14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
-15	gastes	gaste	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
+15	gastes	gastar	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 16	luz	luz	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
 17	y	y	CCONJ	_	_	18	cc	_	_
-18	abras	abrir	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	15	conj	_	_
+18	abras	abrir	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	15	conj	_	_
 19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	ventanas	ventana	NOUN	_	Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
@@ -13380,7 +13380,7 @@
 # text = El despacho parte del entendimiento de que el mejor servicio profesional al Cliente se consigue a través de profesionales independientes y de calidad que, al mismo tiempo, son capaces de colaborar entre sí y con otros profesionales, en especial, en nuestro caso, con los integrados en la red lexprudens.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	despacho	despacho	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-3	parte	parte	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	parte	partir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -13488,7 +13488,7 @@
 # sent_id = es-test-001-s296
 # text = Yo rente un auto con unos amigos de esta arrendadora, si fue barato, pero me arruinó las vacaciones.
 1	Yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	rente	rente	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	rente	rentar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=renté
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	auto	auto	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
 5	con	con	ADP	_	_	7	case	_	_

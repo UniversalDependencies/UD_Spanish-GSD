@@ -10420,7 +10420,7 @@
 
 # sent_id = es-dev-001-s359
 # text = Cambie de growshop por mala atencion al publico, sin duda con este growshop no pasa, atencion 100 % personalizada con total confianza y ahora en crisis siempre descuentan algo y me redondean por lo bajo... un gustazo!
-1	Cambie	cambie	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Cambie	cambiar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=Cambié
 2	de	de	ADP	_	_	3	case	_	_
 3	growshop	growshop	X	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	por	por	ADP	_	_	6	case	_	_
@@ -17871,7 +17871,7 @@
 
 # sent_id = es-dev-002-s109
 # text = Ingeniería y grabación: Valgeir Sigurdsson en los estudios de Greenhouse, Reykjavík y Osterted, Copenhague.
-1	Ingeniería	ingeniería	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Ingeniería	ingeniería	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 2	y	y	CCONJ	_	_	3	cc	_	_
 3	grabación	grabación	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	SpaceAfter=No
 4	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
@@ -19246,7 +19246,7 @@
 4	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 5	que	que	SCONJ	_	_	7	mark	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
-7	casa	casa	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
+7	casa	casar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	y	y	CCONJ	_	_	9	cc	_	_
 9	otras	otro	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	4	conj	_	_
 10	hasta	hasta	ADP	_	_	11	case	_	_
@@ -20372,17 +20372,17 @@
 8	Operación	operación	PROPN	_	_	6	nmod	_	SpaceAfter=No
 9	:	:	PUNCT	_	PunctType=Colo	10	punct	_	_
 10	M.A.L.I.C.I.A.	m.a.l.i.c.i.a.	PROPN	_	_	8	parataxis	_	_
-11	Número	número	NOUN	_	_	13	nsubj	_	_
-12	3	3	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
+11	Número	número	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
+12	3	3	NUM	_	NumForm=Digit|NumType=Card	11	nmod	_	_
 13	puso	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	papas	papas	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
 16	fritas	frita	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
 17	que	que	PRON	_	PronType=Rel	21	obj	_	_
-18	Número	número	VERB	_	Mood=Ind|VerbForm=Fin	21	nsubj	_	_
-19	4	4	NUM	_	NumForm=Digit|NumType=Card	18	nummod	_	_
+18	Número	número	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	_	_
+19	4	4	NUM	_	NumForm=Digit|NumType=Card	18	nmod	_	_
 20	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	21	obl:arg	_	_
-21	regalo	regalar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+21	regalo	regalar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	15	acl:relcl	_	CorrectForm=regaló
 22	en	en	ADP	_	_	25	case	_	_
 23	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 24	pequeño	pequeño	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	_
@@ -25639,7 +25639,7 @@
 
 # sent_id = es-dev-002-s360
 # text = Perteneciente a la provincia de Valencia, en la comarca del Campo del Turia e integrado en La Vallbona a 22'6 km de Valencia.
-1	Perteneciente	perteneciente	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+1	Perteneciente	perteneciente	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 2	a	a	ADP	_	_	1	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	provincia	provincia	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -30424,7 +30424,7 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	tronco	tronco	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
-19	compacta	compacto	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
+19	compacta	compacto	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 20	con	con	ADP	_	_	21	case	_	_
 21	grietas	grieta	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
 22	estrechas	estrecha	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	_
@@ -31003,7 +31003,7 @@
 27	posible	posible	ADJ	_	Number=Sing	28	amod	_	_
 28	compra	compra	NOUN	_	Gender=Fem|Number=Sing	25	conj	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-30	procedente	procedente	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	15	advcl	_	_
+30	procedente	procedente	ADJ	_	Gender=Fem|Number=Sing	15	advcl	_	_
 31	de	de	ADP	_	_	32	case	_	_
 32	colección	colección	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	_
 33	particular	particular	ADJ	_	Number=Sing	32	amod	_	_
@@ -31556,7 +31556,7 @@
 20	look	look	X	_	Gender=Fem|Number=Sing	18	nmod	_	_
 21	que	que	SCONJ	_	_	23	mark	_	_
 22	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
-23	renueven	renueven	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
+23	renueven	renovar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 24	ante	ante	ADP	_	_	26	case	_	_
 25	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	mercado	mercado	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	_
@@ -32346,13 +32346,13 @@
 
 # sent_id = es-dev-003-s85
 # text = Fajín rojo y ancho con doble caída.
-1	Fajín	fajín	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
-2	rojo	rojo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
+1	Fajín	fajín	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	rojo	rojo	ADJ	_	Gender=Masc|Number=Sing	1	amod	_	_
 3	y	y	CCONJ	_	_	4	cc	_	_
-4	ancho	ancho	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
+4	ancho	ancho	ADJ	_	Gender=Masc|Number=Sing	2	conj	_	_
 5	con	con	ADP	_	_	7	case	_	_
 6	doble	doble	ADJ	_	Number=Sing	7	amod	_	_
-7	caída	caída	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	SpaceAfter=No
+7	caída	caída	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-dev-003-s86
@@ -40815,7 +40815,7 @@
 27	JW	jw	PROPN	_	_	26	appos	_	_
 28	-	-	PUNCT	_	PunctType=Dash	29	punct	_	_
 29	55B	55b	PROPN	_	_	27	appos	_	_
-30	proveniente	proveniente	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	26	acl	_	_
+30	proveniente	proveniente	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	_
 31	desde	desde	ADP	_	_	32	case	_	_
 32	Escocia	escocia	PROPN	_	_	30	obl	_	SpaceAfter=No
 33	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
