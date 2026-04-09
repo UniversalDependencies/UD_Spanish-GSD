@@ -4559,7 +4559,7 @@
 
 # sent_id = es-dev-001-s159
 # text = Mientras, Mulan lleva el combate contra Shang Yu a un tejado sin que este último se percate de que se trata de una trampa en la que Mushu le apunta con fuegos artificiales y le mata.
-1	Mientras	mientras	SCONJ	_	_	4	mark	_	SpaceAfter=No
+1	Mientras	mientras	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	Mulan	mulan	PROPN	_	_	4	nsubj	_	_
 4	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -18635,7 +18635,7 @@
 
 # sent_id = es-dev-002-s137
 # text = Mientras, Gastón asume el rol de Quelentaro, y sigue haciendo presentaciones.
-1	Mientras	mientras	SCONJ	_	_	4	mark	_	SpaceAfter=No
+1	Mientras	mientras	ADV	_	_	4	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	Gastón	gastón	PROPN	_	_	4	nsubj	_	_
 4	asume	asumir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
