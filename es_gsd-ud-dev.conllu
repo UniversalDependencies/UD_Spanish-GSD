@@ -3223,7 +3223,7 @@
 20	Pelham	pelham	PROPN	_	_	17	flat	_	_
 21	123	123	NUM	_	NumForm=Digit|NumType=Card	17	flat	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
-23	mientras	mientras	SCONJ	_	ExtPos=SCONJ	36	cc	_	_
+23	mientras	mientras	SCONJ	_	ExtPos=SCONJ	36	mark	_	_
 24	que	que	SCONJ	_	_	23	fixed	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	canción	canción	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	_	_
@@ -3236,7 +3236,7 @@
 33	Mix	mix	PROPN	_	_	32	flat	_	SpaceAfter=No
 34	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	32	punct	_	_
 35	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	expl:pv	_	_
-36	usó	usar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
+36	usó	usar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	advcl	_	_
 37	en	en	ADP	_	_	39	case	_	_
 38	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
 39	tráiler	tráiler	NOUN	_	Gender=Masc|Number=Sing	36	obl	_	_
@@ -21450,11 +21450,11 @@
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	sur	sur	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-10	mientras	mientras	SCONJ	_	ExtPos=SCONJ	14	cc	_	_
+10	mientras	mientras	SCONJ	_	ExtPos=SCONJ	14	mark	_	_
 11	que	que	SCONJ	_	_	10	fixed	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	turco	turco	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
-14	predomina	predominar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+14	predomina	predominar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	norte	norte	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	SpaceAfter=No
