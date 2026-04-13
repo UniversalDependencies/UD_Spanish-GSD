@@ -25639,7 +25639,7 @@
 
 # sent_id = es-dev-002-s360
 # text = Perteneciente a la provincia de Valencia, en la comarca del Campo del Turia e integrado en La Vallbona a 22'6 km de Valencia.
-1	Perteneciente	perteneciente	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
+1	Perteneciente	perteneciente	ADJ	_	Number=Sing	0	root	_	_
 2	a	a	ADP	_	_	1	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	provincia	provincia	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
