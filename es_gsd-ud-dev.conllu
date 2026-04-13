@@ -39728,7 +39728,7 @@
 11	calidad	calidad	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 12	pero	pero	CCONJ	_	_	14	cc	_	_
 13	muy	mucho	ADV	_	_	14	advmod	_	_
-14	dependiente	dependiente	NOUN	_	Number=Sing	11	conj	_	_
+14	dependiente	dependiente	ADJ	_	Number=Sing	11	conj	_	_
 15	de	de	ADP	_	_	17	case	_	_
 16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	estado	estado	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
