@@ -894,7 +894,7 @@
 16	Antonio	antonio	PROPN	_	_	15	flat	_	_
 17	Ríos	ríos	PROPN	_	_	15	flat	_	_
 18	#	#	SYM	_	_	14	appos	_	_
-19	1498	1498	NUM	_	NumForm=Digit|NumType=Card	18	nummod	_	SpaceAfter=No
+19	1498	1498	NUM	_	NumForm=Digit|NumType=Card	18	flat	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 21	en	en	ADP	_	_	22	case	_	_
 22	Barrancas	barrancas	PROPN	_	_	11	obl	_	SpaceAfter=No
