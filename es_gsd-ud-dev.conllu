@@ -20377,7 +20377,7 @@
 13	puso	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	papas	papas	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
-16	fritas	frita	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
+16	fritas	frito	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
 17	que	que	PRON	_	PronType=Rel	21	obj	_	_
 18	Número	número	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	_	_
 19	4	4	NUM	_	NumForm=Digit|NumType=Card	18	nmod	_	_
