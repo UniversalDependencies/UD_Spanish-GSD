@@ -1070,7 +1070,7 @@
 15	áreas	área	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
 16	bajo	bajo	ADP	_	_	17	case	_	_
 17	control	control	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
-18	normando	normar	ADJ	_	VerbForm=Ger	17	amod	_	SpaceAfter=No
+18	normando	normando	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
 19	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 # sent_id = es-dev-001-s43

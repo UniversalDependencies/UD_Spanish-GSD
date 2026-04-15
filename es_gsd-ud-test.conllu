@@ -457,7 +457,7 @@
 37	productos	producto	NOUN	_	Gender=Masc|Number=Plur	35	obl	_	_
 38	carnicos	cárnico	ADJ	_	Gender=Masc|Number=Plur|Typo=Yes	37	amod	_	CorrectForm=cárnicos|SpaceAfter=No
 39	,	,	PUNCT	_	PunctType=Comm	40	punct	_	_
-40	agricolas	agrícola	ADJ	_	Typo=Yes|VerbForm=Ger	38	conj	_	CorrectForm=agrícolas
+40	agricolas	agrícola	ADJ	_	Gender=Masc|Number=Plur|Typo=Yes	38	conj	_	CorrectForm=agrícolas
 41	y	y	CCONJ	_	_	42	cc	_	_
 42	pesqueros	pesquero	ADJ	_	Gender=Masc|Number=Plur	38	conj	_	SpaceAfter=No
 43	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
