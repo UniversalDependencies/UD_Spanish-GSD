@@ -30928,7 +30928,7 @@
 8	tamanacos	tamanaco	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 10	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	8	appos	_	_
-11	indígena	indígena	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+11	indígena	indígena	ADJ	_	Number=Sing	10	amod	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	filiación	filiación	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
 14	lingüística	lingüístico	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
@@ -35858,7 +35858,7 @@
 18	de	de	ADP	_	_	20	case	_	_
 19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	pueblos	pueblo	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	_
-21	indígenas	indígena	ADJ	_	Gender=Masc|Number=Plur	20	amod	_	_
+21	indígenas	indígena	ADJ	_	Number=Plur	20	amod	_	_
 22	y	y	CCONJ	_	_	24	cc	_	_
 23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	emigrantes	emigrante	NOUN	_	Number=Plur	20	conj	_	SpaceAfter=No
