@@ -38370,7 +38370,7 @@
 5	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	_
 6	en	en	ADP	_	_	9	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-8	magnifica	magnifica	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
+8	magnifica	magnífico	ADJ	_	Gender=Fem|Number=Sing|Typo=Yes	9	amod	_	CorrectForm=magnífica
 9	terraza	terraza	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
 10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
