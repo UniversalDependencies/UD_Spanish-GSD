@@ -39750,7 +39750,7 @@
 11	abajo	abajo	ADV	_	_	9	advmod	_	_
 12	a	a	ADP	_	_	11	case	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	izquierda	izquierda	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
+14	izquierda	izquierdo	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
 15	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 17	amplio	amplio	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_
