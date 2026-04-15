@@ -934,7 +934,7 @@
 1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
 2	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
 3	que	que	CCONJ	_	_	2	case	_	_
-4	tranquila	tranquilar	ADJ	_	VerbForm=Inf	0	root	_	_
+4	tranquila	tranquilo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 5	cuando	cuando	SCONJ	_	_	6	mark	_	_
 6	dejo	dejar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 7	a	a	ADP	_	_	8	case	_	_
