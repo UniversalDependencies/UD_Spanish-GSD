@@ -2978,7 +2978,7 @@
 4	en	en	ADP	_	_	6	case	_	_
 5	once	once	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
 6	historias	historia	NOUN	_	Gender=Fem|Number=Plur	3	obl	_	_
-7	cortas	corta	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+7	cortas	corto	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
 8	que	que	SCONJ	_	_	9	mark	_	_
 9	parten	partir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 10	de	de	ADP	_	_	11	mark	_	_
@@ -5361,7 +5361,7 @@
 101	con	con	ADP	_	_	102	case	_	_
 102	leyes	ley	NOUN	_	Gender=Fem|Number=Plur	97	nmod	_	_
 103	exclusivamente	exclusivamente	ADV	_	_	104	advmod	_	_
-104	masculinas	masculina	ADJ	_	Gender=Fem|Number=Plur	102	amod	_	SpaceAfter=No
+104	masculinas	masculino	ADJ	_	Gender=Fem|Number=Plur	102	amod	_	SpaceAfter=No
 105	,	,	PUNCT	_	PunctType=Comm	107	punct	_	_
 106	con	con	ADP	_	_	107	case	_	_
 107	jueces	juez	NOUN	_	Number=Plur	102	conj	_	_

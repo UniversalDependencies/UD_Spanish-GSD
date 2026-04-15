@@ -3865,7 +3865,7 @@
 33	poesía	poesía	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	_
 34	hispano	hispano	ADJ	_	Gender=Masc|Number=Sing	33	amod	_	_
 35	-	-	PUNCT	_	PunctType=Dash	36	punct	_	_
-36	americana	americana	ADJ	_	Gender=Fem|Number=Sing	34	compound	_	SpaceAfter=No
+36	americana	americano	ADJ	_	Gender=Fem|Number=Sing	34	compound	_	SpaceAfter=No
 37	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 # sent_id = es-dev-001-s138
@@ -4238,7 +4238,7 @@
 32	tener	tener	VERB	_	VerbForm=Inf	30	advcl	_	_
 33	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	chica	chica	NOUN	_	Gender=Fem|Number=Sing	32	obj	_	_
-35	mona	mona	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	_
+35	mona	mono	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	_
 36	de	de	ADP	_	_	37	case	_	_
 37	responsable	responsable	NOUN	_	Number=Sing	32	obl	_	SpaceAfter=No
 38	,	,	PUNCT	_	PunctType=Comm	43	punct	_	_
@@ -4250,7 +4250,7 @@
 44	,	,	PUNCT	_	PunctType=Comm	46	punct	_	_
 45	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
 46	chica	chica	NOUN	_	Gender=Fem|Number=Sing	43	appos	_	_
-47	mona	mona	ADJ	_	Gender=Fem|Number=Sing	46	amod	_	SpaceAfter=No
+47	mona	mono	ADJ	_	Gender=Fem|Number=Sing	46	amod	_	SpaceAfter=No
 48	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-dev-001-s148
@@ -5330,7 +5330,7 @@
 34	chicas	chica	NOUN	_	Gender=Fem|Number=Plur	31	obl:agent	_	_
 35	de	de	ADP	_	_	36	case	_	_
 36	manera	manera	NOUN	_	Gender=Fem|Number=Sing	34	nmod	_	_
-37	alternativa	alternativa	ADJ	_	Gender=Fem|Number=Sing	36	amod	_	SpaceAfter=No
+37	alternativa	alternativo	ADJ	_	Gender=Fem|Number=Sing	36	amod	_	SpaceAfter=No
 38	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-dev-001-s184
@@ -6683,7 +6683,7 @@
 22	remezclas	remezcla	NOUN	_	Gender=Fem|Number=Plur	20	nsubj:pass	_	_
 23	y	y	CCONJ	_	_	24	cc	_	_
 24	versiones	versión	NOUN	_	Gender=Fem|Number=Plur	22	conj	_	_
-25	alternativas	alternativa	ADJ	_	Gender=Fem|Number=Plur	24	amod	_	_
+25	alternativas	alternativo	ADJ	_	Gender=Fem|Number=Plur	24	amod	_	_
 26	de	de	ADP	_	_	28	case	_	_
 27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	canción	canción	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	_
@@ -11275,7 +11275,7 @@
 25	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 26	en	en	ADP	_	_	27	case	_	_
 27	tierras	tierra	NOUN	_	Gender=Fem|Number=Plur	11	conj	_	_
-28	bajas	baja	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	_
+28	bajas	bajo	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	_
 29	de	de	ADP	_	_	30	case	_	_
 30	bosques	bosque	NOUN	_	Gender=Masc|Number=Plur	27	nmod	_	_
 31	tropicales	tropical	ADJ	_	Number=Plur	30	amod	_	_
@@ -13606,7 +13606,7 @@
 33	a	a	ADP	_	_	35	case	_	_
 34	Otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	35	det	_	_
 35	Memorias	memorias	NOUN	_	_	32	obl	_	_
-36	masculinas	masculina	ADJ	_	Gender=Fem|Number=Plur	35	amod	_	SpaceAfter=No
+36	masculinas	masculino	ADJ	_	Gender=Fem|Number=Plur	35	amod	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 38	restringidas	restringir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	35	acl	_	_
 39	a	a	ADP	_	_	42	case	_	_
@@ -15650,7 +15650,7 @@
 16	de	de	ADP	_	_	18	case	_	_
 17	Rock	rock	NOUN	_	_	18	compound	_	_
 18	pop	pop	NOUN	_	_	15	nmod	_	_
-19	Mexicana	mexicana	ADJ	_	_	15	amod	_	_
+19	Mexicana	mexicano	ADJ	_	_	15	amod	_	_
 20	Maná	maná	PROPN	_	_	15	appos	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
@@ -16673,7 +16673,7 @@
 # text = La Escuela americana de economía representa el legado de Alexander Hamilton, que en su Informe sobre las manufacturas argumentó que los EE.UU. no podrían llegar a ser totalmente independiente hasta que fuesen autosuficiente en todos los productos económicos necesarios.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
-3	americana	americana	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+3	americana	americano	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	economía	economía	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 6	representa	representar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -16845,7 +16845,7 @@
 10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	tierras	tierra	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
 12	mediocremente	mediocremente	ADV	_	_	13	advmod	_	_
-13	húmedas	húmeda	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
+13	húmedas	húmedo	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
 15	cálidas	cálida	ADJ	_	Gender=Fem|Number=Plur	13	conj	_	_
 16	y	y	CCONJ	_	_	18	cc	_	_
@@ -30427,7 +30427,7 @@
 19	compacta	compacto	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 20	con	con	ADP	_	_	21	case	_	_
 21	grietas	grieta	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
-22	estrechas	estrecha	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	_
+22	estrechas	estrecho	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	_
 23	longitudinales	longitudinal	NOUN	_	Number=Plur	21	amod	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 25	gris	gris	NOUN	_	Gender=Masc	21	conj	_	_
@@ -36297,7 +36297,7 @@
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	costo	costo	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	_
 29	de	de	ADP	_	_	31	case	_	_
-30	futuras	futura	ADJ	_	Gender=Fem|Number=Plur	31	amod	_	_
+30	futuras	futuro	ADJ	_	Gender=Fem|Number=Plur	31	amod	_	_
 31	reservas	reserva	NOUN	_	Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	_	PunctType=Peri	17	punct	_	_
 
@@ -38807,7 +38807,7 @@
 14	ascendencia	ascendencia	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 15	árabe	árabe	ADJ	_	Number=Sing	14	amod	_	_
 16	e	e	CCONJ	_	_	17	cc	_	_
-17	india	india	ADJ	_	Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No
+17	india	indio	ADJ	_	Gender=Fem|Number=Sing	15	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 19	aunque	aunque	SCONJ	_	_	22	mark	_	_
 20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
@@ -38953,14 +38953,14 @@
 23	provenzal	provenzal	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	_
 24	con	con	ADP	_	_	25	case	_	_
 25	gambas	gamba	NOUN	_	Gender=Fem|Number=Plur	20	nmod	_	_
-26	blancas	blanca	ADJ	_	Gender=Fem|Number=Plur	25	amod	_	_
+26	blancas	blanco	ADJ	_	Gender=Fem|Number=Plur	25	amod	_	_
 27	de	de	ADP	_	_	28	case	_	_
 28	Huelva	huelva	PROPN	_	_	25	nmod	_	_
 29	y	y	CCONJ	_	_	30	cc	_	_
 30	langosta	langosta	NOUN	_	Gender=Fem|Number=Sing	25	conj	_	_
 31	en	en	ADP	_	_	32	case	_	_
 32	salsa	salso	NOUN	_	Gender=Fem|Number=Sing	30	nmod	_	_
-33	americana	americana	ADJ	_	Gender=Fem|Number=Sing	32	amod	_	SpaceAfter=No
+33	americana	americano	ADJ	_	Gender=Fem|Number=Sing	32	amod	_	SpaceAfter=No
 34	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
 35	tournedó	tournedar	NOUN	_	Number=Sing	18	conj	_	_
 36	de	de	ADP	_	_	37	case	_	_
