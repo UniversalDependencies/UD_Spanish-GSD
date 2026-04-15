@@ -31481,7 +31481,7 @@
 22	combatir	combatir	VERB	_	VerbForm=Inf	20	advcl	_	_
 23	a	a	ADP	_	_	25	case	_	_
 24	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
-25	indígenas	indígena	NOUN	_	Number=Plur	22	obj	_	SpaceAfter=No
+25	indígenas	indígena	NOUN	_	Gender=Masc|Number=Plur	22	obj	_	SpaceAfter=No
 26	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-003-s53
@@ -35858,7 +35858,7 @@
 18	de	de	ADP	_	_	20	case	_	_
 19	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 20	pueblos	pueblo	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	_
-21	indígenas	indígena	ADJ	_	Number=Plur	20	amod	_	_
+21	indígenas	indígena	ADJ	_	Gender=Masc|Number=Plur	20	amod	_	_
 22	y	y	CCONJ	_	_	24	cc	_	_
 23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	emigrantes	emigrante	NOUN	_	Number=Plur	20	conj	_	SpaceAfter=No
