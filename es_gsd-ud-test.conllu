@@ -6273,7 +6273,7 @@
 25	interior	interior	ADJ	_	Number=Sing	24	amod	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
 27	sauna	sauno	NOUN	_	Gender=Fem|Number=Sing	24	conj	_	_
-28	finlandesa	finlandesa	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	SpaceAfter=No
+28	finlandesa	finlandés	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 30	baño	baño	NOUN	_	Gender=Masc|Number=Sing	24	conj	_	_
 31	de	de	ADP	_	_	32	case	_	_
