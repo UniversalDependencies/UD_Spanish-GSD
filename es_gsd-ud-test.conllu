@@ -3268,7 +3268,7 @@
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	aplicación	aplicación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-5	informática	informática	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+5	informática	informático	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
 6	libre	libre	ADJ	_	Number=Sing	4	amod	_	_
 7	para	para	ADP	_	_	8	case	_	_
 8	mensajería	mensajería	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
@@ -9190,7 +9190,7 @@
 # sent_id = es-test-001-s130
 # text = La Suprema Corte de Justicia de la Nación determinó dejarlos en libertad al mediodía de este miércoles, sin embargo las autoridades penitenciarias del estado de México retrasaron durante casi 10 horas y media su liberación.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
-2	Suprema	suprema	ADJ	_	_	3	amod	_	_
+2	Suprema	supremo	ADJ	_	_	3	amod	_	_
 3	Corte	corte	NOUN	_	_	9	nsubj	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	Justicia	justicia	NOUN	_	_	3	nmod	_	_
@@ -9882,7 +9882,7 @@
 5	secretario	secretario	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 6	de	de	ADP	_	_	7	case	_	_
 7	Obra	obra	NOUN	_	_	5	nmod	_	_
-8	Pública	pública	ADJ	_	_	7	amod	_	_
+8	Pública	público	ADJ	_	_	7	amod	_	_
 9	de	de	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	Comuna	comuna	NOUN	_	_	7	nmod	_	SpaceAfter=No
@@ -10719,7 +10719,7 @@
 51	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	52	det	_	_
 52	Prefectura	prefectura	NOUN	_	_	50	nsubj	_	_
 53	Naval	naval	ADJ	_	_	52	amod	_	_
-54	Argentina	argentina	ADJ	_	_	52	amod	_	SpaceAfter=No
+54	Argentina	argentino	ADJ	_	_	52	amod	_	SpaceAfter=No
 55	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
 
 # sent_id = es-test-001-s169
@@ -12658,7 +12658,7 @@
 7	TRATAMIENTOS	tratamientos	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
 8	TERMALES	termales	ADJ	_	Number=Plur	7	amod	_	_
 9	AGUAS	agua	NOUN	_	_	7	conj	_	_
-10	SULFUROSAS	sulfurosa	ADJ	_	_	9	amod	_	_
+10	SULFUROSAS	sulfuroso	ADJ	_	_	9	amod	_	_
 11	Y	y	X	_	_	12	dep	_	_
 12	DEALES	deale	X	_	Gender=Masc|Number=Sing	7	amod	_	_
 13	PARA	para	ADP	_	_	14	case	_	_

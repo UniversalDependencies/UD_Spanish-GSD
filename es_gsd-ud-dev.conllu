@@ -4872,7 +4872,7 @@
 6	de	de	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Organización	organización	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
-9	Coreana	coreana	ADJ	_	_	8	amod	_	_
+9	Coreana	coreano	ADJ	_	_	8	amod	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	Béisbol	béisbol	NOUN	_	_	8	nmod	_	SpaceAfter=No
 12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -7740,7 +7740,7 @@
 8	tranquilamente	tranquilamente	ADV	_	_	7	advmod	_	_
 9	a	a	ADP	_	_	12	case	_	_
 10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-11	tierna	tierna	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
+11	tierna	tierno	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
 12	niña	niña	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	_
 13	que	que	SCONJ	_	_	15	mark	_	_
 14	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	15	obl:arg	_	_
@@ -14769,7 +14769,7 @@
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 26	denomina	denomina	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	_
 27	Extremadura	extremadura	PROPN	_	_	23	obl	_	_
-28	Castellana	castellana	ADJ	_	_	27	amod	_	_
+28	Castellana	castellano	ADJ	_	_	27	amod	_	_
 29	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	31	punct	_	SpaceAfter=No
 30	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 31	zona	zona	NOUN	_	Gender=Fem|Number=Sing	27	appos	_	_
@@ -16103,7 +16103,7 @@
 2	considerado	considerar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 3	como	como	ADP	_	_	6	case	_	_
 4	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-5	macabra	macabra	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+5	macabra	macabro	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 6	premonición	premonición	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
 7-8	del	_	_	_	_	_	_	_	_
 7	de	de	ADP	_	_	9	case	_	_
@@ -16520,7 +16520,7 @@
 4	subdirector	subdirector	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
 5	de	de	ADP	_	_	8	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-7	Tercera	tercera	ADJ	_	NumType=Ord	8	amod	_	_
+7	Tercera	tercero	ADJ	_	NumType=Ord	8	amod	_	_
 8	Compañía	compañía	PROPN	_	_	2	nmod	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	Bomberos	bomberos	PROPN	_	Gender=Masc|Number=Plur	8	nmod	_	_
@@ -16847,7 +16847,7 @@
 12	mediocremente	mediocremente	ADV	_	_	13	advmod	_	_
 13	húmedas	húmedo	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
-15	cálidas	cálida	ADJ	_	Gender=Fem|Number=Plur	13	conj	_	_
+15	cálidas	cálido	ADJ	_	Gender=Fem|Number=Plur	13	conj	_	_
 16	y	y	CCONJ	_	_	18	cc	_	_
 17	sobre	sobre	ADP	_	_	18	case	_	_
 18	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	11	conj	_	_
@@ -19298,7 +19298,7 @@
 10	de	de	ADP	_	_	12	case	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	Administración	administración	NOUN	_	_	9	nmod	_	_
-13	Pública	pública	ADJ	_	_	12	amod	_	_
+13	Pública	público	ADJ	_	_	12	amod	_	_
 14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	fenómeno	fenómeno	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -22314,7 +22314,7 @@
 29	de	de	ADP	_	_	31	case	_	_
 30	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
 31	Corte	corte	NOUN	_	_	18	nmod	_	_
-32	Suprema	suprema	ADJ	_	_	31	amod	_	_
+32	Suprema	supremo	ADJ	_	_	31	amod	_	_
 33	ajustados	ajustar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	18	acl	_	_
 34	a	a	ADP	_	_	35	case	_	_
 35	derecho	derecho	NOUN	_	Gender=Masc|Number=Sing	33	obl	_	_
@@ -25466,7 +25466,7 @@
 25	de	de	ADP	_	_	24	fixed	_	_
 26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	costa	costa	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_
-28	Australiana	australiana	ADJ	_	_	27	amod	_	_
+28	Australiana	australiano	ADJ	_	_	27	amod	_	_
 29	entre	entre	ADP	_	_	30	case	_	_
 30	Mandurah	mandurah	PROPN	_	_	23	obl	_	_
 31	y	y	CCONJ	_	_	32	cc	_	_
@@ -26023,7 +26023,7 @@
 25	de	de	ADP	_	_	27	case	_	_
 26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	Institución	institución	NOUN	_	_	24	nmod	_	_
-28	Religiosa	religiosa	ADJ	_	_	27	amod	_	SpaceAfter=No
+28	Religiosa	religioso	ADJ	_	_	27	amod	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 30	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	libro	libro	NOUN	_	Gender=Masc|Number=Sing	24	appos	_	_
@@ -27418,7 +27418,7 @@
 12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	canción	canción	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
-15	favorita	favorita	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
+15	favorita	favorito	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
 16-17	del	_	_	_	_	_	_	_	_
 16	de	de	ADP	_	_	19	case	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -30201,7 +30201,7 @@
 30	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 31	temblor	temblor	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
 32	extremidades	extremidad	NOUN	_	Gender=Fem|Number=Plur	9	conj	_	_
-33	frías	fría	ADJ	_	Gender=Fem|Number=Plur	32	amod	_	SpaceAfter=No
+33	frías	frío	ADJ	_	Gender=Fem|Number=Plur	32	amod	_	SpaceAfter=No
 34	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
 35	coma	coma	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
 36	y	y	CCONJ	_	_	43	cc	_	_
@@ -31246,7 +31246,7 @@
 
 # sent_id = es-dev-003-s45
 # text = Originaria de Indonesia.
-1	Originaria	originaria	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
+1	Originaria	originario	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	Indonesia	indonesia	PROPN	_	_	1	nmod	_	SpaceAfter=No
 4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -31708,7 +31708,7 @@
 32	inversión	inversión	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	_
 33	de	de	ADP	_	_	34	case	_	_
 34	infraestructura	infraestructura	NOUN	_	Gender=Fem|Number=Sing	32	nmod	_	_
-35	carretera	carretera	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	_
+35	carretera	carretero	ADJ	_	Gender=Fem|Number=Sing	34	amod	_	_
 36	en	en	ADP	_	_	38	case	_	_
 37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
 38	estado	estado	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	_
@@ -32133,7 +32133,7 @@
 5	en	en	ADP	_	_	7	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
-8	ficticia	ficticia	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
+8	ficticia	ficticio	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
 9	mediante	mediante	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	Crisis	crisis	NOUN	_	Gender=Fem	4	obl	_	SpaceAfter=No
@@ -32483,7 +32483,7 @@
 16	y	y	CCONJ	_	_	18	cc	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	Academia	academia	NOUN	_	_	11	conj	_	_
-19	Rusa	rusa	ADJ	_	_	18	amod	_	_
+19	Rusa	ruso	ADJ	_	_	18	amod	_	_
 20	de	de	ADP	_	_	21	case	_	_
 21	Ciencias	ciencia	NOUN	_	Gender=Fem|Number=Plur	18	nmod	_	_
 22	Naturales	naturales	ADJ	_	Number=Plur	21	amod	_	_
@@ -33138,7 +33138,7 @@
 # text = La Gamba Roja del Mediterráneo y la Gamba Blanca de Huelva se han convertido en dos de los más exquisitos manjares de la actualidad gastronómica española, destacando ambos crustáceos por su textura y sabor inconfundibles.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Gamba	gamba	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
-3	Roja	roja	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
+3	Roja	rojo	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4-5	del	_	_	_	_	_	_	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -33534,7 +33534,7 @@
 15	por	por	ADP	_	_	17	case	_	_
 16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
 17	autoridades	autoridad	NOUN	_	Gender=Fem|Number=Plur	14	obl:agent	_	_
-18	noruegas	noruega	ADJ	_	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
+18	noruegas	noruego	ADJ	_	Gender=Fem|Number=Plur	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 20	siendo	ser	AUX	_	VerbForm=Ger	21	aux:pass	_	_
 21	juzgados	juzgar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	14	advcl	_	_
@@ -34033,7 +34033,7 @@
 18	recibirá	recibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 19	a	a	ADP	_	_	22	case	_	_
 20	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-21	vasta	vasta	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
+21	vasta	vasto	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
 22	selección	selección	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
 23	de	de	ADP	_	_	24	case	_	_
 24	artistas	artista	NOUN	_	Number=Plur	22	nmod	_	_
@@ -34893,7 +34893,7 @@
 3	de	de	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	Económica	económica	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
+6	Económica	económico	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	Moncloa	moncloa	PROPN	_	_	5	nmod	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
@@ -37982,7 +37982,7 @@
 2	informa	informar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	21	advcl	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Autoridad	autoridad	NOUN	_	_	2	nsubj	_	_
-5	Portuaria	portuaria	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+5	Portuaria	portuario	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
 6	de	de	ADP	_	_	7	case	_	_
 7	Tarragona	tarragona	PROPN	_	_	4	nmod	_	_
 8	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	9	punct	_	SpaceAfter=No
