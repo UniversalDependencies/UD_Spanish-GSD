@@ -4089,7 +4089,7 @@
 11	"	"	PUNCT	_	PunctType=Quot	12	punct	_	SpaceAfter=No
 12	jefe	jefe	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
 13	y	y	CCONJ	_	_	14	cc	_	_
-14	empleado	emplear	ADJ	_	Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
+14	empleado	empleado	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	SpaceAfter=No
 15	"	"	PUNCT	_	PunctType=Quot	12	punct	_	_
 16	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	18	punct	_	SpaceAfter=No
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
