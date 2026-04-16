@@ -11354,7 +11354,7 @@
 24	acoplará	acoplar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	19	ccomp	_	_
 25	de	de	ADP	_	_	26	case	_	_
 26	forma	forma	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
-27	anisótropa	anisótropa	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
+27	anisótropa	anisótropo	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
 28	con	con	ADP	_	_	30	case	_	_
 29	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
 30	momentos	momento	NOUN	_	Gender=Masc|Number=Plur	24	obl	_	_
@@ -31611,7 +31611,7 @@
 26	acaecidas	acaecer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	25	acl	_	_
 27	desde	desde	ADP	_	_	28	case	_	_
 28	épocas	época	NOUN	_	Gender=Fem|Number=Plur	26	obl	_	_
-29	remotas	remota	ADJ	_	Gender=Fem|Number=Plur	28	amod	_	SpaceAfter=No
+29	remotas	remoto	ADJ	_	Gender=Fem|Number=Plur	28	amod	_	SpaceAfter=No
 30	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-003-s58
