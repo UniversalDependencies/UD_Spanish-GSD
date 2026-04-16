@@ -9735,7 +9735,7 @@
 19	con	con	ADP	_	_	20	case	_	_
 20	fachadas	fachada	NOUN	_	Gender=Fem|Number=Plur	12	conj	_	_
 21	bien	bien	ADV	_	_	22	advmod	_	_
-22	pintadas	pintada	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	20	amod	_	_
+22	pintadas	pintado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	20	amod	_	_
 23	y	y	CCONJ	_	_	24	cc	_	_
 24	ordenadas	ordenado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	22	conj	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_

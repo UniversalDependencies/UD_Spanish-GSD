@@ -1210,7 +1210,7 @@
 5	licenciado	licenciar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	4	advcl	_	_
 6	en	en	ADP	_	_	7	case	_	_
 7	Literatura	literatura	NOUN	_	_	5	obl	_	_
-8	Hispánica	hispánica	ADJ	_	_	7	amod	_	_
+8	Hispánica	hispánico	ADJ	_	_	7	amod	_	_
 9	por	por	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	Universidad	universidad	PROPN	_	_	5	obl	_	_
