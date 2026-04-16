@@ -9928,7 +9928,7 @@
 25	de	de	ADP	_	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	faraón	faraón	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
-28	muerto	morir	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	27	amod	_	SpaceAfter=No
+28	muerto	muerto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	27	amod	_	SpaceAfter=No
 29	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-001-s342
@@ -18027,7 +18027,7 @@
 26	ejército	ejército	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
 27	que	que	SCONJ	_	_	28	mark	_	_
 28	resultaría	resultar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	23	acl:relcl	_	_
-29	muerto	morir	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	28	xcomp	_	_
+29	muerto	muerto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	28	xcomp	_	_
 30	en	en	ADP	_	_	31	case	_	_
 31	combate	combate	NOUN	_	Gender=Masc|Number=Sing	29	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -22264,7 +22264,7 @@
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 4	ahora	ahora	ADV	_	_	6	advmod	_	_
 5	totalmente	totalmente	ADV	_	_	6	advmod	_	_
-6	crecido	crecer	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	amod	_	_
+6	crecido	crecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	7	amod	_	_
 7	Samus	samus	PROPN	_	_	1	nmod	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	Metroid	metroid	PROPN	_	_	7	nmod	_	SpaceAfter=No
@@ -22665,7 +22665,7 @@
 27	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
 28	donde	donde	ADV	_	PronType=Rel	29	advmod	_	_
 29	quedo	quedar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	_
-30	destruida	destruir	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	29	xcomp	_	_
+30	destruida	destruido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	29	xcomp	_	_
 31	totalmente.	totalmente.	X	_	Gender=Masc|Number=Sing	29	obl	_	_
 
 # sent_id = es-dev-002-s504
@@ -31639,7 +31639,7 @@
 3	de	de	ADP	_	_	4	case	_	_
 4	Boston	boston	PROPN	_	_	2	nmod	_	_
 5	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	cop	_	_
-6	cerrado	cerrar	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
+6	cerrado	cerrado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 7	y	y	CCONJ	_	_	9	cc	_	_
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 9	suspendieron	suspendir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_

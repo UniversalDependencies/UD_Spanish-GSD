@@ -10385,7 +10385,7 @@
 10	de	de	ADP	_	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	menor	menor	NOUN	_	Number=Sing	7	nmod	_	_
-13	muerto	morir	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
+13	muerto	muerto	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	_
 14	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
 15	presentados	presentar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 16	hoy	hoy	ADV	_	_	15	advmod	_	_
@@ -10713,7 +10713,7 @@
 45	,	,	PUNCT	_	PunctType=Comm	47	punct	_	_
 46	que	que	SCONJ	_	_	47	mark	_	_
 47	permanece	permanecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	acl:relcl	_	_
-48	desaparecido	desaparecer	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	47	xcomp	_	SpaceAfter=No
+48	desaparecido	desaparecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	47	xcomp	_	SpaceAfter=No
 49	,	,	PUNCT	_	PunctType=Comm	47	punct	_	_
 50	precisó	precisar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	parataxis	_	_
 51	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	52	det	_	_
