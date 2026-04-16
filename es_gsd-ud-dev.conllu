@@ -31442,7 +31442,7 @@
 19	en	en	ADP	_	_	21	case	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	zona	zona	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
-22	aunque	aunque	CCONJ	_	_	26	cc	_	_
+22	aunque	aunque	SCONJ	_	_	26	mark	_	_
 23	"	"	PUNCT	_	PunctType=Quot	26	punct	_	SpaceAfter=No
 24	sin	sin	ADP	_	_	26	case	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_

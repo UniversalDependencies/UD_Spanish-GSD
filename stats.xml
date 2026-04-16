@@ -19,7 +19,7 @@
     <tag name="ADP">71083</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
     <tag name="ADV">12459</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
     <tag name="AUX">10750</tag><!-- ser, haber, poder, estar, deber, be, querer, can, do, saber -->
-    <tag name="CCONJ">13687</tag><!-- y, o, pero, que, e, como, ni, sino, si, pues -->
+    <tag name="CCONJ">13665</tag><!-- y, o, pero, que, e, como, ni, sino, si, pues -->
     <tag name="DET">60890</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">36</tag><!-- sí, salve -->
     <tag name="NOUN">78968</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
@@ -28,7 +28,7 @@
     <tag name="PRON">14049</tag><!-- él, que, yo, uno, este, cual, tú, quien, todo, otro -->
     <tag name="PROPN">37786</tag><!-- san, unido, españa, juan, madrid, estados, josé, maría, universidad, argentina -->
     <tag name="PUNCT">47532</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
-    <tag name="SCONJ">8332</tag><!-- que, cuando, si, para, aunque, mientras, porque, como, pues, según -->
+    <tag name="SCONJ">8354</tag><!-- que, cuando, si, para, aunque, mientras, porque, como, pues, según -->
     <tag name="SYM">1660</tag><!-- %, ², km, $, º, °, €, h, m, ª -->
     <tag name="VERB">36388</tag><!-- tener, ser, hacer, encontrar, dar, haber, estar, decir, llegar, ir -->
     <tag name="X">1855</tag><!-- ex, hab, 's, ya, etc., c, x, d, i, mm -->
@@ -118,8 +118,8 @@
     <dep name="appos">8773</dep>
     <dep name="aux">3298</dep>
     <dep name="aux:pass">1849</dep>
-    <dep name="case">67133</dep>
-    <dep name="cc">13222</dep>
+    <dep name="case">67132</dep>
+    <dep name="cc">13201</dep>
     <dep name="ccomp">1593</dep>
     <dep name="compound">419</dep>
     <dep name="conj">17217</dep>
@@ -134,11 +134,11 @@
     <dep name="expl:impers">1</dep>
     <dep name="expl:pass">10</dep>
     <dep name="expl:pv">5334</dep>
-    <dep name="fixed">2749</dep>
+    <dep name="fixed">2748</dep>
     <dep name="flat">7416</dep>
     <dep name="goeswith">3</dep>
     <dep name="iobj">1</dep>
-    <dep name="mark">11758</dep>
+    <dep name="mark">11781</dep>
     <dep name="nmod">39279</dep>
     <dep name="nsubj">15784</dep>
     <dep name="nsubj:outer">2</dep>
