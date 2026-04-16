@@ -6347,7 +6347,7 @@
 25	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 26	Visuales	visuales	ADJ	_	_	19	conj	_	_
 27	y	y	CCONJ	_	_	28	cc	_	_
-28	Poéticas	poéticas	ADJ	_	_	19	conj	_	_
+28	Poéticas	poético	ADJ	_	_	19	conj	_	_
 29	lanzada	lanzar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	5	acl	_	_
 30	durante	durante	ADP	_	_	31	case	_	_
 31	2010	2010	NUM	_	NumForm=Digit|NumType=Card	29	obl	_	SpaceAfter=No
@@ -7495,7 +7495,7 @@
 71	a	a	ADP	_	_	73	case	_	_
 72	distintas	distinto	ADJ	_	Gender=Fem|Number=Plur	73	amod	_	_
 73	advocaciones	advocación	NOUN	_	Gender=Fem|Number=Plur	68	obj	_	_
-74	Marianas	marianas	ADJ	_	_	73	amod	_	SpaceAfter=No
+74	Marianas	mariano	ADJ	_	_	73	amod	_	SpaceAfter=No
 75	,	,	PUNCT	_	PunctType=Comm	79	punct	_	_
 76	y	y	CCONJ	_	_	79	cc	_	_
 77	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	79	det	_	_
@@ -21001,7 +21001,7 @@
 41	Fiscalía	fiscalía	NOUN	_	_	38	nmod	_	_
 42	de	de	ADP	_	_	43	case	_	_
 43	Investigaciones	investigaciones	NOUN	_	_	41	nmod	_	_
-44	Administrativas	administrativas	ADJ	_	_	43	amod	_	SpaceAfter=No
+44	Administrativas	administrativo	ADJ	_	_	43	amod	_	SpaceAfter=No
 45	,	,	PUNCT	_	PunctType=Comm	46	punct	_	_
 46	Manuel	manuel	PROPN	_	_	38	appos	_	_
 47	Garrido	garrido	PROPN	_	_	46	flat	_	SpaceAfter=No
@@ -36782,7 +36782,7 @@
 16	Centro	centro	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
 17	de	de	ADP	_	_	18	case	_	_
 18	Investigaciones	investigaciones	NOUN	_	_	16	nmod	_	_
-19	Históricas	históricas	ADJ	_	_	18	amod	_	_
+19	Históricas	histórico	ADJ	_	_	18	amod	_	_
 20	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	21	punct	_	SpaceAfter=No
 21	CIH	cih	PROPN	_	_	16	appos	_	SpaceAfter=No
 22	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	21	punct	_	SpaceAfter=No
