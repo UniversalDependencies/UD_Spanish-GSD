@@ -34142,7 +34142,7 @@
 8	formar	formar	VERB	_	VerbForm=Inf	7	xcomp	_	_
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	alianza	alianza	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
-11	tripartita	tripartita	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
+11	tripartita	tripartito	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
 12	en	en	ADP	_	_	14	case	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	Convención	convención	NOUN	_	_	7	obl	_	_
@@ -36588,7 +36588,7 @@
 3	conflicto	conflicto	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 4	ruso	ruso	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
 5	-	-	PUNCT	_	PunctType=Dash	6	punct	_	_
-6	persa	persa	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
+6	persa	perso	ADJ	_	Gender=Fem|Number=Sing	4	conj	_	_
 7	destacó	destacar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	en	en	ADP	_	_	10	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
