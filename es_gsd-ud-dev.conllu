@@ -5362,7 +5362,7 @@
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	parte	parte	NOUN	_	Gender=Fem|Number=Sing	29	obl	_	_
 26	que	que	SCONJ	_	_	28	mark	_	_
-27	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	28	obj	_	_
+27	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	28	obl:arg	_	_
 28	toca	tocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 29	firmar	firmar	VERB	_	VerbForm=Inf	18	conj	_	_
 30-31	al	_	_	_	_	_	_	_	_
@@ -11002,7 +11002,7 @@
 1	Aunque	aunque	SCONJ	_	_	5	mark	_	_
 2	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	3	det	_	_
 3	fuerzas	fuerza	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
-4	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	obj	_	_
+4	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	5	obl:arg	_	_
 5	superaban	superar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	advcl	_	_
 6	ampliamente	ampliamente	ADV	_	_	5	advmod	_	_
 7	en	en	ADP	_	_	8	case	_	_
@@ -24677,7 +24677,7 @@
 # text = Sus padres les introdujeron en la música a temprana edad y con frecuencia escuchaban sus colecciones de discos.
 1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	padres	padre	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
-3	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	obj	_	_
+3	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	4	obl:arg	_	_
 4	introdujeron	introducir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	en	en	ADP	_	_	7	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -25890,7 +25890,7 @@
 31	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	32	det	_	_
 32	organizaciones	organización	NOUN	_	Gender=Fem|Number=Plur	28	conj	_	_
 33	que	que	SCONJ	_	_	35	mark	_	_
-34	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	35	obj	_	_
+34	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	35	obl:arg	_	_
 35	representan	representar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	SpaceAfter=No
 36	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 37	según	según	SCONJ	_	_	38	mark	_	_
@@ -38714,7 +38714,7 @@
 32	para	para	ADP	_	_	33	mark	_	_
 33-34	venderles	_	_	_	_	_	_	_	_
 33	vender	vender	VERB	_	VerbForm=Inf	26	advcl	_	_
-34	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	33	obj	_	_
+34	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	33	obl:arg	_	_
 35	"	"	PUNCT	_	PunctType=Quot	36	punct	_	SpaceAfter=No
 36	chatarra	chatarra	NOUN	_	Gender=Fem|Number=Sing	33	obj	_	_
 37	bélica	bélico	ADJ	_	Gender=Fem|Number=Sing	36	amod	_	SpaceAfter=No

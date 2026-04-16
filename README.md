@@ -25,6 +25,8 @@ The Spanish UD conforms to the UD guidelines, but there are some exceptions.
 
 # Changelog
 
+* 2026-05-15 v2.18
+  * Fixed: Dative "les" cannot be obj, changed to obl:arg.
 * 2025-11-15 v2.17
   * Added the ExtPos feature to fixed expressions.
   * Fixed spurious dependents of determiners.
