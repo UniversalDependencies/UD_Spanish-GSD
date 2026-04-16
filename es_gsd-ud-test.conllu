@@ -9156,7 +9156,7 @@
 93	ideas	idea	NOUN	_	Gender=Fem|Number=Plur	91	nmod	_	_
 94	y	y	CCONJ	_	_	97	cc	_	_
 95	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	97	det	_	_
-96	enfermiza	enfermiza	ADJ	_	Gender=Fem|Number=Sing	97	amod	_	_
+96	enfermiza	enfermizo	ADJ	_	Gender=Fem|Number=Sing	97	amod	_	_
 97	obsesión	obsesión	NOUN	_	Gender=Fem|Number=Sing	91	conj	_	_
 98	por	por	ADP	_	_	99	mark	_	_
 99	llamar	llamar	VERB	_	VerbForm=Inf	97	advcl	_	_

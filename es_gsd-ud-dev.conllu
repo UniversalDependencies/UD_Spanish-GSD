@@ -5391,7 +5391,7 @@
 12	decisión	decisión	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 13	de	de	ADP	_	_	16	case	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-15	Santa	santa	ADJ	_	_	16	amod	_	_
+15	Santa	santo	ADJ	_	_	16	amod	_	_
 16	Sede	sede	NOUN	_	Number=Sing	12	nmod	_	_
 17	con	con	ADP	_	_	21	nmod	_	_
 18	respecto	respecto	NOUN	_	Gender=Masc|Number=Sing	17	fixed	_	_
@@ -6114,7 +6114,7 @@
 2	hacían	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	colas	cola	NOUN	_	Gender=Fem|Number=Plur	2	nsubj	_	_
 4	desde	desde	ADP	_	_	6	case	_	_
-5	tempranas	temprana	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
+5	tempranas	temprano	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
 6	horas	hora	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -19648,7 +19648,7 @@
 9	representando	representar	VERB	_	VerbForm=Ger	3	advcl	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	región	región	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
-12	costera	costera	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
+12	costera	costero	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
 13	en	en	ADP	_	_	14	case	_	_
 14	eventos	evento	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
 15	turísticos	turístico	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
@@ -30454,7 +30454,7 @@
 46	dejar	dejar	VERB	_	VerbForm=Inf	40	advcl	_	_
 47	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
 48	superficie	superficie	NOUN	_	Gender=Fem|Number=Sing	46	obj	_	_
-49	lisa	lisa	ADJ	_	Gender=Fem|Number=Sing	48	amod	_	SpaceAfter=No
+49	lisa	liso	ADJ	_	Gender=Fem|Number=Sing	48	amod	_	SpaceAfter=No
 50	,	,	PUNCT	_	PunctType=Comm	52	punct	_	_
 51	de	de	ADP	_	_	52	case	_	_
 52	color	color	NOUN	_	Gender=Masc|Number=Sing	48	nmod	_	_
@@ -33146,7 +33146,7 @@
 7	y	y	CCONJ	_	_	9	cc	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	Gamba	gamba	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
-10	Blanca	blanca	ADJ	_	_	9	amod	_	_
+10	Blanca	blanco	ADJ	_	_	9	amod	_	_
 11	de	de	ADP	_	_	12	case	_	_
 12	Huelva	huelva	PROPN	_	_	9	nmod	_	_
 13	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
@@ -37593,7 +37593,7 @@
 66	y	y	CCONJ	_	_	68	cc	_	_
 67	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	68	det	_	_
 68	Federación	federación	NOUN	_	Gender=Fem|Number=Sing	49	conj	_	_
-69	Británica	británica	ADJ	_	_	68	amod	_	_
+69	Británica	británico	ADJ	_	_	68	amod	_	_
 70	de	de	ADP	_	_	71	case	_	_
 71	Patinaje	patinaje	NOUN	_	Gender=Masc|Number=Sing	68	nmod	_	_
 72	sobre	sobre	ADP	_	_	73	case	_	_
