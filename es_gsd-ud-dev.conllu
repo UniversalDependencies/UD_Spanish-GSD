@@ -28242,9 +28242,9 @@
 35	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 36	pobre	pobre	ADJ	_	Number=Sing	37	amod	_	_
 37	presidiario	presidiario	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	SpaceAfter=No
-38	,	,	PUNCT	_	PunctType=Comm	39	punct	_	_
-39	Centinela	centinela	PROPN	_	Gender=Fem|Number=Sing	10	conj	_	_
-40	alerta	alerta	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	39	amod	_	SpaceAfter=No
+38	,	,	PUNCT	_	PunctType=Comm	40	punct	_	_
+39	Centinela	centinela	NOUN	_	Gender=Fem|Number=Sing	40	nsubj	_	_
+40	alerta	alertar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	10	conj	_	SpaceAfter=No
 41	,	,	PUNCT	_	PunctType=Comm	43	punct	_	_
 42	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
 43	hija	hija	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
