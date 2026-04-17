@@ -35497,7 +35497,7 @@
 13	%	%	SYM	_	_	10	nmod	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	materia	materia	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
-16	grasa	grasa	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
+16	grasa	graso	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
 17	en	en	ADP	_	_	18	case	_	_
 18	seco	seco	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
