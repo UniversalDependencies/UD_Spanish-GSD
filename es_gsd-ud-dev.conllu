@@ -15017,8 +15017,8 @@
 # text = La renta per cápita para la localidad era de $ 16,356.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	renta	renta	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
-3	per	per	ADP	_	_	2	appos	_	_
-4	cápita	cápita	NOUN	_	Gender=Fem|Number=Sing	3	compound	_	_
+3	per	per	ADP	_	_	4	case	_	_
+4	cápita	cápita	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 5	para	para	ADP	_	_	7	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	localidad	localidad	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
