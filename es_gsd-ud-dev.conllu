@@ -30211,7 +30211,7 @@
 40	muerte	muerte	NOUN	_	Gender=Fem|Number=Sing	43	nsubj	_	_
 41	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	aux	_	_
 42	ser	ser	AUX	_	VerbForm=Inf	43	cop	_	_
-43	repentina	repenna	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
+43	repentina	repentino	ADJ	_	Gender=Fem|Number=Sing	7	conj	_	SpaceAfter=No
 44	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 # sent_id = es-dev-003-s9
