@@ -3721,7 +3721,7 @@
 55	añade	añadir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	conj	_	_
 56	que	que	SCONJ	_	_	58	mark	_	_
 57	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	58	cop	_	_
-58	bueno	bue	ADJ	_	Gender=Masc|Number=Sing	55	ccomp	_	_
+58	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	55	ccomp	_	_
 59	que	que	SCONJ	_	_	78	mark	_	_
 60	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	62	det	_	_
 61	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	62	det	_	_
@@ -12935,7 +12935,7 @@
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
 7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-8	bueno	bue	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+8	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-test-001-s248
