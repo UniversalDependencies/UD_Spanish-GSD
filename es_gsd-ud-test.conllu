@@ -1262,7 +1262,7 @@
 23	personas	persona	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
 24	expectantes	expectante	ADJ	_	Number=Plur	23	amod	_	_
 25	y	y	CCONJ	_	_	26	cc	_	_
-26	deseosas	deseosa	ADJ	_	Gender=Fem|Number=Plur	24	conj	_	_
+26	deseosas	deseoso	ADJ	_	Gender=Fem|Number=Plur	24	conj	_	_
 27	de	de	ADP	_	_	28	mark	_	_
 28	sentir	sentir	VERB	_	VerbForm=Inf	26	advcl	_	_
 29	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	28	obj	_	_
