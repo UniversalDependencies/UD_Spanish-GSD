@@ -4455,7 +4455,7 @@
 10	reemplazada	reemplazar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 11	por	por	ADP	_	_	13	case	_	_
 12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	nueva	nuevo	NOUN	_	Gender=Fem|Number=Sing	10	obl:agent	_	_
+13	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	10	obl:agent	_	_
 14	durante	durante	ADP	_	_	15	case	_	_
 15	2009	2009	NUM	_	NumForm=Digit|NumType=Card	10	obl	_	_
 16	que	que	SCONJ	_	_	17	mark	_	_
