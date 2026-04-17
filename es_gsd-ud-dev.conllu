@@ -714,7 +714,7 @@
 2	sushi	sushi	X	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	_	_	6	case	_	_
-5	mala	malo	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+5	mala	mal	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 6	calidad	calidad	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -2619,7 +2619,7 @@
 8	por	por	ADP	_	_	9	case	_	_
 9	sospechas	sospecha	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
 10	de	de	ADP	_	_	12	case	_	_
-11	malas	malo	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	_
+11	malas	mal	ADJ	_	Gender=Fem|Number=Plur	12	amod	_	_
 12	prácticas	práctico	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -10424,7 +10424,7 @@
 2	de	de	ADP	_	_	3	case	_	_
 3	growshop	growshop	X	_	Gender=Masc|Number=Sing	1	obl	_	_
 4	por	por	ADP	_	_	6	case	_	_
-5	mala	malo	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+5	mala	mal	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 6	atencion	atención	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	1	obl	_	CorrectForm=atención
 7-8	al	_	_	_	_	_	_	_	_
 7	a	a	ADP	_	_	9	case	_	_
@@ -17228,7 +17228,7 @@
 2	tengan	tener	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 3	alguna	alguno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
 4	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
-5	mala	malo	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
+5	mala	mal	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
 6	pero	pero	CCONJ	_	_	14	cc	_	_
 7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
 8	y	y	CCONJ	_	_	10	cc	_	_
@@ -24039,7 +24039,7 @@
 31	apartado	apartar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	28	csubj:pass	_	_
 32	por	por	ADP	_	_	35	case	_	_
 33	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	35	det	_	_
-34	mala	malo	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	_
+34	mala	mal	ADJ	_	Gender=Fem|Number=Sing	35	amod	_	_
 35	relación	relación	NOUN	_	Gender=Fem|Number=Sing	31	obl:agent	_	_
 36	con	con	ADP	_	_	38	case	_	_
 37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
@@ -24302,7 +24302,7 @@
 1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
 2	vería	ver	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 3	con	con	ADP	_	_	5	case	_	_
-4	malos	malo	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
+4	malos	mal	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
 5	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
 6	ir	ir	VERB	_	VerbForm=Inf	2	xcomp	_	_
 7	a	a	ADP	_	_	9	case	_	_
@@ -35297,7 +35297,7 @@
 17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	niños	niño	NOUN	_	Gender=Masc|Number=Plur	19	nsubj	_	_
 19	sufren	sufrir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	_
-20	malos	malo	ADJ	_	Gender=Masc|Number=Plur	21	amod	_	_
+20	malos	mal	ADJ	_	Gender=Masc|Number=Plur	21	amod	_	_
 21	tratos	trato	NOUN	_	Gender=Masc|Number=Plur	19	obj	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 23	sufre	sufrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_

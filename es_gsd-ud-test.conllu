@@ -6649,7 +6649,7 @@
 18	"	"	PUNCT	_	PunctType=Quot	22	punct	_	SpaceAfter=No
 19	Buenas	buenas	PROPN	_	_	22	amod	_	_
 20	y	y	CCONJ	_	_	21	cc	_	_
-21	malas	malo	ADJ	_	Gender=Fem|Number=Plur	19	conj	_	_
+21	malas	mal	ADJ	_	Gender=Fem|Number=Plur	19	conj	_	_
 22	palabras	palabra	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
 23	"	"	PUNCT	_	PunctType=Quot	22	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
@@ -12324,7 +12324,7 @@
 13	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	14	det	_	_
 14	bicicletas	bicicleta	NOUN	_	Gender=Fem|Number=Plur	11	nmod	_	_
 15	tan	tanto	ADV	_	_	16	advmod	_	_
-16	malas	malo	ADJ	_	Gender=Fem|Number=Plur	14	amod	_	_
+16	malas	mal	ADJ	_	Gender=Fem|Number=Plur	14	amod	_	_
 17	que	que	SCONJ	_	_	18	mark	_	_
 18	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 19	para	para	ADP	_	_	20	case	_	_
@@ -12569,7 +12569,7 @@
 2	final	final	NOUN	_	Number=Sing	3	obl	_	_
 3	comimos	comer	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	0	root	_	_
 4	de	de	ADP	_	_	6	case	_	_
-5	mala	malo	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
+5	mala	mal	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 6	gana	ganar	NOUN	_	Number=Sing	3	obl	_	_
 7	porque	porque	SCONJ	_	_	10	mark	_	_
 8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
@@ -13219,7 +13219,7 @@
 # text = Es muy malo.
 1	Es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 2	muy	mucho	ADV	_	_	3	advmod	_	_
-3	malo	malo	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+3	malo	mal	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 4	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-test-001-s282
@@ -13252,7 +13252,7 @@
 13	poco	poco	ADV	_	_	14	advmod	_	_
 14	profesional	profesional	ADJ	_	Number=Sing	11	conj	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
-16	mala	malo	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
+16	mala	mal	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
 17	animación	animación	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 19	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
