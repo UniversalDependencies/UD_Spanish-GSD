@@ -14767,7 +14767,7 @@
 23	seguido	seguir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	16	acl	_	_
 24	en	en	ADP	_	_	27	case	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-26	denomina	denominada	ADJ	_	Gender=Fem|Number=Sing|Typo=Yes	27	amod	_	CorrectForm=denominada
+26	denomina	denominado	ADJ	_	Gender=Fem|Number=Sing|Typo=Yes	27	amod	_	CorrectForm=denominada
 27	Extremadura	extremadura	PROPN	_	_	23	obl	_	_
 28	Castellana	castellano	ADJ	_	_	27	amod	_	_
 29	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	31	punct	_	SpaceAfter=No
