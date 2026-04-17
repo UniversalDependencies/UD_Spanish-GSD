@@ -4455,7 +4455,7 @@
 10	reemplazada	reemplazar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 11	por	por	ADP	_	_	13	case	_	_
 12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
-13	nueva	nuevo	NOUN	_	Gender=Fem|Number=Sing	10	obl:agent	_	_
+13	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	10	obl:agent	_	_
 14	durante	durante	ADP	_	_	15	case	_	_
 15	2009	2009	NUM	_	NumForm=Digit|NumType=Card	10	obl	_	_
 16	que	que	SCONJ	_	_	17	mark	_	_
@@ -14767,7 +14767,7 @@
 23	seguido	seguir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	16	acl	_	_
 24	en	en	ADP	_	_	27	case	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-26	denomina	denomina	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	_
+26	denomina	denominado	ADJ	_	Gender=Fem|Number=Sing|Typo=Yes	27	amod	_	CorrectForm=denominada
 27	Extremadura	extremadura	PROPN	_	_	23	obl	_	_
 28	Castellana	castellano	ADJ	_	_	27	amod	_	_
 29	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	31	punct	_	SpaceAfter=No
@@ -19744,13 +19744,13 @@
 30	de	de	ADP	_	_	31	case	_	_
 31	Koriakia	koriakia	PROPN	_	_	28	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-33	mientras	mientras	SCONJ	_	ExtPos=SCONJ	39	cc	_	_
+33	mientras	mientras	SCONJ	_	ExtPos=SCONJ	39	mark	_	_
 34	que	que	SCONJ	_	_	33	fixed	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	39	nsubj	_	_
 37	de	de	ADP	_	_	38	case	_	_
 38	itelmenos	itelmenos	NOUN	_	Gender=Masc|Number=Plur	36	nmod	_	_
-39	hablan	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
+39	hablan	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 40	solamente	solamente	ADV	_	_	39	advmod	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
 42	ruso	ruso	NOUN	_	Gender=Masc|Number=Sing	39	obj	_	SpaceAfter=No
@@ -35497,7 +35497,7 @@
 13	%	%	SYM	_	_	10	nmod	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	materia	materia	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
-16	grasa	grasa	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
+16	grasa	graso	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
 17	en	en	ADP	_	_	18	case	_	_
 18	seco	seco	NOUN	_	Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
 19	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
