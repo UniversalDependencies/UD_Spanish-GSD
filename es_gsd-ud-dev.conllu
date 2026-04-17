@@ -19744,13 +19744,13 @@
 30	de	de	ADP	_	_	31	case	_	_
 31	Koriakia	koriakia	PROPN	_	_	28	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-33	mientras	mientras	SCONJ	_	ExtPos=SCONJ	39	cc	_	_
+33	mientras	mientras	SCONJ	_	ExtPos=SCONJ	39	mark	_	_
 34	que	que	SCONJ	_	_	33	fixed	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	39	nsubj	_	_
 37	de	de	ADP	_	_	38	case	_	_
 38	itelmenos	itelmenos	NOUN	_	Gender=Masc|Number=Plur	36	nmod	_	_
-39	hablan	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
+39	hablan	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	advcl	_	_
 40	solamente	solamente	ADV	_	_	39	advmod	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
 42	ruso	ruso	NOUN	_	Gender=Masc|Number=Sing	39	obj	_	SpaceAfter=No
