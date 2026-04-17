@@ -28100,7 +28100,7 @@
 12	a	a	ADP	_	_	14	case	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	fracción	fracción	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	_
-15	opositora	opositora	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
+15	opositora	opositor	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	dirección	dirección	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
