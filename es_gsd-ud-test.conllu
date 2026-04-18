@@ -9659,7 +9659,7 @@
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	Comité	comité	NOUN	_	_	2	nmod	_	_
+5	Comité	comité	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 6-7	del	_	_	_	_	_	_	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -10239,7 +10239,7 @@
 62-63	del	_	_	_	_	_	_	_	_
 62	de	de	ADP	_	_	64	case	_	_
 63	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	64	det	_	_
-64	Comité	comité	NOUN	_	_	61	nmod	_	_
+64	Comité	comité	NOUN	_	Gender=Masc|Number=Sing	61	nmod	_	_
 65	Organizador	organizador	ADJ	_	_	64	amod	_	SpaceAfter=No
 66	.	.	PUNCT	_	PunctType=Peri	58	punct	_	_
 
