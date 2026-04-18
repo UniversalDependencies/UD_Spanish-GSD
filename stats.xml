@@ -17,15 +17,15 @@
   <tags unique="17">
     <tag name="ADJ">25143</tag><!-- primero, nuevo, mismo, gran, buen, mayor, segundo, principal, último, mejor -->
     <tag name="ADP">71086</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
-    <tag name="ADV">12459</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
+    <tag name="ADV">12461</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
     <tag name="AUX">10753</tag><!-- ser, haber, poder, estar, deber, be, querer, can, do, saber -->
     <tag name="CCONJ">13665</tag><!-- y, o, pero, que, e, como, ni, sino, si, pues -->
-    <tag name="DET">60893</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
+    <tag name="DET">60894</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">36</tag><!-- sí, salve -->
     <tag name="NOUN">78982</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
     <tag name="NUM">11058</tag><!-- dos, tres, 2010, 0, cuatro, 3, 1, 2, 10, 4 -->
-    <tag name="PART">40</tag><!-- hola, ex, re, co, ir, l, no, not, abandono, adio -->
-    <tag name="PRON">14045</tag><!-- él, que, yo, uno, este, cual, tú, quien, todo, otro -->
+    <tag name="PART">38</tag><!-- hola, ex, re, co, ir, l, not, abandono, adio, de -->
+    <tag name="PRON">14044</tag><!-- él, que, yo, uno, este, cual, tú, quien, todo, otro -->
     <tag name="PROPN">37681</tag><!-- san, unido, españa, juan, madrid, estados, josé, maría, universidad, argentina -->
     <tag name="PUNCT">47530</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
     <tag name="SCONJ">8354</tag><!-- que, cuando, si, para, aunque, mientras, porque, como, pues, según -->
@@ -71,7 +71,7 @@
     <feat name="Person" value="1" upos="AUX,DET,PRON,VERB,X">2028</feat><!-- me, nos, mi, he, yo, nuestra, hemos, nuestros, nosotros, nuestro -->
     <feat name="Person" value="2" upos="AUX,DET,PRON,SYM,VERB,X">488</feat><!-- te, ², os, tu, tienes, puedes, tú, usted, vosotros, ti -->
     <feat name="Person" value="3" upos="AUX,DET,PRON,SYM,VERB,X">42048</feat><!-- se, es, su, fue, lo, sus, ha, le, son, eran -->
-    <feat name="Polarity" value="Neg" upos="ADJ,ADP,ADV,CCONJ,PART,PROPN,X">1764</feat><!-- no, nunca, ni, tampoco, jamás, not, gran, o, para, sino -->
+    <feat name="Polarity" value="Neg" upos="ADJ,ADP,ADV,CCONJ,PART,PROPN,X">1898</feat><!-- no, nunca, ni, tampoco, jamás, not, gran, o, para, sino -->
     <feat name="Polite" value="Form" upos="PRON">13</feat><!-- usted, ustedes -->
     <feat name="Poss" value="Yes" upos="DET,PRON">4483</feat><!-- su, sus, mi, nuestra, cuya, nuestros, cuyo, nuestro, tu, mis -->
     <feat name="PrepCase" value="Npr" upos="PRON">8242</feat><!-- se, lo, la, me, los, nos, te, las, os, ﻿Se -->
@@ -114,7 +114,7 @@
     <dep name="acl:relcl">5310</dep>
     <dep name="advcl">7118</dep>
     <dep name="advmod">11180</dep>
-    <dep name="amod">24066</dep>
+    <dep name="amod">24065</dep>
     <dep name="appos">8765</dep>
     <dep name="aux">3298</dep>
     <dep name="aux:pass">1850</dep>
@@ -127,7 +127,7 @@
     <dep name="csubj">696</dep>
     <dep name="csubj:pass">8</dep>
     <dep name="dep">1165</dep>
-    <dep name="det">61184</dep>
+    <dep name="det">61185</dep>
     <dep name="discourse">3</dep>
     <dep name="dislocated">1</dep>
     <dep name="expl">10</dep>

@@ -1731,7 +1731,7 @@
 
 # sent_id = es-dev-003-s476
 # text = No obstante, pueden celebrarse reuniones extraordinarias ante circunstancias que así lo requieran para modificar la composición del IBEX 35.
-1	No	no	ADV	_	ExtPos=CCONJ	5	cc	_	_
+1	No	no	ADV	_	ExtPos=CCONJ|Polarity=Neg	5	cc	_	_
 2	obstante	obstante	ADV	_	_	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
@@ -2658,12 +2658,12 @@
 3	queso	queso	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	pasta	pasta	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
-6	no	no	ADV	_	_	7	advmod	_	_
+6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
 7	cocida	cocido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 9	prensada	prensado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	7	conj	_	_
 10	o	o	CCONJ	_	_	11	cc	_	_
-11	no	no	ADV	_	_	9	conj	_	SpaceAfter=No
+11	no	no	ADV	_	Polarity=Neg	9	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-dev-004-s3
@@ -3839,7 +3839,7 @@
 
 # sent_id = es-dev-004-s42
 # text = No obstante, por el capricho de sus patrones, el tuvo que trabajar también con materiales más convencionales.
-1	No	no	ADV	_	ExtPos=CCONJ	12	cc	_	_
+1	No	no	ADV	_	ExtPos=CCONJ|Polarity=Neg	12	cc	_	_
 2	obstante	obstante	ADJ	_	Number=Sing	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 4	por	por	ADP	_	_	6	case	_	_
@@ -8370,7 +8370,7 @@
 48	,	,	PUNCT	_	PunctType=Comm	49	punct	_	_
 49	vivamos	vivir	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	35	advcl	_	_
 50	o	o	CCONJ	_	_	51	cc	_	_
-51	no	no	ADV	_	_	49	conj	_	_
+51	no	no	ADV	_	Polarity=Neg	49	conj	_	_
 52	en	en	ADP	_	_	53	case	_	_
 53	ellas	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Prs	49	obl	_	SpaceAfter=No
 54	,	,	PUNCT	_	PunctType=Comm	49	punct	_	_
@@ -8422,7 +8422,7 @@
 5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 6	ni	ni	CCONJ	_	_	8	cc	_	_
 7	que	que	SCONJ	_	_	8	mark	_	_
-8	no	no	ADV	_	_	4	conj	_	SpaceAfter=No
+8	no	no	ADV	_	Polarity=Neg	4	conj	_	SpaceAfter=No
 9	"	"	PUNCT	_	PunctType=Quot	2	punct	_	SpaceAfter=No
 10	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
@@ -12119,7 +12119,7 @@
 9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	7	obj	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 11	a	a	ADP	_	ExtPos=SCONJ	15	mark	_	_
-12	no	no	ADV	_	_	11	fixed	_	_
+12	no	no	ADV	_	Polarity=Neg	11	fixed	_	_
 13	ser	ser	VERB	_	VerbForm=Inf	11	fixed	_	_
 14	que	que	CCONJ	_	_	11	fixed	_	_
 15	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
