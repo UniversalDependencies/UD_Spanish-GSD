@@ -4384,7 +4384,7 @@
 28	productura	productura	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	_
 29	Pascale	pascale	PROPN	_	_	28	appos	_	_
 30	Breugnot	breugnot	PROPN	_	Number=Sing	29	flat	_	_
-31	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	obl	_	_
+31	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	nmod	_	_
 32	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	36	nmod	_	_
 33	antes	antes	ADV	_	ExtPos=ADP	36	case	_	_
 34	de	de	ADP	_	_	33	fixed	_	_
