@@ -147,7 +147,7 @@ UPOS: converted from manual
 XPOS: not available
 Features: automatic
 Relations: converted from manual
-Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim
+Contributors: Ballesteros, Miguel; Martínez Alonso, Héctor; McDonald, Ryan; Pascual, Elena; Silveira, Natalia; Zeman, Daniel; Nivre, Joakim; Bauer, John
 Contributing: here
 Contact: zeman@ufal.mff.cuni.cz
 ===============================================================================
