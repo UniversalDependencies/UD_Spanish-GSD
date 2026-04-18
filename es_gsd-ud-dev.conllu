@@ -32388,7 +32388,7 @@
 8	y	y	CCONJ	_	_	9	cc	_	_
 9	escritor	escritor	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	_
 10	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
-11	fechada	fechar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+11	fechada	fechado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	día	día	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
 14	de	de	ADP	_	_	15	case	_	_
@@ -37585,7 +37585,7 @@
 58	,	,	PUNCT	_	PunctType=Comm	60	punct	_	_
 59	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	60	det	_	_
 60	Federación	federación	NOUN	_	Gender=Fem|Number=Sing	49	nsubj	_	_
-61	Alemana	alemana	ADJ	_	_	60	amod	_	_
+61	Alemana	alemán	ADJ	_	_	60	amod	_	_
 62	de	de	ADP	_	_	63	case	_	_
 63	Patinaje	patinaje	NOUN	_	_	60	nmod	_	_
 64	sobre	sobre	ADP	_	_	65	case	_	_
