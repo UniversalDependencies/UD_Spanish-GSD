@@ -7006,7 +7006,7 @@
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 7	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	destacado	destacar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-9	Nueva	nuevo	PROPN	_	_	10	amod	_	_
+9	Nueva	nuevo	ADJ	_	_	10	amod	_	_
 10	Zelandia	zelandia	PROPN	_	_	8	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 12	Tasmania	tasmania	PROPN	_	_	10	conj	_	SpaceAfter=No
@@ -8329,7 +8329,7 @@
 3	Santa	santa	PROPN	_	_	4	amod	_	_
 4	Fe	fe	PROPN	_	_	1	obl	_	_
 5	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	7	punct	_	SpaceAfter=No
-6	Nuevo	nuevo	PROPN	_	_	7	amod	_	_
+6	Nuevo	nuevo	ADJ	_	_	7	amod	_	_
 7	México	méxico	PROPN	_	_	4	appos	_	SpaceAfter=No
 8	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	7	punct	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
@@ -8371,7 +8371,7 @@
 25	de	de	ADP	_	_	26	case	_	_
 26	Bergen	bergen	PROPN	_	_	24	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
-28	Nueva	nuevo	PROPN	_	_	29	amod	_	_
+28	Nueva	nuevo	ADJ	_	_	29	amod	_	_
 29	Jersey	jersey	PROPN	_	_	26	appos	_	SpaceAfter=No
 30	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
@@ -16897,7 +16897,7 @@
 # text = Australia y Nueva Zelanda entre julio y agosto, una mini gira por Hungría en septiembre, y el No Remorse Death On The Road Tour entre el 24 de octubre y el 7 de noviembre.
 1	Australia	australia	PROPN	_	_	0	root	_	_
 2	y	y	CCONJ	_	_	4	cc	_	_
-3	Nueva	nuevo	PROPN	_	_	4	amod	_	_
+3	Nueva	nuevo	ADJ	_	_	4	amod	_	_
 4	Zelanda	zelanda	PROPN	_	_	1	conj	_	_
 5	entre	entre	ADP	_	_	6	case	_	_
 6	julio	julio	NOUN	_	_	1	nmod	_	_
@@ -20195,7 +20195,7 @@
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	Bronx	bronx	PROPN	_	_	1	obl	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-12	Nueva	nuevo	PROPN	_	_	13	amod	_	_
+12	Nueva	nuevo	ADJ	_	_	13	amod	_	_
 13	York	york	PROPN	_	_	10	appos	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 15	O'Brien	o'brien	PROPN	_	_	16	nsubj	_	_
@@ -21605,7 +21605,7 @@
 7	de	de	ADP	_	_	8	case	_	_
 8	Valores	valores	NOUN	_	_	6	nmod	_	_
 9	de	de	ADP	_	_	11	case	_	_
-10	Nueva	nueva	PROPN	_	_	11	amod	_	_
+10	Nueva	nuevo	ADJ	_	_	11	amod	_	_
 11	York	york	PROPN	_	_	6	nmod	_	_
 12	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	13	punct	_	SpaceAfter=No
 13	SEC	sec	PROPN	_	_	6	appos	_	SpaceAfter=No
@@ -24972,7 +24972,7 @@
 28	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	_
 29	Salomón	salomón	PROPN	_	_	23	conj	_	_
 30	y	y	CCONJ	_	_	32	cc	_	_
-31	Nueva	nuevo	PROPN	_	_	32	amod	_	_
+31	Nueva	nuevo	ADJ	_	_	32	amod	_	_
 32	Guinea	guinea	PROPN	_	_	23	conj	_	_
 33	en	en	ADP	_	_	35	case	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
@@ -24986,7 +24986,7 @@
 2	Corporación	corporación	PROPN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	Eléctrica	eléctrica	PROPN	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	Nacional	nacional	PROPN	_	Number=Sing	2	amod	_	_
-5	Nueva	nuevo	PROPN	_	Gender=Fem|Number=Sing	6	amod	_	_
+5	Nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 6	Esparta	esparta	PROPN	_	_	2	appos	_	_
 7	informó	informar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	que	que	SCONJ	_	_	17	mark	_	_
@@ -25241,7 +25241,7 @@
 9	en	en	ADP	_	_	10	case	_	_
 10	Morristown	morristown	PROPN	_	_	6	nmod	_	_
 11	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	13	punct	_	SpaceAfter=No
-12	Nueva	nuevo	PROPN	_	_	13	amod	_	_
+12	Nueva	nuevo	ADJ	_	_	13	amod	_	_
 13	Jersey	jersey	PROPN	_	_	10	appos	_	SpaceAfter=No
 14	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	13	punct	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
@@ -32686,7 +32686,7 @@
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	Transporte	transporte	PROPN	_	Gender=Masc|Number=Sing	19	nmod	_	_
 24	de	de	ADP	_	_	26	case	_	_
-25	Nueva	nueva	PROPN	_	_	26	amod	_	_
+25	Nueva	nuevo	ADJ	_	_	26	amod	_	_
 26	York	york	PROPN	_	_	23	nmod	_	_
 27	en	en	ADP	_	_	29	case	_	_
 28	Atlantic	atlantic	PROPN	_	_	29	amod	_	_
@@ -34217,7 +34217,7 @@
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	Bronx	bronx	PROPN	_	_	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-21	Nueva	nuevo	PROPN	_	_	22	amod	_	_
+21	Nueva	nuevo	ADJ	_	_	22	amod	_	_
 22	York	york	PROPN	_	_	19	appos	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 24	dedicada	dedicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	_

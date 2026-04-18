@@ -580,7 +580,7 @@
 11	artista	artista	NOUN	_	Number=Sing	8	xcomp	_	_
 12	lejos	lejos	ADV	_	ExtPos=ADP	15	case	_	_
 13	de	de	ADP	_	_	12	fixed	_	_
-14	Nueva	nueva	PROPN	_	_	15	amod	_	_
+14	Nueva	nuevo	ADJ	_	_	15	amod	_	_
 15	York	york	PROPN	_	_	11	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 17	regresa	regresar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
@@ -2481,7 +2481,7 @@
 23	que	que	SCONJ	_	_	24	mark	_	_
 24	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
 25	en	en	ADP	_	_	27	case	_	_
-26	Nueva	nueva	PROPN	_	_	27	amod	_	_
+26	Nueva	nuevo	ADJ	_	_	27	amod	_	_
 27	Gales	gales	PROPN	_	_	24	obl	_	_
 28-29	del	_	_	_	_	_	_	_	_
 28	de	de	ADP	_	_	30	case	_	_
