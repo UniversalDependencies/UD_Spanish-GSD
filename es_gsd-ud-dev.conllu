@@ -20857,11 +20857,11 @@
 
 # sent_id = es-dev-002-s212
 # text = Mientras en el género Arabis (x = 8) sin embargo Boechera tiene un número base de cromosomas de x = 7.
-1	Mientras	mientras	SCONJ	_	_	14	mark	_	_
+1	Mientras	mientras	SCONJ	_	_	4	mark	_	_
 2	en	en	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
-4	género	género	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
-5	Arabis	arabis	X	_	_	4	appos	_	_
+4	género	género	NOUN	_	Gender=Masc|Number=Sing	14	advcl	_	_
+5	Arabis	arabis	PROPN	_	_	4	appos	_	_
 6	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	7	punct	_	SpaceAfter=No
 7	x	x	X	_	_	4	appos	_	_
 8	=	=	SYM	_	_	7	dep	_	_
