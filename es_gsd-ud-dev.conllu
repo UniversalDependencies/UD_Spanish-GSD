@@ -11861,7 +11861,7 @@
 15	o	o	CCONJ	_	_	16	cc	_	_
 16	definir	definir	VERB	_	VerbForm=Inf	10	conj	_	_
 17	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	18	det	_	_
-18	nuevas	nuevo	NOUN	_	Gender=Fem|Number=Plur	16	obj	_	_
+18	nuevas	nuevo	ADJ	_	Gender=Fem|Number=Plur	16	obj	_	_
 19	a	a	ADP	_	_	20	case	_	_
 20	través	través	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
 21	de	de	ADP	_	_	23	case	_	_
