@@ -10879,16 +10879,16 @@
 9	split	split	PROPN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	Sonic	sonic	PROPN	_	_	9	nmod	_	_
-12	Youth	youth	PROPN	_	_	11	flat	_	_
+12	Youth	youth	NOUN	_	Foreign=Yes	11	flat	_	Lang=en
 13	con	con	ADP	_	_	14	case	_	_
 14	Beck	beck	PROPN	_	_	9	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
-16	Pay	pay	PROPN	_	_	9	appos	_	_
-17	No	no	PROPN	_	_	16	flat	_	_
-18	Mind	mind	PROPN	_	_	16	flat	_	_
+16	Pay	pay	VERB	_	Foreign=Yes	9	appos	_	Lang=en
+17	No	no	DET	_	Foreign=Yes|PronType=Neg	16	flat	_	Lang=en
+18	Mind	mind	NOUN	_	Foreign=Yes	16	flat	_	Lang=en
 19	/	/	PUNCT	_	PunctType=Colo	20	punct	_	_
-20	Green	green	PROPN	_	_	16	appos	_	_
-21	Light	light	PROPN	_	_	20	flat	_	SpaceAfter=No
+20	Green	green	ADJ	_	Foreign=Yes	16	appos	_	Lang=en
+21	Light	light	NOUN	_	Foreign=Yes	20	flat	_	Lang=en|SpaceAfter=No
 22	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-001-s375
@@ -16914,13 +16914,13 @@
 17	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 18	y	y	CCONJ	_	_	20	cc	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	No	no	PROPN	_	_	1	conj	_	_
-21	Remorse	remorse	PROPN	_	_	20	flat	_	_
-22	Death	death	PROPN	_	_	20	flat	_	_
-23	On	on	PROPN	_	Gender=Masc|Number=Sing	20	flat	_	_
-24	The	the	PROPN	_	Gender=Masc|Number=Sing	20	flat	_	_
-25	Road	road	PROPN	_	_	20	flat	_	_
-26	Tour	tour	PROPN	_	_	20	flat	_	_
+20	No	no	DET	_	Foreign=Yes|PronType=Neg	1	conj	_	Lang=en
+21	Remorse	remorse	NOUN	_	Foreign=Yes	20	flat	_	Lang=en
+22	Death	death	NOUN	_	Foreign=Yes	20	flat	_	Lang=en
+23	On	on	ADP	_	Foreign=Yes	20	flat	_	Lang=en
+24	The	the	DET	_	Foreign=Yes|PronType=Art	20	flat	_	Lang=en
+25	Road	road	NOUN	_	Foreign=Yes	20	flat	_	Lang=en
+26	Tour	tour	NOUN	_	Foreign=Yes	20	flat	_	Lang=en
 27	entre	entre	ADP	_	_	29	case	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	24	24	NUM	_	NumForm=Digit|NumType=Card	20	nmod	_	_
