@@ -1281,7 +1281,7 @@
 6	fanerógamas	fanerógama	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
 7	perteneciente	perteneciente	ADJ	_	Number=Sing	4	amod	_	_
 8	a	a	ADP	_	_	11	case	_	_
-9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
+9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	reparandum	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	familia	familia	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 12	Brassicaceae	brassicaceae	PROPN	_	_	11	appos	_	SpaceAfter=No
