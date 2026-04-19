@@ -1213,7 +1213,7 @@
 8	Hispánica	hispánico	ADJ	_	_	7	amod	_	_
 9	por	por	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	Universidad	universidad	PROPN	_	_	5	obl	_	_
+11	Universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	Oviedo	oviedo	PROPN	_	_	11	nmod	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
@@ -1401,7 +1401,7 @@
 12	internacionales	internacional	ADJ	_	Number=Plur	11	amod	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	Universidad	universidad	PROPN	_	_	2	nmod	_	_
+15	Universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 16	Autónoma	autónoma	PROPN	_	Gender=Fem|Number=Sing	15	amod	_	_
 17	Gabriel	gabriel	PROPN	_	_	15	appos	_	_
 18	René	rené	PROPN	_	_	17	flat	_	_

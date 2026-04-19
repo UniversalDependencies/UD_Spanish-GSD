@@ -1470,7 +1470,7 @@
 25	campus	campus	NOUN	_	Gender=Masc	17	nmod	_	_
 26	de	de	ADP	_	_	28	case	_	_
 27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
-28	Universidad	universidad	NOUN	_	_	25	nmod	_	_
+28	Universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	_
 29	de	de	ADP	_	_	31	case	_	_
 30	San	san	PROPN	_	_	31	amod	_	_
 31	Diego	diego	PROPN	_	_	28	nmod	_	_
@@ -7671,7 +7671,7 @@
 1	Asistió	asistir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
-4	Universidad	universidad	PROPN	_	_	1	obl	_	_
+4	Universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	Nihon	nihon	PROPN	_	_	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
@@ -11073,7 +11073,7 @@
 35	Reagan	reagan	PROPN	_	_	34	flat	_	_
 36	de	de	ADP	_	_	38	case	_	_
 37	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
-38	Universidad	universidad	PROPN	_	_	32	nmod	_	_
+38	Universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	32	nmod	_	_
 39	de	de	ADP	_	_	40	case	_	_
 40	California	california	PROPN	_	_	38	nmod	_	_
 41	en	en	ADP	_	_	43	case	_	_
@@ -12392,7 +12392,7 @@
 7	Estudiantes	estudiantes	PROPN	_	_	5	nmod	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	Universidad	universidad	PROPN	_	_	5	nmod	_	_
+10	Universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 11	Santiago	santiago	PROPN	_	_	10	appos	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	Chile	chile	PROPN	_	_	11	nmod	_	_
@@ -23075,7 +23075,7 @@
 18	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	nmod	_	_
 19	de	de	ADP	_	_	20	case	_	_
 20	Acción	acción	PROPN	_	_	18	nmod	_	_
-21	Católica	católica	PROPN	_	_	20	amod	_	SpaceAfter=No
+21	Católica	católico	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
 23	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	24	det	_	_
 24	finalidad	finalidad	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
@@ -34300,7 +34300,7 @@
 # sent_id = es-dev-003-s156
 # text = La Universidad Metropolitana de Ciencias de la Educación es un centro de educación superior público de Chile, ubicada en Santiago.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	Universidad	universidad	PROPN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+2	Universidad	universidad	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
 3	Metropolitana	metropolitana	PROPN	_	_	2	amod	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	Ciencias	ciencia	PROPN	_	Gender=Fem|Number=Plur	2	nmod	_	_
