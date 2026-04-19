@@ -1570,7 +1570,7 @@
 22	de	de	ADP	_	_	25	case	_	_
 23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 24	denominados	denominado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	25	amod	_	_
-25	meristemas	meristema	ADJ	_	Gender=Masc|Number=Plur	21	amod	_	_
+25	meristemas	meristema	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	_
 26	secundarios	secundario	NOUN	_	Gender=Masc|Number=Plur	25	amod	_	_
 27	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	28	punct	_	SpaceAfter=No
 28	cámbium	cámbium	NOUN	_	Gender=Masc|Number=Sing	25	appos	_	_
