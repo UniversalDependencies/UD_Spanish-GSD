@@ -15,17 +15,17 @@
   <fusions unique="863" /><!-- del, al, convertirse, verse, darle, hacerse, hacerlo, convirtiéndose, dedicarse, quedarse, casarse, ponerse, encontrarse, presentarse, enfrentarse -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
-    <tag name="ADJ">25154</tag><!-- primero, nuevo, mismo, gran, buen, mayor, segundo, principal, último, mejor -->
+    <tag name="ADJ">25153</tag><!-- primero, nuevo, mismo, gran, buen, mayor, segundo, principal, último, mejor -->
     <tag name="ADP">71090</tag><!-- de, en, a, por, con, para, como, entre, desde, sobre -->
     <tag name="ADV">12469</tag><!-- no, más, también, mucho, donde, ya, además, sólo, así, después -->
     <tag name="AUX">10755</tag><!-- ser, haber, poder, estar, deber, be, querer, can, do, saber -->
     <tag name="CCONJ">13665</tag><!-- y, o, pero, que, e, como, ni, sino, si, pues -->
-    <tag name="DET">60901</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
+    <tag name="DET">60903</tag><!-- el, uno, su, este, otro, todo, ese, alguno, varios, mucho -->
     <tag name="INTJ">37</tag><!-- sí, no, salve -->
-    <tag name="NOUN">79105</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
+    <tag name="NOUN">79101</tag><!-- año, parte, población, ciudad, vez, persona, municipio, estado, familia, día -->
     <tag name="NUM">11058</tag><!-- dos, tres, 2010, 0, cuatro, 3, 1, 2, 10, 4 -->
     <tag name="PART">38</tag><!-- hola, ex, re, co, ir, l, not, abandono, adio, de -->
-    <tag name="PRON">14047</tag><!-- él, que, yo, uno, este, cual, tú, quien, todo, otro -->
+    <tag name="PRON">14050</tag><!-- él, que, yo, uno, este, cual, tú, quien, todo, otro -->
     <tag name="PROPN">37529</tag><!-- san, unido, españa, juan, madrid, estados, josé, maría, argentina, francia -->
     <tag name="PUNCT">47530</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
     <tag name="SCONJ">8355</tag><!-- que, cuando, si, para, aunque, mientras, porque, como, pues, según -->
@@ -54,8 +54,8 @@
     <feat name="ExtPos" value="PROPN" upos="NOUN,VERB">2</feat><!-- Llanto, danzo -->
     <feat name="ExtPos" value="SCONJ" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,PRON,SCONJ,VERB">653</feat><!-- ya, mientras, para, después, antes, a, si, puesto, así, dado -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,SCONJ,VERB,X">265</feat><!-- no, the, I, Inc., Let, a, to, Bass, Boy, Chains -->
-    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">68146</feat><!-- la, una, las, esta, parte, población, ciudad, personas, primera, familia -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">89951</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
+    <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">68144</feat><!-- la, una, las, esta, parte, población, ciudad, personas, primera, familia -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">89953</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
     <feat name="Mood" value="Cnd" upos="AUX,VERB">605</feat><!-- sería, podría, habría, podrían, tendría, serían, debería, gustaría, estaría, haría -->
     <feat name="Mood" value="Imp" upos="AUX,VERB">85</feat><!-- pese, pase, Let, Note, añade, compre, mira, tengan, Afirma, Comprobaremos -->
     <feat name="Mood" value="Ind" upos="AUX,VERB">28753</feat><!-- es, fue, ha, son, eran, era, tiene, está, han, había -->
@@ -110,12 +110,12 @@
     <feat name="VerbForm" value="Part" upos="ADJ,AUX,NOUN,PROPN,SYM,VERB,X">9640</feat><!-- sido, ubicado, conocido, debido, llamado, compuesto, conocida, situada, pasado, hecho -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="44">
+  <deps unique="45">
     <dep name="acl">2839</dep>
     <dep name="acl:relcl">5310</dep>
     <dep name="advcl">7118</dep>
     <dep name="advmod">11185</dep>
-    <dep name="amod">24063</dep>
+    <dep name="amod">24062</dep>
     <dep name="appos">8766</dep>
     <dep name="aux">3298</dep>
     <dep name="aux:pass">1850</dep>
@@ -128,19 +128,19 @@
     <dep name="csubj">696</dep>
     <dep name="csubj:pass">8</dep>
     <dep name="dep">1163</dep>
-    <dep name="det">61187</dep>
+    <dep name="det">61186</dep>
     <dep name="discourse">3</dep>
     <dep name="dislocated">1</dep>
     <dep name="expl">10</dep>
     <dep name="expl:impers">1</dep>
-    <dep name="expl:pass">10</dep>
-    <dep name="expl:pv">5334</dep>
+    <dep name="expl:pass">11</dep>
+    <dep name="expl:pv">5333</dep>
     <dep name="fixed">2751</dep>
     <dep name="flat">7433</dep>
     <dep name="goeswith">2</dep>
     <dep name="iobj">1</dep>
     <dep name="mark">11787</dep>
-    <dep name="nmod">39331</dep>
+    <dep name="nmod">39332</dep>
     <dep name="nsubj">15787</dep>
     <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">1184</dep>
@@ -152,6 +152,7 @@
     <dep name="orphan">6</dep>
     <dep name="parataxis">1673</dep>
     <dep name="punct">47530</dep>
+    <dep name="reparandum">1</dep>
     <dep name="root">16014</dep>
     <dep name="vocative">2</dep>
     <dep name="xcomp">3051</dep>
