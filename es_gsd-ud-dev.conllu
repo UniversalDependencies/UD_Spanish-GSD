@@ -173,7 +173,7 @@
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	Audiencia	audiencia	NOUN	_	_	11	nmod	_	_
 15	Nacional	nacional	ADJ	_	_	14	amod	_	_
-16	Fernando	fernando	PROPN	_	_	11	appos	_	_
+16	Fernando	fernando	PROPN	_	Gender=Masc|Number=Sing	11	appos	_	_
 17	Grande	grande	PROPN	_	_	16	flat	_	_
 18	Marlaska	marlaska	PROPN	_	_	16	flat	_	SpaceAfter=No
 19	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
@@ -29043,7 +29043,7 @@
 
 # sent_id = es-dev-002-s469
 # text = Fernando el Católico ordenó la convocatoria de los Tres Estados el 13 de marzo de 1513.
-1	Fernando	fernar	PROPN	_	VerbForm=Ger	4	nsubj	_	_
+1	Fernando	fernando	PROPN	_	Gender=Masc|Number=Sing	4	nsubj	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Católico	católico	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	_
 4	ordenó	ordenar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
