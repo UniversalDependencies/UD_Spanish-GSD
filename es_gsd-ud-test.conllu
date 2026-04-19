@@ -3462,7 +3462,7 @@
 6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 7	para	para	ADP	_	_	8	mark	_	_
 8	disfrutar	disfrutar	VERB	_	VerbForm=Inf	2	advcl	_	_
-9	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	12	nmod	_	_
+9	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	12	nmod	_	_
 10	de	de	ADP	_	_	12	case	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	comida	comida	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
@@ -4423,7 +4423,7 @@
 11	y	y	CCONJ	_	_	13	cc	_	_
 12	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
 13	engañar	engañar	VERB	_	VerbForm=Inf	7	conj	_	_
-14	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	13	obl	_	SpaceAfter=No
+14	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	13	obl	_	SpaceAfter=No
 15	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-dev-004-s65
@@ -11045,7 +11045,7 @@
 33	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
 34	y	y	CCONJ	_	_	39	cc	_	_
 35	por	por	ADP	_	_	36	case	_	_
-36	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	39	obl	_	_
+36	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	39	obl	_	_
 37	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	conj	_	_
 38	que	que	SCONJ	_	_	39	mark	_	_
 39	partir	partir	VERB	_	VerbForm=Inf	37	xcomp	_	_

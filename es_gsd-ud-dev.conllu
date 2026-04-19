@@ -1036,7 +1036,7 @@
 37	Isla	isla	PROPN	_	_	33	conj	_	_
 38	Mauricio	mauricio	PROPN	_	_	37	flat	_	SpaceAfter=No
 39	,	,	PUNCT	_	PunctType=Comm	44	punct	_	_
-40	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	44	nmod	_	_
+40	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	44	nmod	_	_
 41	por	por	ADP	_	_	44	case	_	_
 42	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	44	det	_	_
 43	propia	propio	ADJ	_	Gender=Fem|Number=Sing	44	amod	_	_
@@ -1303,7 +1303,7 @@
 # sent_id = es-dev-001-s54
 # text = Mientras tanto, los menores de 12 años podrán divertirse con los payasos en el salón Royal Club, donde estarán acompañados de cuidadoras y donde podrán degustar un buffet a su medida.
 1	Mientras	mientras	SCONJ	_	ExtPos=ADV	10	advmod	_	_
-2	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
+2	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	menores	menor	NOUN	_	Number=Plur	10	nsubj	_	_
@@ -2453,7 +2453,7 @@
 17	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	_
 18	punta	punta	NOUN	_	Gender=Fem|Number=Sing	17	compound	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-20	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	23	nmod	_	_
+20	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	23	nmod	_	_
 21	en	en	ADP	_	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	ámbito	ámbito	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
@@ -4212,7 +4212,7 @@
 6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
 8	ahorre	ahorrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-9	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	8	obl	_	_
+9	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	8	obl	_	_
 10	en	en	ADP	_	_	12	case	_	_
 11	cierto	cierto	DET	_	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	personal	personal	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
@@ -7636,7 +7636,7 @@
 1	Es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	por	por	ADP	_	_	4	case	_	_
 3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	det	_	_
-4	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	1	obl	_	_
+4	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	obl	_	_
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	colectivo	colectivo	NOUN	_	Gender=Masc|Number=Sing	1	nsubj	_	_
 7	vegetal	vegetal	ADJ	_	Number=Sing	6	amod	_	SpaceAfter=No
@@ -10517,7 +10517,7 @@
 
 # sent_id = es-dev-001-s362
 # text = Tanto la tumba como el ataúd se han desintegrado, y todo está cubierto con una capa de un centímetro de pan de oro y estuco.
-1	Tanto	tanto	DET	_	NumType=Card|PronType=Dem	3	det	_	_
+1	Tanto	tanto	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	3	det	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	tumba	tumba	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 4	como	como	ADP	_	_	6	case	_	_
@@ -12448,7 +12448,7 @@
 9	alteraciones	alteración	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
 10	y	y	CCONJ	_	_	8	cc	_	_
 11	por	por	ADP	_	_	12	case	_	_
-12	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	16	nmod	_	_
+12	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	16	nmod	_	_
 13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
 14	considerada	considerar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -14239,7 +14239,7 @@
 # text = Por lo tanto, es improbable que Berta se casara mucho antes de 580 aproximadamente.
 1	Por	por	ADP	_	_	3	case	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	det	_	_
-3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	6	nmod	_	SpaceAfter=No
+3	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	6	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
 6	improbable	improbable	ADJ	_	Number=Sing	0	root	_	_
@@ -17118,7 +17118,7 @@
 # sent_id = es-dev-002-s82
 # text = Aunque tanto Eisenhower como Nixon afirmaron más tarde que Ike estaba simplemente bromeando con el periodista, el comentario hirió a Nixon, puesto que debilitaría su reclamaciones de tener mayor capacidad de decisión de experiencia que Kennedy.
 1	Aunque	aunque	SCONJ	_	_	6	mark	_	_
-2	tanto	tanto	DET	_	NumType=Card|PronType=Dem	3	det	_	_
+2	tanto	tanto	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	3	det	_	_
 3	Eisenhower	eisenhower	PROPN	_	_	6	nsubj	_	_
 4	como	como	ADP	_	_	5	case	_	_
 5	Nixon	nixon	PROPN	_	_	3	nmod	_	_
@@ -17625,7 +17625,7 @@
 # text = Por lo tanto resulta no un triángulo de amor sino un rectángulo que se compone de Feliciano, Dominica, María Juana y José.
 1	Por	por	ADP	_	_	3	case	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	det	_	_
-3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	4	obl	_	_
+3	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	4	obl	_	_
 4	resulta	resultar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
 6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
@@ -24860,7 +24860,7 @@
 17	de	de	ADP	_	_	18	case	_	_
 18	diversión	diversión	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
 19	dirigida	dirigir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	_
-20	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	22	nmod	_	_
+20	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	22	nmod	_	_
 21	a	a	ADP	_	_	22	case	_	_
 22	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
 23	como	como	ADP	_	_	25	case	_	_
@@ -25782,7 +25782,7 @@
 # text = Por lo tanto sólo el 13 % escriben frecuentemente en nynorsk, aunque la mayoría habla dialectos que se parecen más al nynorsk que al bokmål.
 1	Por	por	ADP	_	_	3	case	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	det	_	_
-3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	8	obl	_	_
+3	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	8	obl	_	_
 4	sólo	sólo	ADV	_	_	7	advmod	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	13	13	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	_
@@ -27116,7 +27116,7 @@
 # text = Lo recomiendo tanto a familias, como a parejas ya grupos de amigos que quieran compartir una velada con una atención maravillosa.
 1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
 2	recomiendo	recomer	VERB	_	VerbForm=Ger	0	root	_	_
-3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	5	nmod	_	_
+3	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	5	nmod	_	_
 4	a	a	ADP	_	_	5	case	_	_
 5	familias	familia	NOUN	_	Gender=Fem|Number=Plur	2	obl:arg	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
@@ -29373,7 +29373,7 @@
 # text = C. Mientras tanto, Hidrieo había cumplido su parte enviando a Chipre 40 navíos y 8.000 mercenarios bajo el mando del ateniense Foción y el líder chipriota Evágoras II.
 1	C.	c.	X	_	_	7	discourse	_	_
 2	Mientras	mientras	SCONJ	_	ExtPos=ADV	7	advmod	_	_
-3	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
+3	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	2	fixed	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 5	Hidrieo	hidrieo	NOUN	_	_	7	nsubj	_	_
 6	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
@@ -33544,7 +33544,7 @@
 
 # sent_id = es-dev-003-s127
 # text = Tanto la administración central como las locales experimentaron un gran desarrollo, y su estructura burocrática sería una de las más eficientes de su tiempo, tanto que en ella se basarían otros gobernantes, como Federico III de Dinamarca o Pedro I de Rusia.
-1	Tanto	tanto	CCONJ	_	_	8	cc	_	_
+1	Tanto	tanto	ADV	_	_	8	cc	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	administración	administración	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
 4	central	central	ADJ	_	Number=Sing	3	amod	_	_
@@ -33570,7 +33570,7 @@
 24	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
-27	tanto	tanto	PRON	_	ExtPos=SCONJ|NumType=Card|PronType=Dem	32	mark	_	_
+27	tanto	tanto	PRON	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	32	mark	_	_
 28	que	que	SCONJ	_	_	27	fixed	_	_
 29	en	en	ADP	_	_	30	case	_	_
 30	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	32	obl	_	_
@@ -34343,7 +34343,7 @@
 17	año	año	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
 18	enamora	enamorar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-20	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	23	nmod	_	_
+20	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	23	nmod	_	_
 21	en	en	ADP	_	_	23	case	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	ficción	ficción	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
@@ -38327,7 +38327,7 @@
 28	e	e	CCONJ	_	_	29	cc	_	_
 29	imagen	imagen	NOUN	_	Gender=Fem|Number=Sing	27	conj	_	_
 30	corporativa	corporativo	ADJ	_	Gender=Fem|Number=Sing	29	amod	_	_
-31	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	34	nmod	_	_
+31	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	34	nmod	_	_
 32	para	para	ADP	_	_	34	case	_	_
 33	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
 34	instituciones	institución	NOUN	_	Gender=Fem|Number=Plur	25	nmod	_	_
@@ -38573,7 +38573,7 @@
 # sent_id = es-dev-003-s301
 # text = Mientras tanto, la armada de Napier se enfrentó a la flota absolutista cerca del Cabo de San Vicente, venciendo en la Batalla del Cabo de San Vicente en 1833.
 1	Mientras	mientras	SCONJ	_	ExtPos=ADV	9	advmod	_	_
-2	tanto	tanto	PRON	_	NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
+2	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	armada	armada	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
