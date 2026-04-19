@@ -37424,7 +37424,7 @@
 4	género	género	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	plantas	planta	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
-7	fanerógamas	fanerógama	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
+7	fanerógamas	fanerógamo	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 9	perteneciente	perteneciente	ADJ	_	Number=Sing	4	amod	_	_
 10	a	a	ADP	_	_	12	case	_	_
