@@ -7257,10 +7257,10 @@
 # text = Está localizado dentro del área consolidada de la ciudad.
 1	Está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
 2	localizado	localizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
-3	dentro	dentro	ADV	_	_	2	advmod	_	_
+3	dentro	dentro	ADV	_	_	6	case	_	_
 4-5	del	_	_	_	_	_	_	_	_
-4	de	de	ADP	_	_	2	fixed	_	_
-5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
+4	de	de	ADP	_	_	3	fixed	_	_
+5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	área	área	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 7	consolidada	consolidado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	6	amod	_	_
 8	de	de	ADP	_	_	10	case	_	_
@@ -8266,11 +8266,11 @@
 28	de	de	ADP	_	_	30	case	_	_
 29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	primera	primero	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
-31	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
-32	o	o	CCONJ	_	_	27	fixed	_	_
-33	bien	bien	ADV	_	_	27	fixed	_	SpaceAfter=No
+31	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
+32	o	o	CCONJ	_	_	35	cc	_	_
+33	bien	bien	ADV	_	_	35	advmod	_	SpaceAfter=No
 34	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
-35	terminan	terminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	27	conj	_	_
+35	terminan	terminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	_
 36	frustrados	frustrado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	35	xcomp	_	SpaceAfter=No
 37	.	.	PUNCT	_	PunctType=Peri	25	punct	_	_
 
@@ -32519,17 +32519,17 @@
 # sent_id = es-dev-003-s91
 # text = Tiene que ver con la forma como, tal y como apuntaba antes, un atributo tan nebuloso como "antisistema" ha acabado por convertirse en algo objetivable incluso para la propia administración de justicia, que puede considerar que no sólo "hacer cosas antisistema" es castigable, sino que incluso lo es simplemente pensarlas.
 1	Tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	que	que	CCONJ	_	_	1	fixed	_	_
-3	ver	ver	VERB	_	VerbForm=Inf	1	fixed	_	_
+2	que	que	SCONJ	_	_	3	mark	_	_
+3	ver	ver	VERB	_	VerbForm=Inf	1	xcomp	_	_
 4	con	con	ADP	_	_	6	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	forma	forma	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
+6	forma	forma	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 7	como	como	ADP	_	_	24	case	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 9	tal	tal	ADV	_	ExtPos=ADV	12	advmod	_	_
 10	y	y	CCONJ	_	_	9	fixed	_	_
 11	como	como	ADV	_	_	9	fixed	_	_
-12	apuntaba	apuntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	parataxis	_	_
+12	apuntaba	apuntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	parataxis	_	_
 13	antes	antes	ADV	_	_	12	advmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
