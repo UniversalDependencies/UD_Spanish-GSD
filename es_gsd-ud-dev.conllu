@@ -22832,7 +22832,7 @@
 13	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	dejado	dejar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 15	mal	mal	ADV	_	_	16	advmod	_	_
-16	paradas	parada	ADJ	_	Gender=Fem|Number=Plur	14	xcomp	_	_
+16	paradas	parado	ADJ	_	Gender=Fem|Number=Plur	14	xcomp	_	_
 17	a	a	ADP	_	_	19	case	_	_
 18	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	19	det	_	_
 19	administraciones	administración	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	_
