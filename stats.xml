@@ -135,11 +135,11 @@
     <dep name="expl:impers">1</dep>
     <dep name="expl:pass">11</dep>
     <dep name="expl:pv">5333</dep>
-    <dep name="fixed">2740</dep>
+    <dep name="fixed">2655</dep>
     <dep name="flat">7433</dep>
     <dep name="goeswith">2</dep>
     <dep name="iobj">1</dep>
-    <dep name="mark">11798</dep>
+    <dep name="mark">11883</dep>
     <dep name="nmod">39333</dep>
     <dep name="nsubj">15787</dep>
     <dep name="nsubj:outer">2</dep>
