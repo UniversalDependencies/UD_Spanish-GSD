@@ -11160,7 +11160,7 @@
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	auto	auto	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
 13	acababa	acabar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	ccomp	_	_
-14	de	de	ADP	_	_	13	fixed	_	_
+14	de	de	ADP	_	_	15	mark	_	_
 15	cumplir	cumplir	VERB	_	VerbForm=Inf	13	xcomp	_	_
 16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	condena	condena	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
