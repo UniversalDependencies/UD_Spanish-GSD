@@ -29151,7 +29151,7 @@
 23	como	como	CCONJ	_	_	22	fixed	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	Mesa	mesa	NOUN	_	_	12	conj	_	_
-26	Pluripartidaria	pluripartidaria	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No
+26	Pluripartidaria	pluripartidario	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	cual	cual	PRON	_	Number=Sing|PronType=Rel	30	nsubj	_	_
