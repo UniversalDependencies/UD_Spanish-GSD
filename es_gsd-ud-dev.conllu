@@ -3550,9 +3550,9 @@
 
 # sent_id = es-dev-001-s125
 # text = Por supuesto, todos los gobernantes de los países visitados lo elogiaron hasta no más dar en agradecimiento por actuación tan generosa (en lenguaje popular venezolano se dice "cayó un venadito").
-1	Por	por	ADP	_	ExtPos=ADV	12	advmod	_	_
-2	supuesto	suponer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+1	Por	por	ADP	_	ExtPos=ADV	2	case	_	_
+2	supuesto	suponer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	6	det	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	gobernantes	gobernante	NOUN	_	Number=Plur	12	nsubj	_	_
@@ -8269,7 +8269,7 @@
 31	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
 32	o	o	CCONJ	_	_	35	cc	_	_
 33	bien	bien	ADV	_	_	35	advmod	_	SpaceAfter=No
-34	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
+34	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
 35	terminan	terminar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	conj	_	_
 36	frustrados	frustrado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	35	xcomp	_	SpaceAfter=No
 37	.	.	PUNCT	_	PunctType=Peri	25	punct	_	_
@@ -24335,9 +24335,9 @@
 
 # sent_id = es-dev-002-s316
 # text = Por supuesto, las herramientas clásicas de Adobe Reader siguen en su sitio.
-1	Por	por	ADP	_	ExtPos=ADV	10	advmod	_	_
-2	supuesto	supuesto	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	1	fixed	_	SpaceAfter=No
-3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
+1	Por	por	ADP	_	ExtPos=ADV	2	case	_	_
+2	supuesto	supuesto	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	10	obl	_	SpaceAfter=No
+3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	herramientas	herramienta	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	_
 6	clásicas	clásico	ADJ	_	Gender=Fem|Number=Plur	5	amod	_	_

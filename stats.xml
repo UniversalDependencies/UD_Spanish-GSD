@@ -114,12 +114,12 @@
     <dep name="acl">2839</dep>
     <dep name="acl:relcl">5310</dep>
     <dep name="advcl">7119</dep>
-    <dep name="advmod">11183</dep>
+    <dep name="advmod">11174</dep>
     <dep name="amod">24059</dep>
     <dep name="appos">8766</dep>
     <dep name="aux">3298</dep>
     <dep name="aux:pass">1850</dep>
-    <dep name="case">67149</dep>
+    <dep name="case">67163</dep>
     <dep name="cc">13195</dep>
     <dep name="ccomp">1593</dep>
     <dep name="compound">393</dep>
@@ -135,7 +135,7 @@
     <dep name="expl:impers">1</dep>
     <dep name="expl:pass">11</dep>
     <dep name="expl:pv">5333</dep>
-    <dep name="fixed">2623</dep>
+    <dep name="fixed">2609</dep>
     <dep name="flat">7432</dep>
     <dep name="goeswith">2</dep>
     <dep name="iobj">1</dep>
@@ -146,7 +146,7 @@
     <dep name="nsubj:pass">1184</dep>
     <dep name="nummod">6238</dep>
     <dep name="obj">13501</dep>
-    <dep name="obl">23570</dep>
+    <dep name="obl">23579</dep>
     <dep name="obl:agent">1542</dep>
     <dep name="obl:arg">2237</dep>
     <dep name="orphan">6</dep>
