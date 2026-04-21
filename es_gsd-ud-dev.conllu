@@ -24258,7 +24258,7 @@
 20	nieto	nieto	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
 21	Sebastián	sebastián	PROPN	_	_	20	appos	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
-23	dado	dar	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	33	mark	_	_
+23	dado	dar	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	33	mark	_	_
 24	que	que	SCONJ	_	_	23	fixed	_	_
 25	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	27	det	_	_
 26	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
