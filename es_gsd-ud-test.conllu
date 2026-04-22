@@ -7821,10 +7821,10 @@
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	España	españa	PROPN	_	_	11	obl	_	_
-15	dado	dar	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	mark	_	_
-16	que	que	CCONJ	_	_	15	fixed	_	_
+15	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
+16	que	que	CCONJ	_	_	18	mark	_	_
 17	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
-18	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+18	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
 19	intención	intención	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
 20	de	de	ADP	_	_	21	mark	_	_
 21	emigrar	emigrar	VERB	_	VerbForm=Inf	19	advcl	_	_
@@ -8164,9 +8164,9 @@
 53	en	en	ADP	_	_	55	case	_	_
 54	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	55	det	_	_
 55	embarazo	embarazo	NOUN	_	Gender=Masc|Number=Sing	52	nmod	_	SpaceAfter=No
-56	,	,	PUNCT	_	PunctType=Comm	75	punct	_	_
-57	dado	dar	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	75	mark	_	_
-58	que	que	CCONJ	_	_	57	fixed	_	_
+56	,	,	PUNCT	_	PunctType=Comm	57	punct	_	_
+57	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	32	advcl	_	_
+58	que	que	CCONJ	_	_	75	mark	_	_
 59	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	60	det	_	_
 60	informe	informe	NOUN	_	Gender=Masc|Number=Sing	75	nsubj	_	_
 61	de	de	ADP	_	_	62	case	_	_
@@ -8184,7 +8184,7 @@
 72	puesto	puesto	NOUN	_	Gender=Masc|Number=Sing	69	nmod	_	_
 73	de	de	ADP	_	_	74	case	_	_
 74	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	72	nmod	_	_
-75	estimaban	estimar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	32	advcl	_	_
+75	estimaban	estimar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	57	ccomp	_	_
 76	que	que	SCONJ	_	_	81	mark	_	_
 77	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	78	det	_	_
 78	trabajadora	trabajadora	NOUN	_	Gender=Fem|Number=Sing	81	nsubj	_	_

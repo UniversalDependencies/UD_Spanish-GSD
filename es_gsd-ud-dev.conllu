@@ -24257,9 +24257,9 @@
 19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	nieto	nieto	NOUN	_	Gender=Masc|Number=Sing	15	nsubj	_	_
 21	Sebastián	sebastián	PROPN	_	_	20	appos	_	SpaceAfter=No
-22	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
-23	dado	dar	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	33	mark	_	_
-24	que	que	SCONJ	_	_	23	fixed	_	_
+22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+23	dado	dar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	_
+24	que	que	SCONJ	_	_	33	mark	_	_
 25	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	27	det	_	_
 26	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	33	nsubj	_	_
@@ -24268,7 +24268,7 @@
 30	y	y	CCONJ	_	_	31	cc	_	_
 31	Juan	juan	PROPN	_	_	29	conj	_	_
 32	habían	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	33	aux	_	_
-33	muerto	morir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	advcl	_	SpaceAfter=No
+33	muerto	morir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	23	ccomp	_	SpaceAfter=No
 34	.	.	PUNCT	_	PunctType=Peri	15	punct	_	_
 
 # sent_id = es-dev-002-s313
