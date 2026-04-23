@@ -1913,12 +1913,11 @@
 5	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	7,63	7,63	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	hab	hab	NOUN	_	_	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
-10	/	/	PUNCT	_	PunctType=Colo	11	punct	_	_
-11	km	km	NOUN	_	_	8	dep	_	SpaceAfter=No
-12	²	²	SYM	_	_	11	dep	_	SpaceAfter=No
-13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+8	hab.	habitante	NOUN	_	Abbr=Yes|Gender=Masc|Number=Plur	5	obl	_	_
+9	/	/	PUNCT	_	PunctType=Colo	10	punct	_	_
+10	km	km	NOUN	_	_	8	dep	_	SpaceAfter=No
+11	²	²	SYM	_	_	10	dep	_	SpaceAfter=No
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-001-s72
 # text = También comenzó a emitirse publicidad comercial y programas estadounidenses.
@@ -2254,12 +2253,11 @@
 5	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	288,32	288,32	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	hab	hab	X	_	_	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
-10	/	/	PUNCT	_	PunctType=Colo	11	punct	_	_
-11	km	km	NOUN	_	_	8	dep	_	SpaceAfter=No
-12	²	²	SYM	_	_	11	dep	_	SpaceAfter=No
-13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+8	hab.	habitante	NOUN	_	Abbr=Yes|Gender=Masc|Number=Plur	5	obl	_	_
+9	/	/	PUNCT	_	PunctType=Colo	10	punct	_	_
+10	km	km	NOUN	_	_	8	dep	_	SpaceAfter=No
+11	²	²	SYM	_	_	10	dep	_	SpaceAfter=No
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-001-s83
 # text = Tuvo especial importancia en los siglos XI y XII.
@@ -10917,7 +10915,7 @@
 4	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 5	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
 6	289,9	289.9	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	_
-7	hab	hab	NOUN	_	Number=Plur	0	root	_	_
+7	hab	habitante	NOUN	_	Abbr=Yes|Gender=Masc|Number=Plur	0	root	_	_
 8	/	/	PUNCT	_	PunctType=Colo	9	punct	_	_
 9	km	km	NOUN	_	_	7	dep	_	SpaceAfter=No
 10	²	²	SYM	_	_	9	dep	_	SpaceAfter=No
@@ -29034,12 +29032,11 @@
 5	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	42,07	4,07	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	hab	hab	NOUN	_	_	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
-10	/	/	PUNCT	_	PunctType=Colo	11	punct	_	_
-11	km	km	NOUN	_	_	8	dep	_	SpaceAfter=No
-12	²	²	SYM	_	_	11	dep	_	SpaceAfter=No
-13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+8	hab.	habitante	NOUN	_	Abbr=Yes|Gender=Masc|Number=Plur	5	obl	_	_
+9	/	/	PUNCT	_	PunctType=Colo	10	punct	_	_
+10	km	km	NOUN	_	_	8	dep	_	SpaceAfter=No
+11	²	²	SYM	_	_	10	dep	_	SpaceAfter=No
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-002-s469
 # text = Fernando el Católico ordenó la convocatoria de los Tres Estados el 13 de marzo de 1513.
@@ -34520,7 +34517,7 @@
 5	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	19,6	19,6	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	hab	hab	X	_	_	5	obl	_	_
+8	hab	habitante	NOUN	_	Abbr=Yes|Gender=Masc|Number=Plur	5	obl	_	_
 9	/	/	SYM	_	_	10	case	_	_
 10	km	km	SYM	_	_	8	nmod	_	SpaceAfter=No
 11	²	²	SYM	_	_	10	appos	_	SpaceAfter=No

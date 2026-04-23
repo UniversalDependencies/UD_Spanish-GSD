@@ -604,12 +604,11 @@
 5	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	41,76	41,76	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	hab	hab	NOUN	_	_	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
-10	/	/	PUNCT	_	PunctType=Colo	11	punct	_	_
-11	km	km	SYM	_	_	8	dep	_	SpaceAfter=No
-12	²	²	SYM	_	_	11	appos	_	SpaceAfter=No
-13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+8	hab.	habitante	NOUN	_	Abbr=Yes|Gender=Masc|Number=Plur	5	obl	_	_
+9	/	/	PUNCT	_	PunctType=Colo	10	punct	_	_
+10	km	km	SYM	_	_	8	dep	_	SpaceAfter=No
+11	²	²	SYM	_	_	10	appos	_	SpaceAfter=No
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-003-s436
 # text = La intención de Puigcercós es liderar ERC hasta el congreso para garantizar la estabilidad de la formación y afrontar así con garantías de éxito las municipales de mayo.
@@ -1993,12 +1992,11 @@
 5	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	133,45	133,45	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	hab	hab	NOUN	_	_	5	obl	_	SpaceAfter=No
-9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
-10	/	/	PUNCT	_	PunctType=Colo	11	punct	_	_
-11	km	km	NOUN	_	_	8	dep	_	SpaceAfter=No
-12	²	²	SYM	_	_	11	dep	_	SpaceAfter=No
-13	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+8	hab.	habitante	NOUN	_	Abbr=Yes|Gender=Masc|Number=Plur	5	obl	_	_
+9	/	/	PUNCT	_	PunctType=Colo	10	punct	_	_
+10	km	km	NOUN	_	_	8	dep	_	SpaceAfter=No
+11	²	²	SYM	_	_	10	dep	_	SpaceAfter=No
+12	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-003-s485
 # text = El 19 de mayo de 2000 debuta en Primera División con el primer equipo del Barça ante el Celta de Vigo.
