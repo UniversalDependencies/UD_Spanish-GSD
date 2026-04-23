@@ -752,7 +752,7 @@
 13	superficie	superficie	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
 14	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	15	punct	_	SpaceAfter=No
 15	Médanos	médanos	PROPN	_	Gender=Masc|Number=Plur	10	appos	_	_
-16	Grandes	grandes	PROPN	_	Number=Plur	15	amod	_	SpaceAfter=No
+16	Grandes	grande	ADJ	_	Number=Plur	15	amod	_	SpaceAfter=No
 17	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	15	punct	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 19	cuencas	cuenca	NOUN	_	Gender=Fem|Number=Plur	10	conj	_	_
@@ -39059,7 +39059,7 @@
 18	infielder	infielder	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
 19	dominicano	dominicano	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_
 20	de	de	ADP	_	_	22	case	_	_
-21	Grandes	grandes	PROPN	_	_	22	amod	_	_
+21	Grandes	grandes	ADJ	_	_	22	amod	_	_
 22	Ligas	ligas	PROPN	_	_	18	nmod	_	_
 23	que	que	SCONJ	_	_	24	mark	_	_
 24	pertenece	pertenecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_

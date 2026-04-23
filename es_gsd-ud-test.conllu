@@ -11898,7 +11898,7 @@
 16	gélida	gélido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	15	amod	_	_
 17	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
 18	Casas	casas	PROPN	_	Gender=Fem|Number=Plur	1	ccomp	_	_
-19	Grandes	grandes	PROPN	_	Number=Plur	18	amod	_	SpaceAfter=No
+19	Grandes	grande	ADJ	_	Number=Plur	18	amod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 21	con	con	ADP	_	_	23	case	_	_
 22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
