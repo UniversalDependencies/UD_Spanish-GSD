@@ -1380,7 +1380,7 @@
 13	nunca	nunca	ADV	_	_	14	advmod	_	_
 14	jugó	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
 15	en	en	ADP	_	_	16	case	_	_
-16	Primera	primero	ADJ	_	NumType=Ord	14	obl	_	_
+16	Primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	14	obl	_	_
 17	después	después	ADV	_	ExtPos=ADV	20	advmod	_	_
 18	de	de	ADP	_	_	17	fixed	_	_
 19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -22289,7 +22289,7 @@
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Juez	juez	NOUN	_	_	3	nmod	_	_
 8	de	de	ADP	_	_	10	case	_	_
-9	Primera	primero	ADJ	_	NumType=Ord	10	amod	_	_
+9	Primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	10	amod	_	_
 10	Instancia	instancia	NOUN	_	_	7	nmod	_	_
 11	y	y	CCONJ	_	_	13	cc	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
