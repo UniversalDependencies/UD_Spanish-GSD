@@ -13189,7 +13189,7 @@
 # sent_id = es-dev-001-s447
 # text = Estos primeros pobladores se dedicaron a la actividad ganadera en su mayoría en las estancias.
 1	Estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
-2	primeros	primero	ADJ	_	Gender=Masc|Number=Plur	3	amod	_	_
+2	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	3	amod	_	_
 3	pobladores	poblador	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
 4	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	dedicaron	dedicar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -38030,7 +38030,7 @@
 3	llegada	llegada	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
 4	de	de	ADP	_	_	7	case	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
-6	primeros	primero	ADJ	_	Gender=Masc|Number=Plur	7	amod	_	_
+6	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	7	amod	_	_
 7	cargamentos	cargamento	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
@@ -40401,7 +40401,7 @@
 20	más	más	ADV	_	Degree=Cmp	19	advmod	_	_
 21	en	en	ADP	_	_	24	case	_	_
 22	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
-23	primeros	primero	ADJ	_	Gender=Masc|Number=Plur	24	amod	_	_
+23	primeros	primero	ADJ	_	Gender=Masc|Number=Plur|NumType=Ord	24	amod	_	_
 24	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
