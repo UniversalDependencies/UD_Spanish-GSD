@@ -3513,7 +3513,7 @@
 32	más	más	ADV	_	Degree=Cmp	30	advmod	_	_
 33	de	de	ADP	_	_	36	case	_	_
 34	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
-35	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing	36	amod	_	_
+35	tercera	tercero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	36	amod	_	_
 36	plaza	plaza	NOUN	_	Gender=Fem|Number=Sing	32	nmod	_	_
 37	y	y	CCONJ	_	_	38	cc	_	_
 38	evitar	evitar	VERB	_	VerbForm=Inf	30	conj	_	_
