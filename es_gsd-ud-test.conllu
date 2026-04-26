@@ -8304,7 +8304,7 @@
 17	que	que	SCONJ	_	_	27	mark	_	_
 18	«	«	PUNCT	_	PunctType=Quot	17	punct	_	SpaceAfter=No
 19	cuanta	cuanta	ADV	_	_	20	advmod	_	_
-20	más	más	ADJ	_	_	21	amod	_	_
+20	más	más	ADV	_	Degree=Cmp	21	amod	_	_
 21	fortaleza	fortaleza	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
 22	podamos	poder	AUX	_	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	23	aux	_	_
 23	dar	dar	VERB	_	VerbForm=Inf	27	advcl	_	_
