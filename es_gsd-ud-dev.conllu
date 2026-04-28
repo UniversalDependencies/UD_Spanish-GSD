@@ -19438,7 +19438,7 @@
 19	legal	legal	ADJ	_	Number=Sing	18	amod	_	_
 20	que	que	SCONJ	_	_	21	mark	_	_
 21	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	18	acl:relcl	_	CorrectForm=tenía
-22	pendiente	pendiente	ADJ	_	Gender=Fem|Number=Sing	21	xcomp	_	SpaceAfter=No
+22	pendiente	pendiente	ADJ	_	Number=Sing	21	xcomp	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 24	ahora	ahora	ADV	_	_	26	advmod	_	_
 25	esta	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	26	aux:pass	_	CorrectForm=está
@@ -23427,7 +23427,7 @@
 10	plataformas	plataforma	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	_
 11	de	de	ADP	_	_	12	case	_	_
 12	intercambio	intercambio	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-13	clave	clave	ADJ	_	Gender=Fem|Number=Sing	12	amod	_	_
+13	clave	clave	ADJ	_	Number=Sing	12	amod	_	_
 14	en	en	ADP	_	_	16	case	_	_
 15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
 16	siglos	siglo	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
@@ -31000,7 +31000,7 @@
 27	posible	posible	ADJ	_	Number=Sing	28	amod	_	_
 28	compra	compra	NOUN	_	Gender=Fem|Number=Sing	25	conj	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-30	procedente	procedente	ADJ	_	Gender=Fem|Number=Sing	15	advcl	_	_
+30	procedente	procedente	ADJ	_	Number=Sing	15	advcl	_	_
 31	de	de	ADP	_	_	32	case	_	_
 32	colección	colección	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	_
 33	particular	particular	ADJ	_	Number=Sing	32	amod	_	_
@@ -35715,7 +35715,7 @@
 45	sospechoso	sospechoso	ADJ	_	Gender=Masc|Number=Sing	23	conj	_	_
 46	de	de	ADP	_	_	48	case	_	_
 47	ser	ser	AUX	_	VerbForm=Inf	48	cop	_	_
-48	responsable	responsable	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	45	amod	_	_
+48	responsable	responsable	ADJ	_	Number=Sing	45	amod	_	_
 49	por	por	ADP	_	_	51	case	_	_
 50	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	51	det	_	_
 51	muertes	muerte	NOUN	_	Gender=Fem|Number=Plur	48	nmod	_	_
@@ -40812,7 +40812,7 @@
 27	JW	jw	PROPN	_	_	26	appos	_	_
 28	-	-	PUNCT	_	PunctType=Dash	29	punct	_	_
 29	55B	55b	PROPN	_	_	27	appos	_	_
-30	proveniente	proveniente	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	_
+30	proveniente	proveniente	ADJ	_	Number=Sing	26	amod	_	_
 31	desde	desde	ADP	_	_	32	case	_	_
 32	Escocia	escocia	PROPN	_	_	30	obl	_	SpaceAfter=No
 33	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
