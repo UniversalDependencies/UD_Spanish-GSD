@@ -6162,7 +6162,7 @@
 20	HERRIA	herria	PROPN	_	_	9	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 22	SIENDO	ser	AUX	_	VerbForm=Ger	23	cop	_	_
-23	SOLIDARIO	solidario	ADJ	_	VerbForm=Inf	4	advcl	_	_
+23	SOLIDARIO	solidario	ADJ	_	Gender=Masc|Number=Sing	4	advcl	_	_
 24	CON	con	ADP	_	_	27	case	_	_
 25	QUIEN	quien	PRON	_	Number=Sing|PronType=Rel	27	nsubj	_	_
 26	LO	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	_	_
