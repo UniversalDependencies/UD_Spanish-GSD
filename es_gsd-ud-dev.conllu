@@ -10013,7 +10013,7 @@
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	tema	tema	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
 18	tan	tanto	ADV	_	_	19	advmod	_	_
-19	delicado	delicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	17	amod	_	_
+19	delicado	delicado	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	_
 20	como	como	ADP	_	_	21	case	_	_
 21	este	este	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
 22	para	para	ADP	_	_	23	mark	_	_
@@ -38258,7 +38258,7 @@
 25	a	a	ADP	_	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	lado	lado	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	_
-28	derecho	derecho	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	27	amod	_	_
+28	derecho	derecho	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
 29	por	por	ADP	_	_	31	case	_	_
 30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	árbol	árbol	NOUN	_	Gender=Masc|Number=Sing	24	obl:agent	_	_

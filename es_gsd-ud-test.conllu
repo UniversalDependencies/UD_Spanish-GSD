@@ -11200,7 +11200,7 @@
 17	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	asunto	asunto	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-20	delicado	delicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	19	amod	_	SpaceAfter=No
+20	delicado	delicado	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	problema	problema	NOUN	_	Gender=Masc|Number=Sing	19	appos	_	_
