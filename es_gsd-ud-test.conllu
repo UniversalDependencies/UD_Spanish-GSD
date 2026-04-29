@@ -6745,7 +6745,7 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	blog	blog	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
 15	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
-16	bienvenidos	bienvenido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
+16	bienvenidos	bienvenido	ADJ	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 17	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
 
 # sent_id = es-test-001-s68
