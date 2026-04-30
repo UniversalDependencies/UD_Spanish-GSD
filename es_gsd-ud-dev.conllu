@@ -23926,7 +23926,7 @@
 40	presencia	presencia	NOUN	_	Gender=Fem|Number=Sing	46	nsubj	_	_
 41	de	de	ADP	_	_	42	case	_	_
 42	autos	auto	NOUN	_	Gender=Masc|Number=Plur	40	nmod	_	_
-43	híbridos	híbrido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	42	amod	_	_
+43	híbridos	híbrido	ADJ	_	Gender=Masc|Number=Plur	42	amod	_	_
 44	y	y	CCONJ	_	_	45	cc	_	_
 45	eléctricos	eléctrico	ADJ	_	Gender=Masc|Number=Plur	43	conj	_	_
 46	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	acl:relcl	_	_
