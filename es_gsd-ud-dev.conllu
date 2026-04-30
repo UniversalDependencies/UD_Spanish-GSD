@@ -33884,7 +33884,7 @@
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	oferta	oferta	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
-4	válida	válido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	amod	_	_
+4	válida	válido	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 5	hasta	hasta	ADP	_	_	6	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	nmod	_	_
 7	hasta	hasta	ADP	_	_	9	case	_	_
