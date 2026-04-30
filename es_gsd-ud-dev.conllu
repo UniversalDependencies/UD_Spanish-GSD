@@ -34364,7 +34364,7 @@
 5	bosques	bosque	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 6	tropicales	tropical	ADJ	_	Number=Plur	5	amod	_	_
 7	muy	mucho	ADV	_	_	8	advmod	_	_
-8	húmedos	húmedo	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	5	amod	_	SpaceAfter=No
+8	húmedos	húmedo	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	transición	transición	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
