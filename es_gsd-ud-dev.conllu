@@ -24824,7 +24824,7 @@
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	tarjeta	tarjeta	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 6	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	7	cop	_	_
-7	obligatorio	obligatorio	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
+7	obligatorio	obligatorio	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 8	a	a	ADP	_	_	9	mark	_	_
 9	partir	partir	VERB	_	VerbForm=Inf	7	advcl	_	_
 10-11	del	_	_	_	_	_	_	_	_
