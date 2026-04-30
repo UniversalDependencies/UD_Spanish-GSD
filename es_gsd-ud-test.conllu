@@ -11895,7 +11895,7 @@
 13	por	por	ADP	_	_	15	case	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	onda	onda	NOUN	_	Gender=Fem|Number=Sing	12	obl:agent	_	_
-16	gélida	gélido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	15	amod	_	_
+16	gélida	gélido	ADJ	_	Gender=Fem|Number=Sing	15	amod	_	_
 17	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	18	cop	_	_
 18	Casas	casas	PROPN	_	Gender=Fem|Number=Plur	1	ccomp	_	_
 19	Grandes	grande	ADJ	_	Number=Plur	18	amod	_	SpaceAfter=No
