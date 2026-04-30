@@ -42012,7 +42012,7 @@
 27	torre	torre	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
 28	de	de	ADP	_	_	29	case	_	_
 29	comunicaciones	comunicación	NOUN	_	Gender=Fem|Number=Plur	27	nmod	_	_
-30	intermedia	intermedio	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	27	amod	_	_
+30	intermedia	intermedio	ADJ	_	Gender=Fem|Number=Plur	27	amod	_	_
 31	entre	entre	ADP	_	_	33	case	_	_
 32	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	33	det	_	_
 33	torreón	torreón	NOUN	_	Gender=Masc|Number=Sing	24	obl	_	_
