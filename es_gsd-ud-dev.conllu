@@ -27390,7 +27390,7 @@
 37	a	a	ADP	_	_	39	case	_	_
 38	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	39	det	_	_
 39	punto	punto	NOUN	_	Gender=Masc|Number=Sing	36	obl	_	_
-40	álgido	álgido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	amod	_	_
+40	álgido	álgido	ADJ	_	Gender=Masc|Number=Sing	39	amod	_	_
 41	durante	durante	ADP	_	_	43	case	_	_
 42	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	43	det	_	_
 43	años	año	NOUN	_	Gender=Masc|Number=Plur	36	obl	_	_
