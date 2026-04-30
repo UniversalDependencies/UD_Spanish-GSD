@@ -11483,7 +11483,7 @@
 20	compensa	compensar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	mensaje	mensaje	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	_
-23	implícito	implícito	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	22	amod	_	_
+23	implícito	implícito	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	_
 24	por	por	ADP	_	_	25	case	_	_
 25	categórico	categórico	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	_
 26	y	y	CCONJ	_	_	27	cc	_	_
