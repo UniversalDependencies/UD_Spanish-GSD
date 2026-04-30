@@ -2568,7 +2568,7 @@
 3	eléctricas	eléctrico	ADJ	_	Gender=Fem|Number=Plur	2	amod	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	cuerpo	cuerpo	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
-6	semisólido	semisólido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
+6	semisólido	semisólido	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	caracterizan	caracterizar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	por	por	ADP	_	_	10	mark	_	_
