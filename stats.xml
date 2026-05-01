@@ -49,7 +49,7 @@
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- Annual, Clear -->
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
     <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,CCONJ,NOUN,VERB">821</feat><!-- junto, después, dentro, frente, antes, cerca, además, gracias, debido, a -->
-    <feat name="ExtPos" value="ADV" upos="ADP,ADV,CCONJ,SCONJ,VERB">440</feat><!-- después, antes, además, sin, en, a, dentro, hoy, ni, cerca -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,CCONJ,SCONJ,VERB">459</feat><!-- a, después, antes, además, sin, en, dentro, hoy, ni, cerca -->
     <feat name="ExtPos" value="CCONJ" upos="ADJ,ADP,ADV,CCONJ,PRON,VERB">353</feat><!-- sin, así, es, no, además, o, sino, a, ya, en -->
     <feat name="ExtPos" value="PROPN" upos="NOUN,VERB">2</feat><!-- Llanto, danzo -->
     <feat name="ExtPos" value="SCONJ" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,PRON,SCONJ,VERB">638</feat><!-- ya, mientras, para, después, antes, a, si, puesto, así, luego -->
@@ -114,12 +114,12 @@
     <dep name="acl">2840</dep>
     <dep name="acl:relcl">5306</dep>
     <dep name="advcl">7123</dep>
-    <dep name="advmod">11174</dep>
-    <dep name="amod">24061</dep>
+    <dep name="advmod">11193</dep>
+    <dep name="amod">24049</dep>
     <dep name="appos">8763</dep>
     <dep name="aux">3298</dep>
     <dep name="aux:pass">1850</dep>
-    <dep name="case">67136</dep>
+    <dep name="case">67119</dep>
     <dep name="cc">13192</dep>
     <dep name="ccomp">1607</dep>
     <dep name="compound">393</dep>
@@ -135,18 +135,18 @@
     <dep name="expl:impers">1</dep>
     <dep name="expl:pass">11</dep>
     <dep name="expl:pv">5332</dep>
-    <dep name="fixed">2636</dep>
+    <dep name="fixed">2655</dep>
     <dep name="flat">7430</dep>
     <dep name="goeswith">2</dep>
     <dep name="iobj">1</dep>
-    <dep name="mark">11892</dep>
+    <dep name="mark">11890</dep>
     <dep name="nmod">39305</dep>
     <dep name="nsubj">15779</dep>
     <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">1184</dep>
     <dep name="nummod">6238</dep>
     <dep name="obj">13495</dep>
-    <dep name="obl">23574</dep>
+    <dep name="obl">23567</dep>
     <dep name="obl:agent">1542</dep>
     <dep name="obl:arg">2236</dep>
     <dep name="orphan">6</dep>

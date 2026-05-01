@@ -14015,8 +14015,8 @@
 7	romano	romano	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 9	condimentaba	condimentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-10	a	a	ADP	_	_	11	case	_	_
-11	menudo	menudo	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
+10	a	a	ADP	_	ExtPos=ADV	9	advmod	_	_
+11	menudo	menudo	ADJ	_	Gender=Masc|Number=Sing	10	fixed	_	_
 12	con	con	ADP	_	_	13	case	_	_
 13	hierbas	hierba	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
