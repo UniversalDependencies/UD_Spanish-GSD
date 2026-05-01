@@ -4092,7 +4092,7 @@
 16	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	18	punct	_	SpaceAfter=No
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	grandullón	grandullón	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
-19	apoderado	apoderado	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_
+19	apoderado	apoderado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	18	amod	_	_
 20	y	y	CCONJ	_	_	22	cc	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	torero	torero	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_
@@ -14135,7 +14135,7 @@
 # sent_id = es-dev-001-s481
 # text = El pasado 20 de septiembre, durante un acto en Casa de Gobierno, la Presidenta Cristina Kirchner afirmó respecto de la situación de Telefónica y Telecom Italia en Telecom Argentina "el monopolio ya está consolidado" y enfatizó: "Estoy absolutamente convencida que en la Argentina no vamos a permitir la constitución de ningún monopolio".
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+2	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
 3	20	20	NUM	_	NumForm=Digit|NumType=Card	19	obl	_	_
 4	de	de	ADP	_	_	5	case	_	_
 5	septiembre	septiembre	NOUN	_	_	3	nmod	_	SpaceAfter=No
@@ -20375,7 +20375,7 @@
 13	puso	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	papas	papas	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
-16	fritas	frito	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
+16	fritas	frito	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	15	amod	_	_
 17	que	que	PRON	_	PronType=Rel	21	obj	_	_
 18	Número	número	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	_	_
 19	4	4	NUM	_	NumForm=Digit|NumType=Card	18	nmod	_	_
@@ -22830,7 +22830,7 @@
 13	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	dejado	dejar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 15	mal	mal	ADV	_	_	16	advmod	_	_
-16	paradas	parado	ADJ	_	Gender=Fem|Number=Plur	14	xcomp	_	_
+16	paradas	parado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	14	xcomp	_	_
 17	a	a	ADP	_	_	19	case	_	_
 18	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	19	det	_	_
 19	administraciones	administración	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	_
@@ -23203,7 +23203,7 @@
 12	de	de	ADP	_	_	14	case	_	_
 13	230	230	NUM	_	NumForm=Digit|NumType=Card	14	nummod	_	_
 14	kilómetros	kilómetro	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
-15	cuadrados	cuadrado	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	SpaceAfter=No
+15	cuadrados	cuadrado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	14	amod	_	SpaceAfter=No
 16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-dev-002-s283
@@ -23383,7 +23383,7 @@
 33-34	del	_	_	_	_	_	_	_	_
 33	de	de	ADP	_	_	32	fixed	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
-35	merecido	merecido	ADJ	_	Gender=Masc|Number=Sing	36	amod	_	_
+35	merecido	merecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	36	amod	_	_
 36	descanso	descanso	NOUN	_	Gender=Masc|Number=Sing	28	obl	_	SpaceAfter=No
 37	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
@@ -32957,7 +32957,7 @@
 3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
 4	creada	crear	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	_	_
 5	a	a	ADP	_	_	6	case	_	_
-6	mediados	mediado	ADJ	_	Gender=Masc|Number=Plur	4	amod	_	_
+6	mediados	mediado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	4	amod	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	1937	1937	NUM	_	NumForm=Digit|NumType=Card	6	nmod	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
