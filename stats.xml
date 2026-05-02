@@ -26,7 +26,7 @@
     <tag name="NUM">11058</tag><!-- dos, tres, 2010, 0, cuatro, 3, 1, 2, 10, 4 -->
     <tag name="PART">38</tag><!-- hola, ex, re, co, ir, l, not, abandono, adio, de -->
     <tag name="PRON">14044</tag><!-- él, que, yo, uno, este, cual, tú, quien, todo, otro -->
-    <tag name="PROPN">37485</tag><!-- san, unido, españa, juan, madrid, estados, josé, maría, argentina, francia -->
+    <tag name="PROPN">37485</tag><!-- san, Unido, España, Juan, madrid, Estados, José, María, Argentina, Francia -->
     <tag name="PUNCT">47474</tag><!-- ,, ., ", (, ), -, :, ;, ', / -->
     <tag name="SCONJ">8356</tag><!-- que, cuando, si, para, aunque, mientras, porque, como, pues, según -->
     <tag name="SYM">1660</tag><!-- %, ², km, $, º, °, €, /, h, m -->
