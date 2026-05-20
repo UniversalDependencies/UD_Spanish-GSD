@@ -536,7 +536,7 @@
 27	como	como	SCONJ	_	_	19	mark	_	_
 28	a	a	ADP	_	_	30	case	_	_
 29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
-30	composición	composición	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	_
+30	composición	composición	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	_
 31	de	de	ADP	_	_	33	case	_	_
 32	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 33	obra	obra	NOUN	_	Gender=Fem|Number=Sing	30	nmod	_	SpaceAfter=No
@@ -3473,7 +3473,7 @@
 18-19	del	_	_	_	_	_	_	_	_
 18	de	de	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
+20	ambiente	ambiente	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
 21	y	y	CCONJ	_	_	23	cc	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	decoración	decoración	NOUN	_	Gender=Fem|Number=Sing	20	conj	_	SpaceAfter=No

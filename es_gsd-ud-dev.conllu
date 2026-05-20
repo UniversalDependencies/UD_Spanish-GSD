@@ -1045,7 +1045,7 @@
 46	como	como	SCONJ	_	_	40	mark	_	_
 47	por	por	ADP	_	_	49	case	_	_
 48	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	_
-49	diversificación	diversificación	NOUN	_	Gender=Fem|Number=Sing	46	nmod	_	_
+49	diversificación	diversificación	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	_
 50	de	de	ADP	_	_	52	case	_	_
 51	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	52	det	_	_
 52	productos	producto	NOUN	_	Gender=Masc|Number=Plur	49	nmod	_	SpaceAfter=No
@@ -2462,7 +2462,7 @@
 28	como	como	SCONJ	_	_	20	mark	_	_
 29	de	de	ADP	_	_	31	case	_	_
 30	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
-31	descalcificación	descalcificación	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	SpaceAfter=No
+31	descalcificación	descalcificación	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 32	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-dev-001-s90
@@ -34953,7 +34953,7 @@
 6	en	en	ADP	_	_	9	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	9	amod	_	_
-9	parte	parte	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
+9	parte	parte	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	Francia	Francia	PROPN	_	_	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
@@ -38331,7 +38331,7 @@
 35	como	como	SCONJ	_	_	31	mark	_	_
 36	para	para	ADP	_	_	38	case	_	_
 37	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	38	det	_	_
-38	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	35	nmod	_	_
+38	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	31	nmod	_	_
 39	representadas	representar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	38	acl	_	SpaceAfter=No
 40	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
