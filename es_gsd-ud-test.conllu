@@ -172,7 +172,7 @@
 23	automóvil	automóvil	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
 25	así	así	ADV	_	ExtPos=CCONJ	29	cc	_	_
-26	como	como	CCONJ	_	_	25	fixed	_	_
+26	como	como	SCONJ	_	_	25	fixed	_	_
 27	de	de	ADP	_	_	29	case	_	_
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
 29	estrategia	estrategia	NOUN	_	Gender=Fem|Number=Sing	12	conj	_	_
@@ -533,7 +533,7 @@
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	sala	sala	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-27	como	como	CCONJ	_	_	19	dep	_	_
+27	como	como	SCONJ	_	_	19	mark	_	_
 28	a	a	ADP	_	_	30	case	_	_
 29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	composición	composición	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	_
@@ -1239,7 +1239,7 @@
 2	González	González	PROPN	_	_	1	flat	_	_
 3	apareció	aparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 4	-	-	PUNCT	_	PunctType=Dash	7	punct	_	_
-5	como	como	SCONJ		_	7	case	_	_
+5	como	como	SCONJ	_	_	7	case	_	_
 6	de	de	ADP	_	_	7	case	_	_
 7	costumbre	costumbre	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 8	-	-	PUNCT	_	PunctType=Dash	11	punct	_	_
@@ -1324,7 +1324,7 @@
 16	compartidas	compartido	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	14	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 18	así	así	ADV	_	ExtPos=CCONJ	23	cc	_	_
-19	como	como	CCONJ	_	_	18	fixed	_	_
+19	como	como	SCONJ	_	_	18	fixed	_	_
 20	en	en	ADP	_	_	23	case	_	_
 21	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 22	constante	constante	ADJ	_	Number=Sing	23	amod	_	_
@@ -1714,7 +1714,7 @@
 26	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
 27	donde	donde	ADV	_	PronType=Rel	36	advmod	_	_
 28	ciudades	ciudad	NOUN	_	Gender=Fem|Number=Plur	36	nsubj:pass	_	_
-29	como	como	SCONJ		_	30	case	_	_
+29	como	como	SCONJ	_	_	30	case	_	_
 30	Soma	Soma	PROPN	_	_	28	nmod	_	_
 31	o	o	CCONJ	_	_	32	cc	_	_
 32	Iwaki	Iwaki	PROPN	_	_	30	conj	_	_
@@ -2162,7 +2162,7 @@
 24	invita	invitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
 25	a	a	ADP	_	_	26	mark	_	_
 26	participar	participar	VERB	_	VerbForm=Inf	24	advcl	_	_
-27	como	como	SCONJ		_	29	case	_	_
+27	como	como	SCONJ	_	_	29	case	_	_
 28	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	29	amod	_	_
 29	guitarrista	guitarrista	NOUN	_	Number=Sing	26	obl	_	_
 30	en	en	ADP	_	_	32	case	_	_
@@ -2570,7 +2570,7 @@
 30	-	-	PUNCT	_	PunctType=Dash	32	punct	_	_
 31	Salina	Salina	PROPN	_	_	32	amod	_	_
 32	Cruz	Cruz	PROPN	_	_	29	appos	_	_
-33	como	como	SCONJ		_	34	case	_	_
+33	como	como	SCONJ	_	_	34	case	_	_
 34	parte	parte	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
 35	de	de	ADP	_	_	37	case	_	_
 36	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
@@ -2728,7 +2728,7 @@
 3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
 4	famosos	famoso	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-6	como	como	SCONJ		_	8	case	_	_
+6	como	como	SCONJ	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	Plaza	plaza	NOUN	_	_	2	nmod	_	_
 9	de	de	ADP	_	_	11	case	_	_
@@ -2961,7 +2961,7 @@
 17	XXVI	xxvi	NUM	_	NumForm=Roman|NumType=Card	7	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 19	así	así	ADV	_	ExtPos=CCONJ	22	cc	_	_
-20	como	como	CCONJ	_	_	19	fixed	_	_
+20	como	como	SCONJ	_	_	19	fixed	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	poema	poema	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
 23	titulado	titular	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	22	acl	_	_
@@ -2985,7 +2985,7 @@
 13	y	y	CCONJ	_	_	14	cc	_	_
 14	fumar	fumar	VERB	_	VerbForm=Inf	11	conj	_	_
 15	cigarrillos	cigarrillo	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
-16	como	como	SCONJ		_	17	case	_	_
+16	como	como	SCONJ	_	_	17	case	_	_
 17	argumento	argumento	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
 18	en	en	ADP	_	_	19	case	_	_
 19	común	común	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
@@ -3283,7 +3283,7 @@
 18	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pv	_	_
 19	con	con	ADP	_	_	20	case	_	_
 20	protocolos	protocolo	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_
-21	como	como	SCONJ		_	22	case	_	_
+21	como	como	SCONJ	_	_	22	case	_	_
 22	ICQ	Icq	PROPN	_	_	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 24	AIM	Aim	PROPN	_	_	22	conj	_	SpaceAfter=No
@@ -3469,7 +3469,7 @@
 14	de	de	ADP	_	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	_
-17	como	como	CCONJ	_	_	9	dep	_	_
+17	como	como	SCONJ	_	_	9	mark	_	_
 18-19	del	_	_	_	_	_	_	_	_
 18	de	de	ADP	_	_	20	case	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -3541,7 +3541,7 @@
 
 # sent_id = es-dev-004-s35
 # text = Como cada año un grupo de jóvenes voluntarios se ha aventurado a dar forma al Programa de Fiestas de Castellnovo, con la única colaboración de empresas de la localidad, Ayuntamiento y la aportación económica de vecinos mediante cuotas voluntarias.
-1	Como	como	SCONJ		_	3	case	_	_
+1	Como	como	SCONJ	_	_	3	case	_	_
 2	cada	cada	DET	_	Number=Sing|PronType=Tot	3	det	_	_
 3	año	año	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -3691,7 +3691,7 @@
 28	comer	comer	VERB	_	VerbForm=Inf	26	xcomp	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 30	dirigentes	dirigente	NOUN	_	Number=Plur	34	nsubj	_	_
-31	como	como	SCONJ		_	32	case	_	_
+31	como	como	SCONJ	_	_	32	case	_	_
 32	Miguel	Miguel	PROPN	_	_	30	nmod	_	_
 33	Zerolo	Zerolo	PROPN	_	_	32	flat	_	_
 34	hagan	hacer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	csubj	_	_
@@ -3946,7 +3946,7 @@
 # text = Hawn debutó como actriz en la serie de televisión Good Morning World (1967-1968).
 1	Hawn	Hawn	PROPN	_	_	2	nsubj	_	_
 2	debutó	debutar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	como	como	SCONJ		_	4	case	_	_
+3	como	como	SCONJ	_	_	4	case	_	_
 4	actriz	actriz	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
 5	en	en	ADP	_	_	7	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -3967,7 +3967,7 @@
 2	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
 3	no	no	ADV	_	Polarity=Neg	4	advmod	_	_
 4	ser	ser	VERB	_	VerbForm=Inf	0	root	_	_
-5	como	como	SCONJ		_	8	case	_	_
+5	como	como	SCONJ	_	_	8	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	jugador	jugador	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 8	esperaría	esperar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	advcl	_	_
@@ -4366,7 +4366,7 @@
 12	sin	sin	ADP	_	_	13	case	_	_
 13	fuerzas	fuerza	NOUN	_	Gender=Fem|Number=Plur	11	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
-15	como	como	SCONJ		_	16	case	_	_
+15	como	como	SCONJ	_	_	16	case	_	_
 16	testimonio	testimonio	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
 17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
 18	fotografías	fotografía	NOUN	_	Gender=Fem|Number=Plur	1	parataxis	_	_
@@ -4462,7 +4462,7 @@
 15	anteriores	anterior	ADJ	_	Number=Plur	13	amod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 17	dando	dar	VERB	_	VerbForm=Ger	4	advcl	_	_
-18	como	como	SCONJ		_	19	case	_	_
+18	como	como	SCONJ	_	_	19	case	_	_
 19	resultado	resultado	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
 20	que	que	SCONJ	_	_	23	mark	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -4960,7 +4960,7 @@
 10	Orituco	Orituco	PROPN	_	_	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 12	así	así	ADV	_	ExtPos=CCONJ	15	cc	_	_
-13	como	como	CCONJ	_	_	12	fixed	_	_
+13	como	como	SCONJ	_	_	12	fixed	_	_
 14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
 15	beneficiarios	beneficiario	NOUN	_	Gender=Masc|Number=Plur	1	conj	_	_
 16	de	de	ADP	_	_	19	case	_	_
@@ -5277,7 +5277,7 @@
 21	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 22	y	y	CCONJ	_	_	23	cc	_	_
 23	declara	declarar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	conj	_	_
-24	como	como	SCONJ		_	26	case	_	_
+24	como	como	SCONJ	_	_	26	case	_	_
 25	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	desafío	desafío	NOUN	_	Gender=Masc|Number=Sing	23	obl	_	_
 27	de	de	ADP	_	_	29	case	_	_
@@ -5723,7 +5723,7 @@
 20	en	en	ADP	_	_	22	case	_	_
 21	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	especie	especie	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	_
-23	como	como	SCONJ		_	24	case	_	_
+23	como	como	SCONJ	_	_	24	case	_	_
 24	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	nmod	_	_
 25	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
 26	ser	ser	AUX	_	VerbForm=Inf	24	cop	_	_
@@ -5812,7 +5812,7 @@
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 12	gran	gran	ADJ	_	Number=Sing	13	amod	_	_
 13	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
-14	como	como	SCONJ		_	15	mark	_	_
+14	como	como	SCONJ	_	_	15	mark	_	_
 15	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	advcl	_	_
 16	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -5888,7 +5888,7 @@
 4	a	a	ADP	_	_	5	case	_	_
 5	Benzema	Benzema	PROPN	_	_	3	obj	_	_
 6	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
-7	como	como	SCONJ		_	8	mark	_	_
+7	como	como	SCONJ	_	_	8	mark	_	_
 8	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
 10	viene	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
@@ -6035,7 +6035,7 @@
 9	consumo	consumo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 10	exterior	exterior	ADJ	_	Number=Sing	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-12	como	como	SCONJ		_	13	mark	_	_
+12	como	como	SCONJ	_	_	13	mark	_	_
 13	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	caso	caso	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	_
@@ -6349,7 +6349,7 @@
 19	Gogh	Gogh	PROPN	_	_	17	flat	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 21	conocida	conocer	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	9	acl	_	_
-22	como	como	SCONJ		_	23	case	_	_
+22	como	como	SCONJ	_	_	23	case	_	_
 23	Volpini	Volpini	PROPN	_	Gender=Masc|Number=Sing	21	obl	_	_
 24	suit	suit	NOUN	_	Number=Sing	23	flat	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -6401,7 +6401,7 @@
 8	menos	menos	ADV	_	Degree=Cmp	6	fixed	_	_
 9	una	uno	NUM	_	Gender=Fem|Number=Sing|NumForm=Word|NumType=Card	10	nummod	_	_
 10	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
-11	como	como	SCONJ		_	12	case	_	_
+11	como	como	SCONJ	_	_	12	case	_	_
 12	cedido	ceder	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	advcl	_	_
 13	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	17	punct	_	SpaceAfter=No
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -6457,7 +6457,7 @@
 31	1999	1999	NUM	_	NumForm=Digit|NumType=Card	29	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
 33	entendida	entender	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	26	conj	_	_
-34	como	como	SCONJ		_	37	case	_	_
+34	como	como	SCONJ	_	_	37	case	_	_
 35	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
 36	plena	pleno	ADJ	_	Gender=Fem|Number=Sing	37	amod	_	_
 37	transferencia	transferencia	NOUN	_	Gender=Fem|Number=Sing	33	obl	_	_
@@ -7361,7 +7361,7 @@
 22	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	aux	_	_
 23	no	no	ADV	_	Polarity=Neg	24	advmod	_	_
 24	salir	salir	VERB	_	VerbForm=Inf	17	parataxis	_	_
-25	como	como	SCONJ		_	27	mark	_	_
+25	como	como	SCONJ	_	_	27	mark	_	_
 26	usted	tú	PRON	_	Case=Acc,Nom|Number=Sing|Person=2|Polite=Form|PronType=Prs	27	nsubj	_	_
 27	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	advcl	_	SpaceAfter=No
 28	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
@@ -7466,7 +7466,7 @@
 7	algo	algo	PRON	_	Number=Sing|PronType=Ind	5	obl	_	_
 8	tan	tanto	ADV	_	_	9	advmod	_	_
 9	fundamental	fundamental	ADJ	_	Number=Sing	7	amod	_	_
-10	como	como	SCONJ		_	12	case	_	_
+10	como	como	SCONJ	_	_	12	case	_	_
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	hogar	hogar	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
@@ -7591,7 +7591,7 @@
 13	inteligencia	inteligencia	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
 14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
 15	funciona	funcionar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-16	como	como	SCONJ		_	17	case	_	_
+16	como	como	SCONJ	_	_	17	case	_	_
 17	repelente	repelente	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
 18	para	para	ADP	_	_	20	case	_	_
 19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
@@ -8143,7 +8143,7 @@
 34	a	a	ADP	_	_	36	case	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	empresa	empresa	NOUN	_	Gender=Fem|Number=Sing	32	obl:arg	_	_
-37	como	como	CCONJ	_	_	40	case	_	_
+37	como	como	SCONJ	_	_	40	case	_	_
 38	a	a	ADP	_	_	40	case	_	_
 39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	entidad	entidad	NOUN	_	Gender=Fem|Number=Sing	33	nmod	_	_
@@ -8639,7 +8639,7 @@
 35	y	y	CCONJ	_	_	37	cc	_	_
 36	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
 37	promoción	promoción	NOUN	_	Gender=Fem|Number=Sing	34	conj	_	_
-38	como	como	SCONJ		_	41	case	_	_
+38	como	como	SCONJ	_	_	41	case	_	_
 39	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	det	_	_
 40	principales	principal	ADJ	_	Number=Plur	41	amod	_	_
 41	retos	reto	NOUN	_	Gender=Masc|Number=Plur	34	nmod	_	_
@@ -8786,7 +8786,7 @@
 1	Evo	Evo	PROPN	_	Number=Sing	3	nsubj	_	_
 2	Morales	Morales	PROPN	_	_	1	flat	_	_
 3	surgió	surgir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-4	como	como	SCONJ		_	5	case	_	_
+4	como	como	SCONJ	_	_	5	case	_	_
 5	líder	líder	NOUN	_	Number=Sing	3	obl	_	_
 6	indiscutido	indiscutido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	5	amod	_	_
 7	de	de	ADP	_	_	9	case	_	_
@@ -9103,7 +9103,7 @@
 43	con	con	ADP	_	_	44	case	_	_
 44	campañas	campaña	NOUN	_	Gender=Fem|Number=Plur	35	obl	_	_
 45	ofensivas	ofensivo	ADJ	_	Gender=Fem|Number=Plur	44	amod	_	_
-46	como	como	SCONJ		_	47	case	_	_
+46	como	como	SCONJ	_	_	47	case	_	_
 47	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	44	nmod	_	_
 48	que	que	SCONJ	_	_	50	mark	_	_
 49	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	aux	_	_
@@ -9170,7 +9170,7 @@
 3	caracteristica	característica	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	0	root	_	CorrectForm=característica
 4	de	de	ADP	_	_	5	case	_	_
 5	herramientas	herramienta	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
-6	como	como	SCONJ		_	7	case	_	_
+6	como	como	SCONJ	_	_	7	case	_	_
 7	esta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	5	nmod	_	_
 8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	cop	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
@@ -9689,7 +9689,7 @@
 33	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	35	cop	_	_
 34	tan	tanto	ADV	_	_	35	advmod	_	_
 35	traumático	traumático	ADJ	_	Gender=Masc|Number=Sing	14	advcl	_	_
-36	como	como	SCONJ		_	37	case	_	_
+36	como	como	SCONJ	_	_	37	case	_	_
 37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	nmod	_	_
 38	que	que	SCONJ	_	_	39	mark	_	_
 39	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	acl:relcl	_	_
@@ -9758,7 +9758,7 @@
 18	a	a	ADP	_	_	19	case	_	_
 19	cabo	cabo	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-21	como	como	SCONJ		_	22	mark	_	_
+21	como	como	SCONJ	_	_	22	mark	_	_
 22	bajar	bajar	VERB	_	VerbForm=Inf	13	advcl	_	_
 23	de	de	ADP	_	_	24	case	_	_
 24	peso	peso	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
@@ -10220,7 +10220,7 @@
 46	a	a	ADP	_	_	48	case	_	_
 47	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
 48	Argentina	Argentina	PROPN	_	_	45	obj	_	_
-49	como	como	SCONJ		_	50	case	_	_
+49	como	como	SCONJ	_	_	50	case	_	_
 50	sede	sede	NOUN	_	Gender=Fem|Number=Sing	45	obl	_	_
 51-52	del	_	_	_	_	_	_	_	_
 51	de	de	ADP	_	_	54	case	_	_
@@ -10349,7 +10349,7 @@
 22	difícil	difícil	ADJ	_	Number=Sing	2	ccomp	_	SpaceAfter=No
 23	"	"	PUNCT	_	PunctType=Quot	22	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-25	como	como	SCONJ		_	26	case	_	_
+25	como	como	SCONJ	_	_	26	case	_	_
 26	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	22	nmod	_	_
 27	a	a	ADP	_	_	29	case	_	_
 28	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	29	det	_	_
@@ -10462,7 +10462,7 @@
 2	Latinoamérica	Latinoamérica	PROPN	_	_	10	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	países	país	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
-5	como	como	SCONJ		_	6	case	_	_
+5	como	como	SCONJ	_	_	6	case	_	_
 6	Brasil	Brasil	PROPN	_	_	4	nmod	_	_
 7	y	y	CCONJ	_	_	8	cc	_	_
 8	Argentina	Argentina	PROPN	_	_	6	conj	_	_
@@ -11131,7 +11131,7 @@
 4	vehículo	vehículo	NOUN	_	Gender=Masc|Number=Sing	2	nsubj	_	_
 5	particular	particular	ADJ	_	Number=Sing	4	amod	_	_
 6	y	y	CCONJ	_	_	11	cc	_	_
-7	como	como	SCONJ		_	10	mark	_	_
+7	como	como	SCONJ	_	_	10	mark	_	_
 8	no	no	ADV	_	Polarity=Neg	10	advmod	_	_
 9	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
 10	frenar	frenar	VERB	_	VerbForm=Inf	11	advcl	_	_
@@ -11940,7 +11940,7 @@
 22	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	expl:pv	_	_
 23	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
 24	retiren	retirar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
-25	como	como	SCONJ		_	26	case	_	_
+25	como	como	SCONJ	_	_	26	case	_	_
 26	medida	medida	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
 27	de	de	ADP	_	_	28	case	_	_
 28	precaución	precaución	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
@@ -12402,7 +12402,7 @@
 6	pero	pero	CCONJ	_	_	16	cc	_	_
 7	claro	claro	ADV	_	_	16	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-9	como	como	SCONJ		_	13	case	_	_
+9	como	como	SCONJ	_	_	13	case	_	_
 10	en	en	ADP	_	_	13	case	_	_
 11	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	13	det	_	_
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
@@ -12787,7 +12787,7 @@
 3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	tan	tanto	ADV	_	_	5	advmod	_	_
 5	calidas	cálido	ADJ	_	Gender=Fem|Number=Plur|Typo=Yes	0	root	_	CorrectForm=cálidas
-6	como	como	SCONJ		_	8	case	_	_
+6	como	como	SCONJ	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	trato	trato	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
 9-10	del	_	_	_	_	_	_	_	_
@@ -12929,7 +12929,7 @@
 1	Tanto	tanto	ADV	_	_	3	cc	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	trato	trato	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
-4	como	como	CCONJ	_	_	6	cc	_	_
+4	como	como	SCONJ	_	_	6	mark	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
 7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -13347,7 +13347,7 @@
 27	de	de	ADP	_	_	28	case	_	_
 28	platos	plato	NOUN	_	Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
-30	como	como	SCONJ		_	33	mark	_	_
+30	como	como	SCONJ	_	_	33	mark	_	_
 31	no	no	ADV	_	Polarity=Neg	33	advmod	_	_
 32	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	33	obl:arg	_	_
 33	gustan	gustar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	38	advcl	_	_
@@ -13533,7 +13533,7 @@
 # sent_id = es-test-001-s300
 # text = Es como si los hubieran estado golpeando contra la pared durante horas.
 1	Es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-2	como	como	SCONJ		ExtPos=SCONJ	6	mark	_	_
+2	como	como	SCONJ	_	ExtPos=SCONJ	6	mark	_	_
 3	si	si	CCONJ	_	_	2	fixed	_	_
 4	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
 5	hubieran	haber	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	aux	_	_
