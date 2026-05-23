@@ -12720,10 +12720,10 @@
 
 # sent_id = es-dev-001-s435
 # text = A pesar de esto las benzodiazepinas son todavía extensamente recetadas.
-1	A	a	ADP	_	_	2	case	_	_
-2	pesar	pesar	VERB	_	VerbForm=Inf	10	obl	_	_
-3	de	de	ADP	_	_	4	case	_	_
-4	esto	este	PRON	_	Number=Sing|PronType=Dem	2	nmod	_	_
+1	A	a	ADP	_	_	4	case	_	_
+2	pesar	pesar	VERB	_	VerbForm=Inf	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
+4	esto	este	PRON	_	Number=Sing|PronType=Dem	10	obl	_	_
 5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	benzodiazepinas	benzodiazepina	NOUN	_	Gender=Fem|Number=Plur	10	nsubj:pass	_	_
 7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
@@ -21420,16 +21420,16 @@
 
 # sent_id = es-dev-002-s229
 # text = A pesar de estar pegado a la carretera principal, es un sitio muy tranquilo.
-1	A	a	ADP	_	_	2	case	_	_
-2	pesar	pesar	VERB	_	VerbForm=Inf	13	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
+1	A	a	ADP	_	_	5	mark	_	_
+2	pesar	pesar	VERB	_	VerbForm=Inf	1	fixed	_	_
+3	de	de	ADP	_	_	1	fixed	_	_
 4	estar	estar	AUX	_	VerbForm=Inf	5	cop	_	_
-5	pegado	pegado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
+5	pegado	pegado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	13	nmod	_	_
 6	a	a	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 9	principal	principal	ADJ	_	Number=Sing	8	amod	_	SpaceAfter=No
-10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+10	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 11	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	sitio	sitio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
@@ -23837,13 +23837,13 @@
 34	de	de	ADP	_	_	36	case	_	_
 35	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
 36	Cerrito	Cerrito	PROPN	_	_	32	conj	_	SpaceAfter=No
-37	,	,	PUNCT	_	PunctType=Comm	39	punct	_	_
-38	a	a	ADP	_	_	39	case	_	_
-39	pesar	pesar	VERB	_	VerbForm=Inf	27	obl	_	_
+37	,	,	PUNCT	_	PunctType=Comm	42	punct	_	_
+38	a	a	ADP	_	_	42	case	_	_
+39	pesar	pesar	VERB	_	VerbForm=Inf	38	fixed	_	_
 40-41	del	_	_	_	_	_	_	_	_
-40	de	de	ADP	_	_	42	case	_	_
+40	de	de	ADP	_	_	38	fixed	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
-42	compromiso	compromiso	NOUN	_	Gender=Masc|Number=Sing	39	nmod	_	_
+42	compromiso	compromiso	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	_
 43	moral	moral	ADJ	_	Number=Sing	42	amod	_	_
 44	que	que	PRON	_	PronType=Rel	46	obj	_	_
 45	habían	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	46	aux	_	_
