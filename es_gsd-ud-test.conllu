@@ -7746,7 +7746,7 @@
 5	izquierdas	izquierda	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
 6	agredido	agredir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	acl	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
-8	dedica	dedicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	advcl	_	_
+8	dedica	dedicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	advcl	_	_
 9	a	a	ADP	_	_	10	mark	_	_
 10	construir	construir	VERB	_	VerbForm=Inf	8	advcl	_	_
 11	organización	organización	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
@@ -7781,11 +7781,11 @@
 40	demostrar	demostrar	VERB	_	VerbForm=Inf	38	xcomp	_	_
 41	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	42	det	_	_
 42	único	único	NOUN	_	Gender=Masc|Number=Sing	40	obj	_	_
-43	que	que	SCONJ	_	_	45	mark	_	_
+43	que	que	PRON	_	PronType=Rel	45	obj	_	_
 44	saben	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	42	acl:relcl	_	_
 45	hacer	hacer	VERB	_	VerbForm=Inf	44	xcomp	_	SpaceAfter=No
 46	:	:	PUNCT	_	PunctType=Colo	47	punct	_	_
-47	pegar	pegar	VERB	_	VerbForm=Inf	45	parataxis	_	SpaceAfter=No
+47	pegar	pegar	VERB	_	VerbForm=Inf	42	appos	_	SpaceAfter=No
 48	,	,	PUNCT	_	PunctType=Comm	49	punct	_	_
 49	ejercer	ejercer	VERB	_	VerbForm=Inf	47	conj	_	_
 50	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	51	det	_	_
