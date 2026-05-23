@@ -7780,7 +7780,7 @@
 39	a	a	ADP	_	_	40	mark	_	_
 40	demostrar	demostrar	VERB	_	VerbForm=Inf	38	xcomp	_	_
 41	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	42	det	_	_
-42	único	único	NOUN	_	Gender=Masc|Number=Sing	40	obj	_	_
+42	único	único	ADJ	_	Gender=Masc|Number=Sing	40	obj	_	_
 43	que	que	PRON	_	PronType=Rel	45	obj	_	_
 44	saben	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	42	acl:relcl	_	_
 45	hacer	hacer	VERB	_	VerbForm=Inf	44	xcomp	_	SpaceAfter=No
@@ -13117,7 +13117,7 @@
 # sent_id = es-test-001-s263
 # text = Lo único positivo quizás sea el servicio de buses, incluído en el precio (faltaría más...), aunque los domingos, cuando lleve a toda la gente de las estaciones de tren y bus, irás tan apretado que te costará respirar y el bus empezará a oler a quemado.
 1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	det	_	_
-2	único	único	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
+2	único	único	ADJ	_	Gender=Masc|Number=Sing	0	root	_	_
 3	positivo	positivo	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
 4	quizás	quizás	ADV	_	_	2	advmod	_	_
 5	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
