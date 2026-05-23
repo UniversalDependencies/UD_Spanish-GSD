@@ -5684,7 +5684,7 @@
 38	a	a	ADP	_	_	39	case	_	_
 39	gusto	gusto	NOUN	_	Gender=Masc|Number=Sing	36	obl	_	SpaceAfter=No
 40	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
-41	a	a	ADP	_	_	45	nmod	_	_
+41	a	a	ADP	_	ExtPos=ADP	45	case	_	_
 42	pesar	pesar	VERB	_	VerbForm=Inf	41	fixed	_	_
 43	de	de	ADP	_	_	41	fixed	_	_
 44	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	45	det	_	_
@@ -8930,7 +8930,7 @@
 15	encuentros	encuentro	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
 17	aunque	aunque	SCONJ	_	_	33	mark	_	_
-18	a	a	ADP	_	_	21	obl	_	_
+18	a	a	ADP	_	ExtPos=SCONJ	21	mark	_	_
 19	pesar	pesar	VERB	_	VerbForm=Inf	18	fixed	_	_
 20	de	de	ADP	_	_	18	fixed	_	_
 21	contar	contar	VERB	_	VerbForm=Inf	33	advcl	_	_
