@@ -48,7 +48,7 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,PRON">2059</feat><!-- más, mayor, menos, mejor, mejores, menor, mayores, menores, peor, peores -->
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- Annual, Clear -->
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
-    <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,NOUN,SCONJ,VERB">821</feat><!-- junto, después, dentro, frente, antes, cerca, además, gracias, debido, a -->
+    <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,NOUN,SCONJ,VERB">820</feat><!-- junto, después, dentro, frente, antes, cerca, además, gracias, debido, a -->
     <feat name="ExtPos" value="ADV" upos="ADP,ADV,CCONJ,SCONJ,VERB">459</feat><!-- a, después, antes, además, sin, en, dentro, hoy, ni, cerca -->
     <feat name="ExtPos" value="CCONJ" upos="ADJ,ADP,ADV,CCONJ,PRON,VERB">353</feat><!-- sin, así, es, no, además, o, sino, a, ya, en -->
     <feat name="ExtPos" value="PROPN" upos="NOUN,VERB">2</feat><!-- Llanto, danzo -->
@@ -135,12 +135,12 @@
     <dep name="expl:impers">1</dep>
     <dep name="expl:pass">11</dep>
     <dep name="expl:pv">5332</dep>
-    <dep name="fixed">2654</dep>
+    <dep name="fixed">2653</dep>
     <dep name="flat">7428</dep>
     <dep name="goeswith">2</dep>
     <dep name="iobj">1</dep>
     <dep name="mark">11933</dep>
-    <dep name="nmod">39308</dep>
+    <dep name="nmod">39309</dep>
     <dep name="nsubj">15779</dep>
     <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">1184</dep>
