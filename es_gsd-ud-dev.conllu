@@ -12439,7 +12439,7 @@
 2	escala	escala	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	única	único	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+5	única	único	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 6	que	que	SCONJ	_	_	8	mark	_	_
 7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
 8	posee	poseer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
@@ -15241,7 +15241,7 @@
 28	que	que	CCONJ	_	_	27	fixed	_	_
 29	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
 30	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	31	det	_	_
-31	únicos	único	NOUN	_	Gender=Masc|Number=Plur	26	advcl	_	_
+31	únicos	único	ADJ	_	Gender=Masc|Number=Plur	26	advcl	_	_
 32	que	que	SCONJ	_	_	34	mark	_	_
 33	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	34	expl:pv	_	_
 34	otorgan	otorgar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	acl:relcl	_	_
