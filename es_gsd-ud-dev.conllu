@@ -1036,16 +1036,16 @@
 37	Isla	Isla	PROPN	_	_	33	conj	_	_
 38	Mauricio	Mauricio	PROPN	_	_	37	flat	_	SpaceAfter=No
 39	,	,	PUNCT	_	PunctType=Comm	44	punct	_	_
-40	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	44	nmod	_	_
+40	tanto	tanto	ADV	_	_	44	cc	_	_
 41	por	por	ADP	_	_	44	case	_	_
 42	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	44	det	_	_
 43	propia	propio	ADJ	_	Gender=Fem|Number=Sing	44	amod	_	_
 44	historia	historia	NOUN	_	Gender=Fem|Number=Sing	26	obl	_	SpaceAfter=No
-45	,	,	PUNCT	_	PunctType=Comm	46	punct	_	_
-46	como	como	SCONJ	_	_	40	mark	_	_
+45	,	,	PUNCT	_	PunctType=Comm	49	punct	_	_
+46	como	como	SCONJ	_	_	49	cc	_	_
 47	por	por	ADP	_	_	49	case	_	_
 48	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	49	det	_	_
-49	diversificación	diversificación	NOUN	_	Gender=Fem|Number=Sing	40	nmod	_	_
+49	diversificación	diversificación	NOUN	_	Gender=Fem|Number=Sing	44	conj	_	_
 50	de	de	ADP	_	_	52	case	_	_
 51	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	52	det	_	_
 52	productos	producto	NOUN	_	Gender=Masc|Number=Plur	49	nmod	_	SpaceAfter=No
@@ -2451,7 +2451,7 @@
 17	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	_
 18	punta	punta	NOUN	_	Gender=Fem|Number=Sing	17	compound	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-20	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	23	nmod	_	_
+20	tanto	tanto	ADV	_	_	23	cc	_	_
 21	en	en	ADP	_	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	ámbito	ámbito	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
@@ -2459,10 +2459,10 @@
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	osmosis	osmosis	NOUN	_	Gender=Fem	23	nmod	_	_
 27	inversa	inverso	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
-28	como	como	SCONJ	_	_	20	mark	_	_
+28	como	como	SCONJ	_	_	31	cc	_	_
 29	de	de	ADP	_	_	31	case	_	_
 30	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
-31	descalcificación	descalcificación	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
+31	descalcificación	descalcificación	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	SpaceAfter=No
 32	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-dev-001-s90
@@ -10515,12 +10515,12 @@
 
 # sent_id = es-dev-001-s362
 # text = Tanto la tumba como el ataúd se han desintegrado, y todo está cubierto con una capa de un centímetro de pan de oro y estuco.
-1	Tanto	tanto	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	3	det	_	_
+1	Tanto	tanto	ADV	_	_	3	cc	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	tumba	tumba	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
-4	como	como	SCONJ	_	_	6	case	_	_
+4	como	como	SCONJ	_	_	6	cc	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	ataúd	ataúd	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+6	ataúd	ataúd	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 8	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
 9	desintegrado	desintegrar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -17116,10 +17116,10 @@
 # sent_id = es-dev-002-s82
 # text = Aunque tanto Eisenhower como Nixon afirmaron más tarde que Ike estaba simplemente bromeando con el periodista, el comentario hirió a Nixon, puesto que debilitaría su reclamaciones de tener mayor capacidad de decisión de experiencia que Kennedy.
 1	Aunque	aunque	SCONJ	_	_	6	mark	_	_
-2	tanto	tanto	DET	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	3	det	_	_
+2	tanto	tanto	ADV	_	_	3	cc	_	_
 3	Eisenhower	Eisenhower	PROPN	_	_	6	nsubj	_	_
-4	como	como	SCONJ	_	_	5	case	_	_
-5	Nixon	Nixon	PROPN	_	_	3	nmod	_	_
+4	como	como	SCONJ	_	_	5	cc	_	_
+5	Nixon	Nixon	PROPN	_	_	3	conj	_	_
 6	afirmaron	afirmar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	advcl	_	_
 7	más	más	ADV	_	Degree=Cmp	8	advmod	_	_
 8	tarde	tarde	ADV	_	_	6	advmod	_	_
@@ -19143,12 +19143,12 @@
 # text = Las precipitaciones tanto invernales como en la primavera permanecen como nieve a mas de 4,500 msnm, y por solo semanas debido al templado clima del extenso valle al pie del mismo.
 1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	precipitaciones	precipitación	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
-3	tanto	tanto	ADV	_	_	4	advmod	_	_
+3	tanto	tanto	ADV	_	_	4	cc	_	_
 4	invernales	invernal	ADJ	_	Number=Plur	2	amod	_	_
-5	como	como	SCONJ	_	_	8	mark	_	_
+5	como	como	SCONJ	_	_	8	cc	_	_
 6	en	en	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	primavera	primavera	NOUN	_	Number=Sing	2	conj	_	_
+8	primavera	primavera	NOUN	_	Number=Sing	4	conj	_	_
 9	permanecen	permanecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	como	como	SCONJ	_	_	11	case	_	_
 11	nieve	nieve	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
@@ -24858,12 +24858,12 @@
 17	de	de	ADP	_	_	18	case	_	_
 18	diversión	diversión	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
 19	dirigida	dirigir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	_
-20	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	22	nmod	_	_
+20	tanto	tanto	ADV	_	_	22	cc	_	_
 21	a	a	ADP	_	_	22	case	_	_
 22	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
-23	como	como	SCONJ	_	_	25	case	_	_
+23	como	como	SCONJ	_	_	25	cc	_	_
 24	a	a	ADP	_	_	25	case	_	_
-25	particulares	particular	NOUN	_	Number=Plur	20	conj	_	SpaceAfter=No
+25	particulares	particular	NOUN	_	Number=Plur	22	conj	_	SpaceAfter=No
 26	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-002-s335
@@ -27114,13 +27114,13 @@
 # text = Lo recomiendo tanto a familias, como a parejas ya grupos de amigos que quieran compartir una velada con una atención maravillosa.
 1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
 2	recomiendo	recomer	VERB	_	VerbForm=Ger	0	root	_	_
-3	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	5	nmod	_	_
+3	tanto	tanto	ADV	_	_	5	cc	_	_
 4	a	a	ADP	_	_	5	case	_	_
 5	familias	familia	NOUN	_	Gender=Fem|Number=Plur	2	obl:arg	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-7	como	como	SCONJ	_	_	9	case	_	_
+7	como	como	SCONJ	_	_	9	cc	_	_
 8	a	a	ADP	_	_	9	case	_	_
-9	parejas	pareja	NOUN	_	Gender=Fem|Number=Plur	3	nmod	_	_
+9	parejas	pareja	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
 10	ya	ya	X	_	_	11	cc	_	_
 11	grupos	grupo	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
 12	de	de	ADP	_	_	13	case	_	_
@@ -29579,12 +29579,12 @@
 13	de	de	ADP	_	_	14	case	_	_
 14	telecomunicaciones	telecomunicación	NOUN	_	Gender=Fem|Number=Plur	12	nmod	_	_
 15	usado	usar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	acl	_	_
-16	tanto	tanto	ADV	_	_	15	advmod	_	_
+16	tanto	tanto	ADV	_	_	18	cc	_	_
 17	en	en	ADP	_	_	18	case	_	_
-18	interiores	interior	NOUN	_	Gender=Masc|Number=Plur	16	nmod	_	_
-19	como	como	ADV	_	_	15	advmod	_	_
+18	interiores	interior	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
+19	como	como	SCONJ	_	_	21	cc	_	_
 20	en	en	ADP	_	_	21	case	_	_
-21	exteriores	exterior	NOUN	_	Number=Plur	19	nmod	_	_
+21	exteriores	exterior	NOUN	_	Number=Plur	18	conj	_	_
 22	para	para	SCONJ	_	_	23	mark	_	_
 23	originar	originar	VERB	_	VerbForm=Inf	15	advcl	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
@@ -33541,11 +33541,11 @@
 
 # sent_id = es-dev-003-s127
 # text = Tanto la administración central como las locales experimentaron un gran desarrollo, y su estructura burocrática sería una de las más eficientes de su tiempo, tanto que en ella se basarían otros gobernantes, como Federico III de Dinamarca o Pedro I de Rusia.
-1	Tanto	tanto	ADV	_	_	8	cc	_	_
+1	Tanto	tanto	ADV	_	_	3	cc	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	administración	administración	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
 4	central	central	ADJ	_	Number=Sing	3	amod	_	_
-5	como	como	SCONJ	_	_	7	mark	_	_
+5	como	como	SCONJ	_	_	7	cc	_	_
 6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 7	locales	local	NOUN	_	Number=Plur	3	conj	_	_
 8	experimentaron	experimentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -34340,14 +34340,14 @@
 17	año	año	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
 18	enamora	enamorar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-20	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	23	nmod	_	_
+20	tanto	tanto	ADV	_	_	23	cc	_	_
 21	en	en	ADP	_	_	23	case	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	ficción	ficción	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	_
-24	como	como	SCONJ	_	_	27	case	_	_
+24	como	como	SCONJ	_	_	27	cc	_	_
 25	en	en	ADP	_	_	27	case	_	_
 26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
-27	vida	vida	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
+27	vida	vida	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	_
 28	real	real	ADJ	_	Number=Sing	27	amod	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 30	a	a	ADP	_	_	31	case	_	_
@@ -38324,14 +38324,14 @@
 28	e	e	CCONJ	_	_	29	cc	_	_
 29	imagen	imagen	NOUN	_	Gender=Fem|Number=Sing	27	conj	_	_
 30	corporativa	corporativo	ADJ	_	Gender=Fem|Number=Sing	29	amod	_	_
-31	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	34	nmod	_	_
+31	tanto	tanto	ADV	_	_	34	cc	_	_
 32	para	para	ADP	_	_	34	case	_	_
 33	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
 34	instituciones	institución	NOUN	_	Gender=Fem|Number=Plur	25	nmod	_	_
-35	como	como	SCONJ	_	_	31	mark	_	_
+35	como	como	SCONJ	_	_	38	cc	_	_
 36	para	para	ADP	_	_	38	case	_	_
 37	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	38	det	_	_
-38	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	31	nmod	_	_
+38	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	34	conj	_	_
 39	representadas	representar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	38	acl	_	SpaceAfter=No
 40	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
