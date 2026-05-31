@@ -7539,8 +7539,8 @@
 26	presentara	presentar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	advcl	_	_
 27	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	propuesta	propuesta	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	_
-29	para	para	ADP	_	ExtPos=SCONJ	33	mark	_	_
-30	que	que	SCONJ	_	_	29	fixed	_	_
+29	para	para	ADP	_	_	33	mark	_	_
+30	que	que	SCONJ	_	_	33	mark	_	_
 31	dicho	dicho	DET	_	Gender=Masc|Number=Sing|PronType=Ind	32	det	_	_
 32	país	país	NOUN	_	Gender=Masc|Number=Sing	33	nsubj	_	_
 33	albergara	albergar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	advcl	_	_
@@ -8813,7 +8813,7 @@
 2	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 3	pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	7	mark	_	_
 4	a	a	ADP	_	_	3	fixed	_	_
-5	que	que	SCONJ	_	_	3	fixed	_	_
+5	que	que	SCONJ	_	_	7	mark	_	_
 6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
 7	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
 8	nada	nada	PRON	_	Number=Sing|PronType=Neg	7	obj	_	_
@@ -8824,7 +8824,7 @@
 13	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 14	debido	deber	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	18	mark	_	_
 15	a	a	ADP	_	_	14	fixed	_	_
-16	que	que	SCONJ	_	_	14	fixed	_	_
+16	que	que	SCONJ	_	_	18	mark	_	_
 17	nunca	nunca	ADV	_	Polarity=Neg	18	advmod	_	_
 18	vió	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	advcl	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
@@ -8836,7 +8836,7 @@
 25	y	y	CCONJ	_	_	32	cc	_	_
 26	pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	32	mark	_	_
 27	a	a	ADP	_	_	26	fixed	_	_
-28	que	que	SCONJ	_	_	26	fixed	_	_
+28	que	que	SCONJ	_	_	32	mark	_	_
 29	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
 30	colegas	colega	NOUN	_	Number=Plur	32	nsubj	_	_
 31	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	expl:pv	_	_
@@ -9152,8 +9152,8 @@
 60	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	61	det	_	_
 61	vialidad	vialidad	NOUN	_	Gender=Fem|Number=Sing	59	nsubj	_	_
 62	y	y	CCONJ	_	_	65	cc	_	_
-63	sin	sin	ADP	_	ExtPos=SCONJ	65	mark	_	_
-64	que	que	CCONJ	_	_	63	fixed	_	_
+63	sin	sin	ADP	_	_	65	mark	_	_
+64	que	que	SCONJ	_	_	65	mark	_	_
 65	haya	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	conj	_	_
 66	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	67	det	_	_
 67	respuesta	respuesta	NOUN	_	Gender=Fem|Number=Sing	65	obj	_	_
@@ -10192,8 +10192,8 @@
 4	con	con	ADP	_	_	6	case	_	_
 5	cierta	cierto	DET	_	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
 6	salinidad	salinidad	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
-7	para	para	ADP	_	ExtPos=SCONJ	11	mark	_	_
-8	que	que	SCONJ	_	_	7	fixed	_	_
+7	para	para	ADP	_	_	11	mark	_	_
+8	que	que	SCONJ	_	_	11	mark	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	fruto	fruto	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
 11	contrarreste	contrarrestar	VERB	_	Mood=Sub|Number=Sing|VerbForm=Fin	1	advcl	_	_
@@ -28747,8 +28747,8 @@
 26	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	_
 27	a	a	ADP	_	_	28	case	_	_
 28	Allison	Allison	PROPN	_	_	26	obl:arg	_	_
-29	para	para	ADP	_	ExtPos=SCONJ	32	mark	_	_
-30	que	que	SCONJ	_	_	29	fixed	_	_
+29	para	para	ADP	_	_	32	mark	_	_
+30	que	que	SCONJ	_	_	32	mark	_	_
 31	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	32	obj	_	_
 32	fabrique	fabricar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	advcl	_	SpaceAfter=No
 33	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
@@ -35111,8 +35111,8 @@
 
 # sent_id = es-dev-003-s184
 # text = Desde que las fuerzas aliadas habían desembarcado en Normandía (Francia) el día - D, 6 de junio de 1944, el Segundo ejército británico había presionado hacia el interior de los Países Bajos y tomado Bruselas y Amberes, este último con puertos aún intactos.
-1	Desde	desde	ADP	_	ExtPos=SCONJ	7	mark	_	_
-2	que	que	SCONJ	_	_	1	fixed	_	_
+1	Desde	desde	ADP	_	_	7	mark	_	_
+2	que	que	SCONJ	_	_	7	mark	_	_
 3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	fuerzas	fuerza	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
 5	aliadas	aliado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	4	amod	_	_
@@ -40484,7 +40484,7 @@
 15	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 16	debido	deber	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	21	mark	_	_
 17	a	a	ADP	_	_	16	fixed	_	_
-18	que	que	SCONJ	_	_	16	fixed	_	_
+18	que	que	SCONJ	_	_	21	mark	_	_
 19	éstas	este	PRON	_	Gender=Fem|Number=Plur|PronType=Dem	21	nsubj	_	_
 20	no	no	ADV	_	Polarity=Neg	21	advmod	_	_
 21	asistieron	asistir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	advcl	_	_
@@ -41716,7 +41716,7 @@
 5	excesiva	excesivo	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
 6	debido	deber	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	11	mark	_	_
 7	a	a	ADP	_	_	6	fixed	_	_
-8	que	que	SCONJ	_	_	6	fixed	_	_
+8	que	que	SCONJ	_	_	11	mark	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	operador	operador	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
 11	pulsó	pulsar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_

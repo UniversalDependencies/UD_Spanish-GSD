@@ -1085,8 +1085,8 @@
 24	a	a	ADP	_	_	26	case	_	_
 25	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	26	det	_	_
 26	personas	persona	NOUN	_	Gender=Fem|Number=Plur	22	obl:arg	_	_
-27	para	para	ADP	_	ExtPos=SCONJ	37	mark	_	_
-28	que	que	CCONJ	_	_	27	fixed	_	_
+27	para	para	ADP	_	_	37	mark	_	_
+28	que	que	SCONJ	_	_	37	mark	_	_
 29	puedan	poder	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	aux	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
 31	a	a	ADP	_	_	32	case	_	_
@@ -3429,8 +3429,8 @@
 2	con	con	ADP	_	_	4	case	_	_
 3	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	hijas	hija	NOUN	_	Gender=Fem|Number=Plur	1	obl	_	_
-5	para	para	ADP	_	ExtPos=SCONJ	7	mark	_	_
-6	que	que	CCONJ	_	_	5	fixed	_	_
+5	para	para	ADP	_	_	7	mark	_	_
+6	que	que	SCONJ	_	_	7	mark	_	_
 7	probaran	probar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	advcl	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	cocido	cocido	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
@@ -8565,8 +8565,8 @@
 47	vivienda	vivienda	NOUN	_	Gender=Fem|Number=Sing	39	obl	_	_
 48	protegida	protegido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	47	amod	_	SpaceAfter=No
 49	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
-50	para	para	ADP	_	ExtPos=SCONJ	62	mark	_	_
-51	que	que	CCONJ	_	_	50	fixed	_	_
+50	para	para	ADP	_	_	62	mark	_	_
+51	que	que	SCONJ	_	_	62	mark	_	_
 52	finalmente	finalmente	ADV	_	_	62	advmod	_	_
 53	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	55	det	_	_
 54	1.035	1035	NUM	_	NumForm=Digit|NumType=Card	55	nummod	_	_
@@ -12975,8 +12975,8 @@
 9	bajan	bajar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	automático	automático	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
-12	para	para	ADP	_	ExtPos=SCONJ	15	mark	_	_
-13	que	que	CCONJ	_	_	12	fixed	_	_
+12	para	para	ADP	_	_	15	mark	_	_
+13	que	que	SCONJ	_	_	15	mark	_	_
 14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
 15	gastes	gastar	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 16	luz	luz	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
