@@ -48,11 +48,11 @@
     <feat name="Degree" value="Cmp" upos="ADJ,ADV,PRON">2059</feat><!-- más, mayor, menos, mejor, mejores, menor, mayores, menores, peor, peores -->
     <feat name="Degree" value="Pos" upos="ADJ">2</feat><!-- Annual, Clear -->
     <feat name="Degree" value="Sup" upos="ADJ">79</feat><!-- máximo, máxima, mínima, mínimo, mínimas, óptimo, máximas, máximos, mínimos, óptima -->
-    <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,NOUN,SCONJ,VERB">895</feat><!-- junto, después, a, dentro, frente, antes, cerca, además, gracias, debido -->
-    <feat name="ExtPos" value="ADV" upos="ADP,ADV,CCONJ,SCONJ,VERB">459</feat><!-- a, después, antes, además, sin, en, dentro, hoy, ni, cerca -->
-    <feat name="ExtPos" value="CCONJ" upos="ADJ,ADP,ADV,CCONJ,PRON,VERB">353</feat><!-- sin, así, es, no, además, o, sino, a, ya, en -->
+    <feat name="ExtPos" value="ADP" upos="ADJ,ADP,ADV,NOUN,SCONJ,VERB">881</feat><!-- junto, después, a, dentro, frente, antes, cerca, además, gracias, debido -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,CCONJ,SCONJ,VERB">456</feat><!-- a, después, antes, además, sin, dentro, en, hoy, ni, cerca -->
+    <feat name="ExtPos" value="CCONJ" upos="ADJ,ADP,ADV,CCONJ,PRON,VERB">352</feat><!-- sin, así, es, no, además, o, sino, a, ya, esto -->
     <feat name="ExtPos" value="PROPN" upos="NOUN,VERB">2</feat><!-- Llanto, danzo -->
-    <feat name="ExtPos" value="SCONJ" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,PRON,SCONJ,VERB">546</feat><!-- ya, mientras, después, antes, a, si, puesto, así, luego, además -->
+    <feat name="ExtPos" value="SCONJ" upos="ADJ,ADP,ADV,CCONJ,DET,NOUN,PRON,SCONJ,VERB">531</feat><!-- ya, mientras, después, antes, a, si, puesto, así, luego, además -->
     <feat name="Foreign" value="Yes" upos="ADJ,ADP,ADV,AUX,CCONJ,DET,NOUN,NUM,PART,PRON,PROPN,PUNCT,SCONJ,VERB,X">276</feat><!-- no, the, I, Inc., Let, a, to, ,, Bass, Boy -->
     <feat name="Gender" value="Fem" upos="ADJ,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">68282</feat><!-- la, una, las, esta, parte, población, ciudad, personas, primera, familia -->
     <feat name="Gender" value="Masc" upos="ADJ,AUX,DET,NOUN,NUM,PRON,PROPN,SYM,VERB,X">90364</feat><!-- el, los, un, lo, este, años, año, todo, uno, otros -->
@@ -111,16 +111,16 @@
   </feats>
   <!-- Statistics of universal dependency relations. -->
   <deps unique="45">
-    <dep name="acl">2843</dep>
+    <dep name="acl">2848</dep>
     <dep name="acl:relcl">5304</dep>
     <dep name="advcl">7099</dep>
-    <dep name="advmod">11177</dep>
+    <dep name="advmod">11174</dep>
     <dep name="amod">24020</dep>
     <dep name="appos">8761</dep>
     <dep name="aux">3294</dep>
     <dep name="aux:pass">1850</dep>
-    <dep name="case">66968</dep>
-    <dep name="cc">13350</dep>
+    <dep name="case">67049</dep>
+    <dep name="cc">13349</dep>
     <dep name="ccomp">1607</dep>
     <dep name="compound">393</dep>
     <dep name="conj">17289</dep>
@@ -135,18 +135,18 @@
     <dep name="expl:impers">1</dep>
     <dep name="expl:pass">11</dep>
     <dep name="expl:pv">5332</dep>
-    <dep name="fixed">2684</dep>
+    <dep name="fixed">2584</dep>
     <dep name="flat">7428</dep>
     <dep name="goeswith">2</dep>
     <dep name="iobj">1</dep>
-    <dep name="mark">12028</dep>
-    <dep name="nmod">39137</dep>
+    <dep name="mark">12018</dep>
+    <dep name="nmod">39166</dep>
     <dep name="nsubj">15787</dep>
     <dep name="nsubj:outer">2</dep>
     <dep name="nsubj:pass">1184</dep>
     <dep name="nummod">6235</dep>
     <dep name="obj">13501</dep>
-    <dep name="obl">23559</dep>
+    <dep name="obl">23558</dep>
     <dep name="obl:agent">1542</dep>
     <dep name="obl:arg">2236</dep>
     <dep name="orphan">7</dep>

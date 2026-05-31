@@ -4392,12 +4392,12 @@
 6	lectura	lectura	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 7	relativamente	relativamente	ADV	_	_	8	advmod	_	_
 8	fácil	fácil	ADJ	_	Number=Sing	6	amod	_	_
-9	con	con	ADP	_	ExtPos=ADP	14	case	_	_
-10	respecto	respecto	NOUN	_	Gender=Masc|Number=Sing	9	fixed	_	_
-11	a	a	ADP	_	_	9	fixed	_	_
+9	con	con	ADP	_	_	10	case	_	_
+10	respecto	respecto	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+11	a	a	ADP	_	_	14	case	_	_
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 13	complejos	complejo	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
-14	conceptos	concepto	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	_
+14	conceptos	concepto	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
 15	teológicos	teológico	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
 16	que	que	PRON	_	PronType=Rel	17	obj	_	_
 17	buscan	buscar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
@@ -5391,11 +5391,11 @@
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 15	Santa	santo	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	_
 16	Sede	sede	NOUN	_	Number=Sing	12	nmod	_	_
-17	con	con	ADP	_	_	21	nmod	_	_
-18	respecto	respecto	NOUN	_	Gender=Masc|Number=Sing	17	fixed	_	_
-19	a	a	ADP	_	_	17	fixed	_	_
+17	con	con	ADP	_	_	18	case	_	_
+18	respecto	respecto	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+19	a	a	ADP	_	_	21	case	_	_
 20	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
-21	obras	obra	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
+21	obras	obra	NOUN	_	Gender=Fem|Number=Plur	18	nmod	_	SpaceAfter=No
 22	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-001-s186
@@ -11237,11 +11237,11 @@
 31	a	a	ADP	_	_	33	case	_	_
 32	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
 33	niños	niño	NOUN	_	Gender=Masc|Number=Plur	30	obl	_	_
-34	a	a	ADP	_	_	38	nmod	_	_
-35	través	través	NOUN	_	Gender=Masc|Number=Sing	34	fixed	_	_
-36	de	de	ADP	_	_	34	fixed	_	_
+34	a	a	ADP	_	_	35	case	_	_
+35	través	través	NOUN	_	Gender=Masc|Number=Sing	30	obl	_	_
+36	de	de	ADP	_	_	38	case	_	_
 37	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	38	det	_	_
-38	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	SpaceAfter=No
+38	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	35	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 # sent_id = es-dev-001-s387
@@ -12198,11 +12198,11 @@
 6-7	conocerse	_	_	_	_	_	_	_	_
 6	conocer	conocer	VERB	_	VerbForm=Inf	4	advcl	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
-8	a	a	ADP	_	ExtPos=ADP	12	case	_	_
-9	través	través	NOUN	_	Gender=Masc|Number=Plur	8	fixed	_	_
-10	de	de	ADP	_	_	8	fixed	_	_
+8	a	a	ADP	_	_	9	case	_	_
+9	través	través	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+10	de	de	ADP	_	_	12	case	_	_
 11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	restaurantes	restaurante	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
+12	restaurantes	restaurante	NOUN	_	Gender=Masc|Number=Plur	9	nmod	_	_
 13	chinos	chino	ADJ	_	Gender=Masc|Number=Plur	12	amod	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
 15	japoneses	japonés	ADJ	_	Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
@@ -36514,11 +36514,11 @@
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	año	año	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
 3	607	607	NUM	_	NumForm=Digit|NumType=Card	2	nummod	_	SpaceAfter=No
-4	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-5	a	a	ADP	_	ExtPos=SCONJ	8	mark	_	_
-6	fin	fin	NOUN	_	Gender=Masc|Number=Sing	5	fixed	_	_
-7	de	de	ADP	_	_	5	fixed	_	_
-8	obtener	obtener	VERB	_	VerbForm=Inf	15	advcl	_	_
+4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
+5	a	a	ADP	_	_	6	case	_	_
+6	fin	fin	NOUN	_	Gender=Masc|Number=Sing	15	advcl	_	_
+7	de	de	ADP	_	_	8	case	_	_
+8	obtener	obtener	VERB	_	VerbForm=Inf	6	nmod	_	_
 9	copias	copia	NOUN	_	Gender=Fem|Number=Plur	8	obj	_	_
 10	de	de	ADP	_	_	12	case	_	_
 11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
@@ -37087,10 +37087,10 @@
 44	y	y	CCONJ	_	_	46	cc	_	_
 45	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	46	det	_	_
 46	uso	uso	NOUN	_	Gender=Masc|Number=Sing	42	conj	_	_
-47	a	a	ADP	_	ExtPos=ADP	50	case	_	_
-48	través	través	NOUN	_	Gender=Masc|Number=Sing	47	fixed	_	_
-49	de	de	ADP	_	_	47	fixed	_	_
-50	embalses	embalse	NOUN	_	Gender=Masc|Number=Plur	46	nmod	_	_
+47	a	a	ADP	_	_	48	case	_	_
+48	través	través	NOUN	_	Gender=Masc|Number=Sing	46	nmod	_	_
+49	de	de	ADP	_	_	50	case	_	_
+50	embalses	embalse	NOUN	_	Gender=Masc|Number=Plur	48	nmod	_	_
 51	y	y	CCONJ	_	_	52	cc	_	_
 52	obras	obra	NOUN	_	Gender=Fem|Number=Plur	50	conj	_	_
 53	de	de	ADP	_	_	54	case	_	_
@@ -40957,10 +40957,10 @@
 
 # sent_id = es-dev-003-s378
 # text = En torno a Avenida Cristóbal Colón es posible ver aún grandes casas, en la vereda poniente (aproximadamente entre Pasaje 3 Montes y Calle José Ignacio Zenteno).
-1	En	en	ADP	_	ExtPos=ADP	4	case	_	_
-2	torno	torno	NOUN	_	Gender=Masc|Number=Sing	1	fixed	_	_
-3	a	a	ADP	_	_	1	fixed	_	_
-4	Avenida	Avenida	PROPN	_	_	8	nmod	_	_
+1	En	en	ADP	_	_	2	case	_	_
+2	torno	torno	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
+3	a	a	ADP	_	_	4	case	_	_
+4	Avenida	Avenida	PROPN	_	_	2	nmod	_	_
 5	Cristóbal	Cristóbal	PROPN	_	_	4	appos	_	_
 6	Colón	Colón	PROPN	_	_	5	flat	_	_
 7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
