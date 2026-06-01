@@ -4807,11 +4807,11 @@
 26	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	27	det	_	_
 27	documento	documento	NOUN	_	Gender=Masc|Number=Sing	22	conj	_	_
 28	acreditativo	acreditativo	ADJ	_	Gender=Masc|Number=Sing	27	amod	_	_
-29	con	con	ADP	_	ExtPos=SCONJ	33	mark	_	_
-30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	fixed	_	_
-31	fin	fin	NOUN	_	Gender=Masc|Number=Sing	29	fixed	_	_
-32	de	de	ADP	_	_	29	fixed	_	_
-33	cancelar	cancelar	VERB	_	VerbForm=Inf	20	advcl	_	_
+29	con	con	ADP	_	_	31	case	_	_
+30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
+31	fin	fin	NOUN	_	Gender=Masc|Number=Sing	20	advcl	_	_
+32	de	de	ADP	_	_	33	mark	_	_
+33	cancelar	cancelar	VERB	_	VerbForm=Inf	31	acl	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	coste	coste	NOUN	_	Gender=Masc|Number=Sing	33	obj	_	_
 36-37	del	_	_	_	_	_	_	_	_
