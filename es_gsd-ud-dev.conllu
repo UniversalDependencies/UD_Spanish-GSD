@@ -1011,7 +1011,7 @@
 12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	reflexión	reflexión	NOUN	_	Gender=Fem|Number=Sing	9	conj	_	_
 14	sobre	sobre	ADP	_	_	16	mark	_	_
-15	cómo	cómo	ADV	_	_	16	advmod	_	_
+15	cómo	cómo	ADV	_	PronType=Int	16	advmod	_	_
 16	lograr	lograr	VERB	_	VerbForm=Inf	13	advcl	_	_
 17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	comercialización	comercialización	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
@@ -3602,7 +3602,7 @@
 # sent_id = es-dev-001-s127
 # text = ¿Cómo habéis vivido toda esta expectación?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
-2	Cómo	cómo	ADV	_	_	4	advmod	_	_
+2	Cómo	cómo	ADV	_	PronType=Int	4	advmod	_	_
 3	habéis	haber	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4	vivido	vivir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
@@ -10481,7 +10481,7 @@
 15	violetas	violeto	ADJ	_	Gender=Fem|Number=Plur	13	conj	_	_
 16	dependiendo	depender	VERB	_	VerbForm=Ger	13	acl	_	_
 17	de	de	ADP	_	_	20	case	_	_
-18	cómo	cómo	ADV	_	_	20	advmod	_	_
+18	cómo	cómo	ADV	_	PronType=Int	20	advmod	_	_
 19	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	20	obl:arg	_	_
 20	incida	incer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -18699,7 +18699,7 @@
 # sent_id = es-dev-002-s140
 # text = ¿Cómo es posible que cuando te examinas y apruebas tardan en darte el carnet un mes aproximado y en la renovación tardan hasta tres meses?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
-2	Cómo	cómo	ADV	_	_	4	advmod	_	_
+2	Cómo	cómo	ADV	_	PronType=Int	4	advmod	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	posible	posible	ADJ	_	Number=Sing	0	root	_	_
 5	que	que	SCONJ	_	_	11	mark	_	_
@@ -33381,7 +33381,7 @@
 34	buen	buen	ADJ	_	Gender=Masc|Number=Sing	35	amod	_	_
 35	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	30	ccomp	_	_
 36	de	de	ADP	_	_	39	case	_	_
-37	cómo	cómo	ADV	_	_	39	advmod	_	_
+37	cómo	cómo	ADV	_	PronType=Int	39	advmod	_	_
 38	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	39	expl:pv	_	_
 39	sentía	sentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	35	advcl	_	_
 40-41	al	_	_	_	_	_	_	_	_
