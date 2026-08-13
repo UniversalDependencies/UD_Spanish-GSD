@@ -17860,7 +17860,7 @@
 1	Come	comer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	microorganismos	microorganismo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 3	y	y	CCONJ	_	_	4	cc	_	_
-4	algas	algo	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
+4	algas	alga	NOUN	_	Gender=Fem|Number=Plur	2	conj	_	_
 5	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	6	punct	_	SpaceAfter=No
 6	incluyendo	incluir	VERB	_	VerbForm=Ger	2	parataxis	_	_
 7	diatomeas	diatomea	NOUN	_	Gender=Fem|Number=Plur	6	obj	_	SpaceAfter=No
