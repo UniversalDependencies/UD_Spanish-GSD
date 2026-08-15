@@ -29521,12 +29521,12 @@
 28	que	que	SCONJ	_	_	29	mark	_	_
 29	vio	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	27	acl:relcl	_	_
 30	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
-31	cruz	cruz	NOUN	_	Gender=Fem|Number=Sing	29	dep	_	_
-32	desafío	desafío	NOUN	_	_	31	dep	_	_
-33	divisiones	división	NOUN	_	Gender=Fem|Number=Plur	29	obj	_	_
+31	cruz	cruz	NOUN	_	Gender=Fem|Number=Sing	29	obj	_	_
+32	desafío	desafío	NOUN	_	_	31	nmod	_	_
+33	divisiones	división	NOUN	_	Gender=Fem|Number=Plur	31	nmod	_	_
 34	entre	entre	ADP	_	_	36	case	_	_
 35	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
-36	finalistas	finalista	NOUN	_	Number=Plur	33	nmod	_	_
+36	finalistas	finalista	NOUN	_	Number=Plur	31	nmod	_	_
 37-38	del	_	_	_	_	_	_	_	_
 37	de	de	ADP	_	_	40	case	_	_
 38	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
