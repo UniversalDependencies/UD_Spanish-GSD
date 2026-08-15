@@ -31915,7 +31915,7 @@
 17	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
 18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	concentracion	concentración	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	16	nsubj	_	CorrectForm=concentración
-20	que	que	SCONJ	_	_	21	mark	_	_
+20	que	que	PRON	_	_	21	obj	_	_
 21	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
 22	a	a	ADP	_	_	24	case	_	_
 23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
