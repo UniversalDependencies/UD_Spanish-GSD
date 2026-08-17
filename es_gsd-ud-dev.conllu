@@ -12778,9 +12778,9 @@
 7	necesariamente	necesariamente	ADV	_	_	9	advmod	_	_
 8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
 9	propensos	propenso	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-10	que	que	CCONJ	_	_	12	case	_	_
+10	que	que	SCONJ	_	_	12	case	_	_
 11	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	12	det	_	_
-12	estadounidenses	estadounidense	NOUN	_	Number=Plur	8	nmod	_	_
+12	estadounidenses	estadounidense	NOUN	_	Number=Plur	9	obl	_	_
 13	a	a	ADP	_	_	14	mark	_	_
 14	consumir	consumir	VERB	_	VerbForm=Inf	9	advcl	_	_
 15	marihuana	marihuano	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	SpaceAfter=No
@@ -14299,8 +14299,8 @@
 5	tener	tener	VERB	_	VerbForm=Inf	0	root	_	_
 6	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
 7	inmunidad	inmunidad	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
-8	que	que	CCONJ	_	_	9	case	_	_
-9	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	nmod	_	_
+8	que	que	SCONJ	_	_	9	case	_	_
+9	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	nmod	_	_
 10	que	que	SCONJ	_	_	12	mark	_	_
 11	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	12	obl:arg	_	_
 12	concede	conceder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
@@ -16586,9 +16586,9 @@
 23	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 24	poco	poco	PRON	_	NumType=Card|PronType=Ind	25	nmod	_	_
 25	más	más	ADV	_	Degree=Cmp	23	advmod	_	_
-26	que	que	CCONJ	_	_	28	case	_	_
+26	que	que	SCONJ	_	_	28	case	_	_
 27	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-28	utilitario	utilitario	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
+28	utilitario	utilitario	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_
 29	berlina	berlina	NOUN	_	Number=Sing	28	appos	_	_
 30	con	con	ADP	_	_	31	case	_	_
 31	esteroides	esteroid	NOUN	_	Gender=Fem|Number=Plur	28	nmod	_	SpaceAfter=No
@@ -25803,11 +25803,11 @@
 22	a	a	ADP	_	_	24	case	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	nynorsk	nynorsk	NOUN	_	_	20	obl:arg	_	_
-25	que	que	CCONJ	_	_	21	dep	_	_
+25	que	que	SCONJ	_	_	28	case	_	_
 26-27	al	_	_	_	_	_	_	_	_
 26	a	a	ADP	_	_	28	case	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-28	bokmål	bokmål	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+28	bokmål	bokmål	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 29	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-dev-002-s366
@@ -29193,9 +29193,9 @@
 11	en	en	ADP	_	_	13	case	_	_
 12	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	det	_	_
 13	digital	digital	NOUN	_	Number=Sing	8	obl	_	_
-14	que	que	CCONJ	_	_	9	dep	_	_
+14	que	que	SCONJ	_	_	16	case	_	_
 15	en	en	ADP	_	_	16	case	_	_
-16	radios	radio	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	SpaceAfter=No
+16	radios	radio	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 18	tele	tele	NOUN	_	Gender=Fem|Number=Sing	16	conj	_	_
 19	o	o	CCONJ	_	_	20	cc	_	_
@@ -35357,9 +35357,9 @@
 7	semidesintegración	semidesintegración	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 8	más	más	ADV	_	Degree=Cmp	9	advmod	_	_
 9	cortos	corto	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
-10	que	que	CCONJ	_	_	12	case	_	_
+10	que	que	SCONJ	_	_	12	case	_	_
 11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	hora	hora	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
+12	hora	hora	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 14	y	y	CCONJ	_	_	16	cc	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
@@ -39548,10 +39548,10 @@
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 9	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	10	amod	_	_
 10	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
-11	que	que	CCONJ	_	_	6	dep	_	_
+11	que	que	SCONJ	_	_	14	case	_	_
 12	durante	durante	ADP	_	_	14	case	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
+14	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	5	obl	_	_
 15	anterior	anterior	ADJ	_	Number=Sing	14	amod	_	SpaceAfter=No
 16	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 

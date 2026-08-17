@@ -4839,7 +4839,7 @@
 5	de	de	ADP	_	_	6	mark	_	_
 6	compartir	compartir	VERB	_	VerbForm=Inf	3	advcl	_	_
 7	música	música	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
-8	que	que	CCONJ	_	_	10	mark	_	_
+8	que	que	SCONJ	_	_	10	mark	_	_
 9	de	de	ADP	_	_	10	mark	_	_
 10-11	piratearla	_	_	_	_	_	_	_	SpaceAfter=No
 10	piratear	piratear	VERB	_	VerbForm=Inf	4	advcl	_	_
@@ -7710,7 +7710,7 @@
 43	sin	sin	ADP	_	_	45	case	_	_
 44	más	más	ADV	_	Degree=Cmp	45	advmod	_	_
 45	premisa	premisa	NOUN	_	Gender=Fem|Number=Sing	41	conj	_	_
-46	que	que	CCONJ	_	_	47	mark	_	_
+46	que	que	SCONJ	_	_	47	mark	_	_
 47	meter	meter	VERB	_	VerbForm=Inf	44	advcl	_	_
 48	a	a	ADP	_	_	49	case	_	_
 49	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	47	obj	_	_
@@ -8941,9 +8941,9 @@
 26	hasta	hasta	ADV	_	_	27	advmod	_	_
 27	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	23	conj	_	_
 28	más	más	ADV	_	Degree=Cmp	23	advmod	_	_
-29	que	que	CCONJ	_	_	31	case	_	_
+29	que	que	SCONJ	_	_	31	case	_	_
 30	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
-31	rivales	rival	NOUN	_	Number=Plur	28	nmod	_	_
+31	rivales	rival	NOUN	_	Number=Plur	23	obl	_	_
 32	no	no	ADV	_	Polarity=Neg	33	advmod	_	_
 33	ocupa	ocupar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 34	ningún	ninguno	DET	_	Gender=Masc|Number=Sing|PronType=Neg	35	det	_	_
@@ -12464,8 +12464,8 @@
 14	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 15	más	más	ADV	_	Degree=Cmp	16	advmod	_	_
 16	bonito	bonito	ADJ	_	Gender=Masc|Number=Sing	6	conj	_	_
-17	que	que	CCONJ	_	_	18	case	_	_
-18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	nmod	_	_
+17	que	que	SCONJ	_	_	18	case	_	_
+18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	obl	_	_
 19	de	de	ADP	_	_	20	case	_	_
 20	Scotex	Scotex	PROPN	_	_	18	nmod	_	SpaceAfter=No
 21	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	6	punct	_	_
