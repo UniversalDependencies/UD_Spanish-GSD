@@ -10605,7 +10605,7 @@
 21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	millones	millón	NOUN	_	Gender=Masc|Number=Plur	24	nummod	_	_
 23	de	de	ADP	_	_	22	case	_	_
-24	microprocesadores	microprocesador	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
+24	microprocesadores	microprocesador	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
 25	que	que	SCONJ	_	_	26	mark	_	_
 26	dependen	depender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
 27	de	de	ADP	_	_	28	case	_	_
