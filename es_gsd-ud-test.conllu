@@ -5513,7 +5513,7 @@
 20	Blues	blues	NOUN	_	_	16	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 22	camiseta	camiseta	NOUN	_	Gender=Fem|Number=Sing	20	appos	_	_
-23	que	que	SCONJ	_	_	26	mark	_	_
+23	que	que	PRON	_	_	26	obj	_	_
 24	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	expl:pv	_	_
 25	pudo	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	aux	_	_
 26	enfundar	enfundar	VERB	_	VerbForm=Inf	22	acl:relcl	_	_
