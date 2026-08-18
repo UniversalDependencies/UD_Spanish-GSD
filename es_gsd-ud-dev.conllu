@@ -13430,7 +13430,7 @@
 11	teléfonos	teléfono	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 13	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	3	appos	_	_
-14	que	que	SCONJ	_	_	28	mark	_	_
+14	que	que	PRON	_	PronType=Rel	28	nsubj:pass	_	_
 15	luego	luego	ADV	_	ExtPos=ADP	19	case	_	_
 16	de	de	ADP	_	_	15	fixed	_	_
 17	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
