@@ -211,7 +211,7 @@
 27	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-dev-001-s10
-# text = Jerónimo Martín Caro y Cejudo (Valdepeñas, provincia de Ciudad Real, 6 de noviembre de 1630 -- 1712), humanista, gramático y paremiógrafo español.
+# text = Jerónimo Martín Caro y Cejudo (Valdepeñas, provincia de Ciudad Real, 6 de noviembre de 1630 – 1712), humanista, gramático y paremiógrafo español.
 1	Jerónimo	Jerónimo	PROPN	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 2	Martín	Martín	PROPN	_	_	1	flat	_	_
 3	Caro	Caro	PROPN	_	_	1	flat	_	_
@@ -230,7 +230,7 @@
 16	noviembre	noviembre	NOUN	_	_	14	nmod	_	_
 17	de	de	ADP	_	_	18	case	_	_
 18	1630	1630	NUM	_	NumForm=Digit|NumType=Card	16	nmod	_	_
-19	--	--	PUNCT	_	_	20	punct	_	_
+19	–	–	PUNCT	_	_	20	punct	_	_
 20	1712	1712	NUM	_	NumForm=Digit|NumType=Card	14	conj	_	SpaceAfter=No
 21	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	7	punct	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
@@ -960,7 +960,7 @@
 27	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-dev-001-s40
-# text = Don Francisco Javier del Granado y Granado (27 de febrero de 1913 -- 15 de mayo de 1996), fue poeta laureado e hijo predilecto de Bolivia.
+# text = Don Francisco Javier del Granado y Granado (27 de febrero de 1913 – 15 de mayo de 1996), fue poeta laureado e hijo predilecto de Bolivia.
 1	Don	Don	PROPN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
 2	Francisco	Francisco	PROPN	_	Gender=Masc|Number=Sing	1	flat	_	_
 3	Javier	Javier	PROPN	_	_	1	flat	_	_
@@ -976,7 +976,7 @@
 12	febrero	febrero	NOUN	_	_	10	nmod	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	1913	1913	NUM	_	NumForm=Digit|NumType=Card	12	nmod	_	_
-15	--	--	PUNCT	_	_	16	punct	_	_
+15	–	–	PUNCT	_	_	16	punct	_	_
 16	15	15	NUM	_	NumForm=Digit|NumType=Card	10	dep	_	_
 17	de	de	ADP	_	_	18	case	_	_
 18	mayo	mayo	NOUN	_	_	16	nmod	_	_
@@ -2741,7 +2741,7 @@
 7	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-dev-001-s101
-# text = Giacomo Manzù, es el seudónimo de Giacomo Manzoni (Bérgamo, 22 de diciembre de 1908 -- Roma, 17 de enero, 1991), fue el escultor más famoso de Italia durante el siglo XX.
+# text = Giacomo Manzù, es el seudónimo de Giacomo Manzoni (Bérgamo, 22 de diciembre de 1908 – Roma, 17 de enero, 1991), fue el escultor más famoso de Italia durante el siglo XX.
 1	Giacomo	Giacomo	PROPN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 2	Manzù	Manzù	PROPN	_	_	1	flat	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
@@ -2759,7 +2759,7 @@
 15	diciembre	diciembre	NOUN	_	_	13	nmod	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	1908	1908	NUM	_	NumForm=Digit|NumType=Card	15	nmod	_	_
-18	--	--	PUNCT	_	_	19	punct	_	_
+18	–	–	PUNCT	_	_	19	punct	_	_
 19	Roma	Roma	PROPN	_	_	11	dep	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 21	17	17	NUM	_	NumForm=Digit|NumType=Card	19	appos	_	_
@@ -6526,7 +6526,7 @@
 16	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-dev-001-s225
-# text = La Orquesta Filarmónica de Kanagawa tocó la canción en el concierto Press Start 2008 -- Symphony of Games - como parte "Cuando Nobuo Uematsu era joven" (Wen Nobuo Uematsu Was Young), mientras que el "Tema Principal" fue tocado junto a "Save the World" de Final Fantasy Legend II el 9 de julio de 2011 en el concierto Symphonic Odysseys.
+# text = La Orquesta Filarmónica de Kanagawa tocó la canción en el concierto Press Start 2008 – Symphony of Games - como parte "Cuando Nobuo Uematsu era joven" (Wen Nobuo Uematsu Was Young), mientras que el "Tema Principal" fue tocado junto a "Save the World" de Final Fantasy Legend II el 9 de julio de 2011 en el concierto Symphonic Odysseys.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	Orquesta	Orquesta	PROPN	_	Gender=Fem|Number=Sing	6	nsubj	_	_
 3	Filarmónica	Filarmónica	PROPN	_	_	2	amod	_	_
@@ -6541,7 +6541,7 @@
 12	Press	Press	PROPN	_	_	11	appos	_	_
 13	Start	Start	PROPN	_	_	12	flat	_	_
 14	2008	2008	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
-15	--	--	PUNCT	_	_	16	punct	_	_
+15	–	–	PUNCT	_	_	16	punct	_	_
 16	Symphony	Symphony	PROPN	_	_	8	appos	_	_
 17	of	of	PROPN	_	Gender=Masc|Number=Sing	16	flat	_	_
 18	Games	Games	PROPN	_	_	16	flat	_	_
@@ -10568,11 +10568,11 @@
 19	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-001-s364
-# text = Still on Top -- The Greatest Hits es el tercer álbum recopilatorio del músico norirlandés Van Morrison publicado en 2007.
+# text = Still on Top – The Greatest Hits es el tercer álbum recopilatorio del músico norirlandés Van Morrison publicado en 2007.
 1	Still	Still	PROPN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
 2	on	on	ADP	_	_	3	case	_	_
 3	Top	Top	PROPN	_	_	1	nmod	_	_
-4	--	--	PUNCT	_	_	7	punct	_	_
+4	–	–	PUNCT	_	_	7	punct	_	_
 5	The	the	DET	_	PronType=Ind	7	det	_	_
 6	Greatest	Greatest	PROPN	_	_	7	amod	_	_
 7	Hits	Hits	PROPN	_	_	1	appos	_	_
@@ -11033,8 +11033,8 @@
 34	.	.	PUNCT	_	PunctType=Peri	18	punct	_	_
 
 # sent_id = es-dev-001-s381
-# text = -- La actriz Zsa Zsa Gabor será sometida hoy a una operación de cadera tras la caída que sufrió el fin de semana y por la que fue ingresada en el Centro Médico Ronald Reagan de la Universidad de California en Los Ángeles (UCLA), informó hoy el diario Los Angeles Times.
-1	--	--	PUNCT	_	_	8	punct	_	_
+# text = – La actriz Zsa Zsa Gabor será sometida hoy a una operación de cadera tras la caída que sufrió el fin de semana y por la que fue ingresada en el Centro Médico Ronald Reagan de la Universidad de California en Los Ángeles (UCLA), informó hoy el diario Los Angeles Times.
+1	–	–	PUNCT	_	_	8	punct	_	_
 2	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	actriz	actriz	NOUN	_	Gender=Fem|Number=Sing	8	nsubj:pass	_	_
 4	Zsa	Zsa	PROPN	_	Gender=Fem|Number=Sing	3	appos	_	_
@@ -12527,7 +12527,7 @@
 11	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-001-s430
-# text = Anatoli Mijáilovich Geleskul (21 de julio de 1934 -- 25 de noviembre de 2011) fue uno de los traductores rusos de poesía española más reconocidos.
+# text = Anatoli Mijáilovich Geleskul (21 de julio de 1934 – 25 de noviembre de 2011) fue uno de los traductores rusos de poesía española más reconocidos.
 1	Anatoli	Anatoli	PROPN	_	_	18	nsubj	_	_
 2	Mijáilovich	Mijáilovich	PROPN	_	_	1	flat	_	_
 3	Geleskul	Geleskul	PROPN	_	Number=Sing	1	flat	_	_
@@ -12537,7 +12537,7 @@
 7	julio	julio	NOUN	_	_	5	nmod	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	1934	1934	NUM	_	NumForm=Digit|NumType=Card	7	nmod	_	_
-10	--	--	PUNCT	_	_	11	punct	_	_
+10	–	–	PUNCT	_	_	11	punct	_	_
 11	25	25	NUM	_	NumForm=Digit|NumType=Card	5	conj	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	noviembre	noviembre	NOUN	_	_	11	nmod	_	_
@@ -16141,12 +16141,12 @@
 40	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-002-s47
-# text = Para su tercer álbum -- Supersonic decidió crear una distribuidora propia.
+# text = Para su tercer álbum – Supersonic decidió crear una distribuidora propia.
 1	Para	para	ADP	_	_	4	case	_	_
 2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 3	tercer	tercero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
 4	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
-5	--	--	PUNCT	_	_	4	punct	_	_
+5	–	–	PUNCT	_	_	4	punct	_	_
 6	Supersonic	Supersonic	PROPN	_	_	7	nsubj	_	_
 7	decidió	decidir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	crear	crear	VERB	_	VerbForm=Inf	7	xcomp	_	_
@@ -25289,8 +25289,8 @@
 18	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 # sent_id = es-dev-002-s349
-# text = -- En 21 meses ha invertido gobierno estatal, alrededor de 3 mil 200 millones de pesos para infraestructura vial, hospitalaria y en todos aquellos grandes frontales que ha identificado la presente administración como los grandes retos que se tienen por delante, aseguró el gobernador, José Calzada Rovirosa.
-1	--	--	PUNCT	_	_	6	punct	_	_
+# text = – En 21 meses ha invertido gobierno estatal, alrededor de 3 mil 200 millones de pesos para infraestructura vial, hospitalaria y en todos aquellos grandes frontales que ha identificado la presente administración como los grandes retos que se tienen por delante, aseguró el gobernador, José Calzada Rovirosa.
+1	–	–	PUNCT	_	_	6	punct	_	_
 2	En	en	ADP	_	_	4	case	_	_
 3	21	21	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
 4	meses	mes	NOUN	_	Gender=Masc|Number=Plur	6	obl	_	_
@@ -26529,7 +26529,7 @@
 48	.	.	PUNCT	_	PunctType=Peri	18	punct	_	_
 
 # sent_id = es-dev-002-s386
-# text = Enrique Aresti y Torres (Arceniega, Álava, España, 6 de diciembre de 1852 -- Bilbao, Vizcaya, España, 17 de enero de 1946) fue un político y hombre de negocios español.
+# text = Enrique Aresti y Torres (Arceniega, Álava, España, 6 de diciembre de 1852 – Bilbao, Vizcaya, España, 17 de enero de 1946) fue un político y hombre de negocios español.
 1	Enrique	Enrique	PROPN	_	Gender=Masc|Number=Sing	32	nsubj	_	_
 2	Aresti	Aresti	PROPN	_	_	1	flat	_	_
 3	y	y	CCONJ	_	_	4	cc	_	_
@@ -26546,7 +26546,7 @@
 14	diciembre	diciembre	NOUN	_	_	12	nmod	_	_
 15	de	de	ADP	_	_	16	case	_	_
 16	1852	1852	NUM	_	NumForm=Digit|NumType=Card	14	nmod	_	_
-17	--	--	PUNCT	_	_	18	punct	_	_
+17	–	–	PUNCT	_	_	18	punct	_	_
 18	Bilbao	Bilbao	PROPN	_	_	6	dep	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 20	Vizcaya	Vizcaya	PROPN	_	_	18	appos	_	SpaceAfter=No
@@ -28844,13 +28844,13 @@
 38	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-002-s460
-# text = Alejandro de Abonuteicos (105 -- 175) fue un taumaturgo griego de Asia Menor que vivió en la época del emperador Marco Aurelio.
+# text = Alejandro de Abonuteicos (105 – 175) fue un taumaturgo griego de Asia Menor que vivió en la época del emperador Marco Aurelio.
 1	Alejandro	Alejandro	PROPN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	Abonuteicos	Abonuteicos	PROPN	_	_	1	nmod	_	_
 4	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	5	punct	_	SpaceAfter=No
 5	105	105	NUM	_	NumForm=Digit|NumType=Card	1	nmod	_	_
-6	--	--	PUNCT	_	_	7	punct	_	_
+6	–	–	PUNCT	_	_	7	punct	_	_
 7	175	175	NUM	_	NumForm=Digit|NumType=Card	5	dep	_	SpaceAfter=No
 8	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	5	punct	_	_
 9	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
@@ -30023,8 +30023,8 @@
 35	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 # sent_id = es-dev-003-s2
-# text = -- Eloy Alfaro desembarca en Guayaquil.
-1	--	--	PUNCT	_	_	4	punct	_	_
+# text = – Eloy Alfaro desembarca en Guayaquil.
+1	–	–	PUNCT	_	_	4	punct	_	_
 2	Eloy	Eloy	PROPN	_	_	4	nsubj	_	_
 3	Alfaro	Alfaro	PROPN	_	_	2	flat	_	_
 4	desembarca	desembarcar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -38787,7 +38787,7 @@
 17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-dev-003-s308
-# text = Varios miles de árabes e indios (entre 5.000 -- 12.000 zanzibaríes de ascendencia árabe e india, aunque las estimaciones varían de menos de 1.000 hasta 20.000 según las fuentes) fueron asesinados, varios miles más fueron detenidos o expulsados y sus propiedades confiscadas o destruidas.
+# text = Varios miles de árabes e indios (entre 5.000 – 12.000 zanzibaríes de ascendencia árabe e india, aunque las estimaciones varían de menos de 1.000 hasta 20.000 según las fuentes) fueron asesinados, varios miles más fueron detenidos o expulsados y sus propiedades confiscadas o destruidas.
 1	Varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	2	det	_	_
 2	miles	mil	NOUN	_	Number=Plur	34	nsubj:pass	_	_
 3	de	de	ADP	_	_	4	case	_	_
@@ -38797,7 +38797,7 @@
 7	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	12	punct	_	SpaceAfter=No
 8	entre	entre	ADP	_	_	9	case	_	_
 9	5.000	5000	NUM	_	NumForm=Digit|NumType=Card	12	nmod	_	_
-10	--	--	PUNCT	_	_	11	punct	_	_
+10	–	–	PUNCT	_	_	11	punct	_	_
 11	12.000	12000	NUM	_	NumForm=Digit|NumType=Card	9	conj	_	_
 12	zanzibaríes	zanzibarí	NOUN	_	Number=Plur	4	appos	_	_
 13	de	de	ADP	_	_	14	case	_	_
@@ -41416,7 +41416,7 @@
 25	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-dev-003-s391
-# text = La línea H del Subte de Buenos Aires, inaugurada el 18 de octubre de 2007, se extiende a lo largo de 5,5 km entre las estaciones Corrientes -- Parque Patricios.
+# text = La línea H del Subte de Buenos Aires, inaugurada el 18 de octubre de 2007, se extiende a lo largo de 5,5 km entre las estaciones Corrientes – Parque Patricios.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	línea	línea	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	_
 3	H	h	SYM	_	_	2	appos	_	_
@@ -41448,7 +41448,7 @@
 28	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	29	det	_	_
 29	estaciones	estación	NOUN	_	Gender=Fem|Number=Plur	20	obl	_	_
 30	Corrientes	Corrientes	PROPN	_	Number=Plur	29	appos	_	_
-31	--	--	PUNCT	_	_	32	punct	_	_
+31	–	–	PUNCT	_	_	32	punct	_	_
 32	Parque	Parque	PROPN	_	_	30	conj	_	_
 33	Patricios	Patricios	PROPN	_	_	32	flat	_	SpaceAfter=No
 34	.	.	PUNCT	_	PunctType=Peri	20	punct	_	_

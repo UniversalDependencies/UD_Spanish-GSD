@@ -5253,7 +5253,7 @@
 21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-test-001-s20
-# text = Finalmente, escuchemos a Ibsen que a partir de su obra infra señalada, se convierte en un abanderado feminista, y declara como un desafío de su época: "Existen dos códigos de moral, dos conciencias diferentes, una del hombre y otra de la mujer, y al mujer se le juzga según el código de los hombres.... Una mujer no puede ser auténticamente ella en la sociedad actual - hace 100 años se hizo ese pronunciamiento, y aun se mantienen los mismos preceptos condenatorios --, una sociedad exclusivamente masculina, con leyes exclusivamente masculinas, con jueces y fiscales que la juzgan desde el punto de vista masculino".
+# text = Finalmente, escuchemos a Ibsen que a partir de su obra infra señalada, se convierte en un abanderado feminista, y declara como un desafío de su época: "Existen dos códigos de moral, dos conciencias diferentes, una del hombre y otra de la mujer, y al mujer se le juzga según el código de los hombres.... Una mujer no puede ser auténticamente ella en la sociedad actual - hace 100 años se hizo ese pronunciamiento, y aun se mantienen los mismos preceptos condenatorios –, una sociedad exclusivamente masculina, con leyes exclusivamente masculinas, con jueces y fiscales que la juzgan desde el punto de vista masculino".
 1	Finalmente	finalmente	ADV	_	_	3	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	escuchemos	escucher	VERB	_	VerbForm=Ger	0	root	_	_
@@ -5349,7 +5349,7 @@
 91	mismos	mismo	ADJ	_	Gender=Masc|Number=Plur	92	amod	_	_
 92	preceptos	precepto	NOUN	_	Gender=Masc|Number=Plur	89	nsubj	_	_
 93	condenatorios	condenatorio	ADJ	_	Gender=Masc|Number=Plur	92	amod	_	_
-94	--	--	PUNCT	_	_	82	punct	_	SpaceAfter=No
+94	–	–	PUNCT	_	_	82	punct	_	SpaceAfter=No
 95	,	,	PUNCT	_	PunctType=Comm	97	punct	_	_
 96	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	97	det	_	_
 97	sociedad	sociedad	NOUN	_	Gender=Fem|Number=Sing	75	appos	_	_
@@ -6086,7 +6086,7 @@
 60	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-test-001-s46
-# text = Esos 21 millones de euros según Daily Mail irán a parar a las arcas del Atleti y un buen porcentaje al representante del arquero -- Jorge Mendes --.
+# text = Esos 21 millones de euros según Daily Mail irán a parar a las arcas del Atleti y un buen porcentaje al representante del arquero – Jorge Mendes –.
 1	Esos	ese	DET	_	Gender=Masc|Number=Plur|PronType=Dem	3	det	_	_
 2	21	21	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	millones	millón	NUM	_	Gender=Masc|Number=Plur|NumForm=Word|NumType=Card	5	nummod	_	_
@@ -6117,10 +6117,10 @@
 25	de	de	ADP	_	_	27	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	arquero	arquero	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	_
-28	--	--	PUNCT	_	_	29	punct	_	_
+28	–	–	PUNCT	_	_	29	punct	_	_
 29	Jorge	Jorge	PROPN	_	_	24	appos	_	_
 30	Mendes	Mendes	PROPN	_	_	29	flat	_	_
-31	--	--	PUNCT	_	_	29	punct	_	SpaceAfter=No
+31	–	–	PUNCT	_	_	29	punct	_	SpaceAfter=No
 32	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
 # sent_id = es-test-001-s47
@@ -9939,7 +9939,7 @@
 7	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
 # sent_id = es-test-001-s151
-# text = En la sesión de este jueves también se han podido escuchar las conversaciones que el vigilante, que se encontraba en la garita de seguridad, tuvo con los Mossos d "Esquadra, pero desde la grabación que hizo la policía -- de mejor calidad que las grabaciones de audio que ya se presentaron de una cámara de seguridad de la propiedad Tous --.
+# text = En la sesión de este jueves también se han podido escuchar las conversaciones que el vigilante, que se encontraba en la garita de seguridad, tuvo con los Mossos d "Esquadra, pero desde la grabación que hizo la policía – de mejor calidad que las grabaciones de audio que ya se presentaron de una cámara de seguridad de la propiedad Tous –.
 1	En	en	ADP	_	_	3	case	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	sesión	sesión	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
@@ -9982,7 +9982,7 @@
 40	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	acl:relcl	_	_
 41	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	_
 42	policía	policía	NOUN	_	Number=Sing	40	nsubj	_	_
-43	--	--	PUNCT	_	_	46	punct	_	_
+43	–	–	PUNCT	_	_	46	punct	_	_
 44	de	de	ADP	_	_	46	case	_	_
 45	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	46	amod	_	_
 46	calidad	calidad	NOUN	_	Gender=Fem|Number=Sing	38	nmod	_	_
@@ -10004,7 +10004,7 @@
 62	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	63	det	_	_
 63	propiedad	propiedad	NOUN	_	Gender=Fem|Number=Sing	60	nmod	_	_
 64	Tous	Tous	PROPN	_	_	63	appos	_	_
-65	--	--	PUNCT	_	_	46	punct	_	SpaceAfter=No
+65	–	–	PUNCT	_	_	46	punct	_	SpaceAfter=No
 66	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-test-001-s152
