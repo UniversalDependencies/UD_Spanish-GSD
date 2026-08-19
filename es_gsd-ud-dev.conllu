@@ -932,8 +932,8 @@
 # sent_id = es-dev-001-s39
 # text = Estoy más que tranquila cuando dejo a Bruc allí pues veo a Eli y Rosa que adoran los animales y el cariño con que lo tratan.
 1	Estoy	estar	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
-2	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
-3	que	que	CCONJ	_	_	2	case	_	_
+2	más	más	ADV	_	Degree=Cmp|ExtPos=ADV	4	advmod	_	_
+3	que	que	SCONJ	_	_	2	fixed	_	_
 4	tranquila	tranquilo	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 5	cuando	cuando	SCONJ	_	_	6	mark	_	_
 6	dejo	dejar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
@@ -14547,14 +14547,14 @@
 13	y	y	CCONJ	_	_	15	cc	_	_
 14	hasta	hasta	ADP	_	_	15	case	_	_
 15	Inglaterra	Inglaterra	PROPN	_	_	6	conj	_	SpaceAfter=No
-16	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
-17	pero	pero	CCONJ	_	_	18	cc	_	_
-18	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
-19	más	más	ADV	_	Degree=Cmp	18	advmod	_	_
-20	que	que	CCONJ	_	_	21	case	_	_
-21	dudoso	dudoso	ADV	_	_	19	advmod	_	_
+16	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+17	pero	pero	CCONJ	_	_	21	cc	_	_
+18	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
+19	más	más	ADV	_	Degree=Cmp|ExtPos=ADV	21	advmod	_	_
+20	que	que	SCONJ	_	_	19	fixed	_	_
+21	dudoso	dudoso	ADJ	_	_	1	conj	_	_
 22	que	que	SCONJ	_	_	23	mark	_	_
-23	cruzaran	cruzar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	csubj	_	_
+23	cruzaran	cruzar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	21	csubj	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	Océano	Océano	PROPN	_	Gender=Masc|Number=Sing	23	obj	_	_
 26	Atlántico	Atlántico	PROPN	_	_	25	amod	_	_
