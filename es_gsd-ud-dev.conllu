@@ -17586,13 +17586,13 @@
 30	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 31	destruyó	destruir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	conj	_	_
 32	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	31	obj	_	_
-33	que	que	SCONJ	_	_	34	mark	_	_
+33	que	que	PRON	_	PronType=Rel	34	obj	_	_
 34	pudo	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	acl:relcl	_	_
 35-36	del	_	_	_	_	_	_	_	_
 35	de	de	ADP	_	_	37	case	_	_
 36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	botín	botín	NOUN	_	Gender=Masc|Number=Sing	32	nmod	_	_
-38	que	que	SCONJ	_	_	41	mark	_	_
+38	que	que	PRON	_	PronType=Rel	41	obj	_	_
 39	no	no	ADV	_	Polarity=Neg	41	advmod	_	_
 40	pudieron	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	41	aux	_	_
 41	conquistar	conquistar	VERB	_	VerbForm=Inf	37	acl:relcl	_	SpaceAfter=No
