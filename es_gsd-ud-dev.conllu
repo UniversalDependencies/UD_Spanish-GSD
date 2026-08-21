@@ -15236,7 +15236,7 @@
 23	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 24	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
 25	especialmente	especialmente	ADV	_	_	26	advmod	_	_
-26	significativos	significativo	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+26	significativos	significativo	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
 27	ya	ya	ADV	_	ExtPos=SCONJ	31	mark	_	_
 28	que	que	SCONJ	_	_	27	fixed	_	_
 29	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	31	cop	_	_
