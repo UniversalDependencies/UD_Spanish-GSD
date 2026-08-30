@@ -18308,7 +18308,7 @@
 5	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	0	root	_	_
 6	de	de	ADP	_	_	7	case	_	_
 7	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	nmod	_	_
-8	que	que	SCONJ	_	_	9	mark	_	_
+8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
 9	ejerce	ejercer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	11	amod	_	_
 11	influencia	influencia	NOUN	_	Gender=Fem|Number=Sing	9	obj	_	_
@@ -22496,7 +22496,7 @@
 31	de	de	ADP	_	_	33	case	_	_
 32	700	700	NUM	_	NumForm=Digit|NumType=Card	33	nummod	_	_
 33	metros	metro	NOUN	_	Gender=Masc|Number=Plur	30	nmod	_	_
-34	que	que	SCONJ	_	_	35	mark	_	_
+34	que	que	PRON	_	PronType=Rel	35	nsubj	_	_
 35	comunica	comunicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	acl:relcl	_	_
 36	distintas	distinto	DET	_	Gender=Fem|Number=Plur|PronType=Ind	37	det	_	_
 37	fases	fase	NOUN	_	Gender=Fem|Number=Plur	35	obj	_	_
@@ -32421,7 +32421,7 @@
 11	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 12	primeras	primero	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	13	amod	_	_
 13	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
-14	que	que	SCONJ	_	_	16	mark	_	_
+14	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
 15	voluntariamente	voluntariamente	ADV	_	_	16	advmod	_	_
 16	envió	enviar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 17	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_
@@ -41158,7 +41158,7 @@
 16	de	de	ADP	_	_	18	case	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	nobleza	nobleza	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	_
-19	que	que	SCONJ	_	_	20	mark	_	_
+19	que	que	PRON	_	PronType=Rel	20	nsubj	_	_
 20	veían	ver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	guerra	guerra	NOUN	_	Gender=Fem|Number=Sing	20	obj	_	_
