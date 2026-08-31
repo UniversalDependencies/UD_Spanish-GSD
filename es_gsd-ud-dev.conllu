@@ -20677,7 +20677,7 @@
 25	sobre	sobre	ADP	_	_	32	case	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 27	que	que	SCONJ	_	_	32	mark	_	_
-28	nada	nada	PRON	_	Number=Sing|PronType=Neg	32	obl	_	_
+28	nada	nada	PRON	_	Number=Sing|PronType=Neg	32	nsubj	_	_
 29	o	o	CCONJ	_	_	30	cc	_	_
 30	poco	poco	PRON	_	NumType=Card|PronType=Ind	28	conj	_	_
 31	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	expl:pv	_	_
