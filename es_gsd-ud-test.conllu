@@ -5259,7 +5259,7 @@
 3	escuchemos	escucher	VERB	_	VerbForm=Ger	0	root	_	_
 4	a	a	ADP	_	_	5	case	_	_
 5	Ibsen	ibsen	NOUN	_	_	3	obj	_	_
-6	que	que	SCONJ	_	_	16	mark	_	_
+6	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
 7	a	a	ADP	_	ExtPos=ADP	11	case	_	_
 8	partir	partir	ADP	_	_	7	fixed	_	_
 9	de	de	ADP	_	_	7	fixed	_	_
