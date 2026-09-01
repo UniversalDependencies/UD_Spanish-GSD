@@ -13408,7 +13408,7 @@
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	Copa	Copa	PROPN	_	_	21	nmod	_	_
 26	América	América	PROPN	_	_	25	flat	_	_
-27	que	que	SCONJ	_	_	29	mark	_	_
+27	que	que	PRON	_	PronType=Rel	29	nsubj	_	_
 28	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	expl:pv	_	_
 29	remonta	remontar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 30	a	a	ADP	_	_	31	case	_	_
@@ -18966,7 +18966,7 @@
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	Rosario	Rosario	PROPN	_	_	23	nmod	_	SpaceAfter=No
 27	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-28	que	que	SCONJ	_	_	30	mark	_	_
+28	que	que	PRON	_	PronType=Rel	30	nsubj	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	expl:pv	_	_
 30	acercaba	acercar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	acl:relcl	_	_
 31-32	al	_	_	_	_	_	_	_	_
@@ -19242,7 +19242,7 @@
 2	con	con	ADP	_	_	4	case	_	_
 3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
-5	que	que	SCONJ	_	_	7	mark	_	_
+5	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	casa	casar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	y	y	CCONJ	_	_	9	cc	_	_
