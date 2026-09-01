@@ -19259,7 +19259,7 @@
 19	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 20	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	22	obl:arg	_	_
 21	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	22	obj	_	_
-22	pasas	pasar	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	1	parataxis	_	_
+22	pasas	pasar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 23	muy	mucho	ADV	_	_	24	advmod	_	_
 24	bien	bien	ADV	_	_	22	advmod	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
