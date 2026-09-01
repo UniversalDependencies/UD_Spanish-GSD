@@ -48358,7 +48358,7 @@
 31	y	y	CCONJ	_	_	33	cc	_	_
 32	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 33	Antártica	antártica	NOUN	_	_	28	conj	_	_
-34	que	que	SCONJ	_	_	36	mark	_	_
+34	que	que	PRON	_	PronType=Rel	36	nsubj	_	_
 35	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	expl:pv	_	_
 36	mueven	mover	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
 37	hacia	hacia	ADP	_	_	39	case	_	_
@@ -223336,7 +223336,7 @@
 8	muy	mucho	ADV	_	_	9	advmod	_	_
 9	agradables	agradable	ADJ	_	Number=Plur	5	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-11	que	que	SCONJ	_	_	13	mark	_	_
+11	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
 12	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	obj	_	_
 13	convierten	convertir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 14	en	en	ADP	_	_	16	case	_	_
@@ -251871,7 +251871,7 @@
 24	y	y	CCONJ	_	_	25	cc	_	_
 25	respeto	respeto	NOUN	_	Gender=Masc|Number=Sing	21	conj	_	SpaceAfter=No
 26	"	"	PUNCT	_	PunctType=Quot	21	punct	_	_
-27	que	que	SCONJ	_	_	28	mark	_	_
+27	que	que	PRON	_	PronType=Rel	28	nsubj	_	_
 28	priman	primar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 29	en	en	ADP	_	_	31	case	_	_
 30	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	31	det	_	_
@@ -311529,7 +311529,7 @@
 9	sábalo	sábalo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 10	y	y	CCONJ	_	_	11	cc	_	_
 11	dorado	dorado	NOUN	_	Gender=Masc|Number=Sing	9	conj	_	_
-12	que	que	SCONJ	_	_	13	mark	_	_
+12	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
 13	vienen	venir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 14	río	río	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
 15	arriba	arriba	ADV	_	_	14	advmod	_	_
@@ -328539,7 +328539,7 @@
 21	divididos	dividir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	18	acl	_	_
 22	entre	entre	ADP	_	_	23	case	_	_
 23	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	obl	_	_
-24	que	que	SCONJ	_	_	25	mark	_	_
+24	que	que	PRON	_	PronType=Rel	25	nsubj	_	_
 25	son	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
 26	y	y	CCONJ	_	_	27	cc	_	_
 27	aquello	aquel	PRON	_	Number=Sing|PronType=Dem	23	conj	_	_
@@ -410885,7 +410885,7 @@
 8	y	y	CCONJ	_	_	10	cc	_	_
 9	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	10	det	_	_
 10	puentes	puente	NOUN	_	Number=Plur	7	conj	_	_
-11	que	que	SCONJ	_	_	12	mark	_	_
+11	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
 12	conectaban	conectar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
 13	a	a	ADP	_	_	14	case	_	_
 14	Armero	Armero	PROPN	_	_	12	obl	_	_
