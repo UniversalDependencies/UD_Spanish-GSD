@@ -3264,7 +3264,7 @@
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	Feria	Feria	PROPN	_	_	13	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
-18	que	que	SCONJ	_	_	19	mark	_	_
+18	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
 19	salen	salir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	_	_	22	case	_	_
