@@ -16681,7 +16681,7 @@
 10	Alexander	Alexander	PROPN	_	_	8	nmod	_	_
 11	Hamilton	Hamilton	PROPN	_	_	10	flat	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-13	que	que	SCONJ	_	_	20	mark	_	_
+13	que	que	PRON	_	PronType=Rel	20	nsubj	_	_
 14	en	en	ADP	_	_	16	case	_	_
 15	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	Informe	informe	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
@@ -29233,7 +29233,7 @@
 26	y	y	CCONJ	_	_	27	cc	_	_
 27	Argentina	Argentina	PROPN	_	_	25	conj	_	SpaceAfter=No
 28	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-29	que	que	SCONJ	_	_	30	mark	_	_
+29	que	que	PRON	_	PronType=Rel	30	nsubj	_	_
 30	pertencian	pertenciar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 31	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	33	case	_	_
 32	con	con	ADP	_	_	31	fixed	_	_
