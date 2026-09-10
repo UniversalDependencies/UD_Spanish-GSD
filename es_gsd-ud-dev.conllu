@@ -36367,7 +36367,7 @@
 14	ocasiones	ocasión	NOUN	_	Gender=Fem|Number=Plur	16	obl	_	_
 15	Julio	Julio	PROPN	_	_	16	nsubj	_	_
 16	llame	llamar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
-17	libro	libro	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
+17	libro	libro	NOUN	_	Gender=Masc|Number=Sing	16	xcomp	_	_
 18	a	a	ADP	_	_	19	case	_	_
 19	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
 20	que	que	PRON	_	PronType=Rel	31	nsubj	_	SpaceAfter=No
