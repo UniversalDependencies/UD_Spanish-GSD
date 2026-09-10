@@ -24026,7 +24026,7 @@
 20	City	City	PROPN	_	_	19	flat	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 22	club	club	NOUN	_	Gender=Masc|Number=Sing	19	appos	_	_
-23	que	que	SCONJ	_	_	28	mark	_	_
+23	que	que	PRON	_	PronType=Rel	28	obl	_	_
 24	por	por	ADP	_	_	25	case	_	_
 25	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	28	obl:agent	_	_
 26	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux:pass	_	_
