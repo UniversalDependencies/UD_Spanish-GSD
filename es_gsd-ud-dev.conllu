@@ -2892,9 +2892,9 @@
 34	a	a	ADP	_	_	36	case	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	vez	vez	NOUN	_	Gender=Fem|Number=Sing	33	obl	_	_
-37	que	que	SCONJ	_	_	39	case	_	_
+37	que	que	PRON	_	PronType=Rel	39	obl	_	_
 38	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
-39	cabecera	cabecera	NOUN	_	Gender=Fem|Number=Sing	36	nmod	_	SpaceAfter=No
+39	cabecera	cabecera	NOUN	_	Gender=Fem|Number=Sing	36	acl:relcl	_	SpaceAfter=No
 40	,	,	PUNCT	_	PunctType=Comm	44	punct	_	_
 41	ya	ya	ADV	_	ExtPos=SCONJ	44	mark	_	_
 42	que	que	SCONJ	_	_	41	fixed	_	_
