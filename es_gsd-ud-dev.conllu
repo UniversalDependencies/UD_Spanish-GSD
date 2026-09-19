@@ -37693,7 +37693,7 @@
 
 # sent_id = es-dev-003-s271
 # text = Si bien los estados podían vender libremente, eran heredados por el hijo mayor o la hija mayor de la familia, con permiso del rey.
-1	Si	si	CCONJ	_	ExtPos=SCONJ	6	mark	_	_
+1	Si	si	SCONJ	_	ExtPos=SCONJ	6	mark	_	_
 2	bien	bien	ADV	_	_	1	fixed	_	_
 3	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	4	det	_	_
 4	estados	estado	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
