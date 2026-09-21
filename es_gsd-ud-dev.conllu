@@ -15793,14 +15793,14 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	Reino	Reino	PROPN	_	_	11	nmod	_	_
 15	Unido	Unido	PROPN	_	Gender=Masc|Number=Sing|VerbForm=Part	14	amod	_	_
-16	que	que	SCONJ	_	_	17	mark	_	_
-17	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
+16	que	que	PRON	_	PronType=Rel	17	nsubj	_	_
+17	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
 18	a	a	ADP	_	_	20	case	_	_
 19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	20	det	_	_
 20	demandas	demanda	NOUN	_	Gender=Fem|Number=Plur	17	obl:arg	_	_
 21	colectivas	colectivo	ADJ	_	Gender=Fem|Number=Plur	20	amod	_	_
 22	más	más	ADV	_	Degree=Cmp	23	advmod	_	_
-23	difíciles	difícil	ADJ	_	Number=Plur	20	amod	_	SpaceAfter=No
+23	difíciles	difícil	ADJ	_	Number=Plur	17	xcomp	_	SpaceAfter=No
 24	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-dev-002-s38
