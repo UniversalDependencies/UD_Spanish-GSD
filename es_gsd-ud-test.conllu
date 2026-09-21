@@ -2401,12 +2401,12 @@
 15	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
 16	asegurado	asegurar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 17	que	que	SCONJ	_	_	41	mark	_	_
-18	si	si	SCONJ	_	_	20	mark	_	_
-19	no	no	ADV	_	Polarity=Neg	20	advmod	_	_
-20	fuera	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	41	advcl	_	_
+18	si	si	SCONJ	_	_	23	mark	_	_
+19	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
+20	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
 21	por	por	ADP	_	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-23	Plan	plan	NOUN	_	_	20	obl	_	_
+23	Plan	plan	NOUN	_	_	41	advcl	_	_
 24	de	de	ADP	_	_	25	case	_	_
 25	Garantías	garantías	NOUN	_	_	23	nmod	_	_
 26	de	de	ADP	_	_	28	case	_	_
