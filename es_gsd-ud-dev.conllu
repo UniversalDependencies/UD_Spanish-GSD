@@ -5984,7 +5984,7 @@
 27	concesionaria	concesionario	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
 28	y	y	CCONJ	_	_	30	cc	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	expl:pv	_	_
-30	dió	dir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
+30	dió	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	conj	_	_
 31	inicio	inicio	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	_
 32	a	a	ADP	_	_	34	case	_	_
 33	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
