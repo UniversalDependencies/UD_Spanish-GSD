@@ -3614,11 +3614,11 @@
 # text = El ordenador que compré aqui me dió problemas a las dos semanas, lo llevé, me siguió dando problemas, lo volví a llevar y ahora que no estoy en Málaga me sigue dando problemas.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	ordenador	ordenador	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
-3	que	que	SCONJ	_	_	4	mark	_	_
-4	compré	comprar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+3	que	que	PRON	_	PronType=Rel	4	obj	_	_
+4	compré	comprar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	aqui	aquí	ADV	_	Typo=Yes	4	advmod	_	CorrectForm=aquí
 6	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	7	obl:arg	_	_
-7	dió	dir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+7	dió	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
 9	a	a	ADP	_	_	12	case	_	_
 10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
