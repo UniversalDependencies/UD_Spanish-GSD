@@ -190968,7 +190968,7 @@
 30	rememorando	rememorar	VERB	_	VerbForm=Ger	24	acl	_	_
 31	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	32	det	_	_
 32	negociaciones	negociación	NOUN	_	Gender=Fem|Number=Plur	30	obj	_	_
-33	que	que	SCONJ	_	_	43	mark	_	_
+33	que	que	PRON	_	PronType=Rel	45	nsubj	_	_
 34-35	al	_	_	_	_	_	_	_	_
 34	a	a	ADP	_	_	36	case	_	_
 35	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
@@ -318477,7 +318477,7 @@
 15	entendieron	entender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
 16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	17	det	_	_
 17	explicaciones	explicación	NOUN	_	Gender=Fem|Number=Plur	15	obj	_	_
-18	que	que	SCONJ	_	_	21	mark	_	_
+18	que	que	PRON	_	PronType=Rel	21	obj	_	_
 19	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl:pv	_	_
 20	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	21	obl:arg	_	_
 21	dió	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	acl:relcl	_	_
@@ -366206,7 +366206,7 @@
 2	en	en	ADP	_	_	4	case	_	_
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
-5	que	que	SCONJ	_	_	7	mark	_	_
+5	que	que	PRON	_	PronType=Rel	7	nsubj	_	_
 6	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obl:arg	_	_
 7	pagan	pagar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	muy	mucho	ADV	_	_	9	advmod	_	_
