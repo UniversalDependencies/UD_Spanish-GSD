@@ -32754,13 +32754,13 @@
 13	cantidad	cantidad	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	asignaciones	asignación	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
-16	que	que	SCONJ	_	_	22	mark	_	_
+16	que	que	PRON	_	PronType=Rel	22	nsubj	_	_
 17	hasta	hasta	ADP	_	_	19	case	_	_
 18	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
 19	momento	momento	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
 20	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl:pv	_	_
 21	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
-22	realizar	realizar	VERB	_	VerbForm=Inf	13	acl:relcl	_	_
+22	realizar	realizar	VERB	_	VerbForm=Inf	15	acl:relcl	_	_
 23	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	30	punct	_	SpaceAfter=No
 24	En	en	ADP	_	_	26	case	_	_
 25	algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	26	det	_	_
