@@ -734,9 +734,9 @@
 21	taller	taller	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
 23-24	al	_	_	_	_	_	_	_	_
-23	a	a	ADP	_	_	28	case	_	_
-24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
-25	que	que	SCONJ	_	_	28	mark	_	_
+23	a	a	ADP	_	_	25	case	_	_
+24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	que	que	PRON	_	PronType=Rel	28	obl	_	_
 26	ni	ni	CCONJ	_	ExtPos=ADV|Polarity=Neg	28	advmod	_	_
 27	siquiera	siquiera	ADV	_	_	26	fixed	_	_
 28	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
