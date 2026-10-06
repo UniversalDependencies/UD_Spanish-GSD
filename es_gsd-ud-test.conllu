@@ -3531,7 +3531,7 @@
 14	'	'	PUNCT	_	PunctType=Quot	13	punct	_	_
 15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	casa	casa	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	_
-17	que	que	SCONJ	_	_	19	mark	_	_
+17	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
 18	no	no	ADV	_	Polarity=Neg	19	advmod	_	_
 19	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	acl:relcl	_	_
 20	de	de	ADP	_	_	22	case	_	_
@@ -7628,7 +7628,7 @@
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	FC	Fc	PROPN	_	Gender=Masc|Number=Sing	22	conj	_	_
 27	Barcelona	Barcelona	PROPN	_	_	26	flat	_	_
-28	que	que	SCONJ	_	_	30	mark	_	_
+28	que	que	PRON	_	PronType=Rel	30	nsubj	_	_
 29	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	cop	_	_
 30	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	22	acl:relcl	_	_
 31	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	32	advmod	_	_
