@@ -15824,10 +15824,10 @@
 52	magnifica	magnífico	ADJ	_	Gender=Fem|Number=Sing|Typo=Yes	53	amod	_	CorrectForm=magnífica
 53	chimenea	chimeneo	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	_
 54	volcánica	volcánico	ADJ	_	Gender=Fem|Number=Sing	53	amod	_	_
-55	que	que	SCONJ	_	_	56	mark	_	_
+55	que	que	PRON	_	PronType=Rel	56	obj	_	_
 56	nombran	nombrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	53	acl:relcl	_	_
 57	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	58	det	_	_
-58	Aguja	Aguja	PROPN	_	_	56	obj	_	_
+58	Aguja	Aguja	PROPN	_	_	56	xcomp	_	_
 59	de	de	ADP	_	_	60	case	_	_
 60	Calnali	Calnali	PROPN	_	_	58	nmod	_	SpaceAfter=No
 61	.	.	PUNCT	_	PunctType=Peri	18	punct	_	_
@@ -340919,10 +340919,10 @@
 35	dibujo	dibujo	NOUN	_	Gender=Masc|Number=Sing	50	nsubj	_	_
 36	o	o	CCONJ	_	_	37	cc	_	_
 37	mándala	mándala	NOUN	_	Gender=Fem|Number=Sing	35	conj	_	_
-38	que	que	SCONJ	_	_	39	mark	_	_
+38	que	que	PRON	_	PronType=Rel	39	obj	_	_
 39	traza	trazar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	acl:relcl	_	_
 40	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	41	det	_	_
-41	película	película	NOUN	_	Gender=Fem|Number=Sing	39	obj	_	_
+41	película	película	NOUN	_	Gender=Fem|Number=Sing	39	nsubj	_	_
 42	entrando	entrar	VERB	_	VerbForm=Ger	39	amod	_	_
 43	y	y	CCONJ	_	_	44	cc	_	_
 44	saliendo	salir	VERB	_	VerbForm=Ger	42	conj	_	_
