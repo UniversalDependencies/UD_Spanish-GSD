@@ -74288,7 +74288,7 @@
 9	-	-	PUNCT	_	PunctType=Dash	10	punct	_	_
 10	oreja	oreja	NOUN	_	Gender=Fem|Number=Sing	8	compound	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-12	que	que	SCONJ	_	_	14	mark	_	_
+12	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
 13	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
 14	parece	parecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 15	que	que	SCONJ	_	_	16	mark	_	_
