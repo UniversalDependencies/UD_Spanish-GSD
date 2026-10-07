@@ -14408,7 +14408,7 @@
 14	devolviesen	devolviesar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
 15	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	14	obj	_	_
 16	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
-17	que	que	SCONJ	_	_	19	mark	_	_
+17	que	que	PRON	_	PronType=Rel	19	obj	_	_
 18	habían	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	aux	_	_
 19	tomado	tomar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
 20	de	de	ADP	_	_	22	case	_	_
@@ -17196,7 +17196,7 @@
 10	de	de	ADP	_	_	12	case	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	utilización	utilización	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
-13	que	que	SCONJ	_	_	17	mark	_	_
+13	que	que	PRON	_	PronType=Rel	17	obj	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	obl	_	_
 16	quisiera	querer	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	17	aux	_	_
