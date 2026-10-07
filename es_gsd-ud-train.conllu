@@ -86859,10 +86859,10 @@
 4	idea	idea	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	nmod	_	_
-7	que	que	SCONJ	_	_	8	mark	_	_
-8	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+7	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
-10	tapa	tapa	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	_
+10	tapa	tapa	NOUN	_	Gender=Fem|Number=Sing	6	acl:relcl	_	_
 11	y	y	CCONJ	_	_	13	cc	_	_
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	pintxo	pintxo	NOUN	_	Gender=Masc|Number=Sing	10	conj	_	_
@@ -88526,9 +88526,9 @@
 21	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
-24	que	que	SCONJ	_	_	25	mark	_	_
+24	que	que	PRON	_	PronType=Rel	25	nsubj	_	_
 25	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
-26	encontrar	encontrar	VERB	_	VerbForm=Inf	25	csubj	_	_
+26	encontrar	encontrar	VERB	_	VerbForm=Inf	25	xcomp	_	_
 27	a	a	ADP	_	_	28	case	_	_
 28	Hatsumi	Hatsumi	PROPN	_	_	26	obj	_	_
 29	y	y	CCONJ	_	_	30	cc	_	_
@@ -212545,12 +212545,12 @@
 4	mucho	mucho	PRON	_	NumType=Card|PronType=Ind	3	obl	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obl	_	_
-7	que	que	SCONJ	_	_	10	mark	_	_
+7	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
 8	en	en	ADP	_	_	9	case	_	_
-9	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	10	obl	_	_
-10	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	10	nsubj	_	SpaceAfter=No
+12	hotel	hotel	NOUN	_	Gender=Masc|Number=Sing	6	acl:relcl	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-train-014-s500
@@ -215756,10 +215756,10 @@
 35	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
 36	progres	progre	NOUN	_	Gender=Masc|Number=Plur	33	obl:agent	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	39	punct	_	_
-38	que	que	SCONJ	_	_	39	mark	_	_
+38	que	que	PRON	_	PronType=Rel	39	nsubj	_	_
 39	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	acl:relcl	_	_
 40	como	como	ADV	_	_	41	advcl	_	_
-41	llaman	llamar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	39	csubj	_	_
+41	llaman	llamar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	39	ccomp	_	_
 42	aquí	aquí	ADV	_	_	41	advmod	_	_
 43	a	a	ADP	_	_	44	case	_	_
 44	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	41	obj	_	_
@@ -410172,9 +410172,9 @@
 22	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
 23	saben	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
 24	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
-25	que	que	SCONJ	_	_	26	mark	_	_
+25	que	que	PRON	_	PronType=Rel	26	nsubj	_	_
 26	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
-27	comprar	comprar	VERB	_	VerbForm=Inf	26	csubj	_	_
+27	comprar	comprar	VERB	_	VerbForm=Inf	26	xcomp	_	_
 28	algo	algo	PRON	_	Number=Sing|PronType=Ind	27	obj	_	_
 29	nuevo	nuevo	ADJ	_	Gender=Masc|Number=Sing	28	amod	_	_
 30	como	como	SCONJ	_	_	34	case	_	_
