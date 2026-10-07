@@ -388057,12 +388057,12 @@
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	RLM	Rlm	PROPN	_	_	10	obl	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
-15	que	que	SCONJ	_	_	16	mark	_	_
+15	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
 16	demandó	demandar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 18	que	que	SCONJ	_	_	20	mark	_	_
 19	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
-20	utilizaran	utilizar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	csubj	_	_
+20	utilizaran	utilizar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	16	ccomp	_	_
 21	motores	motor	NOUN	_	Gender=Masc|Number=Plur	20	obj	_	_
 22	de	de	ADP	_	_	23	case	_	_
 23	pistón	pistón	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
