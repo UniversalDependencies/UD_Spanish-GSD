@@ -1478,7 +1478,7 @@
 13	latitud	latitud	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
 14	y	y	CCONJ	_	_	19	cc	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	límite	límite	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
+16	límite	límite	NOUN	_	Gender=Masc|Number=Sing	19	dislocated	_	_
 17	sur	sur	NOUN	_	_	16	appos	_	_
 18	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	obj	_	_
 19	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
@@ -11364,7 +11364,7 @@
 # sent_id = es-test-001-s186
 # text = El día que no tiene ensayo, el miércoles, lo dedica a recorrer Navarra y las comunidades limítrofes para encargarse de la distribución de los espectáculos de Fueradeleje.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	día	día	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
+2	día	día	NOUN	_	Gender=Masc|Number=Sing	12	dislocated	_	_
 3	que	que	SCONJ	_	_	5	mark	_	_
 4	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
 5	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
@@ -11399,7 +11399,7 @@
 # sent_id = es-test-001-s187
 # text = Su socialización primaria, es decir, las primeras normas de conducta que aprendieron, el saber como coger la cuchara o la pronunciación de su primera frase con sentido, las aprendieron ya en la "época moderna".
 1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
-2	socialización	socialización	NOUN	_	Gender=Fem|Number=Sing	33	obj	_	_
+2	socialización	socialización	NOUN	_	Gender=Fem|Number=Sing	33	dislocated	_	_
 3	primaria	primario	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 5	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cc	_	_

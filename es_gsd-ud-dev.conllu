@@ -5011,7 +5011,7 @@
 
 # sent_id = es-dev-001-s175
 # text = Una de las camareras, que nos dijo que había empezado hace poco tiempo, ya la conocíamos del restaurante griego del centro y da gusto que siempre te reciba con una gran sonrisa.
-1	Una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	18	obj	_	_
+1	Una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	18	dislocated	_	_
 2	de	de	ADP	_	_	4	case	_	_
 3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	camareras	camarera	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	SpaceAfter=No
@@ -6135,7 +6135,7 @@
 # text = Toda su carrera profesional la realizó para el Estado;
 1	Toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	3	det	_	_
 2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
-3	carrera	carrera	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
+3	carrera	carrera	NOUN	_	Gender=Fem|Number=Sing	6	dislocated	_	_
 4	profesional	profesional	ADJ	_	Number=Sing	3	amod	_	_
 5	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
 6	realizó	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -8446,7 +8446,7 @@
 11	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 12	cuyos	cuyo	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Rel	14	det	_	_
 13	mayores	mayor	ADJ	_	Degree=Cmp|Number=Plur	14	amod	_	_
-14	éxitos	éxito	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
+14	éxitos	éxito	NOUN	_	Gender=Masc|Number=Plur	17	dislocated	_	_
 15	deportivos	deportivo	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
 16	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	17	obj	_	_
 17	logró	lograr	VERB	_	Mood=Ind|VerbForm=Fin	3	acl:relcl	_	_
@@ -26425,7 +26425,7 @@
 17	mientras	mientras	SCONJ	_	ExtPos=SCONJ	23	mark	_	_
 18	que	que	SCONJ	_	_	17	fixed	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
-20	banda	banda	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
+20	banda	banda	NOUN	_	Gender=Fem|Number=Sing	23	dislocated	_	_
 21	izquierda	izquierdo	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_
 22	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
 23	ocupó	ocupar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	advcl	_	_
@@ -41106,7 +41106,7 @@
 1	"	"	PUNCT	_	PunctType=Quot	26	punct	_	SpaceAfter=No
 2	A	a	ADP	_	_	4	case	_	_
 3	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
-4	revolución	revolución	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	_
+4	revolución	revolución	NOUN	_	Gender=Fem|Number=Sing	26	dislocated	_	_
 5	ciudadana	ciudadano	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 7	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
