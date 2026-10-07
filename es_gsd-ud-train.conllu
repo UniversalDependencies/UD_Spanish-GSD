@@ -7753,7 +7753,7 @@
 39	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	cop	_	_
 40	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 41	gusto	gusto	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
-42	que	que	SCONJ	_	_	43	mark	_	_
+42	que	que	PRON	_	PronType=Rel	43	obj	_	_
 43	ponen	poner	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	41	acl:relcl	_	_
 44	en	en	ADP	_	_	46	case	_	_
 45	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	46	det	_	_
@@ -364953,7 +364953,7 @@
 21	objetivos	objetivo	NOUN	_	Gender=Masc|Number=Plur	18	nmod	_	_
 22	de	de	ADP	_	_	23	case	_	_
 23	crecimiento	crecimiento	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
-24	que	que	SCONJ	_	_	30	mark	_	_
+24	que	que	PRON	_	PronType=Rel	30	obj	_	_
 25	Enel	Enel	PROPN	_	_	30	nsubj	_	_
 26	Green	Green	PROPN	_	Number=Plur	27	amod	_	_
 27	Power	Power	PROPN	_	_	25	appos	_	_
