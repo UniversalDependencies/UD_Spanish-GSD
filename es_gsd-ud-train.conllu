@@ -300345,7 +300345,7 @@
 11	precio	precio	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 13	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	3	parataxis	_	_
-14	que	que	SCONJ	_	_	16	mark	_	_
+14	que	que	PRON	_	PronType=Rel	16	obl	_	_
 15	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
 16	di	dar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	13	acl:relcl	_	_
 17	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
