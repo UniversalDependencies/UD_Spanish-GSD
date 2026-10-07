@@ -102466,7 +102466,7 @@
 16	por	por	ADP	_	_	18	case	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	ensalada	ensalada	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
-19	que	que	SCONJ	_	_	21	mark	_	_
+19	que	que	PRON	_	PronType=Rel	21	obl	_	_
 20	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl:pv	_	_
 21	ve	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
@@ -248963,7 +248963,7 @@
 49	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	46	obl	_	_
 50	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	51	det	_	_
 51	alimentos	alimento	NOUN	_	Gender=Masc|Number=Plur	46	obj	_	_
-52	que	que	SCONJ	_	_	54	mark	_	_
+52	que	que	PRON	_	PronType=Rel	54	obj	_	_
 53	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	54	obl:arg	_	_
 54	permiten	permitir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	acl:relcl	_	_
 55	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	57	det	_	_
@@ -321218,7 +321218,7 @@
 20	estilo	estilo	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 22	algo	algo	PRON	_	Number=Sing|PronType=Ind	14	parataxis	_	_
-23	que	que	SCONJ	_	_	25	mark	_	_
+23	que	que	PRON	_	PronType=Rel	25	obj	_	_
 24	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	25	obl:arg	_	_
 25	inspiró	inspirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	acl:relcl	_	_
 26	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	27	det	_	_
@@ -399549,7 +399549,7 @@
 2	de	de	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	encasillamiento	encasillamiento	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	_
-5	que	que	SCONJ	_	_	7	mark	_	_
+5	que	que	PRON	_	PronType=Rel	7	obj	_	_
 6	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	7	obl:arg	_	_
 7	produce	producir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
