@@ -1087,25 +1087,26 @@
 10	clientes	cliente	NOUN	_	Number=Plur	7	nmod	_	_
 11	de	de	ADP	_	_	12	case	_	_
 12	Telmex	Telmex	PROPN	_	_	10	nmod	_	SpaceAfter=No
-13	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
-14	ya	ya	X	_	_	17	cc	_	_
-15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	vez	vez	NOUN	_	Gender=Fem|Number=Sing	17	dep	_	_
-17	obliga	obligar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
-18	a	a	ADP	_	_	21	case	_	_
-19	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
-20	demás	demás	ADJ	_	Number=Plur	21	amod	_	_
-21	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	_
-22	que	que	SCONJ	_	_	23	mark	_	_
-23	ofrecen	ofrecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
-24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
-26	telefónico	telefónico	ADJ	_	Gender=Masc|Number=Sing	25	amod	_	_
-27	a	a	ADP	_	_	28	mark	_	_
-28	rebajar	rebajar	VERB	_	VerbForm=Inf	17	advcl	_	_
-29	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
-30	tarifas	tarifa	NOUN	_	Gender=Fem|Number=Plur	28	obj	_	SpaceAfter=No
-31	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+13	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
+14	y	y	CCONJ	_	_	18	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
+15	a	a	ADP	_	_	18	case	_	ToDo=CheckParent
+16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
+17	vez	vez	NOUN	_	Gender=Fem|Number=Sing	18	dep	_	_
+18	obliga	obligar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
+19	a	a	ADP	_	_	22	case	_	_
+20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
+21	demás	demás	ADJ	_	Number=Plur	22	amod	_	_
+22	empresas	empresa	NOUN	_	Gender=Fem|Number=Plur	18	obj	_	_
+23	que	que	SCONJ	_	_	24	mark	_	_
+24	ofrecen	ofrecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
+25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_
+27	telefónico	telefónico	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	_
+28	a	a	ADP	_	_	29	mark	_	_
+29	rebajar	rebajar	VERB	_	VerbForm=Inf	18	advcl	_	_
+30	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
+31	tarifas	tarifa	NOUN	_	Gender=Fem|Number=Plur	29	obj	_	SpaceAfter=No
+32	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
 
 # sent_id = es-dev-001-s44
 # text = Real Academia de la Historia
@@ -21798,17 +21799,18 @@
 40	sustitución	sustitución	NOUN	_	Gender=Fem|Number=Sing	37	obl	_	_
 41	de	de	ADP	_	_	42	case	_	_
 42	importaciones	importación	NOUN	_	Gender=Fem|Number=Plur	40	nmod	_	_
-43	ya	ya	X	_	_	45	cc	_	_
-44	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	45	det	_	_
-45	solución	solución	NOUN	_	Gender=Fem|Number=Sing	40	conj	_	_
-46	de	de	ADP	_	_	48	case	_	_
-47	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	48	det	_	_
-48	necesidades	necesidad	NOUN	_	Gender=Fem|Number=Plur	45	nmod	_	_
-49-50	del	_	_	_	_	_	_	_	_
-49	de	de	ADP	_	_	51	case	_	_
-50	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	51	det	_	_
-51	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	48	nmod	_	SpaceAfter=No
-52	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+43	y	y	CCONJ	_	_	46	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
+44	a	a	ADP	_	_	46	case	_	ToDo=CheckParent
+45	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
+46	solución	solución	NOUN	_	Gender=Fem|Number=Sing	40	conj	_	_
+47	de	de	ADP	_	_	49	case	_	_
+48	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	49	det	_	_
+49	necesidades	necesidad	NOUN	_	Gender=Fem|Number=Plur	46	nmod	_	_
+50-51	del	_	_	_	_	_	_	_	_
+50	de	de	ADP	_	_	52	case	_	_
+51	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	52	det	_	_
+52	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	49	nmod	_	SpaceAfter=No
+53	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 # sent_id = es-dev-002-s240
 # text = Actualmente Lorenzo Fenández, director de la revista "Enigmas del hombre y del universo" sustituye a Canales en dicha tertulia.
@@ -27121,20 +27123,21 @@
 7	como	como	SCONJ	_	_	9	cc	_	_
 8	a	a	ADP	_	_	9	case	_	_
 9	parejas	pareja	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
-10	ya	ya	X	_	_	11	cc	_	_
-11	grupos	grupo	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
-12	de	de	ADP	_	_	13	case	_	_
-13	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
-14	que	que	SCONJ	_	_	15	mark	_	_
-15	quieran	querer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
-16	compartir	compartir	VERB	_	VerbForm=Inf	15	xcomp	_	_
-17	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	velada	velada	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
-19	con	con	ADP	_	_	21	case	_	_
-20	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	atención	atención	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
-22	maravillosa	maravilloso	ADJ	_	Gender=Fem|Number=Sing	21	amod	_	SpaceAfter=No
-23	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+10	y	y	CCONJ	_	_	12	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
+11	a	a	ADP	_	_	12	case	_	ToDo=CheckParent
+12	grupos	grupo	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
+13	de	de	ADP	_	_	14	case	_	_
+14	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
+15	que	que	SCONJ	_	_	16	mark	_	_
+16	quieran	querer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+17	compartir	compartir	VERB	_	VerbForm=Inf	16	xcomp	_	_
+18	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	velada	velada	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
+20	con	con	ADP	_	_	22	case	_	_
+21	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
+22	atención	atención	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	_
+23	maravillosa	maravilloso	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	SpaceAfter=No
+24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-002-s403
 # text = Es realizado al ponerse el sistema bajo escrutinio con fuerzas controladas.
@@ -33248,16 +33251,17 @@
 39	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	40	det	_	_
 40	gestión	gestión	NOUN	_	Gender=Fem|Number=Sing	41	obl	_	_
 41	elogió	elogiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	acl:relcl	_	_
-42	ya	ya	X	_	_	44	cc	_	_
-43	quien	quien	PRON	_	Number=Sing|PronType=Rel	45	nsubj	_	_
-44	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	41	conj	_	_
-45	ver	ver	VERB	_	VerbForm=Inf	44	xcomp	_	_
-46	"	"	PUNCT	_	PunctType=Quot	47	punct	_	SpaceAfter=No
-47	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	45	xcomp	_	_
-48	que	que	CCONJ	_	_	49	case	_	_
-49	nunca	nunca	ADV	_	_	47	advmod	_	SpaceAfter=No
-50	"	"	PUNCT	_	PunctType=Quot	47	punct	_	SpaceAfter=No
-51	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+42	y	y	CCONJ	_	_	45	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
+43	a	a	ADP	_	_	45	case	_	ToDo=CheckParent
+44	quien	quien	PRON	_	Number=Sing|PronType=Rel	46	nsubj	_	_
+45	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	41	conj	_	_
+46	ver	ver	VERB	_	VerbForm=Inf	45	xcomp	_	_
+47	"	"	PUNCT	_	PunctType=Quot	48	punct	_	SpaceAfter=No
+48	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	46	xcomp	_	_
+49	que	que	CCONJ	_	_	50	case	_	_
+50	nunca	nunca	ADV	_	_	48	advmod	_	SpaceAfter=No
+51	"	"	PUNCT	_	PunctType=Quot	48	punct	_	SpaceAfter=No
+52	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-003-s116
 # text = Las potentes antenas concentran trasnceptores supraluz de hiperhondas y los dispositivos interferentes entorpecen los sensores y los sistemas localizadores enemigos.
