@@ -3407,11 +3407,11 @@
 20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
 21	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cop	_	_
 22	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	13	nmod	_	_
-23	que	que	SCONJ	_	_	25	mark	_	_
+23	que	que	PRON	_	PronType=Rel	25	obj	_	_
 24	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	25	obl:arg	_	_
 25	ofrecen	ofrecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
 26	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
-27	sentidos	sentido	NOUN	_	Gender=Masc|Number=Plur	25	obj	_	SpaceAfter=No
+27	sentidos	sentido	NOUN	_	Gender=Masc|Number=Plur	25	nsubj	_	SpaceAfter=No
 28	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 29	sino	sino	CCONJ	_	_	30	cc	_	_
 30	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	22	conj	_	_
@@ -21551,10 +21551,10 @@
 18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	posible	posible	ADJ	_	Number=Sing	20	amod	_	_
 20	trayectoria	trayectoria	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
-21	que	que	SCONJ	_	_	22	mark	_	_
+21	que	que	PRON	_	PronType=Rel	22	obj	_	_
 22	seguiría	seguir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	20	acl:relcl	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	huracán	huracán	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	SpaceAfter=No
+24	huracán	huracán	NOUN	_	Gender=Masc|Number=Sing	22	nsubj	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
 26	con	con	ADP	_	_	28	case	_	_
 27	5	5	NUM	_	NumForm=Digit|NumType=Card	28	nummod	_	_
