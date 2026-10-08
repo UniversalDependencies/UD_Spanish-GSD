@@ -268785,7 +268785,7 @@
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	33	nsubj	_	_
 28	multidisciplinar	multidisciplinar	ADJ	_	Number=Sing	27	amod	_	_
-29	que	que	SCONJ	_	_	30	mark	_	_
+29	que	que	PRON	_	PronType=Rel	30	nsubj	_	_
 30	compone	componer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	_
 31	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
 32	Laboratorio	laboratorio	NOUN	_	_	30	obj	_	_
