@@ -4987,7 +4987,7 @@
 36	Patria	patria	NOUN	_	_	35	appos	_	_
 37	Socialista	socialista	ADJ	_	Number=Sing	36	amod	_	_
 38	y	y	CCONJ	_	_	40	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
-39	a	a	ADP	_	_	40	case	_	ToDo=CheckParent
+39	a	a	ADP	_	_	40	case	_	_
 40	Wilmer	Wilmer	PROPN	_	_	26	conj	_	_
 41	Álvarez	Álvarez	PROPN	_	_	40	flat	_	_
 42	presidente	presidente	NOUN	_	Gender=Masc|Number=Sing	40	appos	_	_
@@ -7765,7 +7765,7 @@
 23	ei	ei	PROPN	_	Gender=Masc|Number=Sing	21	flat	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 25	y	y	CCONJ	_	_	27	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
-26	a	a	ADP	_	_	27	case	_	ToDo=CheckParent
+26	a	a	ADP	_	_	27	case	_	_
 27	crear	crear	VERB	_	VerbForm=Inf	10	conj	_	_
 28	tejido	tejido	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	27	obj	_	_
 29	vecinal	vecinal	ADJ	_	Number=Sing	28	amod	_	_

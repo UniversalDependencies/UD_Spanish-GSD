@@ -1089,7 +1089,7 @@
 12	Telmex	Telmex	PROPN	_	_	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 14	y	y	CCONJ	_	_	18	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
-15	a	a	ADP	_	_	18	case	_	ToDo=CheckParent
+15	a	a	ADP	_	_	17	case	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	vez	vez	NOUN	_	Gender=Fem|Number=Sing	18	dep	_	_
 18	obliga	obligar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
@@ -21800,7 +21800,7 @@
 41	de	de	ADP	_	_	42	case	_	_
 42	importaciones	importación	NOUN	_	Gender=Fem|Number=Plur	40	nmod	_	_
 43	y	y	CCONJ	_	_	46	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
-44	a	a	ADP	_	_	46	case	_	ToDo=CheckParent
+44	a	a	ADP	_	_	46	case	_	_
 45	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
 46	solución	solución	NOUN	_	Gender=Fem|Number=Sing	40	conj	_	_
 47	de	de	ADP	_	_	49	case	_	_
@@ -27124,7 +27124,7 @@
 8	a	a	ADP	_	_	9	case	_	_
 9	parejas	pareja	NOUN	_	Gender=Fem|Number=Plur	5	conj	_	_
 10	y	y	CCONJ	_	_	12	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
-11	a	a	ADP	_	_	12	case	_	ToDo=CheckParent
+11	a	a	ADP	_	_	12	case	_	_
 12	grupos	grupo	NOUN	_	Gender=Masc|Number=Plur	9	conj	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
@@ -33252,7 +33252,7 @@
 40	gestión	gestión	NOUN	_	Gender=Fem|Number=Sing	41	obl	_	_
 41	elogió	elogiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	36	acl:relcl	_	_
 42	y	y	CCONJ	_	_	45	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
-43	a	a	ADP	_	_	45	case	_	ToDo=CheckParent
+43	a	a	ADP	_	_	44	case	_	_
 44	quien	quien	PRON	_	Number=Sing|PronType=Rel	46	nsubj	_	_
 45	dijo	decir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	41	conj	_	_
 46	ver	ver	VERB	_	VerbForm=Inf	45	xcomp	_	_
