@@ -22351,7 +22351,7 @@
 7	de	de	ADP	_	_	6	case	_	_
 8	determinar	determinar	VERB	_	VerbForm=Inf	6	xcomp	_	_
 9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obj	_	_
-10	que	que	SCONJ	_	_	16	mark	_	_
+10	que	que	PRON	_	PronType=Rel	16	obj	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	Constitución	Constitución	PROPN	_	_	16	nsubj	_	_
 13	y	y	CCONJ	_	_	12	cc	_	_
