@@ -236574,7 +236574,7 @@
 35	observó	observar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	advcl	_	_
 36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	impacto	impacto	NOUN	_	Gender=Masc|Number=Sing	35	obj	_	_
-38	que	que	SCONJ	_	_	39	mark	_	_
+38	que	que	PRON	_	PronType=Rel	39	nsubj	_	_
 39	levantó	levantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	acl:relcl	_	_
 40	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	41	det	_	_
 41	nube	nube	NOUN	_	Gender=Fem|Number=Sing	39	obj	_	_
