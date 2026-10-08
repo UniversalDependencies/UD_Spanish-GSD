@@ -36992,7 +36992,7 @@
 30	ni	ni	CCONJ	_	_	32	cc	_	_
 31	de	de	ADP	_	_	32	case	_	_
 32	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	29	conj	_	_
-33	que	que	SCONJ	_	_	35	mark	_	_
+33	que	que	PRON	_	PronType=Rel	35	nsubj	_	_
 34	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	35	aux	_	_
 35	sido	ser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	32	acl:relcl	_	_
 36	de	de	ADP	_	_	37	case	_	_
