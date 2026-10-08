@@ -75365,7 +75365,7 @@
 12	gira	gira	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	promoción	promoción	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
-15	que	que	SCONJ	_	_	16	mark	_	_
+15	que	que	PRON	_	PronType=Rel	16	obj	_	_
 16	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 17	a	a	ADP	_	_	18	mark	_	_
 18	hacer	hacer	VERB	_	VerbForm=Inf	16	xcomp	_	_
@@ -82640,7 +82640,7 @@
 19	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 20	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
-22	que	que	SCONJ	_	_	23	mark	_	_
+22	que	que	PRON	_	PronType=Rel	23	obj	_	_
 23	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 24	que	que	SCONJ	_	_	25	mark	_	_
 25	visitar	visitar	VERB	_	VerbForm=Inf	23	xcomp	_	_
@@ -118913,7 +118913,7 @@
 10	de	de	ADP	_	_	11	case	_	_
 11	corriente	corriente	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-13	que	que	SCONJ	_	_	14	mark	_	_
+13	que	que	PRON	_	PronType=Rel	14	obj	_	_
 14	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 15	a	a	ADP	_	_	14	mark	_	_
 16	poder	poder	AUX	_	VerbForm=Inf	14	aux	_	_
@@ -175580,7 +175580,7 @@
 19	de	de	ADP	_	_	21	case	_	_
 20	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
 21	calentadores	calentador	NOUN	_	Gender=Masc|Number=Plur	18	nmod	_	_
-22	que	que	SCONJ	_	_	23	mark	_	_
+22	que	que	PRON	_	PronType=Rel	23	obj	_	_
 23	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
 24	que	que	SCONJ	_	_	25	mark	_	_
 25-26	cambiarse	_	_	_	_	_	_	_	_
@@ -220538,7 +220538,7 @@
 27	posible	posible	ADJ	_	Number=Sing	26	amod	_	_
 28	a	a	ADP	_	_	29	case	_	_
 29	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obl:arg	_	_
-30	que	que	SCONJ	_	_	31	mark	_	_
+30	que	que	PRON	_	PronType=Rel	31	obj	_	_
 31	vamos	ir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	_
 32	a	a	ADP	_	_	33	mark	_	_
 33	hacer	hacer	VERB	_	VerbForm=Inf	31	xcomp	_	SpaceAfter=No
@@ -221735,7 +221735,7 @@
 35	número	número	NOUN	_	Gender=Masc|Number=Sing	12	conj	_	_
 36	de	de	ADP	_	_	37	case	_	_
 37	centralitas	centralita	NOUN	_	Gender=Fem|Number=Plur	35	nmod	_	_
-38	que	que	SCONJ	_	_	39	mark	_	_
+38	que	que	PRON	_	PronType=Rel	39	obj	_	_
 39	tengan	tener	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	37	acl:relcl	_	_
 40	que	que	SCONJ	_	_	41	mark	_	_
 41	reportar	reportar	VERB	_	VerbForm=Inf	39	xcomp	_	_
@@ -306617,7 +306617,7 @@
 16	explicar	explicar	VERB	_	VerbForm=Inf	14	advcl	_	_
 17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	16	obl:arg	_	_
 18	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
-19	que	que	SCONJ	_	_	20	mark	_	_
+19	que	que	PRON	_	PronType=Rel	20	obj	_	_
 20	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	_
 21	a	a	ADP	_	_	22	mark	_	_
 22	hacer	hacer	VERB	_	VerbForm=Inf	20	xcomp	_	_
@@ -309869,7 +309869,7 @@
 47	maneta	maneta	NOUN	_	Gender=Fem|Number=Sing	57	dislocated	_	_
 48	de	de	ADP	_	_	49	case	_	_
 49	freno	freno	NOUN	_	Gender=Masc|Number=Sing	47	nmod	_	_
-50	que	que	SCONJ	_	_	52	mark	_	_
+50	que	que	PRON	_	PronType=Rel	52	obj	_	_
 51	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	52	obl:arg	_	_
 52	acaba	acabar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	47	acl:relcl	_	_
 53	de	de	ADP	_	_	52	case	_	_
@@ -342546,7 +342546,7 @@
 1	Solo	sólo	ADV	_	_	3	advmod	_	_
 2	con	con	ADP	_	_	3	case	_	_
 3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obl	_	_
-4	que	que	SCONJ	_	_	5	mark	_	_
+4	que	que	PRON	_	PronType=Rel	5	obj	_	_
 5	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	acl:relcl	_	_
 6	que	que	SCONJ	_	_	7	mark	_	_
 7	soportar	soportar	VERB	_	VerbForm=Inf	5	xcomp	_	_
@@ -350833,7 +350833,7 @@
 19	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 20	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	_
-22	que	que	SCONJ	_	_	23	mark	_	_
+22	que	que	PRON	_	PronType=Rel	23	obj	_	_
 23	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 24	que	que	SCONJ	_	_	25	mark	_	_
 25	visitar	visitar	VERB	_	VerbForm=Inf	23	xcomp	_	_
@@ -351436,7 +351436,7 @@
 27	helena	heleno	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	SpaceAfter=No
 28	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
 29	situación	situación	NOUN	_	Gender=Fem|Number=Sing	10	parataxis	_	_
-30	que	que	SCONJ	_	_	32	mark	_	_
+30	que	que	PRON	_	PronType=Rel	32	obj	_	_
 31	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	expl:pv	_	_
 32	pretende	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	acl:relcl	_	_
 33	evitar	evitar	VERB	_	VerbForm=Inf	32	xcomp	_	_
@@ -369569,7 +369569,7 @@
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 5	reparan	reparar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 6	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
-7	que	que	SCONJ	_	_	8	mark	_	_
+7	que	que	PRON	_	PronType=Rel	8	obj	_	_
 8	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 9	que	que	SCONJ	_	_	10	mark	_	_
 10	reparar	reparar	VERB	_	VerbForm=Inf	8	xcomp	_	_
@@ -392103,7 +392103,7 @@
 27	con	con	ADP	_	_	29	case	_	_
 28	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	29	det	_	_
 29	cositas	cosita	NOUN	_	Gender=Fem|Number=Plur	23	nmod	_	_
-30	que	que	SCONJ	_	_	31	mark	_	_
+30	que	que	PRON	_	PronType=Rel	31	obj	_	_
 31	tuve	tener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	29	acl:relcl	_	_
 32	que	que	SCONJ	_	_	33	mark	_	_
 33	modificar	modificar	VERB	_	VerbForm=Inf	31	xcomp	_	_
@@ -399576,7 +399576,7 @@
 27	e	e	CCONJ	_	_	28	cc	_	_
 28	incultura	incultura	NOUN	_	Gender=Fem|Number=Sing	26	conj	_	SpaceAfter=No
 29	"	"	PUNCT	_	PunctType=Quot	24	punct	_	_
-30	que	que	SCONJ	_	_	32	mark	_	_
+30	que	que	PRON	_	PronType=Rel	32	obj	_	_
 31	siempre	siempre	ADV	_	_	32	advmod	_	_
 32	trató	tratar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	acl:relcl	_	_
 33	de	de	ADP	_	_	34	mark	_	_
@@ -428064,7 +428064,7 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	discípulo	discípulo	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	_
 18	misionero	misionero	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	_
-19	que	que	SCONJ	_	_	21	mark	_	_
+19	que	que	PRON	_	PronType=Rel	21	obj	_	_
 20	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	21	nsubj	_	_
 21	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	_
 22	que	que	SCONJ	_	_	23	mark	_	_
