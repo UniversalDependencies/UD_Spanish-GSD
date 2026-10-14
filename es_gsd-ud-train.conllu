@@ -431018,7 +431018,7 @@
 42	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	parataxis	_	_
 43	en	en	ADP	_	_	45	case	_	_
 44	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	45	det	_	_
-45	vda	vda	NOUN	_	Gender=Fem|Number=Sing	42	nmod	_	_
+45	vda	vida	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	42	nmod	_	CorrectForm=vida
 46	que	que	SCONJ	_	_	50	mark	_	_
 47	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
 48	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	50	nsubj	_	_
