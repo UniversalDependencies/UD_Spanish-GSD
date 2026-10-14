@@ -30811,7 +30811,7 @@
 18	pico	pico	NOUN	_	Gender=Masc|Number=Sing	15	conj	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	dia	día	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	13	nmod	_	CorrectForm=día
-21	que	que	SCONJ	_	_	22	mark	_	_
+21	que	que	PRON	_	PronType=Rel	22	obl	_	_
 22	llegamos	llegar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	SpaceAfter=No
 23	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
