@@ -3804,7 +3804,7 @@
 # text = "Tenemos que apelar a los Estados miembros para que ofrezcan ayuda económica.
 1	"	"	PUNCT	_	PunctType=Quot	2	punct	_	SpaceAfter=No
 2	Tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
-3	que	que	CCONJ	_	_	4	mark	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
 4	apelar	apelar	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	a	a	ADP	_	_	7	case	_	_
 6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
@@ -19135,7 +19135,7 @@
 10	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 11	ésta	este	PRON	_	Gender=Fem|Number=Sing|PronType=Dem	12	nsubj	_	_
 12	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-13	que	que	CCONJ	_	_	12	mark	_	_
+13	que	que	SCONJ	_	_	12	mark	_	_
 14	ser	ser	AUX	_	VerbForm=Inf	12	cop	_	_
 15	inmensa	inmenso	ADJ	_	Number=Sing	12	xcomp	_	SpaceAfter=No
 16	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
@@ -19867,7 +19867,7 @@
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	entrenador	entrenador	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 9	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	csubj	_	_
-10	que	que	CCONJ	_	_	11	mark	_	_
+10	que	que	SCONJ	_	_	11	mark	_	_
 11	esperar	esperar	VERB	_	VerbForm=Inf	9	xcomp	_	_
 12	según	según	ADP	_	_	14	case	_	_
 13	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
@@ -25054,7 +25054,7 @@
 5	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
 6	tan	tanto	ADV	_	_	7	advmod	_	_
 7	fuertes	fuerte	ADJ	_	Number=Plur	0	root	_	_
-8	que	que	CCONJ	_	_	20	mark	_	SpaceAfter=No
+8	que	que	SCONJ	_	_	20	mark	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 10	cuando	cuando	SCONJ	_	_	12	mark	_	_
 11	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
@@ -25122,7 +25122,7 @@
 21	que	que	PRON	_	PronType=Rel	25	obl	_	_
 22	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pv	_	_
 23	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	parataxis	_	_
-24	que	que	CCONJ	_	_	25	mark	_	_
+24	que	que	SCONJ	_	_	25	mark	_	_
 25	volver	volver	VERB	_	VerbForm=Inf	23	xcomp	_	_
 26	a	a	ADP	_	_	27	mark	_	_
 27	citar	citar	VERB	_	VerbForm=Inf	25	xcomp	_	_
@@ -28599,7 +28599,7 @@
 8	parlamentaria	parlamentario	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 9	y	y	CCONJ	_	_	4	cc	_	_
 10	tendría	tener	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	4	ccomp	_	_
-11	que	que	CCONJ	_	_	12	mark	_	_
+11	que	que	SCONJ	_	_	12	mark	_	_
 12-13	formarse	_	_	_	_	_	_	_	_
 12	formar	formar	VERB	_	VerbForm=Inf	10	xcomp	_	_
 13	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
@@ -29464,7 +29464,7 @@
 10	voluntarios	voluntario	NOUN	_	Gender=Masc|Number=Plur	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 12	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-13	que	que	CCONJ	_	_	14	mark	_	_
+13	que	que	SCONJ	_	_	14	mark	_	_
 14	recurrir	recurrir	VERB	_	VerbForm=Inf	12	xcomp	_	_
 15-16	al	_	_	_	_	_	_	_	_
 15	a	a	ADP	_	_	17	case	_	_
@@ -29551,7 +29551,7 @@
 # text = Gieco tuvo que cambiar la letra de seis canciones y eliminar otras tres.
 1	Gieco	Gieco	PROPN	_	_	2	nsubj	_	_
 2	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-3	que	que	CCONJ	_	_	4	mark	_	_
+3	que	que	SCONJ	_	_	4	mark	_	_
 4	cambiar	cambiar	VERB	_	VerbForm=Inf	2	xcomp	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	letra	letra	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
@@ -32619,7 +32619,7 @@
 1	Además	además	ADV	_	_	3	advmod	_	_
 2	no	no	ADV	_	Polarity=Neg	3	advmod	_	_
 3	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	que	que	CCONJ	_	_	5	mark	_	_
+4	que	que	SCONJ	_	_	5	mark	_	_
 5	pagar	pagar	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	matriculas	matricula	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
 7	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
