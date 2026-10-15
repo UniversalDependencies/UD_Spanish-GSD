@@ -185002,7 +185002,7 @@
 20	Gustavus	Gustavus	PROPN	_	_	22	nsubj	_	_
 21	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
 22	consideraba	considerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	_
-23	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	22	obj	_	_
+23	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	22	xcomp	_	_
 24	de	de	ADP	_	_	27	case	_	_
 25	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
 26	mejores	mejor	ADJ	_	Degree=Cmp|Number=Plur	27	amod	_	_
