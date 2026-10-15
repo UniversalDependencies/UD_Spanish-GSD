@@ -6340,10 +6340,10 @@
 9	serie	serie	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	reproduciones	reprodución	NOUN	_	Gender=Fem|Number=Plur	9	nmod	_	_
-12	que	que	SCONJ	_	_	13	mark	_	_
+12	que	que	PRON	_	PronType=Rel	13	obj	_	_
 13	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
 14	a	a	ADP	_	_	15	case	_	_
-15	instancias	instancia	NOUN	_	Gender=Fem|Number=Plur	13	obj	_	_
+15	instancias	instancia	NOUN	_	Gender=Fem|Number=Plur	13	obl	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	Theo	Theo	PROPN	_	_	15	nmod	_	_
 18	Van	Ir	PROPN	_	_	17	flat	_	_
@@ -12220,7 +12220,7 @@
 28	cliente	cliente	NOUN	_	Number=Sing	29	nsubj	_	_
 29	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	advcl	_	_
 30	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	29	obj	_	_
-31	que	que	SCONJ	_	_	32	mark	_	_
+31	que	que	PRON	_	PronType=Rel	32	obj	_	_
 32	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl:relcl	_	SpaceAfter=No
 33	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
