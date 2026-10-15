@@ -18461,7 +18461,7 @@
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 10	que	que	SCONJ	_	_	11	mark	_	_
-11	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
+11	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 13	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
 14	naturista	naturista	ADJ	_	Number=Sing	1	parataxis	_	_
