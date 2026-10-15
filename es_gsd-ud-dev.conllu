@@ -3707,7 +3707,7 @@
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 13	única	único	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
 14	características	característica	NOUN	_	Gender=Fem|Number=Plur	26	nsubj	_	_
-15	que	que	SCONJ	_	_	16	mark	_	_
+15	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
 16	distinguía	distinguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	_
 17	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
 18	edificios	edificio	NOUN	_	Gender=Masc|Number=Plur	16	obj	_	_
@@ -18460,7 +18460,7 @@
 7	Hilari	Hilari	PROPN	_	_	4	appos	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
-10	que	que	SCONJ	_	_	11	mark	_	_
+10	que	que	PRON	_	PronType=Rel	11	obj	_	_
 11	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 13	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	14	cop	_	_
@@ -38422,7 +38422,7 @@
 12	de	de	ADP	_	_	14	case	_	_
 13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
 14	tres	tres	NOUN	_	Number=Plur	11	nmod	_	_
-15	que	que	SCONJ	_	_	16	mark	_	_
+15	que	que	PRON	_	PronType=Rel	16	obj	_	_
 16	logró	lograr	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 17	en	en	ADP	_	_	18	case	_	_
 18	Colombia	Colombia	PROPN	_	_	16	obl	_	SpaceAfter=No
