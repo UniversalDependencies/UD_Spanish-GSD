@@ -94677,7 +94677,7 @@
 10	entender	entender	VERB	_	VerbForm=Inf	8	advcl	_	_
 11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
 12	que	que	SCONJ	_	_	13	mark	_	_
-13	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	acl:relcl	_	_
+13	quería	querer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	11	acl:relcl	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
 15-16	darme	_	_	_	_	_	_	_	_
 15	dar	dar	VERB	_	VerbForm=Inf	10	conj	_	_
