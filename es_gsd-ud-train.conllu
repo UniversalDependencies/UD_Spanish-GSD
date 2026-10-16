@@ -105651,7 +105651,7 @@
 27	que	que	SCONJ	_	_	28	mark	_	_
 28	tenían	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	26	acl:relcl	_	_
 29	que	que	SCONJ	_	_	31	mark	_	_
-30	haber	haber	AUX	_	VerbForm=Inf	28	aux	_	_
+30	haber	haber	AUX	_	VerbForm=Inf	31	aux	_	_
 31	hecho	hacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	xcomp	_	_
 32	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	28	nsubj	_	SpaceAfter=No
 33	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
