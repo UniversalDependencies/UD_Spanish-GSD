@@ -373400,7 +373400,7 @@
 40	homogéneas	homogéneo	ADJ	_	Gender=Fem|Number=Plur	33	acl:relcl	_	_
 41	y	y	CCONJ	_	_	45	cc	_	_
 42	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	43	punct	_	SpaceAfter=No
-43	1	1	NUM	_	NumForm=Digit|NumType=Card	45	nummod	_	SpaceAfter=No
+43	1	1	NUM	_	NumForm=Digit|NumType=Card	45	discourse	_	SpaceAfter=No
 44	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	43	punct	_	_
 45	comparten	compartir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	conj	_	_
 46	características	característica	NOUN	_	Gender=Fem|Number=Plur	45	obj	_	_
@@ -373423,7 +373423,7 @@
 63	especie	especie	NOUN	_	Gender=Fem|Number=Sing	60	nmod	_	_
 64	y	y	CCONJ	_	_	68	cc	_	_
 65	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	66	punct	_	SpaceAfter=No
-66	2	2	NUM	_	NumForm=Digit|NumType=Card	68	nummod	_	SpaceAfter=No
+66	2	2	NUM	_	NumForm=Digit|NumType=Card	68	discourse	_	SpaceAfter=No
 67	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	66	punct	_	_
 68	traspasan	traspasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	conj	_	_
 69	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	70	det	_	_
