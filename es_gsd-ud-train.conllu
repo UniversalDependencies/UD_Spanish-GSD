@@ -3866,7 +3866,7 @@
 5	admiraban	admirar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	fidelidad	fidelidad	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
-8	que	que	CCONJ	_	_	11	obj	_	_
+8	que	que	PRON	_	PronType=Rel	11	obj	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	rey	rey	NOUN	_	Gender=Masc|Number=Sing	11	nsubj	_	_
 11	profesaba	profesar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
@@ -80634,7 +80634,7 @@
 17	de	de	ADP	_	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	tráfico	tráfico	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
-20	que	que	CCONJ	_	_	24	obj	_	_
+20	que	que	PRON	_	PronType=Rel	24	obj	_	_
 21	otras	otro	DET	_	Gender=Fem|Number=Plur|PronType=Ind	22	det	_	_
 22	estaciones	estación	NOUN	_	Gender=Fem|Number=Plur	23	nsubj	_	_
 23	iban	ir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	19	acl:relcl	_	_
@@ -101759,7 +101759,7 @@
 11	popular	popular	ADJ	_	Number=Sing	13	amod	_	_
 12	"	"	PUNCT	_	PunctType=Quot	13	punct	_	SpaceAfter=No
 13	Noche	noche	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
-14	que	que	CCONJ	_	_	16	obj	_	_
+14	que	que	PRON	_	PronType=Rel	16	obj	_	_
 15	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	16	nsubj	_	_
 16	duerme	dormir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	SpaceAfter=No
 17	"	"	PUNCT	_	PunctType=Quot	13	punct	_	_
@@ -102026,7 +102026,7 @@
 23	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	24	det	_	_
 24	historia	historia	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-26	que	que	CCONJ	_	_	30	obj	_	_
+26	que	que	PRON	_	PronType=Rel	30	obj	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	Barón	barón	NOUN	_	_	30	nsubj	_	_
 29	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	aux	_	_
@@ -144660,7 +144660,7 @@
 35	Eurasia	Eurasia	PROPN	_	_	34	appos	_	SpaceAfter=No
 36	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	34	punct	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	43	punct	_	_
-38	que	que	CCONJ	_	_	43	obj	_	_
+38	que	que	PRON	_	PronType=Rel	43	obj	_	_
 39	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
 40	periódico	periódico	NOUN	_	Gender=Masc|Number=Sing	43	nsubj	_	_
 41	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	_
@@ -224842,7 +224842,7 @@
 4	marzo	marzo	NOUN	_	_	2	obl	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	2001	2001	NUM	_	NumForm=Digit|NumType=Card	4	nmod	_	_
-7	que	que	CCONJ	_	_	10	obj	_	_
+7	que	que	PRON	_	PronType=Rel	10	obj	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	belga	belga	NOUN	_	Number=Sing	10	nsubj	_	_
 10	pudo	poder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	acl:relcl	_	_
@@ -298500,7 +298500,7 @@
 23	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	objeto	objeto	NOUN	_	Gender=Masc|Number=Sing	18	conj	_	_
 25	místico	místico	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	_
-26	que	que	CCONJ	_	_	29	obj	_	_
+26	que	que	PRON	_	PronType=Rel	29	obj	_	_
 27	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 28	sombras	sombra	NOUN	_	Gender=Fem|Number=Plur	29	nsubj	_	_
 29	quieren	querer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
@@ -323959,7 +323959,7 @@
 9	fútbol	fútbol	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 10	de	de	ADP	_	_	11	case	_	_
 11	Rusia	Rusia	PROPN	_	_	7	nmod	_	_
-12	que	que	CCONJ	_	_	15	obj	_	_
+12	que	que	PRON	_	PronType=Rel	15	obj	_	_
 13	alguna	alguno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
 14	vez	vez	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
 15	jugó	jugar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
@@ -383407,7 +383407,7 @@
 58	de	de	ADP	_	_	60	case	_	_
 59	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	60	det	_	_
 60	Escuela	escuela	NOUN	_	_	54	nmod	_	_
-61	que	que	CCONJ	_	_	64	obj	_	_
+61	que	que	PRON	_	PronType=Rel	64	obj	_	_
 62	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	63	det	_	_
 63	mismo	mismo	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	64	nsubj	_	_
 64	creara	crear	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	60	acl:relcl	_	CorrectForm=creará|SpaceAfter=No
