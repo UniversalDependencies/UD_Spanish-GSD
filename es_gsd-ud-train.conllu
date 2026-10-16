@@ -105648,7 +105648,7 @@
 24	hecho	hacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	conj	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	24	obj	_	_
-27	que	que	SCONJ	_	_	28	mark	_	_
+27	que	que	PRON	_	PronType=Rel	28	obj	_	_
 28	tenían	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	26	acl:relcl	_	_
 29	que	que	SCONJ	_	_	31	mark	_	_
 30	haber	haber	AUX	_	VerbForm=Inf	31	aux	_	_
@@ -158427,7 +158427,7 @@
 10	propiedades	propiedad	NOUN	_	Gender=Fem|Number=Plur	6	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 12	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
-13	que	que	SCONJ	_	_	15	mark	_	_
+13	que	que	PRON	_	PronType=Rel	15	obj	_	_
 14	Matías	Matías	PROPN	_	_	15	nsubj	_	_
 15	venía	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
 16	ambicionando	ambicionar	VERB	_	VerbForm=Ger	15	advcl	_	_
@@ -184998,7 +184998,7 @@
 16	1916	1916	NUM	_	NumForm=Digit|NumType=Card	14	obl	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 18	obra	obra	NOUN	_	Gender=Fem|Number=Sing	8	appos	_	_
-19	que	que	SCONJ	_	_	22	mark	_	_
+19	que	que	PRON	_	PronType=Rel	22	obj	_	_
 20	Gustavus	Gustavus	PROPN	_	_	22	nsubj	_	_
 21	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
 22	consideraba	considerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	acl:relcl	_	_
@@ -284074,7 +284074,7 @@
 21	Gwynplaine	Gwynplaine	PROPN	_	_	15	nsubj	_	_
 22	a	a	ADP	_	_	23	case	_	_
 23	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	17	nmod	_	_
-24	que	que	SCONJ	_	_	26	mark	_	_
+24	que	que	PRON	_	PronType=Rel	26	nsubj	_	_
 25	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	cop	_	_
 26	amante	amante	NOUN	_	Number=Sing	23	acl:relcl	_	_
 27-28	del	_	_	_	_	_	_	_	_
@@ -373394,7 +373394,7 @@
 34	de	de	ADP	_	_	35	case	_	_
 35	plantas	planta	NOUN	_	Gender=Fem|Number=Plur	33	nmod	_	_
 36	cultivadas	cultivar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	35	acl	_	_
-37	que	que	SCONJ	_	_	40	mark	_	_
+37	que	que	PRON	_	PronType=Rel	40	nsubj	_	_
 38	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	40	cop	_	_
 39	genéticamente	genéticamente	ADV	_	_	40	advmod	_	_
 40	homogéneas	homogéneo	ADJ	_	Gender=Fem|Number=Plur	33	acl:relcl	_	_
