@@ -214002,11 +214002,11 @@
 94	segundo	segundo	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	95	amod	_	_
 95	escalón	escalón	NOUN	_	Gender=Masc|Number=Sing	91	nmod	_	_
 96	y	y	CCONJ	_	_	101	cc	_	_
-97	en	en	ADP	_	_	98	case	_	_
-98	el	el	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	86	conj	_	_
-99	que	que	SCONJ	_	_	101	mark	_	_
+97	en	en	ADP	_	_	99	case	_	_
+98	el	el	DET	_	Gender=Masc|Number=Sing|PronType=Dem	99	det	_	_
+99	que	que	PRON	_	PronType=Rel	101	obl	_	_
 100	Argentina	Argentina	PROPN	_	_	101	nsubj	_	_
-101	marcha	marchar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	98	acl:relcl	_	_
+101	marcha	marchar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	88	conj	_	_
 102	primero	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	101	advmod	_	_
 103	en	en	ADP	_	_	105	case	_	_
 104	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	105	det	_	_
