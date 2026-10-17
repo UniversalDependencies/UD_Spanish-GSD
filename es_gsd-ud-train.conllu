@@ -68627,7 +68627,7 @@
 4	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 5	modo	modo	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
 6	que	que	SCONJ	_	_	7	mark	_	_
-7	cree	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+7	cree	creer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl	_	_
 8	haber	haber	AUX	_	VerbForm=Inf	9	aux	_	_
 9	encontrado	encontrar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	xcomp	_	_
 10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
@@ -257038,7 +257038,7 @@
 55	no	no	ADV	_	Polarity=Neg	57	advmod	_	_
 56	podrá	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	57	aux	_	_
 57-58	reclamarla	_	_	_	_	_	_	_	_
-57	reclamar	reclamar	VERB	_	VerbForm=Inf	49	acl:relcl	_	_
+57	reclamar	reclamar	VERB	_	VerbForm=Inf	49	acl	_	_
 58	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	57	obj	_	_
 59	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	66	punct	_	SpaceAfter=No
 60	porque	porque	SCONJ	_	_	66	mark	_	SpaceAfter=No
@@ -306091,9 +306091,9 @@
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	ametralladora	ametralladora	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 7	de	de	ADP	_	_	8	case	_	_
-8	manera	manera	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
+8	manera	manera	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
 9	que	que	SCONJ	_	_	10	mark	_	_
-10	permitiera	permitir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
+10	permitiera	permitir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	acl	_	_
 11-12	al	_	_	_	_	_	_	_	_
 11	a	a	ADP	_	_	13	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -333334,7 +333334,7 @@
 14	de	de	ADP	_	_	15	case	_	_
 15	modo	modo	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
 16	que	que	SCONJ	_	_	17	mark	_	_
-17	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
+17	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl	_	_
 18	retenida	retenido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	19	amod	_	_
 19	agua	agua	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
 20	en	en	ADP	_	_	21	case	_	_
@@ -336479,7 +336479,7 @@
 6	forma	forma	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
 7	regular	regular	ADJ	_	Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
-9	de	de	ADP	_	_	20	case	_	_
+9	de	de	ADP	_	_	10	case	_	_
 10	modo	modo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 11	que	que	SCONJ	_	_	20	mark	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
@@ -336490,7 +336490,7 @@
 17	aproximadamente	aproximadamente	ADV	_	_	20	advmod	_	_
 18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 19	quinta	quinto	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	20	amod	_	_
-20	parte	parte	NOUN	_	Gender=Fem|Number=Sing	10	acl:relcl	_	_
+20	parte	parte	NOUN	_	Gender=Fem|Number=Sing	10	acl	_	_
 21	de	de	ADP	_	_	23	case	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	longitud	longitud	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	_
