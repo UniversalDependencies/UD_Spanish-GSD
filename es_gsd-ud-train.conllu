@@ -59392,7 +59392,7 @@
 22	ahora	ahora	ADV	_	_	35	advmod	_	_
 23	que	que	SCONJ	_	_	25	mark	_	_
 24	ya	ya	ADV	_	_	25	advmod	_	_
-25	conocemos	conocer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
+25	conocemos	conocer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	22	advcl	_	_
 26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 27	verdadera	verdadero	ADJ	_	Gender=Fem|Number=Sing	28	amod	_	_
 28	causa	causa	NOUN	_	Gender=Fem|Number=Sing	25	obj	_	_
@@ -61322,7 +61322,7 @@
 20	Rihanna	Rihanna	PROPN	_	_	19	appos	_	_
 21	ahora	ahora	ADV	_	_	16	advmod	_	_
 22	que	que	SCONJ	_	_	23	mark	_	_
-23	comienza	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
+23	comienza	comenzar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
 24	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 25	nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
 26	etapa	etapa	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
@@ -346833,7 +346833,7 @@
 4	ahora	ahora	ADV	_	_	3	advmod	_	_
 5	que	que	SCONJ	_	_	7	mark	_	_
 6	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-7	abierto	abrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
+7	abierto	abrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
 8	recientemente	recientemente	ADV	_	_	7	advmod	_	_
 9	porque	porque	SCONJ	_	_	12	mark	_	_
 10	despues	después	ADV	_	Typo=Yes	12	advmod	_	CorrectForm=después

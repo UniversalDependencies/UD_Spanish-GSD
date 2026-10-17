@@ -3642,7 +3642,7 @@
 27	ahora	ahora	ADV	_	_	34	advmod	_	_
 28	que	que	SCONJ	_	_	30	mark	_	_
 29	no	no	ADV	_	Polarity=Neg	30	advmod	_	_
-30	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	_
+30	estoy	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	27	advcl	_	_
 31	en	en	ADP	_	_	32	case	_	_
 32	Málaga	Málaga	PROPN	_	_	30	obl	_	_
 33	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	34	obl:arg	_	_

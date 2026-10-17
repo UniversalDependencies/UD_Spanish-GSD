@@ -13008,9 +13008,9 @@
 4	satisfecha	satisfecho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	1	xcomp	_	_
 5	y	y	CCONJ	_	_	13	cc	_	_
 6	ahora	ahora	ADV	_	_	13	advmod	_	_
-7	que	que	PRON	_	PronType=Rel	9	obl	_	_
+7	que	que	SCONJ	_	_	9	mark	_	_
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
-9	acercan	acercar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+9	acercan	acercar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	Navidades	navidades	NOUN	_	_	9	nsubj	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
