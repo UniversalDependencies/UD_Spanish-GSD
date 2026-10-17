@@ -249117,7 +249117,7 @@
 10	más	más	ADV	_	Degree=Cmp	11	advmod	_	_
 11	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 12	y	y	CCONJ	_	_	14	cc	_	CorrectSpaceAfter=Yes|SpaceAfter=No
-13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing	14	det	_	_
+13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	pala	pala	NOUN	_	Number=Sing	9	conj	_	_
 15	más	más	ADV	_	Degree=Cmp	16	advmod	_	_
 16	económica	económico	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
