@@ -88927,11 +88927,11 @@
 25	México	México	PROPN	_	_	8	obl	_	_
 26	con	con	ADP	_	_	27	case	_	_
 27	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	8	obl	_	_
-28	que	que	SCONJ	_	_	30	mark	_	_
+28	que	que	PRON	_	PronType=Rel	30	obl	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	expl:pv	_	_
 30	crea	creer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	_
 31	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
-32	sección	sección	NOUN	_	Gender=Fem|Number=Sing	30	xcomp	_	_
+32	sección	sección	NOUN	_	Gender=Fem|Number=Sing	30	nsubj	_	_
 33	de	de	ADP	_	_	34	case	_	_
 34	podcasts	podcast	PROPN	_	Gender=Masc|Number=Sing	32	nmod	_	SpaceAfter=No
 35	;	;	PUNCT	_	PunctType=Semi	8	punct	_	_
@@ -216987,7 +216987,7 @@
 17	máximo	máximo	ADJ	_	Degree=Sup|Gender=Masc|Number=Sing	16	amod	_	_
 18	de	de	ADP	_	_	19	case	_	_
 19	veces	vez	NOUN	_	Gender=Fem|Number=Plur	16	nmod	_	_
-20	que	que	SCONJ	_	_	23	mark	_	_
+20	que	que	PRON	_	PronType=Rel	23	obl	_	_
 21	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl:pv	_	_
 22	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux	_	_
 23	doblar	doblar	VERB	_	VerbForm=Inf	16	acl:relcl	_	_
@@ -275617,7 +275617,7 @@
 1	De	de	ADP	_	_	3	case	_	_
 2	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	3	nummod	_	_
 3	viernes	viernes	NOUN	_	_	16	obl	_	_
-4	que	que	SCONJ	_	_	10	mark	_	_
+4	que	que	PRON	_	PronType=Rel	10	obl	_	_
 5	estuvimos	estar	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	10	aux	_	_
 6	mis	mi	DET	_	Number=Plur|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
 7	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
@@ -314801,7 +314801,7 @@
 23	motivo	motivo	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
 24	por	por	ADP	_	_	28	case	_	_
 25	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	28	det	_	_
-26	que	que	SCONJ	_	_	28	mark	_	_
+26	que	que	PRON	_	PronType=Rel	28	obl	_	_
 27	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl:pv	_	_
 28	prohibió	prohibir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	acl:relcl	_	_
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
@@ -321494,7 +321494,7 @@
 32	en	en	ADP	_	_	34	case	_	_
 33	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
 34	condiciones	condición	NOUN	_	Gender=Fem|Number=Plur	29	obl	_	_
-35	que	que	SCONJ	_	_	37	mark	_	_
+35	que	que	PRON	_	PronType=Rel	37	obl	_	_
 36	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	37	obj	_	_
 37	necesita	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	acl:relcl	_	_
 38	para	para	SCONJ	_	_	39	mark	_	_
@@ -360085,7 +360085,7 @@
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 21	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	_
 22	ángulo	ángulo	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
-23	que	que	SCONJ	_	_	25	mark	_	_
+23	que	que	PRON	_	PronType=Rel	25	obl	_	_
 24	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pv	_	_
 25	vería	ver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	acl:relcl	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
@@ -417961,7 +417961,7 @@
 26	a	a	ADP	_	_	28	case	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	día	día	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	_
-29	que	que	SCONJ	_	_	31	mark	_	_
+29	que	que	PRON	_	PronType=Rel	31	nsubj	_	_
 30	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl:pv	_	_
 31	reutilizan	reutilizar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	acl:relcl	_	_
 32	en	en	ADP	_	_	35	case	_	_
