@@ -312393,10 +312393,10 @@
 8	contra	contra	ADP	_	_	10	case	_	_
 9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	titán	titán	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
-11	puesto	poner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	acl	_	_
-12	que	que	SCONJ	_	_	14	mark	_	_
+11	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	14	mark	_	_
+12	que	que	SCONJ	_	_	11	fixed	_	_
 13	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
-14	convertir	convertir	VERB	_	VerbForm=Inf	5	acl:relcl	_	_
+14	convertir	convertir	VERB	_	VerbForm=Inf	5	advcl	_	_
 15	rápidamente	rápidamente	ADV	_	_	14	advmod	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
