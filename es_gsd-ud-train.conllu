@@ -294559,7 +294559,7 @@
 12	Pélleas	Pélleas	PROPN	_	_	11	appos	_	_
 13	que	que	SCONJ	_	_	15	mark	_	_
 14	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-15	desposado	desposar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	acl:relcl	_	_
+15	desposado	desposar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	ccomp	_	_
 16	a	a	ADP	_	_	17	case	_	_
 17	Mélisande	Mélisande	PROPN	_	_	15	obl	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
