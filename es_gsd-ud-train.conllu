@@ -90136,7 +90136,7 @@
 32	tamaño	tamaño	NOUN	_	Gender=Masc|Number=Sing	35	nsubj	_	_
 33	total	total	ADJ	_	Number=Sing	32	amod	_	_
 34	no	no	ADV	_	Polarity=Neg	35	advmod	_	_
-35	exceda	exceder	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
+35	exceda	exceder	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 36	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	38	det	_	_
 37	292	292	NUM	_	NumForm=Digit|NumType=Card	38	nummod	_	_
 38	bytes	byte	NOUN	_	Gender=Masc|Number=Plur	35	obj	_	_
@@ -293656,13 +293656,13 @@
 18	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	xcomp	_	_
 19	que	que	SCONJ	_	_	20	mark	_	_
 20	ver	ver	VERB	_	VerbForm=Inf	6	conj	_	_
-21	tan	tanto	ADV	_	_	20	advmod	_	_
+21	tan	tanto	ADV	_	_	22	advmod	_	_
 22	indigno	indigno	ADJ	_	Gender=Masc|Number=Sing	18	xcomp	_	_
 23	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	24	det	_	_
 24	enterramiento	enterramiento	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
 25	que	que	SCONJ	_	_	27	mark	_	_
 26	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	27	obj	_	_
-27	desechó	desechar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	acl:relcl	_	SpaceAfter=No
+27	desechó	desechar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	advcl	_	SpaceAfter=No
 28	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 29	y	y	CCONJ	_	_	31	cc	_	_
 30	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl:pv	_	_
@@ -318372,7 +318372,7 @@
 22	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 23	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	25	expl:pv	_	_
 24	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	aux	_	_
-25	asemejar	asemejar	VERB	_	VerbForm=Inf	6	acl:relcl	_	_
+25	asemejar	asemejar	VERB	_	VerbForm=Inf	14	acl	_	_
 26	a	a	ADP	_	_	29	case	_	_
 27	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 28	'	'	PUNCT	_	PunctType=Quot	29	punct	_	SpaceAfter=No

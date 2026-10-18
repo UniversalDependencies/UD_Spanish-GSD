@@ -6376,7 +6376,7 @@
 5	tal	tal	ADJ	_	Number=Sing	6	amod	_	_
 6	extremo	extremo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 7	que	que	SCONJ	_	_	8	mark	_	_
-8	influyó	influir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+8	influyó	influir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl	_	_
 9	decisivamente	decisivamente	ADV	_	_	8	advmod	_	_
 10	en	en	ADP	_	_	12	case	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -39829,7 +39829,7 @@
 21	a	a	ADP	_	_	22	case	_	_
 22	Helm	Helm	PROPN	_	_	17	obl:arg	_	_
 23	que	que	SCONJ	_	_	24	mark	_	_
-24	abandonó	abandonar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	acl:relcl	_	_
+24	abandonó	abandonar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	acl	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	gira	gira	NOUN	_	Gender=Fem|Number=Sing	24	obj	_	_
 27	a	a	ADP	_	_	30	case	_	_
