@@ -41600,7 +41600,7 @@
 13	cerca	cerca	ADV	_	_	12	advmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 15	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	18	mark	_	_
-16	que	que	CCONJ	_	_	15	fixed	_	_
+16	que	que	SCONJ	_	_	15	fixed	_	_
 17	antes	antes	ADV	_	_	18	advmod	_	_
 18	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
 19	en	en	ADP	_	_	20	case	_	_
