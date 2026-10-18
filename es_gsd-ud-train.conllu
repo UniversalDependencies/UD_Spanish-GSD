@@ -31974,7 +31974,7 @@
 4	Cécile	Cécile	PROPN	_	_	6	nsubj	_	_
 5	debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	_
 6	morir	morir	VERB	_	VerbForm=Inf	2	ccomp	_	_
-7	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	10	mark	_	_
+7	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	mark	_	_
 8	que	que	SCONJ	_	_	7	fixed	_	_
 9	"	"	PUNCT	_	PunctType=Quot	10	punct	_	SpaceAfter=No
 10	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	SpaceAfter=No
@@ -60929,7 +60929,7 @@
 16	insostenibles	insostenible	ADJ	_	Number=Plur	0	root	_	_
 17	para	para	ADP	_	_	18	case	_	_
 18	Perelman	Perelman	PROPN	_	_	16	nmod	_	_
-19	puesto	puesto	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	27	mark	_	_
+19	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27	mark	_	_
 20	que	que	SCONJ	_	_	19	fixed	_	_
 21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	absolutos	absoluto	NOUN	_	Gender=Masc|Number=Plur	27	nsubj	_	_
@@ -63924,7 +63924,7 @@
 5	hace	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
 6	años	año	NOUN	_	Gender=Masc|Number=Plur	5	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-8	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	12	mark	_	_
+8	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	mark	_	_
 9	que	que	SCONJ	_	_	8	fixed	_	_
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	familiar	familiar	NOUN	_	Number=Sing	12	nsubj	_	_
@@ -65417,7 +65417,7 @@
 56	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	57	det	_	_
 57	propuesta	propuesta	NOUN	_	Gender=Fem|Number=Sing	54	nmod	_	SpaceAfter=No
 58	,	,	PUNCT	_	PunctType=Comm	68	punct	_	_
-59	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	68	mark	_	_
+59	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	68	mark	_	_
 60	que	que	SCONJ	_	_	59	fixed	_	_
 61	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	62	det	_	_
 62	comparecencias	comparecencia	NOUN	_	Gender=Fem|Number=Plur	68	nsubj	_	_
@@ -83551,7 +83551,7 @@
 6	en	en	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	Congreso	Congreso	PROPN	_	_	5	nmod	_	_
-9	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	16	mark	_	_
+9	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	mark	_	_
 10	que	que	SCONJ	_	_	9	fixed	_	_
 11	quienes	quien	PRON	_	Number=Plur|PronType=Rel	13	nsubj	_	_
 12	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
@@ -111345,7 +111345,7 @@
 
 # sent_id = es-train-008-s163
 # text = Puesto que toda ecuación diferencial lineal de orden arbitrario puede reducirse a un sistema de ecuaciones diferenciales de primer orden, se sigue del teorema de Peano - Picard la existencia y unicidad de la solución.
-1	Puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	11	mark	_	_
+1	Puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	mark	_	_
 2	que	que	SCONJ	_	_	1	fixed	_	_
 3	toda	todo	DET	_	Gender=Fem|Number=Sing|PronType=Tot	4	det	_	_
 4	ecuación	ecuación	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
@@ -114250,7 +114250,7 @@
 3	llevas	llevar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	sobresaltos	sobresalto	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-6	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	13	mark	_	_
+6	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	mark	_	_
 7	que	que	SCONJ	_	_	6	fixed	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	relación	relación	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
@@ -139084,7 +139084,7 @@
 16	y	y	CCONJ	_	_	17	cc	_	_
 17	Leia	Leia	PROPN	_	_	15	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-19	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	22	mark	_	_
+19	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	mark	_	_
 20	que	que	SCONJ	_	_	19	fixed	_	_
 21	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
 22	tenia	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	5	advcl	_	CorrectForm=tenía
@@ -173704,7 +173704,7 @@
 12	Trans	trans	X	_	_	14	dep	_	_
 13	-	-	PUNCT	_	PunctType=Dash	12	punct	_	_
 14	Iraní	iraní	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
-15	puesto	poner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
+15	puesto	poner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 16	en	en	ADP	_	_	17	case	_	_
 17	manos	mano	NOUN	_	Gender=Fem|Number=Plur	15	obl	_	_
 18	aliadas	aliado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	17	amod	_	SpaceAfter=No
@@ -178384,7 +178384,7 @@
 7	cada	cada	DET	_	Number=Sing|PronType=Tot	8	det	_	_
 8	vez	vez	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 9	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	6	amod	_	_
-10	puesto	poner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	6	acl	_	_
+10	puesto	poner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl	_	_
 11	en	en	ADP	_	_	12	case	_	_
 12	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	_
 13	por	por	ADP	_	_	15	case	_	_
@@ -225018,7 +225018,7 @@
 16-17	solucionarlo	_	_	_	_	_	_	_	_
 16	solucionar	solucionar	VERB	_	VerbForm=Inf	11	advcl	_	_
 17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
-18	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	24	mark	_	_
+18	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	24	mark	_	_
 19	que	que	SCONJ	_	_	18	fixed	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	agua	agua	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
@@ -235139,7 +235139,7 @@
 40	no	no	ADV	_	Polarity=Neg	34	conj	_	SpaceAfter=No
 41	,	,	PUNCT	_	PunctType=Comm	42	punct	_	_
 42	extremo	extremo	NOUN	_	Gender=Masc|Number=Sing	34	appos	_	_
-43	puesto	poner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	42	acl	_	_
+43	puesto	poner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	42	acl	_	_
 44	en	en	ADP	_	_	45	case	_	_
 45	duda	duda	NOUN	_	Gender=Fem|Number=Sing	43	obl	_	_
 46	a	a	ADP	_	_	47	mark	_	_
@@ -235766,7 +235766,7 @@
 27	de	de	ADP	_	_	28	case	_	_
 28	Adscripción	adscripción	NOUN	_	_	26	nmod	_	_
 29	Territorial	territorial	ADJ	_	_	28	amod	_	_
-30	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	33	mark	_	_
+30	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	33	mark	_	_
 31	que	que	SCONJ	_	_	30	fixed	_	_
 32	no	no	ADV	_	Polarity=Neg	33	advmod	_	_
 33	concreta	concretar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
@@ -248584,7 +248584,7 @@
 15	Canónigo	Canónigo	PROPN	_	_	11	appos	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 17	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	parataxis	_	_
-18	puesto	poner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	17	xcomp	_	_
+18	puesto	poner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	xcomp	_	_
 19	aquí	aquí	ADV	_	_	18	advmod	_	_
 20-21	al	_	_	_	_	_	_	_	_
 20	a	a	ADP	_	_	22	case	_	_
@@ -276903,7 +276903,7 @@
 42	en	en	ADP	_	_	43	case	_	_
 43	África	África	PROPN	_	_	38	obl	_	SpaceAfter=No
 44	,	,	PUNCT	_	PunctType=Comm	48	punct	_	_
-45	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	48	mark	_	_
+45	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	48	mark	_	_
 46	que	que	SCONJ	_	_	45	fixed	_	_
 47	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	48	expl:pv	_	_
 48	asocia	asociar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	advcl	_	_
@@ -307894,7 +307894,7 @@
 8	descubre	descubrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	que	que	SCONJ	_	_	10	mark	_	_
 10	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
-11	puesto	poner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	10	advcl	_	_
+11	puesto	poner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	nanotraje	nanotraje	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
@@ -309713,7 +309713,7 @@
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	principio	principio	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
-7	puesto	puesto	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	15	mark	_	_
+7	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	mark	_	_
 8	que	que	SCONJ	_	_	7	fixed	_	_
 9	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	Oreja	Oreja	PROPN	_	_	15	nsubj	_	_
@@ -312393,7 +312393,7 @@
 8	contra	contra	ADP	_	_	10	case	_	_
 9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	titán	titán	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
-11	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	14	mark	_	_
+11	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	mark	_	_
 12	que	que	SCONJ	_	_	11	fixed	_	_
 13	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
 14	convertir	convertir	VERB	_	VerbForm=Inf	5	advcl	_	_
@@ -326592,7 +326592,7 @@
 6	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
 7	contaminante	contaminante	ADJ	_	Number=Sing	5	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-9	puesto	puesto	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	12	mark	_	_
+9	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	mark	_	_
 10	que	que	SCONJ	_	_	9	fixed	_	_
 11	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
 12	obtiene	obtener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
@@ -341847,7 +341847,7 @@
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	última	último	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
-6	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	37	mark	_	_
+6	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	37	mark	_	_
 7	que	que	SCONJ	_	_	6	fixed	_	_
 8	en	en	ADP	_	_	9	case	_	_
 9	1938	1938	NUM	_	NumForm=Digit|NumType=Card	37	nmod	_	_
@@ -380814,7 +380814,7 @@
 15	con	con	ADP	_	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	abrigo	abrigo	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
-18	puesto	poner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	17	acl	_	SpaceAfter=No
+18	puesto	poner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	17	acl	_	SpaceAfter=No
 19	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-train-025-s459

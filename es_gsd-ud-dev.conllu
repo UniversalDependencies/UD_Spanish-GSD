@@ -3091,7 +3091,7 @@
 
 # sent_id = es-dev-001-s112
 # text = Puesto que Etiopía fue el único país africano que escapó del colonialismo europeo, y Haile Selassie fue el único líder negro aceptado entre los reyes y reinas europeos, los primeros rastas le guardaban un gran respeto por su represión y nivel de justicia que guardaban desde la esclavitud.
-1	Puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	7	mark	_	_
+1	Puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	mark	_	_
 2	que	que	SCONJ	_	_	1	fixed	_	_
 3	Etiopía	Etiopía	PROPN	_	_	7	nsubj	_	_
 4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	cop	_	_
@@ -4906,7 +4906,7 @@
 14	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	acl:relcl	_	_
 15	herederos	heredero	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-17	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	20	mark	_	_
+17	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	mark	_	_
 18	que	que	SCONJ	_	_	17	fixed	_	_
 19	António	António	PROPN	_	_	20	nsubj	_	_
 20	murió	morir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	advcl	_	_
@@ -17139,7 +17139,7 @@
 21	a	a	ADP	_	_	22	case	_	_
 22	Nixon	Nixon	PROPN	_	_	20	obl:arg	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-24	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	26	mark	_	_
+24	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	26	mark	_	_
 25	que	que	SCONJ	_	_	24	fixed	_	_
 26	debilitaría	debilitar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	20	advcl	_	_
 27	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	28	det	_	_
@@ -39330,7 +39330,7 @@
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	s.XX	s.xx	X	_	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-21	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	30	mark	_	_
+21	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	30	mark	_	_
 22	que	que	SCONJ	_	_	21	fixed	_	_
 23	sólo	sólo	ADV	_	_	26	advmod	_	_
 24	en	en	ADP	_	_	26	case	_	_
@@ -41599,7 +41599,7 @@
 12	aquí	aquí	ADV	_	_	7	advmod	_	_
 13	cerca	cerca	ADV	_	_	12	advmod	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
-15	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|VerbForm=Part	18	mark	_	_
+15	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	18	mark	_	_
 16	que	que	SCONJ	_	_	15	fixed	_	_
 17	antes	antes	ADV	_	_	18	advmod	_	_
 18	vivía	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_

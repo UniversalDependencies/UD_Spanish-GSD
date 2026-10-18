@@ -2431,7 +2431,7 @@
 44	Estado	estado	NOUN	_	_	41	obl	_	_
 45	de	de	ADP	_	_	46	case	_	_
 46	Bienestar	bienestar	NOUN	_	_	44	conj	_	_
-47	puesto	poner	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	44	acl	_	_
+47	puesto	poner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	44	acl	_	_
 48	en	en	ADP	_	_	49	case	_	_
 49	peligro	peligro	NOUN	_	Gender=Masc|Number=Sing	47	obl	_	SpaceAfter=No
 50	"	"	PUNCT	_	PunctType=Quot	47	punct	_	_
