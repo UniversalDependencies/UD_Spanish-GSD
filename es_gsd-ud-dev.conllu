@@ -16361,7 +16361,7 @@
 22	Spinelli	Spinelli	PROPN	_	_	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
 24	pero	pero	CCONJ	_	_	28	cc	_	_
-25	que	que	SCONJ	_	_	28	mark	_	_
+25	que	que	PRON	_	PronType=Rel	28	nsubj	_	_
 26	en	en	ADP	_	_	27	case	_	_
 27	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	28	obl	_	_
 28	trabaja	trabajar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	conj	_	_
@@ -20161,7 +20161,7 @@
 29	Acambarense	acambarense	ADJ	_	_	28	appos	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	34	punct	_	_
 31	y	y	CCONJ	_	_	34	cc	_	_
-32	que	que	SCONJ	_	_	34	mark	_	_
+32	que	que	PRON	_	PronType=Rel	34	nsubj	_	_
 33	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	34	expl:pv	_	_
 34	encuentra	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	conj	_	_
 35	en	en	ADP	_	_	36	case	_	_
@@ -22803,7 +22803,7 @@
 12	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
 13	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 14	y	y	CCONJ	_	_	19	cc	_	_
-15	que	que	SCONJ	_	_	19	mark	_	_
+15	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
 16	podría	poder	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	19	aux	_	_
 17	ser	ser	AUX	_	VerbForm=Inf	19	cop	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -23860,7 +23860,7 @@
 54	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	55	det	_	_
 55	club	club	NOUN	_	Gender=Masc|Number=Sing	52	obl	_	_
 56	y	y	CCONJ	_	_	58	cc	_	_
-57	que	que	SCONJ	_	_	58	mark	_	_
+57	que	que	PRON	_	PronType=Rel	58	nsubj	_	_
 58	señalaron	señalar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	52	conj	_	_
 59	que	que	SCONJ	_	_	63	mark	_	_
 60	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	_
@@ -24407,7 +24407,7 @@
 23	como	como	SCONJ	_	_	24	case	_	_
 24	delantero	delantero	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
 25	y	y	CCONJ	_	_	28	cc	_	_
-26	que	que	SCONJ	_	_	28	mark	_	_
+26	que	que	PRON	_	PronType=Rel	28	nsubj	_	_
 27	actualmente	actualmente	ADV	_	_	28	advmod	_	_
 28	milita	militar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
@@ -27388,7 +27388,7 @@
 32	décadas	década	NOUN	_	Gender=Fem|Number=Plur	30	obl	_	_
 33	antes	antes	ADV	_	_	32	advmod	_	_
 34	y	y	CCONJ	_	_	36	cc	_	_
-35	que	que	SCONJ	_	_	36	mark	_	_
+35	que	que	PRON	_	PronType=Rel	36	nsubj	_	_
 36	llegó	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	conj	_	_
 37	a	a	ADP	_	_	39	case	_	_
 38	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	39	det	_	_
