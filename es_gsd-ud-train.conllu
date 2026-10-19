@@ -292649,7 +292649,7 @@
 16	Hannover	Hannover	PROPN	_	_	14	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 18	que	que	PRON	_	PronType=Rel	19	nsubj	_	_
-19	hablaba	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	acl:relcl	_	_
+19	hablaba	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	acl:relcl	_	_
 20	poco	poco	DET	_	NumType=Card|PronType=Ind	21	det	_	_
 21	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
 22	y	y	CCONJ	_	_	26	cc	_	_
