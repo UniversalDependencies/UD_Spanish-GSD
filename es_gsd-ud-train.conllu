@@ -254959,7 +254959,7 @@
 9	que	que	SCONJ	_	_	12	mark	_	_
 10	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
 11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	zona	zona	NOUN	_	Gender=Fem|Number=Sing	7	acl:relcl	_	SpaceAfter=No
+12	zona	zona	NOUN	_	Gender=Fem|Number=Sing	6	ccomp	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 14	ideal	ideal	ADJ	_	Number=Sing	12	amod	_	_
 15	para	para	ADP	_	_	17	case	_	_
