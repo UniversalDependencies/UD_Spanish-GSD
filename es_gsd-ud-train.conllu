@@ -615,7 +615,7 @@
 30	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
 31	hijos	hijo	NOUN	_	Gender=Masc|Number=Plur	28	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
-33	que	que	SCONJ	_	_	35	mark	_	_
+33	que	que	PRON	_	PronType=Rel	35	nsubj	_	_
 34	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	35	expl:pv	_	_
 35	deja	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
 36	allí	allí	ADV	_	_	35	advmod	_	_
@@ -137838,7 +137838,7 @@
 22	que	que	PRON	_	PronType=Rel	23	nsubj	_	_
 23	da	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 24	mucho	mucho	PRON	_	NumType=Card|PronType=Ind	23	obj	_	_
-25	que	que	SCONJ	_	_	26	mark	_	_
+25	que	que	PRON	_	PronType=Rel	26	obj	_	_
 26	hablar	hablar	VERB	_	VerbForm=Inf	24	acl:relcl	_	SpaceAfter=No
 27	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
 28	para	para	ADP	_	_	29	case	_	_
@@ -158869,7 +158869,7 @@
 42	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	43	det	_	_
 43	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	39	conj	_	SpaceAfter=No
 44	,	,	PUNCT	_	PunctType=Comm	48	punct	_	_
-45	que	que	SCONJ	_	_	48	mark	_	_
+45	que	que	PRON	_	PronType=Rel	48	nsubj	_	_
 46	no	no	ADV	_	Polarity=Neg	48	advmod	_	_
 47	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	48	obj	_	_
 48	deje	dejar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	acl:relcl	_	_

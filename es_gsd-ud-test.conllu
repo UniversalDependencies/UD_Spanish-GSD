@@ -12588,7 +12588,7 @@
 21	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	22	det	_	_
 22	sitio	sitio	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
-24	que	que	SCONJ	_	_	28	mark	_	_
+24	que	que	PRON	_	PronType=Rel	28	obj	_	_
 25	en	en	ADP	_	_	26	case	_	_
 26	Pelegrina	Pelegrina	PROPN	_	_	28	obl	_	_
 27	no	no	ADV	_	Polarity=Neg	28	advmod	_	_
