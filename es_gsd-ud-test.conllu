@@ -5000,7 +5000,7 @@
 49	recibieron	recibir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	47	acl:relcl	_	SpaceAfter=No
 50	,	,	PUNCT	_	PunctType=Comm	53	punct	_	_
 51	y	y	CCONJ	_	_	53	cc	_	_
-52	que	que	SCONJ	_	_	53	mark	_	_
+52	que	que	PRON	_	PronType=Rel	53	nsubj	_	_
 53	significan	significar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	49	conj	_	_
 54	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	55	det	_	_
 55	aliciente	aliciente	NOUN	_	Gender=Masc|Number=Sing	53	obj	_	_
