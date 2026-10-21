@@ -227468,11 +227468,11 @@
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	7	det	_	_
 6	159	159	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	_
 7	helenos	heleno	NOUN	_	Gender=Masc|Number=Plur	3	obl	_	_
-8	que	que	SCONJ	_	_	9	mark	_	_
-9	asegura	asegurar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
+8	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
+9	asegura	asegurar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	Heródoto	Heródoto	PROPN	_	_	9	nsubj	_	_
-11	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
-12	murieron	morir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
+11	que	que	SCONJ	_	_	12	mark	_	_
+12	murieron	morir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	ccomp	_	_
 13	en	en	ADP	_	_	14	case	_	_
 14	Platea	Platea	PROPN	_	_	12	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
