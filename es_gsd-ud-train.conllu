@@ -289685,6 +289685,7 @@
 
 # sent_id = es-train-020-s7
 # text = En el Parlamento de Navarra, los votos nulos fueron 18.285, que la formación reivindicó como propios, correspondiéndola según esta interpretación 2 diputados electos.
+# note = annotate la@21 `correspondiéndola` as laísmo for `correspondiéndole`
 1	En	en	ADP	_	_	3	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Parlamento	Parlamento	PROPN	_	_	11	nmod	_	_
@@ -289697,21 +289698,21 @@
 10	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	cop	_	_
 11	18.285	18.285	NUM	_	NumForm=Digit|NumType=Card	0	root	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
-13	que	que	SCONJ	_	_	16	mark	_	_
+13	que	que	PRON	_	PronType=Rel	16	obj	_	_
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	formación	formación	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
-16	reivindicó	reivindicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	parataxis	_	_
+16	reivindicó	reivindicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 17	como	como	SCONJ	_	_	18	case	_	_
 18	propios	propio	ADJ	_	Gender=Masc|Number=Plur	16	amod	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 20-21	correspondiéndola	_	_	_	_	_	_	_	_
-20	correspondiendo	corresponder	VERB	_	VerbForm=Ger	15	conj	_	_
-21	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
+20	correspondiendo	corresponder	VERB	_	VerbForm=Ger	16	advcl	_	_
+21	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obl:arg	_	_
 22	según	según	ADP	_	_	24	case	_	_
 23	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	24	det	_	_
 24	interpretación	interpretación	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
 25	2	2	NUM	_	NumForm=Digit|NumType=Card	26	nummod	_	_
-26	diputados	diputado	NOUN	_	Gender=Masc|Number=Plur	24	appos	_	_
+26	diputados	diputado	NOUN	_	Gender=Masc|Number=Plur	20	nsubj	_	_
 27	electos	electo	ADJ	_	Gender=Masc|Number=Plur	26	amod	_	SpaceAfter=No
 28	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
