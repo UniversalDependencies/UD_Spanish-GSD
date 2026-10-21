@@ -60979,7 +60979,7 @@
 26	Comunista	Comunista	PROPN	_	_	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 28	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	31	det	_	_
-29	que	que	SCONJ	_	_	31	mark	_	_
+29	que	que	PRON	_	PronType=Rel	31	nsubj	_	_
 30	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux	_	_
 31	generado	generar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	conj	_	_
 32	que	que	SCONJ	_	_	40	mark	_	_
