@@ -22774,7 +22774,7 @@
 24	y	y	CCONJ	_	_	27	cc	_	_
 25	que	que	SCONJ	_	_	27	mark	_	_
 26	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	27	expl:pv	_	_
-27	presume	presumir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	20	conj	_	_
+27	presume	presumir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	20	conj	_	_
 28	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	30	cop	_	_
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	tifus	tifus	NOUN	_	Gender=Masc	27	ccomp	_	SpaceAfter=No
