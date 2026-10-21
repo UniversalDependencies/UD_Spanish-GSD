@@ -105304,7 +105304,7 @@
 25	de	de	ADP	_	_	27	case	_	_
 26	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
 27	bienes	bien	NOUN	_	Gender=Masc|Number=Plur	23	nmod	_	_
-28	que	que	SCONJ	_	_	32	mark	_	_
+28	que	que	PRON	_	PronType=Rel	31	obj	_	_
 29	dicha	dicho	DET	_	Gender=Fem|Number=Sing|PronType=Ind	30	det	_	_
 30	empresa	empresa	NOUN	_	Gender=Fem|Number=Sing	31	nsubj	_	_
 31	tenía	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	27	acl:relcl	_	_
@@ -226833,7 +226833,7 @@
 12	jugador	jugador	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	ataque	ataque	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
-15	que	que	SCONJ	_	_	19	mark	_	_
+15	que	que	PRON	_	PronType=Rel	17	nsubj	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	17	expl:pv	_	_
 17	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 18	muy	mucho	ADV	_	_	19	advmod	_	_
