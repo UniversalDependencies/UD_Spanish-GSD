@@ -35543,7 +35543,7 @@
 8	hipotético	hipotético	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	_
 9	viaje	viaje	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-11	que	que	SCONJ	_	_	15	mark	_	_
+11	que	que	PRON	_	PronType=Rel	15	nsubj	_	_
 12	esperan	esperar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	_
 13	nunca	nunca	ADV	_	Polarity=Neg	15	advmod	_	_
 14	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
