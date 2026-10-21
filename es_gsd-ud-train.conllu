@@ -33328,7 +33328,7 @@
 # text = La inversión que se supone que hacían en material y aulas era inexistente, los encerados eran tercermundistas y el material del aula ni les digo.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	inversión	inversión	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
-3	que	que	SCONJ	_	_	7	mark	_	_
+3	que	que	PRON	_	PronType=Rel	7	obj	_	_
 4	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	supone	suponer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 6	que	que	SCONJ	_	_	7	mark	_	_
@@ -44550,7 +44550,7 @@
 29	y	y	CCONJ	_	_	30	cc	_	_
 30	calidez	calidez	NOUN	_	Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
-32	que	que	SCONJ	_	_	35	mark	_	_
+32	que	que	PRON	_	PronType=Rel	35	obj	_	_
 33	resulta	resultar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	acl:relcl	_	_
 34	dificil	difícil	ADJ	_	Number=Sing|Typo=Yes	33	xcomp	_	CorrectForm=difícil
 35	encontrar	encontrar	VERB	_	VerbForm=Inf	33	csubj	_	_
@@ -58450,7 +58450,7 @@
 44	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
 45	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	46	det	_	_
 46	deuda	deuda	NOUN	_	Gender=Fem|Number=Sing	15	appos	_	_
-47	que	que	SCONJ	_	_	56	mark	_	_
+47	que	que	PRON	_	PronType=Rel	56	obj	_	_
 48	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	49	det	_	_
 49	vecinos	vecino	NOUN	_	Gender=Masc|Number=Plur	51	nsubj	_	_
 50	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	aux	_	_
@@ -166790,7 +166790,7 @@
 23	defender	defender	VERB	_	VerbForm=Inf	16	conj	_	_
 24	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	Constitución	constitución	NOUN	_	_	23	obj	_	_
-26	que	que	SCONJ	_	_	30	mark	_	_
+26	que	que	PRON	_	PronType=Rel	30	obj	_	_
 27	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	28	expl:pv	_	_
 28	cansaron	cansar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	25	acl:relcl	_	_
 29	de	de	ADP	_	_	30	mark	_	_
@@ -304188,7 +304188,7 @@
 11	millones	millón	NOUN	_	Gender=Masc|Number=Plur	13	nummod	_	_
 12	de	de	ADP	_	_	11	case	_	_
 13	euros	euro	NOUN	_	_	7	obj	_	_
-14	que	que	SCONJ	_	_	17	mark	_	_
+14	que	que	PRON	_	PronType=Rel	17	obj	_	_
 15	decían	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
 16	que	que	SCONJ	_	_	17	mark	_	_
 17	costaría	costar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	15	ccomp	_	_
@@ -312449,7 +312449,7 @@
 13	a	a	ADP	_	_	15	case	_	_
 14	aquellos	aquel	DET	_	Gender=Masc|Number=Plur|PronType=Dem	15	det	_	_
 15	delitos	delito	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
-16	que	que	SCONJ	_	_	25	mark	_	_
+16	que	que	PRON	_	PronType=Rel	25	obj	_	_
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 18	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	_
 19	Gobierno	gobierno	NOUN	_	_	20	nsubj	_	_
@@ -352602,7 +352602,7 @@
 21	con	con	ADP	_	_	23	case	_	_
 22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	cocina	cocina	NOUN	_	Gender=Fem|Number=Sing	19	conj	_	_
-24	que	que	SCONJ	_	_	28	mark	_	_
+24	que	que	PRON	_	PronType=Rel	28	obj	_	_
 25	merece	merecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
 26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
 27	pena	pena	NOUN	_	Gender=Fem|Number=Sing	25	obj	_	_

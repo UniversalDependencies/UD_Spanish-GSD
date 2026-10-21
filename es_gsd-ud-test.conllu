@@ -6862,7 +6862,7 @@
 13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	himno	himno	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	_
-16	que	que	SCONJ	_	_	19	mark	_	_
+16	que	que	PRON	_	PronType=Rel	19	obj	_	_
 17	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	cop	_	_
 18	inevitable	inevitable	ADJ	_	Number=Sing	15	acl:relcl	_	_
 19	corear	corear	VERB	_	VerbForm=Inf	18	csubj	_	_

@@ -41794,7 +41794,7 @@
 14	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 15	construyera	construir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	conj	_	_
 16	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	nsubj	_	_
-17	que	que	SCONJ	_	_	22	mark	_	_
+17	que	que	PRON	_	PronType=Rel	22	obj	_	_
 18	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 19	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	olvidado	olvidar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	acl:relcl	_	_
