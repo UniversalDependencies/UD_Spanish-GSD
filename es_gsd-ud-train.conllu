@@ -1311,7 +1311,7 @@
 52	,	,	PUNCT	_	PunctType=Comm	50	punct	_	_
 53	quien	quien	PRON	_	Number=Sing|PronType=Rel	55	nsubj	_	_
 54	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	55	obl:arg	_	_
-55	enseñó	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	43	parataxis	_	_
+55	enseñó	enseñar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	50	acl:relcl	_	_
 56	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	57	det	_	_
 57	métodos	método	NOUN	_	Gender=Masc|Number=Plur	55	obj	_	_
 58	para	para	ADP	_	_	59	mark	_	_
@@ -27163,7 +27163,7 @@
 19	esbelta	esbelto	ADJ	_	Gender=Fem|Number=Sing	17	conj	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 21	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	22	aux:pass	_	_
-22	inmortalizada	inmortalizar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	1	parataxis	_	_
+22	inmortalizada	inmortalizar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	acl:relcl	_	_
 23	con	con	ADP	_	_	25	case	_	_
 24	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	guitarra	guitarra	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	SpaceAfter=No
@@ -36975,7 +36975,7 @@
 6	virtud	virtud	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
 7	mágica	mágico	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 8	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
-9	revelado	revelar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	_
+9	revelado	revelar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
 10	Hagen	Hagen	PROPN	_	_	9	obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
 12	servirá	servir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -98202,7 +98202,7 @@
 15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 16	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	17	det	_	_
 17	filosofía	filosofía	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
-18	buscaba	buscar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	parataxis	_	_
+18	buscaba	buscar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	_
 19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	compromiso	compromiso	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
 21	creativo	creativo	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	_
@@ -166394,7 +166394,7 @@
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	acceso	acceso	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
 17	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	cop	_	_
-18	difícil	difícil	ADJ	_	Number=Sing	5	parataxis	_	_
+18	difícil	difícil	ADJ	_	Number=Sing	12	acl:relcl	_	_
 19	y	y	CCONJ	_	_	21	cc	_	_
 20	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	21	expl:pv	_	_
 21	necesitaba	necesitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	18	conj	_	_
@@ -171323,7 +171323,7 @@
 37	demás	demás	PRON	_	Number=Plur|PronType=Ind	25	conj	_	_
 38	que	que	PRON	_	PronType=Rel	40	obj	_	_
 39	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	40	obl:arg	_	_
-40	dixéredes	decir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	37	parataxis	_	_
+40	dixéredes	decir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	37	acl:relcl	_	_
 41	e	e	CCONJ	_	_	42	cc	_	_
 42	mandáredes	mandar	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	40	conj	_	_
 43	que	que	SCONJ	_	_	46	mark	_	_
@@ -176023,7 +176023,7 @@
 37	Sicilia	Sicilia	PROPN	_	_	34	nmod	_	SpaceAfter=No
 38	,	,	PUNCT	_	PunctType=Comm	40	punct	_	_
 39	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	40	det	_	_
-40	título	título	NOUN	_	Gender=Masc|Number=Sing	34	parataxis	_	_
+40	título	título	NOUN	_	Gender=Masc|Number=Sing	34	acl:relcl	_	_
 41	de	de	ADP	_	_	43	case	_	_
 42	"	"	PUNCT	_	PunctType=Quot	43	punct	_	SpaceAfter=No
 43	Rey	Rey	PROPN	_	_	40	nmod	_	_
@@ -254740,7 +254740,7 @@
 38	por	por	ADP	_	_	39	case	_	_
 39	accidente	accidente	NOUN	_	Gender=Masc|Number=Sing	41	obl	_	SpaceAfter=No
 40	,	,	PUNCT	_	PunctType=Comm	39	punct	_	_
-41	toman	tomar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
+41	toman	tomar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	33	acl:relcl	_	_
 42	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	43	det	_	_
 43	estación	estación	NOUN	_	Gender=Fem|Number=Sing	41	obj	_	_
 44	de	de	ADP	_	_	45	case	_	_
@@ -270719,7 +270719,7 @@
 15	final	final	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
 16	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	_
 17	ya	ya	ADV	_	_	18	advmod	_	_
-18	decidido	decidir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	SpaceAfter=No
+18	decidido	decidir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	11	acl:relcl	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 20	marcando	marcar	VERB	_	VerbForm=Ger	18	advcl	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
@@ -331176,7 +331176,7 @@
 14	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 15	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	16	det	_	_
 16	economía	economía	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
-17	residía	residir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	parataxis	_	_
+17	residía	residir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	acl:relcl	_	_
 18	en	en	ADP	_	_	20	case	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	agricultura	agricultura	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
@@ -341399,7 +341399,7 @@
 9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	12	punct	_	SpaceAfter=No
 10	quien	quien	PRON	_	Number=Sing|PronType=Rel	12	nsubj	_	_
 11	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
-12	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	parataxis	_	_
+12	lleva	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 13	muy	mucho	ADV	_	_	14	advmod	_	_
 14	bien	bien	ADV	_	_	12	advmod	_	_
 15	con	con	ADP	_	_	16	case	_	_
@@ -404844,7 +404844,7 @@
 19	cuyos	cuyo	DET	_	Gender=Masc|Number=Plur|Poss=Yes|PronType=Rel	20	det	_	_
 20	objetivos	objetivo	NOUN	_	Gender=Masc|Number=Plur	22	nsubj	_	_
 21	principales	principal	ADJ	_	Number=Plur	20	amod	_	_
-22	son	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	SpaceAfter=No
+22	son	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No
 23	:	:	PUNCT	_	PunctType=Colo	24	punct	_	_
 24	preservar	preservar	VERB	_	VerbForm=Inf	22	parataxis	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
