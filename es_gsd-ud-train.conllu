@@ -33927,7 +33927,7 @@
 21	según	según	ADP	_	_	23	case	_	_
 22	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	23	det	_	_
 23	días	día	NOUN	_	Gender=Masc|Number=Plur	18	obl	_	_
-24	que	que	SCONJ	_	_	26	mark	_	_
+24	que	que	PRON	_	PronType=Rel	26	obl	_	_
 25	quiera	querer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	_
 26	viajar	viajar	VERB	_	VerbForm=Inf	25	xcomp	_	SpaceAfter=No
 27	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
@@ -33983,7 +33983,7 @@
 3	perfectamente	perfectamente	ADV	_	_	2	advmod	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	idea	idea	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
-6	que	que	SCONJ	_	_	8	mark	_	_
+6	que	que	PRON	_	PronType=Rel	8	obj	_	_
 7	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 8	transmitir	transmitir	VERB	_	VerbForm=Inf	7	xcomp	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -106309,7 +106309,7 @@
 2	de	de	ADP	_	_	4	case	_	_
 3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	cuestiones	cuestión	NOUN	_	Gender=Fem|Number=Plur	1	nmod	_	_
-5	que	que	SCONJ	_	_	9	mark	_	_
+5	que	que	PRON	_	PronType=Rel	9	obj	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	PP	Pp	PROPN	_	_	8	nsubj	_	_
 8	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	_
@@ -168261,7 +168261,7 @@
 18	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
 19	bien	bien	ADV	_	_	18	advmod	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	nsubj	_	_
-21	que	que	SCONJ	_	_	24	mark	_	_
+21	que	que	PRON	_	PronType=Rel	24	obj	_	_
 22	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	24	obl:arg	_	_
 23	quieres	querer	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	_
 24	tatuar	tatuar	VERB	_	VerbForm=Inf	23	xcomp	_	SpaceAfter=No
@@ -186105,7 +186105,7 @@
 8	de	de	ADP	_	_	10	case	_	_
 9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	propuestas	propuesta	NOUN	_	Gender=Fem|Number=Plur	7	nmod	_	_
-11	que	que	SCONJ	_	_	13	mark	_	_
+11	que	que	PRON	_	PronType=Rel	13	obj	_	_
 12	deseamos	desear	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	_
 13	establecer	establecer	VERB	_	VerbForm=Inf	12	xcomp	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
@@ -245822,7 +245822,7 @@
 34	"	"	PUNCT	_	PunctType=Quot	36	punct	_	SpaceAfter=No
 35	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	36	det	_	_
 36	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	33	nsubj	_	_
-37	que	que	SCONJ	_	_	41	mark	_	_
+37	que	que	PRON	_	PronType=Rel	41	obj	_	_
 38	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	40	expl:pv	_	_
 39	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	41	obl:arg	_	_
 40	intenta	intentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	acl:relcl	_	_
@@ -381186,7 +381186,7 @@
 11	a	a	ADP	_	_	12	case	_	_
 12	Woody	Woody	PROPN	_	_	9	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
-14	que	que	SCONJ	_	_	16	mark	_	_
+14	que	que	PRON	_	PronType=Rel	16	obj	_	_
 15	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	_
 16-17	llevarse	_	_	_	_	_	_	_	_
 16	llevar	llevar	VERB	_	VerbForm=Inf	15	xcomp	_	_
@@ -419480,7 +419480,7 @@
 7	de	de	ADP	_	_	9	case	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	sitios	sitio	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
-10	que	que	SCONJ	_	_	12	mark	_	_
+10	que	que	PRON	_	PronType=Rel	12	obj	_	_
 11	queriamos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|Typo=Yes|VerbForm=Fin	9	acl:relcl	_	CorrectForm=queríamos
 12	visitar	visitar	VERB	_	VerbForm=Inf	11	xcomp	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_

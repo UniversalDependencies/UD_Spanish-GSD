@@ -10630,7 +10630,7 @@
 11	seleccionamos	seleccionar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
 13	imágenes	imagen	NOUN	_	Gender=Fem|Number=Plur	11	obj	_	_
-14	que	que	SCONJ	_	_	16	mark	_	_
+14	que	que	PRON	_	PronType=Rel	16	obj	_	_
 15	queremos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	_
 16	utilizar	utilizar	VERB	_	VerbForm=Inf	15	xcomp	_	_
 17	y	y	CCONJ	_	_	19	cc	_	_
