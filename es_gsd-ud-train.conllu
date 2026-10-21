@@ -158860,7 +158860,7 @@
 33	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	34	det	_	_
 34	temas	tema	NOUN	_	Gender=Masc|Number=Plur	32	obj	_	_
 35	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	36	obj	_	_
-36	haga	hacer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
+36	haga	hacer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 37	en	en	ADP	_	_	39	case	_	_
 38	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	39	det	_	_
 39	oficina	oficina	NOUN	_	Gender=Fem|Number=Sing	36	obl	_	_
@@ -160368,7 +160368,7 @@
 35	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	36	det	_	_
 36	vez	vez	NOUN	_	Gender=Fem|Number=Sing	38	obl	_	_
 37	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	38	obj	_	_
-38	hicieron	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
+38	hicieron	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	19	conj	_	_
 39	cada	cada	DET	_	Number=Sing|PronType=Tot	40	det	_	_
 40	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	41	nsubj	_	_
 41	sentado	sentar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	38	advcl	_	_
@@ -263894,7 +263894,7 @@
 69	años	año	NOUN	_	Gender=Masc|Number=Plur	66	nmod	_	SpaceAfter=No
 70	,	,	PUNCT	_	PunctType=Comm	66	punct	_	_
 71	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	72	aux	_	_
-72	apuñalado	apuñalar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	44	conj	_	_
+72	apuñalado	apuñalar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	57	conj	_	_
 73	a	a	ADP	_	_	75	case	_	_
 74	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	75	det	_	_
 75	caseros	casero	ADJ	_	Gender=Masc|Number=Plur	72	obj	_	_
@@ -379226,7 +379226,7 @@
 32	en	en	ADP	_	_	33	case	_	_
 33	1590	1590	NUM	_	NumForm=Digit|NumType=Card	35	obl	_	_
 34	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	35	expl:pv	_	_
-35	fundó	fundar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	conj	_	_
+35	fundó	fundar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	24	conj	_	_
 36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	convento	convento	NOUN	_	Gender=Masc|Number=Sing	35	nsubj	_	_
 38	de	de	ADP	_	_	39	case	_	_
