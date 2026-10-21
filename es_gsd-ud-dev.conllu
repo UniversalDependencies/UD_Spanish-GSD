@@ -22779,7 +22779,7 @@
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
 30	tifus	tifus	NOUN	_	Gender=Masc	27	ccomp	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-32	arrebato	arrebatar	VERB	_	VerbForm=Ger	4	conj	_	_
+32	arrebato	arrebatar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	4	conj	_	CorrectForm=arrebató
 33	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	34	nummod	_	_
 34	tercios	tercio	NOUN	_	Gender=Masc|Number=Plur	32	obj	_	_
 35	de	de	ADP	_	_	37	case	_	_
