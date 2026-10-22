@@ -5134,10 +5134,10 @@
 # sent_id = es-train-001-s160
 # text = Al parecer, había un fuerte vínculo con su tripulación.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	_	_	3	mark	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	parecer	parecer	NOUN	_	VerbForm=Inf	5	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+1	A	a	ADP	_	ExtPos=ADV	5	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
+3	parecer	parecer	VERB	_	VerbForm=Inf	1	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 5	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 6	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 7	fuerte	fuerte	ADJ	_	Number=Sing	8	amod	_	_
@@ -18677,10 +18677,10 @@
 # sent_id = es-train-002-s82
 # text = Al parecer, Áyax fue también en busca de Cástor.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	_	_	3	mark	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	parecer	parecer	NOUN	_	VerbForm=Inf	6	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+1	A	a	ADP	_	ExtPos=ADV	6	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
+3	parecer	parecer	VERB	_	VerbForm=Inf	1	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 5	Áyax	Áyax	PROPN	_	_	6	nsubj	_	_
 6	fue	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	también	también	ADV	_	_	6	advmod	_	_
@@ -43055,9 +43055,9 @@
 64	de	de	ADP	_	_	65	case	_	_
 65	Debod	Debod	PROPN	_	_	63	nmod	_	_
 66-67	al	_	_	_	_	_	_	_	_
-66	a	a	ADP	_	_	68	case	_	_
-67	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	68	det	_	_
-68	parecer	parecer	NOUN	_	Gender=Masc|Number=Sing	70	obl	_	_
+66	a	a	ADP	_	ExtPos=ADV	70	advmod	_	_
+67	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	66	fixed	_	_
+68	parecer	parecer	VERB	_	VerbForm=Inf	66	fixed	_	_
 69	para	para	ADP	_	_	70	mark	_	_
 70	mantener	mantener	VERB	_	VerbForm=Inf	56	advcl	_	_
 71	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	72	det	_	_
@@ -71330,9 +71330,9 @@
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
 7	materializó	materializar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 8-9	al	_	_	_	_	_	_	_	_
-8	a	a	ADP	_	_	10	mark	_	_
-9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	parecer	parecer	NOUN	_	VerbForm=Inf	7	obl	_	_
+8	a	a	ADP	_	ExtPos=ADV	7	advmod	_	_
+9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	fixed	_	_
+10	parecer	parecer	VERB	_	VerbForm=Inf	8	fixed	_	_
 11	gracias	gracia	NOUN	_	ExtPos=ADP|Gender=Fem|Number=Plur	14	case	_	_
 12-13	al	_	_	_	_	_	_	_	_
 12	a	a	ADP	_	_	11	fixed	_	_
@@ -154824,9 +154824,9 @@
 # sent_id = es-train-011-s113
 # text = Al parecer por la redacción del Art.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	_	_	3	mark	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	parecer	parecer	VERB	_	VerbForm=Inf	6	advcl	_	_
+1	A	a	ADP	_	ExtPos=ADV	6	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
+3	parecer	parecer	VERB	_	VerbForm=Inf	1	fixed	_	_
 4	por	por	ADP	_	_	6	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	redacción	redacción	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -160148,9 +160148,9 @@
 10	heridas	herida	NOUN	_	Gender=Fem|Number=Plur	9	obj	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 12-13	al	_	_	_	_	_	_	_	_
-12	a	a	ADP	_	_	14	case	_	_
-13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	parecer	parecer	NOUN	_	Gender=Masc|Number=Sing	15	nmod	_	_
+12	a	a	ADP	_	ExtPos=ADV	15	advmod	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	fixed	_	_
+14	parecer	parecer	VERB	_	VerbForm=Inf	12	fixed	_	_
 15	leves	leve	ADJ	_	Gender=Masc|Number=Sing	10	amod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 17	a	a	ADP	_	_	18	case	_	_
@@ -281899,11 +281899,11 @@
 # sent_id = es-train-019-s261
 # text = Al parecer los metaterios surgidos en Sudamérica viajaron todavía unidas las masa continentales meridionales, desde su cuna hasta Australia a través del continente antártico y viceversa a finales del periodo Cretácico;
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	_	_	3	mark	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	parecer	parecer	VERB	_	VerbForm=Inf	9	advcl	_	_
+1	A	a	ADP	_	ExtPos=ADV	9	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
+3	parecer	parecer	VERB	_	VerbForm=Inf	1	fixed	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	metaterios	metaterio	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
+5	metaterios	metaterio	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
 6	surgidos	surgir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	5	acl	_	_
 7	en	en	ADP	_	_	8	case	_	_
 8	Sudamérica	Sudamérica	PROPN	_	_	6	obl	_	_
@@ -281911,7 +281911,7 @@
 10	todavía	todavía	ADV	_	_	11	advmod	_	_
 11	unidas	unir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	9	advcl	_	_
 12	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	13	det	_	_
-13	masa	masa	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+13	masa	masa	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
 14	continentales	continental	ADJ	_	Number=Plur	13	amod	_	_
 15	meridionales	meridional	ADJ	_	Number=Plur	13	amod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
@@ -353777,9 +353777,9 @@
 16	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 17	quienes	quien	PRON	_	Number=Plur|PronType=Rel	21	nsubj	_	_
 18-19	al	_	_	_	_	_	_	_	_
-18	a	a	ADP	_	_	20	case	_	_
-19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	parecer	parecer	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
+18	a	a	ADP	_	ExtPos=ADV	21	advmod	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	fixed	_	_
+20	parecer	parecer	VERB	_	VerbForm=Inf	18	fixed	_	_
 21	pasaron	pasar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	acl:relcl	_	_
 22	catorce	catorce	NUM	_	Number=Plur|NumForm=Word|NumType=Card	23	nummod	_	_
 23	horas	hora	NOUN	_	Gender=Fem|Number=Plur	21	obl	_	_
@@ -368933,10 +368933,10 @@
 # sent_id = es-train-025-s57
 # text = Al parecer, dos hombres que se bajaron de un vehículo lo esperaban en el estacionamiento para matarlo, luego huyeron.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	_	_	3	mark	_	_
-2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	parecer	parecer	NOUN	_	VerbForm=Inf	14	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+1	A	a	ADP	_	ExtPos=ADV	14	advmod	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
+3	parecer	parecer	VERB	_	VerbForm=Inf	1	fixed	_	SpaceAfter=No
+4	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 5	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	6	nummod	_	_
 6	hombres	hombre	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	_
 7	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
