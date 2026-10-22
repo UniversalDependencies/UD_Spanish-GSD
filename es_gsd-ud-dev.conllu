@@ -24623,7 +24623,7 @@
 5	deplorado	deplorar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	7	det	_	_
 7	práctica	práctica	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
-8	que	que	SCONJ	_	_	11	mark	_	_
+8	que	que	PRON	_	PronType=Rel	9	obj	_	_
 9	considera	considerar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	"	"	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
 11	descalificadora	descalificador	ADJ	_	Gender=Fem|Number=Sing	9	xcomp	_	SpaceAfter=No

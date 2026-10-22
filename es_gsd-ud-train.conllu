@@ -121537,7 +121537,7 @@
 # sent_id = es-train-009-s9
 # text = Aquello que las fuentes denominan Regio Edetania sería configurado a partir de ese momento, bajo una dominación romana.
 1	Aquello	aquel	PRON	_	Number=Sing|PronType=Dem	9	nsubj:pass	_	_
-2	que	que	SCONJ	_	_	6	mark	_	_
+2	que	que	PRON	_	PronType=Rel	5	obj	_	_
 3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	fuentes	fuente	NOUN	_	Gender=Fem|Number=Plur	5	nsubj	_	_
 5	denominan	denominar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
@@ -134485,7 +134485,7 @@
 18	con	con	ADP	_	_	20	case	_	_
 19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	candidatura	candidatura	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
-21	que	que	SCONJ	_	_	24	mark	_	_
+21	que	que	PRON	_	PronType=Rel	22	obj	_	_
 22	consideraban	considerar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	20	acl:relcl	_	_
 23	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	imposición	imposición	NOUN	_	Gender=Fem|Number=Sing	22	xcomp	_	_
@@ -199917,7 +199917,7 @@
 26	con	con	ADP	_	_	27	case	_	_
 27	Aralar	Aralar	PROPN	_	_	25	nmod	_	SpaceAfter=No
 28	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
-29	que	que	SCONJ	_	_	35	mark	_	_
+29	que	que	PRON	_	PronType=Rel	33	obj	_	_
 30	hasta	hasta	ADP	_	_	31	case	_	_
 31	entonces	entonces	ADV	_	_	33	advmod	_	_
 32	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	aux	_	_
@@ -265881,7 +265881,7 @@
 # text = Pero lo que algunos autores consideran el desacuerdo que precipitó el fin de la amistad fue la discusión sobre los recuerdos infantiles y la seducción.
 1	Pero	pero	CCONJ	_	_	18	cc	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	nsubj	_	_
-3	que	que	SCONJ	_	_	8	mark	_	_
+3	que	que	PRON	_	PronType=Rel	6	obj	_	_
 4	algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	5	det	_	_
 5	autores	autor	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
 6	consideran	considerar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
@@ -295843,7 +295843,7 @@
 32	en	en	ADP	_	_	34	case	_	_
 33	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	_
-35	que	que	SCONJ	_	_	41	mark	_	_
+35	que	que	PRON	_	PronType=Rel	40	obj	_	_
 36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	capitán	capitán	PROPN	_	Gender=Masc|Number=Sing	40	nsubj	_	_
 38	-	-	PUNCT	_	PunctType=Dash	39	punct	_	_
