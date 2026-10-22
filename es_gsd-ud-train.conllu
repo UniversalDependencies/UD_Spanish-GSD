@@ -11645,7 +11645,7 @@
 75	a	a	ADP	_	_	78	mark	_	_
 76	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	78	det	_	_
 77	estar	estar	AUX	_	VerbForm=Inf	78	cop	_	_
-78	ubicadas	ubicado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	67	amod	_	_
+78	ubicadas	ubicado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	58	advcl	_	_
 79	en	en	ADP	_	_	81	case	_	_
 80	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	81	nummod	_	_
 81	áreas	área	NOUN	_	Gender=Fem|Number=Plur	78	nmod	_	_
@@ -52386,7 +52386,7 @@
 25	a	a	ADP	_	_	28	mark	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 27	ser	ser	AUX	_	VerbForm=Inf	28	cop	_	_
-28	IS	Is	PROPN	_	_	32	obl	_	_
+28	IS	Is	PROPN	_	_	32	advcl	_	_
 29	-	-	PUNCT	_	PunctType=Dash	30	punct	_	_
 30	95	95	NUM	_	NumForm=Digit|NumType=Card	28	nummod	_	_
 31	no	no	ADV	_	Polarity=Neg	32	advmod	_	_
@@ -74953,7 +74953,7 @@
 3	a	a	ADP	_	_	5	mark	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5-6	considerarse	_	_	_	_	_	_	_	_
-5	considerar	considerar	VERB	_	VerbForm=Inf	0	root	_	_
+5	considerar	considerar	VERB	_	VerbForm=Inf	24	advcl	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	cámara	cámara	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
@@ -74972,7 +74972,7 @@
 21	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
 22	elección	elección	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
 23	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux:pass	_	_
-24	efectuada	efectuar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
+24	efectuada	efectuar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 25	en	en	ADP	_	_	26	case	_	_
 26	forma	forma	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
 27	indirecta	indirecto	ADJ	_	Gender=Fem|Number=Sing	26	amod	_	_
@@ -74986,7 +74986,7 @@
 35	instancias	instancia	NOUN	_	Gender=Fem|Number=Plur	29	conj	_	_
 36	legislativas	legislativo	ADJ	_	Gender=Fem|Number=Plur	35	amod	_	SpaceAfter=No
 37	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	29	punct	_	SpaceAfter=No
-38	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+38	.	.	PUNCT	_	PunctType=Peri	24	punct	_	_
 
 # sent_id = es-train-005-s446
 # text = Si el servicio de venta es bueno, el de postventa mucho mejor.
@@ -75747,7 +75747,7 @@
 36	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	37	det	_	_
 37	ciudad	ciudad	NOUN	_	Gender=Fem|Number=Sing	33	nmod	_	_
 38	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
-39	cargo	cargo	NOUN	_	Gender=Masc|Number=Sing	52	obl	_	_
+39	cargo	cargo	NOUN	_	Gender=Masc|Number=Sing	52	advcl	_	_
 40	que	que	PRON	_	PronType=Rel	42	nsubj	_	_
 41	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	42	expl:pv	_	_
 42	renovaba	renovar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	39	acl:relcl	_	_
@@ -130112,9 +130112,9 @@
 14	Acre	Acre	PROPN	_	_	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 16-17	al	_	_	_	_	_	_	_	_
-16	a	a	ADP	_	_	21	mark	_	_
-17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-18	quedar	quedar	VERB	_	VerbForm=Inf	5	amod	_	_
+16	a	a	ADP	_	_	18	mark	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	quedar	quedar	VERB	_	VerbForm=Inf	5	advcl	_	_
 19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	parroquia	parroquia	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
 21	suprimida	suprimido	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	18	xcomp	_	_
@@ -199210,7 +199210,7 @@
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 21	ser	ser	AUX	_	VerbForm=Inf	23	cop	_	_
 22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-23	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
+23	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	17	advcl	_	SpaceAfter=No
 24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-014-s57
@@ -278245,7 +278245,7 @@
 60	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	63	det	_	_
 61	ser	ser	AUX	_	VerbForm=Inf	63	cop	_	_
 62	más	más	ADV	_	Degree=Cmp	63	advmod	_	_
-63	peligrosa	peligroso	ADJ	_	Gender=Fem|Number=Sing	52	amod	_	_
+63	peligrosa	peligroso	ADJ	_	Gender=Fem|Number=Sing	52	advcl	_	_
 64	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	65	det	_	_
 65	conducción	conducción	NOUN	_	Gender=Fem|Number=Sing	63	nsubj	_	_
 66	nocturna	nocturno	ADJ	_	Gender=Fem|Number=Sing	65	amod	_	SpaceAfter=No
@@ -311656,7 +311656,7 @@
 11	ser	ser	AUX	_	VerbForm=Inf	14	cop	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	14	amod	_	_
-14	delantero	delantero	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
+14	delantero	delantero	NOUN	_	Gender=Masc|Number=Sing	3	advcl	_	_
 15	desde	desde	ADP	_	_	16	case	_	_
 16	Ruud	Ruud	PROPN	_	_	14	nmod	_	_
 17	van	ir	PROPN	_	Number=Plur	16	flat	_	_
@@ -320259,7 +320259,7 @@
 11	a	a	ADP	_	_	14	mark	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	estar	estar	AUX	_	VerbForm=Inf	14	cop	_	_
-14	húmedos	húmedo	ADJ	_	Gender=Masc|Number=Plur	15	amod	_	_
+14	húmedos	húmedo	ADJ	_	Gender=Masc|Number=Plur	15	advcl	_	_
 15	adquieren	adquirir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	tono	tono	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
@@ -342050,12 +342050,12 @@
 # text = "Al ser el único proyecto que cumple con dichos requisitos, la propuesta de Sevilla ha sido elegida automáticamente como sede a proponer a la ITF para la disputa de la final", concluyó la RFET.
 1	"	"	PUNCT	_	PunctType=Quot	20	punct	_	SpaceAfter=No
 2-3	Al	_	_	_	_	_	_	_	_
-2	A	a	ADP	_	_	7	case	_	_
+2	A	a	ADP	_	_	7	mark	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 4	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 6	único	único	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
-7	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+7	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	20	advcl	_	_
 8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
 9	cumple	cumplir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 10	con	con	ADP	_	_	12	case	_	_
@@ -356885,7 +356885,7 @@
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 23	estar	estar	AUX	_	VerbForm=Inf	25	cop	_	_
 24	recien	recién	ADV	_	Typo=Yes	25	advmod	_	CorrectForm=recién
-25	inaugurada	inaugurado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	26	amod	_	_
+25	inaugurada	inaugurado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	26	advcl	_	_
 26	son	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
 27	detalles	detalle	NOUN	_	Gender=Masc|Number=Plur	26	nsubj	_	_
 28	que	que	PRON	_	PronType=Rel	32	nsubj	_	_
@@ -415392,8 +415392,8 @@
 31	a	a	ADP	_	_	34	mark	_	_
 32	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 33	ser	ser	AUX	_	VerbForm=Inf	34	cop	_	_
-34	incapaz	incapaz	ADJ	_	Number=Sing	42	amod	_	_
-35	de	de	ADP	_	_	36	cc	_	_
+34	incapaz	incapaz	ADJ	_	Number=Sing	26	advcl	_	_
+35	de	de	ADP	_	_	36	mark	_	_
 36	realizar	realizar	VERB	_	VerbForm=Inf	34	advcl	_	_
 37	actividad	actividad	NOUN	_	Gender=Fem|Number=Sing	36	obj	_	_
 38	fotosintética	fotosintético	ADJ	_	Gender=Fem|Number=Sing	37	amod	_	SpaceAfter=No
