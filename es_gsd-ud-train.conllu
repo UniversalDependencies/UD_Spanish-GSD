@@ -74947,8 +74947,8 @@
 
 # sent_id = es-train-005-s445
 # text = Aunque históricamente al considerarse una cámara revisora o de representación de los estados integrantes de una federación, su elección era efectuada en forma indirecta (sistema de electores o por otras instancias legislativas).
-1	Aunque	aunque	SCONJ	_	_	5	mark	_	_
-2	históricamente	históricamente	ADV	_	_	5	advmod	_	_
+1	Aunque	aunque	SCONJ	_	_	24	mark	_	_
+2	históricamente	históricamente	ADV	_	_	24	advmod	_	_
 3-4	al	_	_	_	_	_	_	_	_
 3	a	a	ADP	_	_	5	mark	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
