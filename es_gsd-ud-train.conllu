@@ -50567,9 +50567,9 @@
 6	droga	droga	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
 7	desaparece	desaparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 8-9	al	_	_	_	_	_	_	_	_
-8	a	a	ADP	_	_	10	mark	_	_
+8	a	a	ADP	_	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	anochecer	anochecer	NOUN	_	Gender=Masc|Number=Sing	7	advcl	_	SpaceAfter=No
+10	anochecer	anochecer	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pv	_	_
 13	suele	soler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -276681,9 +276681,9 @@
 # sent_id = es-train-019-s85
 # text = Al anocher, los coroneles García Valiño, Bautista Sánchez y Bartomeu, con tres de las seis brigadas navarras, alcanzaron la célebre línea defensiva.
 1-2	Al	_	_	_	_	_	_	_	_
-1	A	a	ADP	_	_	3	mark	_	_
+1	A	a	ADP	_	_	3	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-3	anocher	anocher	NOUN	_	VerbForm=Inf	23	obl	_	SpaceAfter=No
+3	anocher	anochecer	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	23	obl	_	CorrectForm=anochecer|SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	coroneles	coronel	NOUN	_	Gender=Masc|Number=Plur	23	nsubj	_	_
