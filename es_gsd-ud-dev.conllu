@@ -17356,22 +17356,24 @@
 
 # sent_id = es-dev-002-s91
 # text = Del total de la población el 6.84 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	6.84	6.84	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	6.84	6.84	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-dev-002-s92
 # text = Pero, sin duda, la notoriedad del espacio es que los chefs son oriundos de los lugares de donde proceden los platos.
@@ -37521,22 +37523,24 @@
 
 # sent_id = es-dev-003-s267
 # text = Del total de la población el 1.19 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.19	1.19	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.19	1.19	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-dev-003-s268
 # text = El XXVI Campeonato Mundial de Patinaje Artístico se realizó en Berlín (concurso masculino) entre el 25 y el 26 de febrero y en Londres (concurso femenino y por parejas) entre el 5 y el 6 de marzo de 1928 bajo la organización de la Unión Internacional de Patinaje sobre Hielo (ISU), la Federación Alemana de Patinaje sobre Hielo y la Federación Británica de Patinaje sobre Hielo.
@@ -41491,27 +41495,29 @@
 8	durante	durante	ADP	_	_	10	case	_	_
 9	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	10	nummod	_	_
 10	números	número	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	_
-11	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	13	punct	_	SpaceAfter=No
-12	Del	del	ADP	_	_	13	case	_	_
-13	31	31	NUM	_	NumForm=Digit|NumType=Card	10	nmod	_	_
-14-15	al	_	_	_	_	_	_	_	_
-14	a	a	ADP	_	_	16	case	_	_
-15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	36	36	NUM	_	NumForm=Digit|NumType=Card	13	nmod	_	SpaceAfter=No
-17	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	13	punct	_	_
-18	concluyendo	concluir	VERB	_	VerbForm=Ger	10	acl	_	_
-19	éstos	este	NOUN	_	Gender=Masc|Number=Plur	18	nsubj	_	_
-20	con	con	ADP	_	_	22	case	_	_
-21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	regreso	regreso	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
-23	de	de	ADP	_	_	24	case	_	_
-24	Supergirl	Supergirl	PROPN	_	_	22	nmod	_	_
-25-26	al	_	_	_	_	_	_	_	_
-25	a	a	ADP	_	_	27	case	_	_
-26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-27	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
-28	XXI	xxi	NUM	_	NumForm=Roman|NumType=Card	27	nummod	_	SpaceAfter=No
-29	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+11	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	14	punct	_	SpaceAfter=No
+12-13	Del	_	_	_	_	_	_	_	_
+12	De	de	ADP	_	_	14	case	_	_
+13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
+14	31	31	NUM	_	NumForm=Digit|NumType=Card	10	nmod	_	_
+15-16	al	_	_	_	_	_	_	_	_
+15	a	a	ADP	_	_	17	case	_	_
+16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	36	36	NUM	_	NumForm=Digit|NumType=Card	14	nmod	_	SpaceAfter=No
+18	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	14	punct	_	_
+19	concluyendo	concluir	VERB	_	VerbForm=Ger	10	acl	_	_
+20	éstos	este	NOUN	_	Gender=Masc|Number=Plur	19	nsubj	_	_
+21	con	con	ADP	_	_	23	case	_	_
+22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
+23	regreso	regreso	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
+24	de	de	ADP	_	_	25	case	_	_
+25	Supergirl	Supergirl	PROPN	_	_	23	nmod	_	_
+26-27	al	_	_	_	_	_	_	_	_
+26	a	a	ADP	_	_	28	case	_	_
+27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
+28	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
+29	XXI	xxi	NUM	_	NumForm=Roman|NumType=Card	28	nummod	_	SpaceAfter=No
+30	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-dev-003-s394
 # text = Ese mismo año se calculaba que Minotauro había vendido desde 1977 cerca de ocho millones de libros de las obras de Tolkien en castellano.
