@@ -16017,22 +16017,24 @@
 
 # sent_id = es-train-001-s490
 # text = Del total de la población el 0.92 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0.92	0.92	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0.92	0.92	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-001-s491
 # text = Se considera uno de los libros cristianos más influyentes después de la Biblia y con mayor número de lectores, por lo que se trata de un clásico de la literatura mística.
@@ -16112,22 +16114,24 @@
 
 # sent_id = es-train-001-s493
 # text = Del total de la población el 1.85 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.85	1.85	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.85	1.85	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-001-s494
 # text = En The Empire Strikes Back, Vader captura a Leia, Han, Chewbacca (Peter Mayhew), y a C3PO (Anthony Daniels) en Bespin (la ciudad de las nubes), para atraer a Luke a un enfrentamiento.
@@ -17170,33 +17174,35 @@
 
 # sent_id = es-train-002-s27
 # text = Del otro lado del aparato se encontraba Nilda, la hermana de Aldo, quien les contó lo poco que había averiguado por comentarios.
-1	Del	del	ADP	_	_	3	case	_	_
-2	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
-3	lado	lado	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
-4-5	del	_	_	_	_	_	_	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	aparato	aparato	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
-7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
-8	encontraba	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-9	Nilda	Nilda	PROPN	_	_	8	nsubj	_	SpaceAfter=No
-10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
-12	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	9	appos	_	_
-13	de	de	ADP	_	_	14	case	_	_
-14	Aldo	Aldo	PROPN	_	_	12	nmod	_	SpaceAfter=No
-15	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-16	quien	quien	PRON	_	Number=Sing|PronType=Rel	18	nsubj	_	_
-17	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	18	obl:arg	_	_
-18	contó	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	_
-19	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	det	_	_
-20	poco	poco	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	18	obj	_	_
-21	que	que	PRON	_	PronType=Rel	23	obj	_	_
-22	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	aux	_	_
-23	averiguado	averiguar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	20	acl:relcl	_	_
-24	por	por	ADP	_	_	25	case	_	_
-25	comentarios	comentario	NOUN	_	Gender=Masc|Number=Plur	23	obl:agent	_	SpaceAfter=No
-26	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	4	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
+4	lado	lado	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	aparato	aparato	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
+8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
+9	encontraba	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+10	Nilda	Nilda	PROPN	_	_	9	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
+13	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	10	appos	_	_
+14	de	de	ADP	_	_	15	case	_	_
+15	Aldo	Aldo	PROPN	_	_	13	nmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+17	quien	quien	PRON	_	Number=Sing|PronType=Rel	19	nsubj	_	_
+18	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	19	obl:arg	_	_
+19	contó	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	acl:relcl	_	_
+20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	det	_	_
+21	poco	poco	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	19	obj	_	_
+22	que	que	PRON	_	PronType=Rel	24	obj	_	_
+23	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux	_	_
+24	averiguado	averiguar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	acl:relcl	_	_
+25	por	por	ADP	_	_	26	case	_	_
+26	comentarios	comentario	NOUN	_	Gender=Masc|Number=Plur	24	obl:agent	_	SpaceAfter=No
+27	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
 # sent_id = es-train-002-s28
 # text = En 1961 realizó Porque hoy es sábado, su primer cortometraje y en 1970 Opinaron, su primer mediometraje.
@@ -26766,22 +26772,24 @@
 
 # sent_id = es-train-002-s342
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-002-s343
 # text = Los cubos de bloqueo, también conocidos como cubos de rueda libre, son un accesorio instalado en muchos vehículos de tracción en las cuatro ruedas que permite que las ruedas delanteras sean desconectadas de los palieres delanteros.
@@ -32160,22 +32168,24 @@
 
 # sent_id = es-train-003-s15
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-003-s16
 # text = Al salir de la cárcel Siqueiros le propone a Don Manuel pintar un mural y el empresario decide entonces construir un inmueble especial para albergar el mural más grande del mundo, que se llamaria La Marcha de la Humanidad, construyéndose el Polyforum Cultural Siqueiros.
@@ -33218,25 +33228,27 @@
 
 # sent_id = es-train-003-s57
 # text = Del mismo modo, se ha construido un centro comercial, lo que está revitalizando el núcleo urbano.
-1	Del	del	ADP	_	_	3	case	_	_
-2	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
-3	modo	modo	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
-4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
-5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	7	expl:pv	_	_
-6	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
-7	construido	construir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
-9	centro	centro	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
-10	comercial	comercial	ADJ	_	Number=Sing	9	amod	_	SpaceAfter=No
-11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
-12	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	det	_	_
-13	que	que	SCONJ	_	_	15	mark	_	_
-14	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-15	revitalizando	revitalizar	VERB	_	VerbForm=Ger	7	parataxis	_	_
-16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
-17	núcleo	núcleo	NOUN	_	Gender=Masc|Number=Sing	15	obj	_	_
-18	urbano	urbano	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
-19	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	4	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	mismo	mismo	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	_
+4	modo	modo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
+5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
+7	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	_
+8	construido	construir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
+10	centro	centro	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
+11	comercial	comercial	ADJ	_	Number=Sing	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	det	_	_
+14	que	que	SCONJ	_	_	16	mark	_	_
+15	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux	_	_
+16	revitalizando	revitalizar	VERB	_	VerbForm=Ger	8	parataxis	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
+18	núcleo	núcleo	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
+19	urbano	urbano	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	SpaceAfter=No
+20	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-train-003-s58
 # text = Los últimos técnicos en comercio se graduaron el año 1963.
@@ -36726,32 +36738,34 @@
 
 # sent_id = es-train-003-s178
 # text = Del otro lado de la frontera, en Costa Rica, también se pone en duda la seriedad del proyecto dirigido por Pastora.
-1	Del	del	ADP	_	_	3	case	_	_
-2	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
-3	lado	lado	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	frontera	frontera	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	SpaceAfter=No
-7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-8	en	en	ADP	_	_	9	case	_	_
-9	Costa	Costa	PROPN	_	_	3	nmod	_	_
-10	Rica	Rica	PROPN	_	_	9	amod	_	SpaceAfter=No
-11	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-12	también	también	ADV	_	_	14	advmod	_	_
-13	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl:pv	_	_
-14	pone	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	en	en	ADP	_	_	16	case	_	_
-16	duda	duda	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
-17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
-18	seriedad	seriedad	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
-19-20	del	_	_	_	_	_	_	_	_
-19	de	de	ADP	_	_	21	case	_	_
-20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
-21	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
-22	dirigido	dirigir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	21	acl	_	_
-23	por	por	ADP	_	_	24	case	_	_
-24	Pastora	Pastora	PROPN	_	_	22	obl:agent	_	SpaceAfter=No
-25	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	4	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	4	det	_	_
+4	lado	lado	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
+7	frontera	frontera	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	en	en	ADP	_	_	10	case	_	_
+10	Costa	Costa	PROPN	_	_	4	nmod	_	_
+11	Rica	Rica	PROPN	_	_	10	amod	_	SpaceAfter=No
+12	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+13	también	también	ADV	_	_	15	advmod	_	_
+14	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
+15	pone	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	en	en	ADP	_	_	17	case	_	_
+17	duda	duda	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
+18	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
+19	seriedad	seriedad	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+20-21	del	_	_	_	_	_	_	_	_
+20	de	de	ADP	_	_	22	case	_	_
+21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
+22	proyecto	proyecto	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+23	dirigido	dirigir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	22	acl	_	_
+24	por	por	ADP	_	_	25	case	_	_
+25	Pastora	Pastora	PROPN	_	_	23	obl:agent	_	SpaceAfter=No
+26	.	.	PUNCT	_	PunctType=Peri	15	punct	_	_
 
 # sent_id = es-train-003-s179
 # text = En este sentido, solo la parte de violín es de fácil ejecución, mientras que la parte para teclado no sería «para principiantes».
@@ -41412,22 +41426,24 @@
 
 # sent_id = es-train-003-s339
 # text = Del total de la población el 0.61 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0.61	0.61	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0.61	0.61	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-003-s340
 # text = George Abela nació en Qormi, Malta.
@@ -64162,22 +64178,24 @@
 
 # sent_id = es-train-005-s107
 # text = Del total de la población el 1.41 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.41	1.41	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.41	1.41	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-005-s108
 # text = En cuanto a su vida personal es madre de cinco hijos y está casada con el empresario Javier Merino.
@@ -71120,22 +71138,24 @@
 
 # sent_id = es-train-005-s323
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-005-s324
 # text = Cameron, siempre movilizada por cuestiones morales, escribe una carta al Comité para que revean la decisión, pero la misma es rechazada.
@@ -88667,22 +88687,24 @@
 
 # sent_id = es-train-006-s399
 # text = Del total de la población el 2.12 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.12	2.12	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.12	2.12	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-006-s400
 # text = Por ello, pidió a los médicos evaluar la prescripción de dicho fármaco, así como reportar cualquier reacción adversa detectada.
@@ -91435,32 +91457,34 @@
 
 # sent_id = es-train-006-s493
 # text = Del eneolítico proceden los restos de la Paridera, Pla de les Clotxes y un hacha de piedra pulida junto al núcleo urbano.
-1	Del	del	ADP	_	_	2	case	_	_
-2	eneolítico	eneolítico	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
-3	proceden	proceder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	restos	resto	NOUN	_	Gender=Masc|Number=Plur	3	nsubj	_	_
-6	de	de	ADP	_	_	8	case	_	_
-7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
-8	Paridera	Paridera	PROPN	_	_	5	nmod	_	SpaceAfter=No
-9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
-10	Pla	Pla	PROPN	_	_	8	appos	_	_
-11	de	de	ADP	_	_	13	case	_	_
-12	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	13	det	_	_
-13	Clotxes	Clotxes	PROPN	_	_	10	nmod	_	_
-14	y	y	CCONJ	_	_	16	cc	_	_
-15	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-16	hacha	hacha	NOUN	_	Gender=Fem|Number=Sing	5	conj	_	_
-17	de	de	ADP	_	_	18	case	_	_
-18	piedra	piedra	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
-19	pulida	pulir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	16	acl	_	_
-20	junto	junto	ADV	_	ExtPos=ADP	23	case	_	_
-21-22	al	_	_	_	_	_	_	_	_
-21	a	a	ADP	_	_	20	fixed	_	_
-22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
-23	núcleo	núcleo	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
-24	urbano	urbano	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
-25	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	eneolítico	eneolítico	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
+4	proceden	proceder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
+6	restos	resto	NOUN	_	Gender=Masc|Number=Plur	4	nsubj	_	_
+7	de	de	ADP	_	_	9	case	_	_
+8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
+9	Paridera	Paridera	PROPN	_	_	6	nmod	_	SpaceAfter=No
+10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
+11	Pla	Pla	PROPN	_	_	9	appos	_	_
+12	de	de	ADP	_	_	14	case	_	_
+13	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	14	det	_	_
+14	Clotxes	Clotxes	PROPN	_	_	11	nmod	_	_
+15	y	y	CCONJ	_	_	17	cc	_	_
+16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
+17	hacha	hacha	NOUN	_	Gender=Fem|Number=Sing	6	conj	_	_
+18	de	de	ADP	_	_	19	case	_	_
+19	piedra	piedra	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	_
+20	pulida	pulir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	17	acl	_	_
+21	junto	junto	ADV	_	ExtPos=ADP	24	case	_	_
+22-23	al	_	_	_	_	_	_	_	_
+22	a	a	ADP	_	_	21	fixed	_	_
+23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
+24	núcleo	núcleo	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
+25	urbano	urbano	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	SpaceAfter=No
+26	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-train-006-s494
 # text = Dicho programa fue emitido por Canal 13 y Telefe, y obtuvo el premio Martín Fierro 2006 y 2007 al mejor programa cultural y el premio Clarín al mejor programa periodístico 2006.
@@ -93966,22 +93990,24 @@
 
 # sent_id = es-train-007-s76
 # text = Del total de la población el 1.2 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.2	1.2	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.2	1.2	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-007-s77
 # text = Son de complexión robusta y estatura relativamente baja.
@@ -105609,22 +105635,24 @@
 
 # sent_id = es-train-007-s460
 # text = Del total de la población el 2.21 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.21	2.21	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.21	2.21	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-007-s461
 # text = En El Havre pintó retratos y pequeñas piezas de género durante varios meses, antes de regresar a París.
@@ -112780,22 +112808,24 @@
 
 # sent_id = es-train-008-s210
 # text = Del total de la población el 40.84 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	40.84	40.84	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	40.84	40.84	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-008-s211
 # text = Bajo la nueva dirección, se asumió la expansión internacional y se alcanzaron los 1.000 locales en 2009.
@@ -116210,22 +116240,24 @@
 
 # sent_id = es-train-008-s335
 # text = Del total de la población el 1.07 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.07	1.07	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.07	1.07	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-008-s336
 # text = En su apuesta por la cultura, NH Hoteles se siente especialmente orgulloso de contar con el apoyo del celebre premio Novel de literatura Mario Vargas Llosa, que da su nombre al concurso de relato corto que la Compañía viene realizando en los últimos años.
@@ -133512,22 +133544,24 @@
 
 # sent_id = es-train-009-s419
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-009-s420
 # text = El 28 de mayo de 2010, siendo todavía jugador del Maccabi, se confirmó que Mayuka había firmado un contrato de cinco años con el BSC Young Boys suizo por un precio total de 1,7 millones de dólares.
@@ -135613,22 +135647,24 @@
 
 # sent_id = es-train-009-s485
 # text = Del total de la población el 2.37 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.37	2.37	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.37	2.37	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-009-s486
 # text = Su hijo mayor, oficial de la fuerza aérea, Aleksandr Kámenev, fue ejecutado el 15 de julio de 1939 a la edad de 33 años.
@@ -137649,22 +137685,24 @@
 
 # sent_id = es-train-010-s50
 # text = Del total de la población el 2.49 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.49	2.49	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.49	2.49	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-010-s51
 # text = El proceso consiste en entrar en un riel tipo lavado de autos que nos sitúa sobre un mecanismo que extrae la batería que se encuentra por debajo del auto y posteriormente monta la nueva para salir finalmente por una rampa.
@@ -142078,22 +142116,24 @@
 
 # sent_id = es-train-010-s198
 # text = Del total de la población el 0.54 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0.54	0.54	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0.54	0.54	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-010-s199
 # text = Originalmente, Catania no había sido una zona típicamente mafiosa.
@@ -143153,22 +143193,24 @@
 
 # sent_id = es-train-010-s228
 # text = Del total de la población el 0.57 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0.57	0.57	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0.57	0.57	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-010-s229
 # text = Alquilar un "mokki", como se llaman las cabañas rurales en finés, es una sugerencia estupenda para disfrutar de los largos días del verano nórdico y saborear la vida relajada del campo, sin la presión del reloj y respirando aire fresco.
@@ -146287,22 +146329,24 @@
 
 # sent_id = es-train-010-s326
 # text = Del total de la población el 1.39 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.39	1.39	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.39	1.39	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-010-s327
 # text = Comprueba el estado de la bici ANTES de irte con ella.
@@ -148162,22 +148206,24 @@
 
 # sent_id = es-train-010-s393
 # text = Del total de la población el 2.12 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.12	2.12	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.12	2.12	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-010-s394
 # text = Entre otras innovaciones incluye la opción de ver programas de TV (en los países en los que iTunes permite la descarga de ellos), aunque elimina el efecto zoom al iniciar la aplicación y lo sustituye por un fundido a negro.
@@ -159536,22 +159582,24 @@
 
 # sent_id = es-train-011-s275
 # text = Del total de la población el 6.46 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	6.46	6.46	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	6.46	6.46	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-011-s276
 # text = El 28 de enero de 2006 intentó recuperarlo de manos de Javi - Air, pero perdió por sumisión.
@@ -162819,22 +162867,24 @@
 
 # sent_id = es-train-011-s380
 # text = Del total de la población el 1.52 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.52	1.52	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.52	1.52	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-011-s381
 # text = En este caso sí se ha modificado la microestructura y / o las propiedades mecánicas aunque no se ha producido deformación plástica.
@@ -163615,34 +163665,36 @@
 
 # sent_id = es-train-011-s403
 # text = Del abultado número de robos, los ladrones perpetraron 2177 asaltos cuando no había nadie en las instalaciones, forzando las puertas e inutilizando sistemas de alarma.
-1	Del	del	ADP	_	_	3	case	_	_
-2	abultado	abultado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	amod	_	_
-3	número	número	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
-4	de	de	ADP	_	_	5	case	_	_
-5	robos	robo	NOUN	_	Gender=Masc|Number=Plur	3	nmod	_	SpaceAfter=No
-6	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
-7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
-8	ladrones	ladrón	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
-9	perpetraron	perpetrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	2177	2177	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
-11	asaltos	asalto	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
-12	cuando	cuando	SCONJ	_	_	14	mark	_	_
-13	no	no	ADV	_	Polarity=Neg	14	advmod	_	_
-14	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
-15	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	14	obj	_	_
-16	en	en	ADP	_	_	18	case	_	_
-17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
-18	instalaciones	instalación	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
-19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-20	forzando	forzar	VERB	_	VerbForm=Ger	9	advcl	_	_
-21	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	22	det	_	_
-22	puertas	puerta	NOUN	_	Gender=Fem|Number=Plur	20	obj	_	_
-23	e	e	CCONJ	_	_	24	cc	_	_
-24	inutilizando	inutilizar	VERB	_	VerbForm=Ger	20	conj	_	_
-25	sistemas	sistema	NOUN	_	Gender=Masc|Number=Plur	24	obj	_	_
-26	de	de	ADP	_	_	27	case	_	_
-27	alarma	alarma	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	SpaceAfter=No
-28	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	4	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
+3	abultado	abultado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	4	amod	_	_
+4	número	número	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	_
+5	de	de	ADP	_	_	6	case	_	_
+6	robos	robo	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
+8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
+9	ladrones	ladrón	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
+10	perpetraron	perpetrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	2177	2177	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
+12	asaltos	asalto	NOUN	_	Gender=Masc|Number=Plur	10	obj	_	_
+13	cuando	cuando	SCONJ	_	_	15	mark	_	_
+14	no	no	ADV	_	Polarity=Neg	15	advmod	_	_
+15	había	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	advcl	_	_
+16	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	15	obj	_	_
+17	en	en	ADP	_	_	19	case	_	_
+18	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+19	instalaciones	instalación	NOUN	_	Gender=Fem|Number=Plur	15	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+21	forzando	forzar	VERB	_	VerbForm=Ger	10	advcl	_	_
+22	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	23	det	_	_
+23	puertas	puerta	NOUN	_	Gender=Fem|Number=Plur	21	obj	_	_
+24	e	e	CCONJ	_	_	25	cc	_	_
+25	inutilizando	inutilizar	VERB	_	VerbForm=Ger	21	conj	_	_
+26	sistemas	sistema	NOUN	_	Gender=Masc|Number=Plur	25	obj	_	_
+27	de	de	ADP	_	_	28	case	_	_
+28	alarma	alarma	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	SpaceAfter=No
+29	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 # sent_id = es-train-011-s404
 # text = Ha sido justamente considerado un talento enciclopédico, quizás el último de su tiempo.
@@ -178519,22 +178571,24 @@
 
 # sent_id = es-train-012-s392
 # text = Del shuar: kumba pez y atza quebrada, que significa pez en la quebrada.
-1	Del	del	ADP	_	_	2	case	_	_
-2	shuar	shuar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
-3	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
-4	kumba	kumba	X	_	Gender=Fem|Number=Sing	5	compound	_	_
-5	pez	pez	NOUN	_	Gender=Fem|Number=Sing	2	dep	_	_
-6	y	y	CCONJ	_	_	7	cc	_	_
-7	atza	atza	X	_	Gender=Fem|Number=Sing	5	conj	_	_
-8	quebrada	quebrado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	7	amod	_	SpaceAfter=No
-9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-10	que	que	PRON	_	PronType=Rel	11	obj	_	_
-11	significa	significar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
-12	pez	pez	NOUN	_	Gender=Fem|Number=Sing	11	xcomp	_	_
-13	en	en	ADP	_	_	15	case	_	_
-14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	quebrada	quebrado	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	shuar	shuar	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	:	:	PUNCT	_	PunctType=Colo	6	punct	_	_
+5	kumba	kumba	X	_	Gender=Fem|Number=Sing	6	compound	_	_
+6	pez	pez	NOUN	_	Gender=Fem|Number=Sing	3	dep	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	atza	atza	X	_	Gender=Fem|Number=Sing	6	conj	_	_
+9	quebrada	quebrado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	8	amod	_	SpaceAfter=No
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	que	que	PRON	_	PronType=Rel	12	obj	_	_
+12	significa	significar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
+13	pez	pez	NOUN	_	Gender=Fem|Number=Sing	12	xcomp	_	_
+14	en	en	ADP	_	_	16	case	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	quebrada	quebrado	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-train-012-s393
 # text = La ley prohíbe el trabajo forzado u obligatorio, y no hubo informes que tales prácticas ocurrieran.
@@ -189070,22 +189124,24 @@
 
 # sent_id = es-train-013-s242
 # text = Del total de la población el 0.85 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0.85	0.85	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0.85	0.85	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-013-s243
 # text = Limita al norte con los distritos de Neuchâtel (NE) y Seeland (BE), al noreste con See (FR) y Berna - Mittelland (BE), al este con Broye (FR), al sureste con Glâne (FR), al sur con Lavaux - Oron, al suroeste con Gros - de - Vaud, y al oeste con Jura - Nord vaudois y Boudry (NE).
@@ -202844,22 +202900,24 @@
 
 # sent_id = es-train-014-s174
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-014-s175
 # text = Newcomb es un lugar designado por el censo ubicado en el condado de San Juan en el estado estadounidense de Nuevo México.
@@ -204968,22 +205026,24 @@
 
 # sent_id = es-train-014-s250
 # text = Del total de la población el 2,69 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2,69	2,69	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2,69	2,69	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-014-s251
 # text = ¿Qué organismo y qué autoridad abaló las modificaciones al contrato original?
@@ -227285,22 +227345,24 @@
 
 # sent_id = es-train-015-s488
 # text = Del total de la población el 2.55 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.55	2.55	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.55	2.55	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-015-s489
 # text = EL INSTITUTO Interuniversitario de Desarrollo Local (IIDL) pone en marcha en septiembre dos nuevos proyectos docentes en modalidad semipresencial en la UNIDES (Universidad Internacional para el Desarrollo Sostenible) de Managua (Nicaragua).
@@ -231413,22 +231475,24 @@
 
 # sent_id = es-train-016-s129
 # text = Del total de la población el 0.26 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0.26	0.26	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0.26	0.26	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-016-s130
 # text = Una batalla muy dura termina con la muerte de Wasp (a quién el skrull Hank Pym le implantó un arma biológica), pero Norman Osborn mata a la Reina Skrull.
@@ -239633,22 +239697,24 @@
 
 # sent_id = es-train-016-s398
 # text = Del total de la población el 2.05 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.05	2.05	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.05	2.05	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-016-s399
 # text = Los hombres tenían unos ingresos medios de $ 27,000 frente a los $ 19,297 para las mujeres.
@@ -250605,22 +250671,24 @@
 
 # sent_id = es-train-017-s260
 # text = Del total de la población el 1.53 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.53	1.53	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.53	1.53	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-017-s261
 # text = Monomma semiaeneum es una especie de coleóptero de la familia Monommatidae.
@@ -265341,22 +265409,24 @@
 
 # sent_id = es-train-018-s237
 # text = Del total de la población el 0.28 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0.28	0.28	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0.28	0.28	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-018-s238
 # text = Sólo les faltaba el nombre.
@@ -265886,22 +265956,24 @@
 
 # sent_id = es-train-018-s255
 # text = Del total de la población el 2.02 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.02	2.02	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.02	2.02	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-018-s256
 # text = Mondlane obtuvo un doctorado en sociología de la Universidad de Northwestern y se casó con Janet Rae Johnson, una mujer de Indiana que vivía en los suburbios de Chicago.
@@ -268274,22 +268346,24 @@
 
 # sent_id = es-train-018-s333
 # text = Del total de la población el 1.64 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	1.64	1.64	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	1.64	1.64	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-018-s334
 # text = El más importante proceso de reivindicación territorial en la historia de Canadá, llevó en 1999 a la creación de Nunavut, un nuevo territorio concebido como patria de la mayoría de los inuit de Canadá, por lo que su nombre significa "Nuestra tierra".
@@ -271029,22 +271103,24 @@
 
 # sent_id = es-train-018-s418
 # text = Del total de la población el 99.22 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	99.22	99.22	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	99.22	99.22	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-018-s419
 # text = En 1955 llegó a Estados, y ya 1958 narraba para los Dodgers, aunque no conocía bien el béisbol.
@@ -275033,26 +275109,28 @@
 
 # sent_id = es-train-019-s40
 # text = Del peso total del satélite, que era de 13,97 kg, la instrumentación sumaba 8,3 kg.
-1	Del	del	ADP	_	_	2	case	_	_
-2	peso	peso	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
-3	total	total	ADJ	_	Number=Sing	2	amod	_	_
-4-5	del	_	_	_	_	_	_	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	satélite	satélite	PROPN	_	Gender=Masc|Number=Sing	2	nmod	_	SpaceAfter=No
-7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-8	que	que	PRON	_	PronType=Rel	9	nsubj	_	_
-9	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	acl:relcl	_	_
-10	de	de	ADP	_	_	12	case	_	_
-11	13,97	13,97	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
-12	kg	kg	NOUN	_	_	9	obl	_	SpaceAfter=No
-13	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
-15	instrumentación	instrumentación	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
-16	sumaba	sumar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-17	8,3	8.3	NUM	_	NumForm=Digit|NumType=Card	18	nummod	_	_
-18	kg	kg	NOUN	_	_	16	obj	_	SpaceAfter=No
-19	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	peso	peso	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
+4	total	total	ADJ	_	Number=Sing	3	amod	_	_
+5-6	del	_	_	_	_	_	_	_	_
+5	de	de	ADP	_	_	7	case	_	_
+6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
+7	satélite	satélite	PROPN	_	Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
+9	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
+10	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
+11	de	de	ADP	_	_	13	case	_	_
+12	13,97	13,97	NUM	_	NumForm=Digit|NumType=Card	13	nummod	_	_
+13	kg	kg	NOUN	_	_	10	obl	_	SpaceAfter=No
+14	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
+16	instrumentación	instrumentación	NOUN	_	Gender=Fem|Number=Sing	17	nsubj	_	_
+17	sumaba	sumar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+18	8,3	8.3	NUM	_	NumForm=Digit|NumType=Card	19	nummod	_	_
+19	kg	kg	NOUN	_	_	17	obj	_	SpaceAfter=No
+20	.	.	PUNCT	_	PunctType=Peri	17	punct	_	_
 
 # sent_id = es-train-019-s41
 # text = Históricamente, el número de miembros del Comité Permanente ha variado entre cinco y nueve.
@@ -286435,22 +286513,24 @@
 
 # sent_id = es-train-019-s399
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-019-s400
 # text = Es evidente que las ultimas acciones de De Vido, Moreno y demás funcionarios, generadas en la mente de Néstor Kirchner no hacen mas que restarle votos al oficialismo, pero los K han decidido sacrificar un periodo presidencial con la consigna de arrasar con sus opositores políticos y mediáticos creyendo que como el ave fénix renacerán de sus cenizas.
@@ -286589,30 +286669,32 @@
 
 # sent_id = es-train-019-s403
 # text = Del 19 de noviembre al 15 de diciembre la banda giró por Estados Unidos y a finales de mes en Alemania.
-1	Del	del	ADP	_	_	2	case	_	_
-2	19	19	NUM	_	NumForm=Digit|NumType=Card	12	obl	_	_
-3	de	de	ADP	_	_	4	case	_	_
-4	noviembre	noviembre	NOUN	_	_	2	nmod	_	_
-5-6	al	_	_	_	_	_	_	_	_
-5	a	a	ADP	_	_	7	case	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
-7	15	15	NUM	_	NumForm=Digit|NumType=Card	4	nmod	_	_
-8	de	de	ADP	_	_	9	case	_	_
-9	diciembre	diciembre	NOUN	_	_	7	nmod	_	_
-10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
-11	banda	banda	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
-12	giró	girar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-13	por	por	ADP	_	_	14	case	_	_
-14	Estados	Estados	PROPN	_	_	12	obl	_	_
-15	Unidos	Unidos	PROPN	_	_	14	amod	_	_
-16	y	y	CCONJ	_	_	18	cc	_	_
-17	a	a	ADP	_	_	18	case	_	_
-18	finales	final	NOUN	_	Gender=Masc|Number=Plur	12	conj	_	_
-19	de	de	ADP	_	_	20	case	_	_
-20	mes	mes	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
-21	en	en	ADP	_	_	22	case	_	_
-22	Alemania	Alemania	PROPN	_	_	18	nmod	_	SpaceAfter=No
-23	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	19	19	NUM	_	NumForm=Digit|NumType=Card	13	obl	_	_
+4	de	de	ADP	_	_	5	case	_	_
+5	noviembre	noviembre	NOUN	_	_	3	nmod	_	_
+6-7	al	_	_	_	_	_	_	_	_
+6	a	a	ADP	_	_	8	case	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
+8	15	15	NUM	_	NumForm=Digit|NumType=Card	5	nmod	_	_
+9	de	de	ADP	_	_	10	case	_	_
+10	diciembre	diciembre	NOUN	_	_	8	nmod	_	_
+11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
+12	banda	banda	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+13	giró	girar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+14	por	por	ADP	_	_	15	case	_	_
+15	Estados	Estados	PROPN	_	_	13	obl	_	_
+16	Unidos	Unidos	PROPN	_	_	15	amod	_	_
+17	y	y	CCONJ	_	_	19	cc	_	_
+18	a	a	ADP	_	_	19	case	_	_
+19	finales	final	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	_
+20	de	de	ADP	_	_	21	case	_	_
+21	mes	mes	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	_
+22	en	en	ADP	_	_	23	case	_	_
+23	Alemania	Alemania	PROPN	_	_	19	nmod	_	SpaceAfter=No
+24	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
 
 # sent_id = es-train-019-s404
 # text = La mentalidad colonial puede verse igualmente a lo largo y ancho de Hispanoamérica.
@@ -293746,22 +293828,24 @@
 
 # sent_id = es-train-020-s132
 # text = Del total de la población el 3.52 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	3.52	3.52	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	3.52	3.52	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-020-s133
 # text = Los padres de Túñez, ambos naturales de Bertamiráns, La Coruña, emigraron a Caracas, Venezuela justo antes de su nacimiento.
@@ -317751,22 +317835,24 @@
 
 # sent_id = es-train-021-s413
 # text = Del total de la población el 3.13 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	3.13	3.13	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	3.13	3.13	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-021-s414
 # text = Al levantarse el telón, un oficial aparece castigando al pueblo, y ordenando que pidan que Borís acepte ser coronado zar.
@@ -317802,22 +317888,24 @@
 
 # sent_id = es-train-021-s415
 # text = Del total de la población el 8.76 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	8.76	8.76	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	8.76	8.76	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-021-s416
 # text = En los últimos años, países como Estados Unidos han experimentado una expansión notable, aunque en niveles muy bajos, de la educación separada en las escuelas públicas (392 escuelas en todo el país para el curso 2008-2009).
@@ -332642,22 +332730,24 @@
 
 # sent_id = es-train-022-s393
 # text = Del total de la población el 9.42 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	9.42	9.42	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	9.42	9.42	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-022-s394
 # text = Una consideración adicional es que 343 Industries sentía que el estilo de narración japonés encajaba bien con las historias.
@@ -346993,41 +347083,43 @@
 
 # sent_id = es-train-023-s345
 # text = Del tamaño de un elefante y color verde pálido, su descripción general recuerda superficialmente a la de un rinoceronte, incluyendo un cuerno (de marfil) de unos dos metros de largo.
-1	Del	del	ADP	_	_	2	case	_	_
-2	tamaño	tamaño	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
-6	y	y	CCONJ	_	_	7	cc	_	_
-7	color	color	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
-8	verde	verde	ADJ	_	Number=Sing	7	amod	_	_
-9	pálido	pálido	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
-10	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
-12	descripción	descripción	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
-13	general	general	ADJ	_	Number=Sing	12	amod	_	_
-14	recuerda	recordar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	superficialmente	superficialmente	ADV	_	_	14	advmod	_	_
-16	a	a	ADP	_	_	17	case	_	_
-17	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obl	_	_
-18	de	de	ADP	_	_	20	case	_	_
-19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
-20	rinoceronte	rinoceronte	NOUN	_	Number=Sing	17	nmod	_	SpaceAfter=No
-21	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-22	incluyendo	incluir	VERB	_	VerbForm=Ger	14	advcl	_	_
-23	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	cuerno	cuerno	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
-25	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	27	punct	_	SpaceAfter=No
-26	de	de	ADP	_	_	27	case	_	_
-27	marfil	marfil	NOUN	_	Gender=Masc|Number=Sing	24	nmod	_	SpaceAfter=No
-28	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	27	punct	_	_
-29	de	de	ADP	_	_	32	case	_	_
-30	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	31	obl	_	_
-31	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	32	nummod	_	_
-32	metros	metro	NOUN	_	Gender=Masc|Number=Plur	24	nmod	_	_
-33	de	de	ADP	_	_	34	case	_	_
-34	largo	largo	NOUN	_	Gender=Masc|Number=Sing	32	nmod	_	SpaceAfter=No
-35	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	tamaño	tamaño	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
+6	elefante	elefante	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
+7	y	y	CCONJ	_	_	8	cc	_	_
+8	color	color	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	_
+9	verde	verde	ADJ	_	Number=Sing	8	amod	_	_
+10	pálido	pálido	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
+11	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
+12	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
+13	descripción	descripción	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+14	general	general	ADJ	_	Number=Sing	13	amod	_	_
+15	recuerda	recordar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+16	superficialmente	superficialmente	ADV	_	_	15	advmod	_	_
+17	a	a	ADP	_	_	18	case	_	_
+18	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obl	_	_
+19	de	de	ADP	_	_	21	case	_	_
+20	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
+21	rinoceronte	rinoceronte	NOUN	_	Number=Sing	18	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+23	incluyendo	incluir	VERB	_	VerbForm=Ger	15	advcl	_	_
+24	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
+25	cuerno	cuerno	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
+26	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	28	punct	_	SpaceAfter=No
+27	de	de	ADP	_	_	28	case	_	_
+28	marfil	marfil	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
+29	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	28	punct	_	_
+30	de	de	ADP	_	_	33	case	_	_
+31	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	32	obl	_	_
+32	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	33	nummod	_	_
+33	metros	metro	NOUN	_	Gender=Masc|Number=Plur	25	nmod	_	_
+34	de	de	ADP	_	_	35	case	_	_
+35	largo	largo	NOUN	_	Gender=Masc|Number=Sing	33	nmod	_	SpaceAfter=No
+36	.	.	PUNCT	_	PunctType=Peri	15	punct	_	_
 
 # sent_id = es-train-023-s346
 # text = El mismo día cayó el fuerte de San Ireneo y San Juest en el oeste.
@@ -353794,22 +353886,24 @@
 
 # sent_id = es-train-024-s61
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-024-s62
 # text = Mañana miércoles será el turno de la boletería de la norte mientras que el jueves se ofrecerán las entradas para la popular sur.
@@ -358571,22 +358665,24 @@
 
 # sent_id = es-train-024-s223
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-024-s224
 # text = He aprendido más con vosotros en un año que nunca hasta ahora.
@@ -358606,22 +358702,24 @@
 
 # sent_id = es-train-024-s225
 # text = Del total de la población el 0.48 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0.48	0.48	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0.48	0.48	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-024-s226
 # text = Es conocido por ser el codescubridor del agente infeccioso de la peste bubónica en Hong Kong en 1894, casi de manera simultánea con el biológo suizo Alexandre Yersin.
@@ -363915,22 +364013,24 @@
 
 # sent_id = es-train-024-s395
 # text = Del total de la población el 2.48 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	2.48	2.48	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	2.48	2.48	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-024-s396
 # text = Me asesoraron en todos los aspectos y el acabado fue impresionante, como si me hubieran construido una piscina nueva.
@@ -367366,22 +367466,24 @@
 
 # sent_id = es-train-025-s10
 # text = Del total de la población el 6.25 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	6.25	6.25	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	6.25	6.25	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-025-s11
 # text = Ya no compro otras que no sean estas.
@@ -373288,45 +373390,47 @@
 
 # sent_id = es-train-025-s203
 # text = Del ballet ha dicho que es un arte, pero también uno de los deportes más duros: "Si puedes sobrevivir a un entrenamiento de ballet, puedes sobrevivir a un entrenamiento de cualquier otro deporte".
-1	Del	del	ADP	_	_	2	case	_	_
-2	ballet	ballet	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
-3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
-4	dicho	decir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-5	que	que	SCONJ	_	_	8	mark	_	_
-6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
-7	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-8	arte	arte	NOUN	_	Number=Sing	4	ccomp	_	SpaceAfter=No
-9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-10	pero	pero	CCONJ	_	_	12	cc	_	_
-11	también	también	ADV	_	_	12	advmod	_	_
-12	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	8	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-15	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
-16	más	más	ADV	_	Degree=Cmp	17	advmod	_	_
-17	duros	duro	ADJ	_	Gender=Masc|Number=Plur	15	amod	_	SpaceAfter=No
-18	:	:	PUNCT	_	PunctType=Colo	22	punct	_	_
-19	"	"	PUNCT	_	PunctType=Quot	22	punct	_	SpaceAfter=No
-20	Si	si	SCONJ	_	_	22	mark	_	_
-21	puedes	poder	AUX	_	VerbForm=Inf	22	aux	_	_
-22	sobrevivir	sobrevivir	VERB	_	VerbForm=Inf	4	parataxis	_	_
-23	a	a	ADP	_	_	25	case	_	_
-24	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
-25	entrenamiento	entrenamiento	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
-26	de	de	ADP	_	_	27	case	_	_
-27	ballet	ballet	NOUN	_	Gender=Masc|Number=Sing	25	nmod	_	SpaceAfter=No
-28	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
-29	puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	30	aux	_	_
-30	sobrevivir	sobrevivir	VERB	_	VerbForm=Inf	22	parataxis	_	_
-31	a	a	ADP	_	_	33	case	_	_
-32	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
-33	entrenamiento	entrenamiento	NOUN	_	Gender=Masc|Number=Sing	30	obj	_	_
-34	de	de	ADP	_	_	37	case	_	_
-35	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	37	det	_	_
-36	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	37	det	_	_
-37	deporte	deporte	NOUN	_	Gender=Masc|Number=Sing	33	nmod	_	SpaceAfter=No
-38	"	"	PUNCT	_	PunctType=Quot	22	punct	_	SpaceAfter=No
-39	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	ballet	ballet	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
+4	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+5	dicho	decir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+6	que	que	SCONJ	_	_	9	mark	_	_
+7	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	_
+8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+9	arte	arte	NOUN	_	Number=Sing	5	ccomp	_	SpaceAfter=No
+10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+11	pero	pero	CCONJ	_	_	13	cc	_	_
+12	también	también	ADV	_	_	13	advmod	_	_
+13	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	9	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
+16	deportes	deporte	NOUN	_	Gender=Masc|Number=Plur	13	nmod	_	_
+17	más	más	ADV	_	Degree=Cmp	18	advmod	_	_
+18	duros	duro	ADJ	_	Gender=Masc|Number=Plur	16	amod	_	SpaceAfter=No
+19	:	:	PUNCT	_	PunctType=Colo	23	punct	_	_
+20	"	"	PUNCT	_	PunctType=Quot	23	punct	_	SpaceAfter=No
+21	Si	si	SCONJ	_	_	23	mark	_	_
+22	puedes	poder	AUX	_	VerbForm=Inf	23	aux	_	_
+23	sobrevivir	sobrevivir	VERB	_	VerbForm=Inf	5	parataxis	_	_
+24	a	a	ADP	_	_	26	case	_	_
+25	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
+26	entrenamiento	entrenamiento	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
+27	de	de	ADP	_	_	28	case	_	_
+28	ballet	ballet	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	SpaceAfter=No
+29	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
+30	puedes	poder	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	31	aux	_	_
+31	sobrevivir	sobrevivir	VERB	_	VerbForm=Inf	23	parataxis	_	_
+32	a	a	ADP	_	_	34	case	_	_
+33	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
+34	entrenamiento	entrenamiento	NOUN	_	Gender=Masc|Number=Sing	31	obj	_	_
+35	de	de	ADP	_	_	38	case	_	_
+36	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	38	det	_	_
+37	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	38	det	_	_
+38	deporte	deporte	NOUN	_	Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
+39	"	"	PUNCT	_	PunctType=Quot	23	punct	_	SpaceAfter=No
+40	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-train-025-s204
 # text = Este palacio fue erigido en el año 1620 por Giulio Parigi, para la princesa Maria Maddalena de 'Medici, hija de Fernando I de Toscana.
@@ -381733,22 +381837,24 @@
 
 # sent_id = es-train-025-s483
 # text = Del total de la población el 4.22 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	4.22	4.22	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	4.22	4.22	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-025-s484
 # text = Según el 2000 la renta per cápita media de los habitantes del condado era de 30.740 dólares y el ingreso medio de una familia era de 38.346 dólares.
@@ -389048,22 +389154,24 @@
 
 # sent_id = es-train-026-s225
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-026-s226
 # text = En 1941, tras la intervención de la provincia de Catamarca por el gobierno federal, fue designado interventor de la misma.
@@ -411098,22 +411206,24 @@
 
 # sent_id = es-train-027-s463
 # text = Del total de la población el 0 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	0	0	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	0	0	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	ADJ	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-027-s464
 # text = El morbo que provocaba a nivel social era enorme.
@@ -419216,22 +419326,24 @@
 
 # sent_id = es-train-028-s220
 # text = Del total de la población el 89.85 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	89.85	89.85	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	89.85	89.85	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-028-s221
 # text = Fue escrita Perry, Lukaz Gottwald, Max Martín y Joshua Coleman, mientras que su producción musical estuvo a cargo de Gottwald, Coleman y Dr. Luke.
@@ -428293,22 +428405,24 @@
 
 # sent_id = es-train-029-s5
 # text = Del total de la población el 7.18 % eran hispanos o latinos de cualquier raza.
-1	Del	del	ADP	_	_	2	case	_	_
-2	total	total	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
-3	de	de	ADP	_	_	5	case	_	_
-4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
-5	población	población	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
-7	7.18	7.18	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
-8	%	%	SYM	_	_	10	nsubj	_	_
-9	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	cop	_	_
-10	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
-11	o	o	CCONJ	_	_	12	cc	_	_
-12	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	10	conj	_	_
-13	de	de	ADP	_	_	15	case	_	_
-14	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	15	det	_	_
-15	raza	raza	NOUN	_	Gender=Fem|Number=Sing	10	nmod	_	SpaceAfter=No
-16	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+1-2	Del	_	_	_	_	_	_	_	_
+1	De	de	ADP	_	_	3	case	_	_
+2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
+3	total	total	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
+4	de	de	ADP	_	_	6	case	_	_
+5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
+6	población	población	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
+7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
+8	7.18	7.18	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
+9	%	%	SYM	_	_	11	nsubj	_	_
+10	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	11	cop	_	_
+11	hispanos	hispano	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+12	o	o	CCONJ	_	_	13	cc	_	_
+13	latinos	latino	NOUN	_	Gender=Masc|Number=Plur	11	conj	_	_
+14	de	de	ADP	_	_	16	case	_	_
+15	cualquier	cualquiera	DET	_	Number=Sing|PronType=Ind	16	det	_	_
+16	raza	raza	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
 # sent_id = es-train-029-s6
 # text = En este contexto, el prelado destacó que el pueblo santiagueño es "modelo del discípulo misionero que todos tenemos que ser".
