@@ -29256,7 +29256,7 @@
 8-9	del	_	_	_	_	_	_	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	que	que	CCONJ	_	_	14	nmod	_	_
+10	que	que	PRON	_	PronType=Rel	14	nmod	_	_
 11	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	cop	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 13	legítimo	legítimo	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
@@ -60676,7 +60676,7 @@
 42	personas	persona	NOUN	_	Gender=Fem|Number=Plur	40	obj	_	SpaceAfter=No
 43	,	,	PUNCT	_	PunctType=Comm	47	punct	_	_
 44	a	a	ADP	_	_	45	case	_	_
-45	que	que	CCONJ	_	_	47	obl	_	_
+45	que	que	PRON	_	PronType=Rel	47	obl	_	_
 46	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	47	obl:arg	_	_
 47	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	parataxis	_	_
 48	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	47	obj	_	_
@@ -190076,7 +190076,7 @@
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	momento	momento	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
 24	en	en	ADP	_	_	25	case	_	_
-25	que	que	CCONJ	_	_	27	obl	_	_
+25	que	que	PRON	_	PronType=Rel	27	obl	_	_
 26	esto	este	PRON	_	Number=Sing|PronType=Dem	27	nsubj	_	_
 27	ocurrió	ocurrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	23	acl:relcl	_	_
 28	y	y	CCONJ	_	_	30	cc	_	_
@@ -255324,7 +255324,7 @@
 28	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
 29	por	por	ADP	_	_	31	case	_	_
 30	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	31	det	_	_
-31	que	que	CCONJ	_	_	33	obl	_	_
+31	que	que	PRON	_	PronType=Rel	33	obl	_	_
 32	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	33	expl:pv	_	_
 33	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	parataxis	_	_
 34	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
@@ -268872,10 +268872,10 @@
 9	actividad	actividad	NOUN	_	Gender=Fem|Number=Sing	7	nmod	_	_
 10	incesante	incesante	ADJ	_	Number=Sing	9	amod	_	_
 11	en	en	ADP	_	_	12	case	_	_
-12	que	que	CCONJ	_	_	15	obl	_	_
+12	que	que	PRON	_	PronType=Rel	15	obl	_	_
 13	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	15	nsubj	_	_
 14	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obl:arg	_	_
-15	encontraba	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	advcl	_	_
+15	encontraba	encontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	acl:relcl	_	_
 16	en	en	ADP	_	_	18	case	_	_
 17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	años	año	NOUN	_	Gender=Masc|Number=Plur	15	obl	_	_
@@ -331382,7 +331382,7 @@
 5	hasta	hasta	ADP	_	_	6	case	_	_
 6	ahora	ahora	ADV	_	_	4	advmod	_	_
 7	en	en	ADP	_	_	8	case	_	_
-8	que	que	CCONJ	_	_	12	obl	_	_
+8	que	que	PRON	_	PronType=Rel	12	obl	_	_
 9	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	titán	titán	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
 11	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
@@ -431733,7 +431733,7 @@
 37-38	del	_	_	_	_	_	_	_	_
 37	de	de	ADP	_	_	39	case	_	_
 38	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	39	det	_	_
-39	que	que	CCONJ	_	_	41	obl	_	_
+39	que	que	PRON	_	PronType=Rel	41	obl	_	_
 40	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	41	obl:arg	_	_
 41	separan	separar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	32	acl:relcl	_	_
 42	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	43	obl	_	_
