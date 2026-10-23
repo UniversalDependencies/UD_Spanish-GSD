@@ -215344,12 +215344,12 @@
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	jugador	jugador	NOUN	_	Gender=Masc|Number=Sing	22	nsubj	_	_
 25-26	al	_	_	_	_	_	_	_	_
-25	a	a	ADP	_	_	27	case	_	_
+25	a	a	ADP	_	_	27	mark	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
-27	caer	caer	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
+27	caer	caer	VERB	_	VerbForm=Inf	22	advcl	_	_
 28	en	en	ADP	_	_	30	case	_	_
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
-30	parqué	parqué	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	_
+30	parqué	parqué	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	_
 31-32	del	_	_	_	_	_	_	_	_
 31	de	de	ADP	_	_	33	case	_	_
 32	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
@@ -215361,7 +215361,7 @@
 37	Rey	Rey	PROPN	_	_	34	nmod	_	_
 38	tras	tras	ADP	_	_	40	case	_	_
 39	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	resbalón	resbalón	NOUN	_	Gender=Masc|Number=Sing	27	nmod	_	_
+40	resbalón	resbalón	NOUN	_	Gender=Masc|Number=Sing	27	obl	_	_
 41	fortuito	fortuito	ADJ	_	Gender=Masc|Number=Sing	40	amod	_	SpaceAfter=No
 42	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
 43	durante	durante	ADP	_	_	45	case	_	_
