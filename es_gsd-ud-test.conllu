@@ -5505,7 +5505,7 @@
 7	fácil	fácil	ADJ	_	Number=Sing	0	root	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 9	tanto	tanto	ADV	_	_	7	advmod	_	_
-10	que	que	CCONJ	_	_	12	case	_	_
+10	que	que	SCONJ	_	_	12	case	_	_
 11	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	pensado	pensar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	advcl	_	_
 13	que	que	SCONJ	_	_	16	mark	_	_
@@ -9994,7 +9994,7 @@
 44	de	de	ADP	_	_	46	case	_	_
 45	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	46	amod	_	_
 46	calidad	calidad	NOUN	_	Gender=Fem|Number=Sing	38	nmod	_	_
-47	que	que	CCONJ	_	_	49	case	_	_
+47	que	que	SCONJ	_	_	49	case	_	_
 48	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	49	det	_	_
 49	grabaciones	grabación	NOUN	_	Gender=Fem|Number=Plur	45	nmod	_	_
 50	de	de	ADP	_	_	51	case	_	_
@@ -10611,7 +10611,7 @@
 17	inter	inter	X	_	Gender=Fem|Number=Sing	19	dep	_	_
 18	-	-	PUNCT	_	PunctType=Dash	17	punct	_	_
 19	conectividad	conectividad	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
-20	que	que	CCONJ	_	_	24	case	_	_
+20	que	que	SCONJ	_	_	24	case	_	_
 21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	millones	millón	NOUN	_	Gender=Masc|Number=Plur	24	nummod	_	_
 23	de	de	ADP	_	_	22	case	_	_
@@ -13169,7 +13169,7 @@
 39	irás	ir	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	2	advcl	_	_
 40	tan	tanto	ADV	_	_	41	advmod	_	_
 41	apretado	apretado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	39	xcomp	_	_
-42	que	que	CCONJ	_	_	44	case	_	_
+42	que	que	SCONJ	_	_	44	case	_	_
 43	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	44	obl:arg	_	_
 44	costará	costar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	40	advcl	_	_
 45	respirar	respirar	VERB	_	VerbForm=Inf	44	csubj	_	_

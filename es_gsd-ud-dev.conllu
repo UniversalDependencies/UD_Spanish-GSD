@@ -845,7 +845,7 @@
 2	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	tan	tanto	ADV	_	_	2	advmod	_	_
 4	fatuo	fatuo	ADJ	_	Gender=Masc|Number=Sing	2	xcomp	_	_
-5	que	que	CCONJ	_	_	6	case	_	_
+5	que	que	SCONJ	_	_	6	case	_	_
 6	pretendió	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
 7	ser	ser	AUX	_	VerbForm=Inf	9	cop	_	_
 8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
@@ -6944,7 +6944,7 @@
 6	mismo	mismo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	de	de	ADP	_	_	8	case	_	_
 8	niños	niño	NOUN	_	Gender=Masc|Number=Plur	4	obl	_	_
-9	que	que	CCONJ	_	_	10	case	_	_
+9	que	que	SCONJ	_	_	10	case	_	_
 10	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	6	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 12	y	y	CCONJ	_	_	14	cc	_	_
@@ -8108,7 +8108,7 @@
 15	situación	situación	NOUN	_	Gender=Fem|Number=Sing	16	nsubj	_	_
 16	sigue	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	ccomp	_	_
 17	igual	igual	ADJ	_	Number=Sing	16	xcomp	_	_
-18	que	que	CCONJ	_	_	19	case	_	_
+18	que	que	SCONJ	_	_	19	case	_	_
 19	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	16	advcl	_	_
 20	cuando	cuando	SCONJ	_	_	25	mark	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -16132,7 +16132,7 @@
 27	manera	manera	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	_
 28	tan	tanto	ADV	_	_	29	advmod	_	_
 29	extraña	extraño	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	_
-30	que	que	CCONJ	_	_	31	case	_	_
+30	que	que	SCONJ	_	_	31	case	_	_
 31	asustó	asustar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	advcl	_	_
 32-33	al	_	_	_	_	_	_	_	_
 32	a	a	ADP	_	_	34	case	_	_
@@ -17156,7 +17156,7 @@
 34	decisión	decisión	NOUN	_	Gender=Fem|Number=Sing	32	nmod	_	_
 35	de	de	ADP	_	_	36	case	_	_
 36	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	_
-37	que	que	CCONJ	_	_	38	case	_	_
+37	que	que	SCONJ	_	_	38	case	_	_
 38	Kennedy	Kennedy	PROPN	_	_	32	nmod	_	SpaceAfter=No
 39	.	.	PUNCT	_	PunctType=Peri	20	punct	_	_
 
@@ -21087,7 +21087,7 @@
 4	albergar	albergar	VERB	_	VerbForm=Inf	0	root	_	_
 5	nada	nada	PRON	_	Number=Sing|PronType=Neg	6	nmod	_	_
 6	menos	menos	ADV	_	Degree=Cmp	8	advmod	_	_
-7	que	que	CCONJ	_	_	6	case	_	_
+7	que	que	SCONJ	_	_	6	case	_	_
 8	10.000	10000	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
 9	personas	persona	NOUN	_	Gender=Fem|Number=Plur	4	obj	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
@@ -22589,7 +22589,7 @@
 18	deberá	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	20	aux	_	_
 19	ser	ser	AUX	_	VerbForm=Inf	20	cop	_	_
 20	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	0	root	_	_
-21	que	que	CCONJ	_	_	23	case	_	_
+21	que	que	SCONJ	_	_	23	case	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	frecuencia	frecuencia	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	_
 24	de	de	ADP	_	_	25	case	_	_
@@ -30172,7 +30172,7 @@
 11	y	y	CCONJ	_	_	12	cc	_	_
 12	blasfemó	blasfemar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 13	tanto	tanto	ADV	_	_	12	advmod	_	_
-14	que	que	CCONJ	_	_	20	case	_	_
+14	que	que	SCONJ	_	_	20	case	_	_
 15	UL	ul	X	_	_	20	nsubj	_	_
 16	en	en	ADP	_	_	17	case	_	_
 17	persona	persona	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
@@ -33276,7 +33276,7 @@
 46	ver	ver	VERB	_	VerbForm=Inf	45	xcomp	_	_
 47	"	"	PUNCT	_	PunctType=Quot	48	punct	_	SpaceAfter=No
 48	mejor	mejor	ADJ	_	Degree=Cmp|Number=Sing	46	xcomp	_	_
-49	que	que	CCONJ	_	_	50	case	_	_
+49	que	que	SCONJ	_	_	50	case	_	_
 50	nunca	nunca	ADV	_	_	48	advmod	_	SpaceAfter=No
 51	"	"	PUNCT	_	PunctType=Quot	48	punct	_	SpaceAfter=No
 52	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -35387,7 +35387,7 @@
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
 17	menores	menor	ADJ	_	Degree=Cmp|Number=Plur	16	amod	_	_
-18	que	que	CCONJ	_	_	20	case	_	_
+18	que	que	SCONJ	_	_	20	case	_	_
 19	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	20	nummod	_	_
 20	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	17	nmod	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
