@@ -6817,7 +6817,7 @@
 18	Caro	Caro	PROPN	_	_	16	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
 20	ya	ya	ADV	_	ExtPos=SCONJ	29	mark	_	_
-21	que	que	CCONJ	_	_	20	fixed	_	_
+21	que	que	SCONJ	_	_	20	fixed	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	cantor	cantor	NOUN	_	Gender=Masc|Number=Sing	29	nsubj	_	_
 24	estable	estable	ADJ	_	Number=Sing	23	amod	_	SpaceAfter=No
@@ -17538,7 +17538,7 @@
 9	importancia	importancia	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
 10	estratégica	estratégico	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 11	ya	ya	ADV	_	ExtPos=SCONJ	13	mark	_	_
-12	que	que	CCONJ	_	_	11	fixed	_	_
+12	que	que	SCONJ	_	_	11	fixed	_	_
 13	permite	permitir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 14	usar	usar	VERB	_	VerbForm=Inf	13	xcomp	_	_
 15	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	17	det	_	_
@@ -28378,7 +28378,7 @@
 # sent_id = es-dev-002-s443
 # text = Así que debemos darle la bienvenida al nuevo sistema.
 1	Así	así	ADV	_	ExtPos=ADV	4	advmod	_	_
-2	que	que	CCONJ	_	_	1	fixed	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
 3	debemos	deber	AUX	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	4	aux	_	_
 4-5	darle	_	_	_	_	_	_	_	_
 4	dar	dar	VERB	_	VerbForm=Inf	0	root	_	_
@@ -37053,7 +37053,7 @@
 15	de	de	ADP	_	_	16	case	_	_
 16	viajes	viaje	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	_
 17	ni	ni	SCONJ	_	ExtPos=SCONJ	21	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	21	obl:arg	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	obj	_	_
 21	regalaran	regalar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	6	advcl	_	SpaceAfter=No
@@ -40893,7 +40893,7 @@
 9	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pv	_	_
 10	esperábamos	esperar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	6	advcl	_	_
 11	ya	ya	ADV	_	ExtPos=SCONJ	13	mark	_	_
-12	que	que	CCONJ	_	_	11	fixed	_	_
+12	que	que	SCONJ	_	_	11	fixed	_	_
 13	solíamos	soler	VERB	_	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	6	advcl	_	_
 14	ir	ir	VERB	_	VerbForm=Inf	13	xcomp	_	_
 15	a	a	ADP	_	_	17	case	_	_

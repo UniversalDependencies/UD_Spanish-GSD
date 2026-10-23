@@ -86,7 +86,7 @@
 7	a	a	ADP	_	ExtPos=CCONJ	8	cc	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 9	igual	igual	ADJ	_	Number=Sing	7	fixed	_	_
-10	que	que	CCONJ	_	_	7	fixed	_	_
+10	que	que	SCONJ	_	_	7	fixed	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	filme	filme	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -1924,7 +1924,7 @@
 # sent_id = es-dev-003-s482
 # text = Así que utilizando este argumento llegamos a la conclusión de que realmente el empresario no es el jefe y quien tiene la sarten por el mango, sino que el jefe son los trabajadores y son los que tienen la sarten por el mango, pero no se dan cuenta.
 1	Así	así	ADV	_	ExtPos=SCONJ	6	mark	_	_
-2	que	que	CCONJ	_	_	1	fixed	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
 3	utilizando	utilizar	VERB	_	VerbForm=Ger	6	advcl	_	_
 4	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
 5	argumento	argumento	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
@@ -3826,7 +3826,7 @@
 # sent_id = es-dev-004-s41
 # text = Así que cuidado porque el trato es lo peor que encontrado nunca.
 1	Así	así	ADV	_	ExtPos=CCONJ	3	cc	_	_
-2	que	que	CCONJ	_	_	1	fixed	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
 3	cuidado	cuidado	NOUN	_	Number=Sing	0	root	_	_
 4	porque	porque	SCONJ	_	_	9	mark	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -5662,7 +5662,7 @@
 11	por	por	ADP	_	_	19	case	_	_
 12	nada	nada	PRON	_	Number=Sing|PronType=Neg	15	obl	_	_
 13	menos	menos	ADV	_	Degree=Cmp|ExtPos=ADV	12	advmod	_	_
-14	que	que	CCONJ	_	_	13	fixed	_	_
+14	que	que	SCONJ	_	_	13	fixed	_	_
 15	un	uno	NUM	_	Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	16	nummod	_	_
 16	millón	millón	NOUN	_	Gender=Masc|Number=Sing	19	nummod	_	_
 17	de	de	ADP	_	_	16	case	_	_
@@ -6072,7 +6072,7 @@
 41	Radio	Radio	PROPN	_	_	39	nmod	_	_
 42	Sagua	Sagua	PROPN	_	_	41	flat	_	_
 43	ya	ya	ADV	_	ExtPos=SCONJ	51	mark	_	_
-44	que	que	CCONJ	_	_	43	fixed	_	_
+44	que	que	SCONJ	_	_	43	fixed	_	_
 45	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	47	det	_	_
 46	pobres	pobre	ADJ	_	Number=Plur	47	amod	_	_
 47	familiares	familiar	NOUN	_	Number=Plur	51	nsubj	_	_
@@ -9125,7 +9125,7 @@
 56	a	a	ADP	_	ExtPos=SCONJ	61	mark	_	_
 57	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	_
 58	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	56	fixed	_	_
-59	que	que	CCONJ	_	_	56	fixed	_	_
+59	que	que	SCONJ	_	_	56	fixed	_	_
 60	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	61	aux	_	_
 61	asegurado	asegurar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	14	advcl	_	_
 62	que	que	SCONJ	_	_	65	mark	_	_
@@ -10368,7 +10368,7 @@
 31	Europa	Europa	PROPN	_	_	26	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 33	ya	ya	ADV	_	ExtPos=SCONJ	40	mark	_	_
-34	que	que	CCONJ	_	_	33	fixed	_	_
+34	que	que	SCONJ	_	_	33	fixed	_	_
 35	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	37	det	_	_
 36	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
 37	equipos	equipo	NOUN	_	Gender=Masc|Number=Plur	40	nsubj	_	_
@@ -11916,7 +11916,7 @@
 24	mayor	mayor	ADJ	_	Degree=Cmp|Number=Sing	23	amod	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 26	ya	ya	ADV	_	ExtPos=SCONJ	28	mark	_	_
-27	que	que	CCONJ	_	_	26	fixed	_	_
+27	que	que	SCONJ	_	_	26	fixed	_	_
 28	acumuló	acumular	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	advcl	_	_
 29	12	12	NUM	_	NumForm=Digit|NumType=Card	30	nummod	_	_
 30	centímetros	centímetro	NOUN	_	Gender=Masc|Number=Plur	28	obj	_	_
@@ -12074,7 +12074,7 @@
 67	pero	pero	CCONJ	_	_	72	cc	_	_
 68	desde	desde	ADP	_	ExtPos=ADV	72	advmod	_	_
 69	luego	luego	ADV	_	_	68	fixed	_	_
-70	que	que	CCONJ	_	_	68	fixed	_	_
+70	que	que	SCONJ	_	_	68	fixed	_	_
 71	mal	mal	ADV	_	_	72	advmod	_	_
 72	educados	educado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	60	conj	_	_
 73	nunca	nunca	ADV	_	Polarity=Neg	72	advmod	_	_
@@ -12129,7 +12129,7 @@
 11	a	a	ADP	_	ExtPos=SCONJ	15	mark	_	_
 12	no	no	ADV	_	Polarity=Neg	11	fixed	_	_
 13	ser	ser	VERB	_	VerbForm=Inf	11	fixed	_	_
-14	que	que	CCONJ	_	_	11	fixed	_	_
+14	que	que	SCONJ	_	_	11	fixed	_	_
 15	sea	ser	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 16	para	para	ADP	_	_	17	mark	_	_
 17	sacar	sacar	VERB	_	VerbForm=Inf	15	advcl	_	_

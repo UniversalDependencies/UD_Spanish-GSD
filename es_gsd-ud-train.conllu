@@ -1827,7 +1827,7 @@
 6	funcional	funcional	ADJ	_	Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 8	igual	igual	ADJ	_	ExtPos=CCONJ	15	cc	_	_
-9	que	que	CCONJ	_	_	8	fixed	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
 10	cuando	cuando	SCONJ	_	_	15	mark	_	_
 11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	familia	familia	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
@@ -3086,7 +3086,7 @@
 14	país	país	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 16	ya	ya	ADV	_	ExtPos=SCONJ	18	mark	_	_
-17	que	que	CCONJ	_	_	16	fixed	_	_
+17	que	que	SCONJ	_	_	16	fixed	_	_
 18	participó	participar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	advcl	_	_
 19	como	como	SCONJ	_	_	20	case	_	_
 20	invitado	invitado	NOUN	_	Gender=Masc|Number=Sing	18	obl	_	_
@@ -7224,7 +7224,7 @@
 10	Vietnam	Vietnam	PROPN	_	_	6	obl:arg	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 12	ya	ya	ADV	_	ExtPos=SCONJ	16	mark	_	_
-13	que	que	CCONJ	_	_	12	fixed	_	_
+13	que	que	SCONJ	_	_	12	fixed	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	plan	plan	NOUN	_	Gender=Masc|Number=Sing	16	nsubj	_	_
 16	incluye	incluir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
@@ -7813,7 +7813,7 @@
 14	suicidio	suicidio	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 16	ya	ya	ADV	_	ExtPos=SCONJ	26	mark	_	_
-17	que	que	CCONJ	_	_	16	fixed	_	SpaceAfter=No
+17	que	que	SCONJ	_	_	16	fixed	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 19	según	según	ADP	_	_	21	case	_	_
 20	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
@@ -8461,7 +8461,7 @@
 21	cara	cara	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 23	ya	ya	ADV	_	ExtPos=SCONJ	26	mark	_	_
-24	que	que	CCONJ	_	_	23	fixed	_	_
+24	que	que	SCONJ	_	_	23	fixed	_	_
 25	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
 26	común	común	ADJ	_	Number=Sing	9	advcl	_	_
 27	ver	ver	VERB	_	VerbForm=Inf	26	csubj	_	_
@@ -15593,7 +15593,7 @@
 18	nivel	nivel	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 20	ya	ya	ADV	_	ExtPos=SCONJ	30	mark	_	_
-21	que	que	CCONJ	_	_	20	fixed	_	_
+21	que	que	SCONJ	_	_	20	fixed	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	portero	portero	NOUN	_	Gender=Masc|Number=Sing	30	nsubj	_	_
 24	de	de	ADP	_	_	25	case	_	_
@@ -20643,7 +20643,7 @@
 8	a	a	ADP	_	ExtPos=CCONJ	13	cc	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 10	igual	igual	ADJ	_	Number=Sing	8	fixed	_	_
-11	que	que	CCONJ	_	_	8	fixed	_	_
+11	que	que	SCONJ	_	_	8	fixed	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	resto	resto	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	_
 14-15	del	_	_	_	_	_	_	_	_
@@ -23379,7 +23379,7 @@
 32	López	López	PROPN	_	_	30	flat	_	SpaceAfter=No
 33	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
 34	ya	ya	ADV	_	ExtPos=SCONJ	37	mark	_	_
-35	que	que	CCONJ	_	_	34	fixed	_	_
+35	que	que	SCONJ	_	_	34	fixed	_	_
 36	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	37	obl:arg	_	_
 37	adeudan	adeudar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 38	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	39	det	_	_
@@ -25541,7 +25541,7 @@
 22	conciencia	conciencia	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 24	ya	ya	ADV	_	ExtPos=SCONJ	29	mark	_	_
-25	que	que	CCONJ	_	_	24	fixed	_	_
+25	que	que	SCONJ	_	_	24	fixed	_	_
 26	cada	cada	DET	_	Number=Sing|PronType=Tot	27	det	_	_
 27	obra	obra	NOUN	_	Gender=Fem|Number=Sing	29	nsubj:pass	_	_
 28	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	29	aux:pass	_	_
@@ -26681,7 +26681,7 @@
 30	Comunitat	comunitat	NOUN	_	_	26	nmod	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	43	punct	_	_
 32	ya	ya	ADV	_	ExtPos=SCONJ	43	mark	_	_
-33	que	que	CCONJ	_	_	32	fixed	_	_
+33	que	que	SCONJ	_	_	32	fixed	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
 35	uso	uso	NOUN	_	Gender=Masc|Number=Sing	43	nsubj	_	_
 36	de	de	ADP	_	_	37	case	_	_
@@ -27466,7 +27466,7 @@
 12	Salvador	Salvador	PROPN	_	_	9	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 14	ya	ya	ADV	_	ExtPos=SCONJ	16	mark	_	_
-15	que	que	CCONJ	_	_	14	fixed	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
 16	existen	existir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 17	circuitos	circuito	NOUN	_	Gender=Masc|Number=Plur	16	nsubj	_	_
 18	de	de	ADP	_	_	19	case	_	_
@@ -36609,7 +36609,7 @@
 9	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 11	así	así	ADV	_	ExtPos=SCONJ	13	mark	_	_
-12	que	que	CCONJ	_	_	11	fixed	_	_
+12	que	que	SCONJ	_	_	11	fixed	_	_
 13	indicad	indicar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	9	advcl	_	_
 14	cómo	cómo	ADV	_	PronType=Int	16	advmod	_	_
 15	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
@@ -37943,7 +37943,7 @@
 1	A	a	ADP	_	ExtPos=ADP	6	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	igual	igual	ADJ	_	_	1	fixed	_	_
-4	que	que	CCONJ	_	_	1	fixed	_	_
+4	que	que	SCONJ	_	_	1	fixed	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	mayoría	mayoría	NOUN	_	Gender=Fem|Number=Sing	20	obl	_	_
 7	de	de	ADP	_	_	9	case	_	_
@@ -46010,7 +46010,7 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	principio	principio	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	ya	ya	ADV	_	ExtPos=SCONJ	11	mark	_	_
-7	que	que	CCONJ	_	_	6	fixed	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
 8	en	en	ADP	_	_	10	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	actualidad	actualidad	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
@@ -53864,7 +53864,7 @@
 42	a	a	ADP	_	ExtPos=ADP	47	case	_	_
 43	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	47	det	_	_
 44	igual	igual	ADJ	_	Number=Sing	42	fixed	_	_
-45	que	que	CCONJ	_	_	42	fixed	_	_
+45	que	que	SCONJ	_	_	42	fixed	_	_
 46	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	_
 47	ropa	ropa	NOUN	_	Gender=Fem|Number=Sing	38	nmod	_	_
 48	que	que	PRON	_	PronType=Rel	50	obj	_	_
@@ -54595,7 +54595,7 @@
 15	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
 16	descartan	descartar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 17	ya	ya	ADV	_	ExtPos=SCONJ	19	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 20	cierto	cierto	DET	_	Gender=Masc|Number=Sing|PronType=Ind	21	det	_	_
 21	valor	valor	NOUN	_	Gender=Masc|Number=Sing	19	obj	_	_
@@ -54709,7 +54709,7 @@
 12	niños	niño	NOUN	_	Gender=Masc|Number=Plur	5	nsubj	_	_
 13	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
 14	si	si	ADV	_	ExtPos=ADV	16	advmod	_	_
-15	que	que	CCONJ	_	_	14	fixed	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
 16	regresaron	regresar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	SpaceAfter=No
 17	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
@@ -56583,7 +56583,7 @@
 24	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 26	siempre	siempre	ADV	_	ExtPos=SCONJ	28	mark	_	_
-27	que	que	CCONJ	_	_	26	fixed	_	_
+27	que	que	SCONJ	_	_	26	fixed	_	_
 28	voy	ir	VERB	_	Mood=Ind|VerbForm=Fin	37	advcl	_	_
 29	de	de	ADP	_	_	30	case	_	_
 30	vacaciones	vacaciones	NOUN	_	Gender=Fem|Number=Plur	28	obl	_	_
@@ -59817,7 +59817,7 @@
 41	a	a	ADP	_	ExtPos=ADP	46	case	_	_
 42	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	46	det	_	_
 43	igual	igual	ADJ	_	Number=Sing	41	fixed	_	_
-44	que	que	CCONJ	_	_	41	fixed	_	_
+44	que	que	SCONJ	_	_	41	fixed	_	_
 45	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	46	det	_	_
 46	vida	vida	NOUN	_	Gender=Fem|Number=Sing	37	nmod	_	SpaceAfter=No
 47	,	,	PUNCT	_	PunctType=Comm	51	punct	_	_
@@ -64162,7 +64162,7 @@
 25	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	24	punct	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
 27	ainsi	ainsi	CCONJ	_	ExtPos=CCONJ|Foreign=Yes	29	cc	_	Lang=fr
-28	que	que	CCONJ	_	Foreign=Yes	27	fixed	_	Lang=fr
+28	que	que	SCONJ	_	Foreign=Yes	27	fixed	_	Lang=fr
 29	Lady	Lady	PROPN	_	_	21	conj	_	_
 30	Rose	Rose	PROPN	_	_	29	flat	_	_
 31	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	32	punct	_	SpaceAfter=No
@@ -68048,7 +68048,7 @@
 15	más	más	ADV	_	Degree=Cmp	6	advmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 17	ya	ya	ADV	_	ExtPos=SCONJ	22	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	compañía	compañía	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
 21	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
@@ -72719,7 +72719,7 @@
 17	minoría	minoría	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
 19	así	así	ADV	_	ExtPos=SCONJ	28	mark	_	_
-20	que	que	CCONJ	_	_	19	fixed	_	_
+20	que	que	SCONJ	_	_	19	fixed	_	_
 21	visto	ver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	28	advcl	_	_
 22	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	nsubj	_	_
 23	visto	ver	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	22	acl	_	SpaceAfter=No
@@ -73525,7 +73525,7 @@
 13	de	de	ADP	_	_	14	case	_	_
 14	sorpresa	sorpresa	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
 15	ya	ya	ADV	_	ExtPos=SCONJ	17	mark	_	_
-16	que	que	CCONJ	_	_	15	fixed	_	_
+16	que	que	SCONJ	_	_	15	fixed	_	_
 17	paso	pasar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|Typo=Yes|VerbForm=Fin	12	advcl	_	CorrectForm=pasó
 18	con	con	ADP	_	_	19	case	_	_
 19	frecuencia	frecuencia	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	_
@@ -74000,7 +74000,7 @@
 11	tecnología	tecnología	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 13	ya	ya	ADV	_	ExtPos=SCONJ	16	mark	_	_
-14	que	que	CCONJ	_	_	13	fixed	_	_
+14	que	que	SCONJ	_	_	13	fixed	_	_
 15	podrán	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	16	aux	_	_
 16-17	comunicarse	_	_	_	_	_	_	_	_
 16	comunicar	comunicar	VERB	_	VerbForm=Inf	7	advcl	_	_
@@ -74261,7 +74261,7 @@
 6	postres	postre	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 8	sino	sino	CCONJ	_	ExtPos=CCONJ	11	cc	_	_
-9	que	que	CCONJ	_	_	8	fixed	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
 10	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	11	obl:arg	_	_
 11	dicen	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 12	de	de	ADP	_	_	13	case	_	_
@@ -76297,7 +76297,7 @@
 10	a	a	ADP	_	ExtPos=ADP	14	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 12	igual	igual	ADJ	_	Number=Sing	10	fixed	_	_
-13	que	que	CCONJ	_	_	10	fixed	_	_
+13	que	que	SCONJ	_	_	10	fixed	_	_
 14	protestas	protesta	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
 15	y	y	CCONJ	_	_	16	cc	_	_
 16	marchas	marcha	NOUN	_	Gender=Fem|Number=Plur	14	conj	_	_
@@ -77485,7 +77485,7 @@
 10	a	a	ADP	_	ExtPos=CCONJ	14	cc	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 12	igual	igual	ADJ	_	Gender=Masc|Number=Sing	10	fixed	_	_
-13	que	que	CCONJ	_	_	10	fixed	_	_
+13	que	que	SCONJ	_	_	10	fixed	_	_
 14	servir	servir	VERB	_	VerbForm=Inf	5	conj	_	_
 15	de	de	ADP	_	_	17	case	_	_
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -77967,7 +77967,7 @@
 14	compartir	compartir	VERB	_	VerbForm=Inf	13	csubj	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 16	así	así	ADV	_	ExtPos=CCONJ	18	cc	_	_
-17	que	que	CCONJ	_	_	16	fixed	_	_
+17	que	que	SCONJ	_	_	16	fixed	_	_
 18	hicimos	hacer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
 19	caso	caso	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
 20	y	y	CCONJ	_	_	21	cc	_	_
@@ -78621,7 +78621,7 @@
 7	corriente	corriente	ADJ	_	Number=Sing	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 9	sólo	sólo	ADV	_	ExtPos=CCONJ	12	cc	_	_
-10	que	que	CCONJ	_	_	9	fixed	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
 11	he	haber	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	hecho	hacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	conj	_	_
 13	unas	uno	DET	_	Definite=Ind|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
@@ -79864,7 +79864,7 @@
 15	campeonato	campeonato	NOUN	_	Gender=Masc|Number=Sing	10	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 17	ya	ya	ADV	_	ExtPos=SCONJ	22	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	Unión	Unión	PROPN	_	_	22	nsubj	_	_
 20	San	santo	ADJ	_	Gender=Masc|Number=Sing	19	amod	_	_
 21	Felipe	Felipe	PROPN	_	_	19	flat	_	_
@@ -80140,7 +80140,7 @@
 11	a	a	ADP	_	ExtPos=ADP	16	case	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 13	igual	igual	ADJ	_	Number=Sing	11	fixed	_	_
-14	que	que	CCONJ	_	_	11	fixed	_	_
+14	que	que	SCONJ	_	_	11	fixed	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	ternera	ternera	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 17	en	en	ADP	_	_	18	case	_	_
@@ -85999,7 +85999,7 @@
 17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	18	det	_	_
 18	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	15	conj	_	_
 19	ya	ya	ADV	_	ExtPos=SCONJ	22	mark	_	_
-20	que	que	CCONJ	_	_	19	fixed	_	_
+20	que	que	SCONJ	_	_	19	fixed	_	_
 21	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	22	aux	_	_
 22	buscando	buscar	VERB	_	VerbForm=Ger	11	advcl	_	_
 23	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	22	obj	_	_
@@ -86090,7 +86090,7 @@
 3	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	4	det	_	_
 4	animales	animal	NOUN	_	Gender=Masc|Number=Plur	2	obj	_	_
 5	para	para	SCONJ	_	ExtPos=SCONJ	10	mark	_	_
-6	que	que	CCONJ	_	_	5	fixed	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
 7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	peques	peque	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
 9	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	10	expl:pv	_	_
@@ -86717,7 +86717,7 @@
 9	1924	1924	NUM	_	NumForm=Digit|NumType=Card	4	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 11	ya	ya	ADV	_	ExtPos=SCONJ	14	mark	_	_
-12	que	que	CCONJ	_	_	11	fixed	_	_
+12	que	que	SCONJ	_	_	11	fixed	_	_
 13	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	_	_
 14	realizados	realizar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	4	advcl	_	_
 15	en	en	ADP	_	_	16	case	_	_
@@ -95837,7 +95837,7 @@
 6	fructífera	fructífero	ADJ	_	Gender=Fem|Number=Sing	4	xcomp	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 8	ya	ya	ADV	_	ExtPos=SCONJ	12	mark	_	_
-9	que	que	PRON	_	PronType=Rel	8	fixed	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
 10	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
 11	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	_
 12	confirmado	confirmar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
@@ -96442,7 +96442,7 @@
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	a	a	ADP	_	ExtPos=SCONJ	9	mark	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	fixed	_	_
-7	que	que	CCONJ	_	_	5	fixed	_	_
+7	que	que	SCONJ	_	_	5	fixed	_	_
 8	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	9	obl:arg	_	_
 9	descuidas	descuir	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	10	advcl	_	_
 10	intentan	intentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -96911,7 +96911,7 @@
 30	antoje	antojar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 32	así	así	ADV	_	ExtPos=CCONJ	38	cc	_	_
-33	que	que	CCONJ	_	_	32	fixed	_	_
+33	que	que	SCONJ	_	_	32	fixed	_	_
 34	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	38	punct	_	SpaceAfter=No
 35	por	por	ADP	_	_	36	case	_	_
 36	qué	qué	PRON	_	Number=Sing|PronType=Int	38	obl	_	_
@@ -102965,7 +102965,7 @@
 # text = Inmediatamente después que se modificó la ordenanza el movimiento de construcción se hizo intenso y los mismos carpinteros que venían contratados de Chiloé encontraron en la construcción de casas de dos aguas un objetivo altamente gratificante para ocupar su tiempo.
 1	Inmediatamente	inmediatamente	ADV	_	_	5	advmod	_	_
 2	después	después	ADV	_	ExtPos=SCONJ	5	mark	_	_
-3	que	que	CCONJ	_	_	2	fixed	_	_
+3	que	que	SCONJ	_	_	2	fixed	_	_
 4	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 5	modificó	modificar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -113107,7 +113107,7 @@
 49	a	a	ADP	_	ExtPos=SCONJ	53	mark	_	_
 50	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	53	det	_	_
 51	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	49	fixed	_	_
-52	que	que	PRON	_	PronType=Rel	49	fixed	_	_
+52	que	que	SCONJ	_	_	49	fixed	_	_
 53	reciben	recibir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	_
 54	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	55	det	_	_
 55	bendición	bendición	NOUN	_	Gender=Fem|Number=Sing	53	obj	_	_
@@ -120214,7 +120214,7 @@
 29	Senshi	Senshi	PROPN	_	_	28	appos	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
 31	así	así	ADV	_	ExtPos=ADV	33	advmod	_	_
-32	que	que	CCONJ	_	_	31	fixed	_	_
+32	que	que	SCONJ	_	_	31	fixed	_	_
 33	deja	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	parataxis	_	_
 34	a	a	ADP	_	_	35	case	_	_
 35	cargo	cargo	NOUN	_	Gender=Masc|Number=Sing	33	obl	_	_
@@ -121618,7 +121618,7 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	país	país	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	_
 15	luego	luego	ADV	_	ExtPos=SCONJ	21	mark	_	_
-16	que	que	CCONJ	_	_	15	fixed	_	_
+16	que	que	SCONJ	_	_	15	fixed	_	_
 17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	18	det	_	_
 18	candidatos	candidato	NOUN	_	Gender=Masc|Number=Plur	21	nsubj	_	_
 19	republicanos	republicano	ADJ	_	Gender=Masc|Number=Plur	18	amod	_	_
@@ -131981,7 +131981,7 @@
 20	riesgo	riesgo	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 22	ya	ya	ADV	_	ExtPos=SCONJ	25	mark	_	_
-23	que	que	CCONJ	_	_	22	fixed	_	_
+23	que	que	SCONJ	_	_	22	fixed	_	_
 24	siempre	siempre	ADV	_	_	25	advmod	_	_
 25	parecen	parecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	advcl	_	_
 26	echar	echar	VERB	_	VerbForm=Inf	25	xcomp	_	_
@@ -132909,7 +132909,7 @@
 5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
 6	recomendable	recomendable	ADJ	_	Number=Sing	4	amod	_	_
 7	ya	ya	ADV	_	ExtPos=SCONJ	11	mark	_	_
-8	que	que	CCONJ	_	_	7	fixed	_	_
+8	que	que	SCONJ	_	_	7	fixed	_	_
 9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	restaurante	restaurante	NOUN	_	Number=Sing	4	advcl	_	_
@@ -133758,7 +133758,7 @@
 12	aceptan	aceptar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 14	así	así	ADV	_	ExtPos=CCONJ	17	cc	_	_
-15	que	que	CCONJ	_	_	14	fixed	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
 16	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
 17	va	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
 18	vendiendo	vender	VERB	_	VerbForm=Ger	17	xcomp	_	_
@@ -135365,7 +135365,7 @@
 15	Caluire	Caluire	PROPN	_	_	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 17	ya	ya	ADV	_	ExtPos=SCONJ	21	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	aux	_	_
 20	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	21	aux:pass	_	_
 21	detenido	detener	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	advcl	_	_
@@ -137147,7 +137147,7 @@
 28	a	a	ADP	_	ExtPos=ADP	33	case	_	_
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	33	det	_	_
 30	igual	igual	ADJ	_	Number=Sing	28	fixed	_	_
-31	que	que	CCONJ	_	_	28	fixed	_	_
+31	que	que	SCONJ	_	_	28	fixed	_	_
 32	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	33	det	_	_
 33	puentes	puente	NOUN	_	Number=Plur	20	obl	_	_
 34	en	en	ADP	_	_	35	case	_	_
@@ -140706,7 +140706,7 @@
 8	Facebook	Facebook	PROPN	_	_	5	conj	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 10	ya	ya	ADV	_	ExtPos=SCONJ	14	mark	_	_
-11	que	que	CCONJ	_	_	10	fixed	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	13	det	_	_
 13	veces	vez	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	_
 14	tienen	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	advcl	_	_
@@ -159390,7 +159390,7 @@
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	casa	casa	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
 17	ya	ya	ADV	_	ExtPos=SCONJ	19	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	esta	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	13	advcl	_	CorrectForm=está
 20	a	a	ADP	_	_	22	case	_	_
 21	5	5	NUM	_	NumForm=Digit|NumType=Card	22	nummod	_	_
@@ -164442,7 +164442,7 @@
 1	A	a	ADP	_	_	7	dep	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	igual	igual	ADJ	_	Gender=Masc|Number=Sing	1	fixed	_	_
-4	que	que	CCONJ	_	_	1	fixed	_	_
+4	que	que	SCONJ	_	_	1	fixed	_	_
 5	en	en	ADP	_	_	7	case	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	_
 7	Festival	Festival	PROPN	_	_	18	obl	_	_
@@ -164508,7 +164508,7 @@
 11	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	12	det	_	_
 12	agrado	agrado	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
 13	ya	ya	ADV	_	ExtPos=SCONJ	15	mark	_	_
-14	que	que	CCONJ	_	_	13	fixed	_	_
+14	que	que	SCONJ	_	_	13	fixed	_	_
 15	son	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 16	de	de	ADP	_	_	18	case	_	_
 17	aquellos	aquel	DET	_	Gender=Masc|Number=Plur|PronType=Dem	18	det	_	_
@@ -165028,7 +165028,7 @@
 6	Paraguay	Paraguay	PROPN	_	_	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 8	luego	luego	ADV	_	ExtPos=SCONJ	11	mark	_	_
-9	que	que	CCONJ	_	_	8	fixed	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
 10	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	11	expl:pv	_	_
 11	diera	dar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	advcl	_	_
 12	a	a	ADP	_	_	14	case	_	_
@@ -168375,7 +168375,7 @@
 5	tienda	tienda	NOUN	_	Gender=Fem|Number=Sing	2	nsubj	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 7	ya	ya	ADV	_	ExtPos=SCONJ	15	mark	_	_
-8	que	que	CCONJ	_	_	7	fixed	_	_
+8	que	que	SCONJ	_	_	7	fixed	_	_
 9	despues	después	ADV	_	ExtPos=ADV|Typo=Yes	12	advmod	_	CorrectForm=después
 10	de	de	ADP	_	_	9	fixed	_	_
 11	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	12	det	_	_
@@ -169297,7 +169297,7 @@
 # sent_id = es-train-012-s84
 # text = Siempre que visitamos Ayamonte no perdemos ocasión de cruzar a Portugal para comer en O tapas.
 1	Siempre	siempre	ADV	_	ExtPos=SCONJ	3	mark	_	_
-2	que	que	CCONJ	_	_	1	fixed	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
 3	visitamos	visitar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 4	Ayamonte	Ayamonte	PROPN	_	_	3	obj	_	_
 5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
@@ -171982,7 +171982,7 @@
 8	serio	serio	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 10	ya	ya	ADV	_	ExtPos=SCONJ	13	mark	_	_
-11	que	que	CCONJ	_	_	10	fixed	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pv	_	_
 13	ponía	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	advcl	_	_
 14	a	a	ADP	_	_	15	mark	_	_
@@ -173044,7 +173044,7 @@
 16	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 17	en	en	ADP	_	ExtPos=CCONJ	20	cc	_	_
 18	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	17	fixed	_	_
-19	que	que	PRON	_	PronType=Rel	17	fixed	_	_
+19	que	que	SCONJ	_	_	17	fixed	_	_
 20	desprecian	despreciar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 21	a	a	ADP	_	_	23	case	_	_
 22	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	det	_	_
@@ -182313,7 +182313,7 @@
 7	contra	contra	NOUN	_	_	5	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 9	siempre	siempre	ADV	_	ExtPos=SCONJ	12	mark	_	_
-10	que	que	CCONJ	_	_	9	fixed	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
 11	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	12	expl:pv	_	_
 12	complemente	complementar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 13	con	con	ADP	_	_	14	case	_	_
@@ -182737,7 +182737,7 @@
 18	vida	vida	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 20	ya	ya	ADV	_	ExtPos=SCONJ	30	mark	_	_
-21	que	que	CCONJ	_	_	20	fixed	_	_
+21	que	que	SCONJ	_	_	20	fixed	_	_
 22	Gerard	Gerard	PROPN	_	_	30	nsubj	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 24	ya	ya	ADV	_	_	27	advmod	_	_
@@ -192044,7 +192044,7 @@
 13	de	de	ADP	_	_	14	case	_	_
 14	especialidad	especialidad	NOUN	_	Gender=Fem|Number=Sing	12	nmod	_	_
 15	ya	ya	ADV	_	ExtPos=SCONJ	19	mark	_	_
-16	que	que	PRON	_	PronType=Rel	15	fixed	_	_
+16	que	que	SCONJ	_	_	15	fixed	_	_
 17	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	19	expl:pv	_	_
 18	pueden	poder	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	aux	_	_
 19	disfrutar	disfrutar	VERB	_	VerbForm=Inf	11	advcl	_	_
@@ -203712,7 +203712,7 @@
 15	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	empleados	empleado	NOUN	_	Gender=Masc|Number=Plur	19	nsubj	_	_
 17	sí	sí	INTJ	_	_	19	advcl	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	merecen	merecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 20	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	mención	mención	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	_
@@ -205894,7 +205894,7 @@
 # text = Una vez que el viajero ha disfrutado de las maravillas de la ciudad, puede acudir al partido inaugural de nuestra selección de Eapaña junto a la selección de Suiza el 16 de junio, sí así lo desea.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 2	vez	vez	NOUN	_	ExtPos=SCONJ|Gender=Fem|Number=Sing	7	mark	_	_
-3	que	que	CCONJ	_	_	2	fixed	_	_
+3	que	que	SCONJ	_	_	2	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	viajero	viajero	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
@@ -207257,7 +207257,7 @@
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	cursos	curso	NOUN	_	Gender=Masc|Number=Plur	2	obl	_	_
 6	ya	ya	ADV	_	ExtPos=SCONJ	14	mark	_	_
-7	que	que	CCONJ	_	_	6	fixed	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	nivel	nivel	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
 10	de	de	ADP	_	_	11	case	_	_
@@ -211732,7 +211732,7 @@
 14	buenísimas	buenísimo	ADJ	_	Degree=Abs|Gender=Fem|Number=Plur	1	parataxis	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 16	así	así	ADV	_	ExtPos=CCONJ	18	cc	_	_
-17	que	que	CCONJ	_	_	16	fixed	_	_
+17	que	que	SCONJ	_	_	16	fixed	_	_
 18	pedimos	pedir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	14	conj	_	_
 19	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	par	par	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
@@ -212564,7 +212564,7 @@
 1	A	a	ADP	_	ExtPos=ADP	5	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	fixed	_	_
 3	igual	igual	ADJ	_	Number=Sing	1	fixed	_	_
-4	que	que	CCONJ	_	_	1	fixed	_	_
+4	que	que	SCONJ	_	_	1	fixed	_	_
 5	muchos	mucho	PRON	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	13	obl	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
@@ -214489,7 +214489,7 @@
 18	a	a	ADP	_	_	19	case	_	_
 19	Flors	Flors	PROPN	_	_	15	obl:arg	_	_
 20	para	para	ADP	_	_	22	mark	_	_
-21	que	que	PRON	_	PronType=Rel	20	fixed	_	_
+21	que	que	SCONJ	_	_	20	fixed	_	_
 22	siga	seguir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 23	investigando	investigar	VERB	_	VerbForm=Ger	22	xcomp	_	_
 24	a	a	ADP	_	_	25	case	_	_
@@ -214994,7 +214994,7 @@
 12	norte	norte	NOUN	_	Number=Sing	11	appos	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 14	ya	ya	ADV	_	ExtPos=SCONJ	17	mark	_	_
-15	que	que	CCONJ	_	_	14	fixed	_	_
+15	que	que	SCONJ	_	_	14	fixed	_	_
 16	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	17	aux:pass	_	_
 17	reformada	reformar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
 18	prácticamente	prácticamente	ADV	_	_	17	advmod	_	_
@@ -217123,7 +217123,7 @@
 # text = Y siempre que me preguntan lo recomiendo, en otras cosas no me suelo arriesgar para recomendar, pero para las cosas de salud, si ha habido algo que me haya ido bien, no dudo en recomendarlo.
 1	Y	y	CCONJ	_	_	7	cc	_	_
 2	siempre	siempre	ADV	_	ExtPos=SCONJ	5	mark	_	_
-3	que	que	CCONJ	_	_	2	fixed	_	_
+3	que	que	SCONJ	_	_	2	fixed	_	_
 4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl:arg	_	_
 5	preguntan	preguntar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 6	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
@@ -219944,7 +219944,7 @@
 17	ventaja	ventaja	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 19	ya	ya	ADV	_	ExtPos=SCONJ	30	mark	_	_
-20	que	que	CCONJ	_	_	19	fixed	_	_
+20	que	que	SCONJ	_	_	19	fixed	_	_
 21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
 22	arqueros	arquero	NOUN	_	Gender=Masc|Number=Plur	30	nsubj	_	_
 23	y	y	CCONJ	_	_	24	cc	_	_
@@ -220895,7 +220895,7 @@
 15	de	de	ADP	_	_	16	case	_	_
 16	calidad	calidad	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
 17	ya	ya	ADV	_	ExtPos=SCONJ	20	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	obj	_	_
 20	pones	poner	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	1	advcl	_	_
 21	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	22	det	_	_
@@ -221680,7 +221680,7 @@
 37	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	38	det	_	_
 38	efectivo	efectivo	NOUN	_	Gender=Masc|Number=Sing	36	obj	_	_
 39	ya	ya	ADV	_	ExtPos=SCONJ	41	mark	_	_
-40	que	que	CCONJ	_	_	39	fixed	_	_
+40	que	que	SCONJ	_	_	39	fixed	_	_
 41	tenían	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	27	advcl	_	_
 42	bloqueadas	bloqueado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	41	xcomp	_	_
 43	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	44	det	_	_
@@ -225645,7 +225645,7 @@
 37	a	a	ADP	_	ExtPos=SCONJ	42	mark	_	_
 38	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
 39	igual	igual	ADJ	_	Number=Sing	37	fixed	_	_
-40	que	que	CCONJ	_	_	37	fixed	_	_
+40	que	que	SCONJ	_	_	37	fixed	_	_
 41	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	42	obj	_	_
 42	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	advcl	_	_
 43	en	en	ADP	_	_	45	case	_	_
@@ -227153,7 +227153,7 @@
 21	violento	violento	ADJ	_	Gender=Masc|Number=Sing	20	amod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
 23	ya	ya	ADV	_	ExtPos=SCONJ	37	mark	_	_
-24	que	que	CCONJ	_	_	23	fixed	_	SpaceAfter=No
+24	que	que	SCONJ	_	_	23	fixed	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
 26	según	según	ADP	_	_	27	case	_	_
 27	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	37	obl	_	SpaceAfter=No
@@ -232336,7 +232336,7 @@
 23	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	cop	_	_
 24	malignas	maligno	ADJ	_	Gender=Fem|Number=Plur	13	ccomp	_	_
 25	ya	ya	ADV	_	_	29	dep	_	_
-26	que	que	CCONJ	_	_	25	fixed	_	_
+26	que	que	SCONJ	_	_	25	fixed	_	_
 27	no	no	ADV	_	Polarity=Neg	29	advmod	_	_
 28	están	estar	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	_
 29	dispuestos	dispuesto	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	24	advcl	_	_
@@ -236380,7 +236380,7 @@
 7	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 8	a	a	ADP	_	ExtPos=SCONJ	13	mark	_	_
 9	menos	menos	ADV	_	Degree=Cmp	8	fixed	_	_
-10	que	que	CCONJ	_	_	8	fixed	_	_
+10	que	que	SCONJ	_	_	8	fixed	_	_
 11	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	pardillo	pardillo	NOUN	_	Gender=Masc|Number=Sing	16	advcl	_	_
@@ -241593,7 +241593,7 @@
 17	y	y	CCONJ	_	_	18	cc	_	_
 18	artillería	artillería	NOUN	_	Gender=Fem|Number=Sing	14	conj	_	_
 19	tal	tal	ADV	_	ExtPos=SCONJ	23	mark	_	_
-20	que	que	CCONJ	_	_	19	fixed	_	_
+20	que	que	SCONJ	_	_	19	fixed	_	_
 21	2.000	2000	NUM	_	NumForm=Digit|NumType=Card	22	nummod	_	_
 22	soldados	soldado	NOUN	_	Gender=Masc|Number=Plur	23	nsubj	_	_
 23	cayeron	caer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	11	advcl	_	_
@@ -242141,7 +242141,7 @@
 15	esta	estar	AUX	_	Mood=Ind|Number=Sing|VerbForm=Fin	16	cop	_	_
 16	fría	frío	ADJ	_	Gender=Fem|Number=Sing	13	advcl	_	_
 17	ya	ya	ADV	_	ExtPos=SCONJ	20	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	pasado	pasar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	advcl	_	_
 21	mas	más	ADV	_	Typo=Yes	23	advmod	_	CorrectForm=más
@@ -243556,7 +243556,7 @@
 7	vino	vino	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 9	ya	ya	ADV	_	ExtPos=SCONJ	14	mark	_	_
-10	que	que	CCONJ	_	_	9	fixed	_	_
+10	que	que	SCONJ	_	_	9	fixed	_	_
 11	en	en	ADP	_	_	12	case	_	_
 12	principio	principio	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
 13	solo	sólo	ADV	_	_	14	advmod	_	_
@@ -246213,7 +246213,7 @@
 23	liquidez	liquidez	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 25	ya	ya	ADV	_	ExtPos=SCONJ	31	mark	_	_
-26	que	que	CCONJ	_	_	25	fixed	_	_
+26	que	que	SCONJ	_	_	25	fixed	_	_
 27	«	«	PUNCT	_	PunctType=Quot	31	punct	_	SpaceAfter=No
 28	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	29	det	_	_
 29	bancos	banco	NOUN	_	Gender=Masc|Number=Plur	31	nsubj	_	_
@@ -247874,7 +247874,7 @@
 4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
 5	intentará	intentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
 6	siempre	siempre	ADV	_	ExtPos=SCONJ	8	mark	_	_
-7	que	que	CCONJ	_	_	6	fixed	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
 8	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 9	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
 10	y	y	CCONJ	_	_	11	cc	_	_
@@ -248248,7 +248248,7 @@
 36	compañeros	compañero	NOUN	_	Gender=Masc|Number=Plur	33	obl:agent	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
 38	ya	ya	ADV	_	ExtPos=SCONJ	45	mark	_	_
-39	que	que	CCONJ	_	_	38	fixed	_	_
+39	que	que	SCONJ	_	_	38	fixed	_	_
 40	ningún	ninguno	DET	_	Gender=Masc|Number=Sing|PronType=Neg	41	det	_	_
 41	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	45	nsubj	_	_
 42	de	de	ADP	_	_	43	case	_	_
@@ -251880,7 +251880,7 @@
 2	rico	rico	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 4	solo	sólo	ADV	_	ExtPos=CCONJ	8	cc	_	_
-5	que	que	CCONJ	_	_	4	fixed	_	_
+5	que	que	SCONJ	_	_	4	fixed	_	_
 6	deberían	deber	AUX	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	8	aux	_	_
 7	de	de	ADP	_	_	6	fixed	_	_
 8-9	echarle	_	_	_	_	_	_	_	_
@@ -259973,7 +259973,7 @@
 9	bien	bien	ADV	_	_	10	advmod	_	_
 10	situado	situar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	parataxis	_	_
 11	ya	ya	ADV	_	ExtPos=SCONJ	13	mark	_	_
-12	que	que	CCONJ	_	_	11	fixed	_	_
+12	que	que	SCONJ	_	_	11	fixed	_	_
 13	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 14	a	a	ADP	_	_	17	case	_	_
 15	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	16	obl	_	_
@@ -260835,7 +260835,7 @@
 4	extraño	extraño	ADJ	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 6	ya	ya	ADV	_	ExtPos=SCONJ	10	mark	_	_
-7	que	que	CCONJ	_	_	6	fixed	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
 8	nadie	nadie	PRON	_	Number=Sing|PronType=Neg	10	nsubj	_	_
 9	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	10	aux	_	_
 10	escuchado	escuchar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
@@ -263259,7 +263259,7 @@
 22	daño	daño	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
 24	ya	ya	ADV	_	ExtPos=CCONJ	27	cc	_	_
-25	que	que	CCONJ	_	_	24	fixed	_	_
+25	que	que	SCONJ	_	_	24	fixed	_	_
 26	tan	tanto	ADV	_	_	27	advmod	_	_
 27	dura	duro	ADJ	_	Gender=Fem|Number=Sing	6	conj	_	_
 28	que	que	CCONJ	_	_	29	cc	_	_
@@ -264747,7 +264747,7 @@
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	acusado	acusado	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	_
 10	sino	sino	ADV	_	ExtPos=CCONJ	12	cc	_	_
-11	que	que	CCONJ	_	_	10	fixed	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	tomó	tomar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 13	por	por	ADP	_	_	14	case	_	_
 14	concubina	concubina	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
@@ -267550,7 +267550,7 @@
 15	otras	otro	PRON	_	Gender=Fem|Number=Plur|PronType=Ind	11	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 17	sino	sino	CCONJ	_	ExtPos=CCONJ	22	cc	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	distribución	distribución	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
 21	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl:pv	_	_
@@ -269468,7 +269468,7 @@
 29	alumnos	alumno	NOUN	_	Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
 31	ya	ya	ADV	_	ExtPos=SCONJ	35	mark	_	_
-32	que	que	CCONJ	_	_	31	fixed	_	_
+32	que	que	SCONJ	_	_	31	fixed	_	_
 33	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
 34	actividades	actividad	NOUN	_	Gender=Fem|Number=Plur	35	nsubj	_	_
 35	consisten	consistir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	advcl	_	_
@@ -269981,7 +269981,7 @@
 16	doctor	doctor	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
 17	urgentemente	urgentemente	ADV	_	_	13	advmod	_	_
 18	ya	ya	ADV	_	_	13	advcl	_	_
-19	que	que	CCONJ	_	_	18	fixed	_	_
+19	que	que	SCONJ	_	_	18	fixed	_	_
 20	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	esposa	esposa	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
 22	esta	estar	AUX	_	Mood=Ind|Number=Sing|Typo=Yes|VerbForm=Fin	18	cop	_	CorrectForm=está
@@ -271094,7 +271094,7 @@
 16	en	en	ADP	_	_	17	case	_	_
 17	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
 18	ya	ya	ADV	_	ExtPos=SCONJ	23	mark	_	_
-19	que	que	CCONJ	_	_	18	fixed	_	_
+19	que	que	SCONJ	_	_	18	fixed	_	_
 20	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
 21	turnos	turno	NOUN	_	Gender=Masc|Number=Plur	23	nsubj	_	_
 22	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
@@ -271859,7 +271859,7 @@
 17	de	de	ADP	_	_	18	case	_	_
 18	participación	participación	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
 19	ya	ya	ADV	_	ExtPos=SCONJ	24	mark	_	_
-20	que	que	CCONJ	_	_	19	fixed	_	_
+20	que	que	SCONJ	_	_	19	fixed	_	_
 21	serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	24	cop	_	_
 22	805	805	NUM	_	NumForm=Digit|NumType=Card	23	nummod	_	_
 23	corredores	corredor	NOUN	_	Gender=Masc|Number=Plur	24	nsubj	_	_
@@ -271909,7 +271909,7 @@
 # text = Menos mal que nos respalda nuestra trayectoria y la fidelidad de nuestros profesores y alumnos.
 1	Menos	menos	ADV	_	Degree=Cmp|ExtPos=ADV	5	advmod	_	_
 2	mal	mal	ADV	_	_	1	fixed	_	_
-3	que	que	ADV	_	_	1	fixed	_	_
+3	que	que	SCONJ	_	_	1	fixed	_	_
 4	nos	yo	PRON	_	Case=Acc,Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obj	_	_
 5	respalda	respaldar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	nuestra	nuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	7	det	_	_
@@ -273937,7 +273937,7 @@
 # sent_id = es-train-019-s5
 # text = Así que la partida de pádel de este fin de semana te saldrá por la cara.
 1	Así	así	ADV	_	ExtPos=SCONJ	13	mark	_	_
-2	que	que	CCONJ	_	_	1	fixed	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	partida	partida	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
 5	de	de	ADP	_	_	6	case	_	_
@@ -277710,7 +277710,7 @@
 12	sólido	sólido	ADJ	_	Gender=Masc|Number=Sing	10	conj	_	_
 13	y	y	CCONJ	_	_	22	cc	_	_
 14	seguro	seguro	ADV	_	ExtPos=ADV	22	advmod	_	_
-15	que	que	CCONJ	_	_	14	fixed	_	SpaceAfter=No
+15	que	que	SCONJ	_	_	14	fixed	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 17	en	en	ADP	_	_	19	case	_	_
 18	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	19	det	_	_
@@ -279063,7 +279063,7 @@
 22	previsto	prever	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	advcl	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 24	sino	sino	CCONJ	_	ExtPos=CCONJ	28	cc	_	_
-25	que	que	CCONJ	_	_	24	fixed	_	_
+25	que	que	SCONJ	_	_	24	fixed	_	_
 26	les	él	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	28	obl:arg	_	_
 27	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	aux:pass	_	_
 28	autorizado	autorizar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	conj	_	_
@@ -285712,7 +285712,7 @@
 10	español	español	ADJ	_	Gender=Masc|Number=Sing	9	amod	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 12	ya	ya	ADV	_	ExtPos=SCONJ	14	mark	_	_
-13	que	que	CCONJ	_	_	12	fixed	_	_
+13	que	que	SCONJ	_	_	12	fixed	_	_
 14	reconocen	reconocer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 15	modelos	modelo	NOUN	_	Gender=Masc|Number=Plur	14	obj	_	_
 16	de	de	ADP	_	_	17	case	_	_
@@ -289132,7 +289132,7 @@
 30	también	también	ADV	_	_	24	parataxis	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 32	sino	sino	CCONJ	_	ExtPos=CCONJ	35	cc	_	_
-33	que	que	CCONJ	_	_	32	fixed	_	_
+33	que	que	SCONJ	_	_	32	fixed	_	_
 34	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	cop	_	_
 35	necesario	necesario	ADJ	_	Gender=Masc|Number=Sing	24	conj	_	_
 36	cambiar	cambiar	VERB	_	VerbForm=Inf	35	csubj	_	_
@@ -289797,7 +289797,7 @@
 1	A	a	ADP	_	_	3	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	igual	igual	ADJ	_	_	9	amod	_	_
-4	que	que	CCONJ	_	_	3	fixed	_	_
+4	que	que	SCONJ	_	_	3	fixed	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	lucha	lucha	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
 7	grecorromana	grecorromano	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	SpaceAfter=No
@@ -294298,7 +294298,7 @@
 20	edad	edad	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 22	sin	sin	ADP	_	_	25	mark	_	_
-23	que	que	PRON	_	PronType=Rel	22	fixed	_	_
+23	que	que	SCONJ	_	_	22	fixed	_	_
 24	pudiera	poder	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	aux	_	_
 25	llegar	llegar	VERB	_	VerbForm=Inf	11	advcl	_	_
 26	a	a	ADP	_	_	27	mark	_	_
@@ -295244,7 +295244,7 @@
 27	autónomas	autónomo	ADJ	_	Gender=Fem|Number=Plur	26	amod	_	SpaceAfter=No
 28	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
 29	además	además	ADV	_	ExtPos=SCONJ	32	mark	_	_
-30	que	que	CCONJ	_	_	29	fixed	_	_
+30	que	que	SCONJ	_	_	29	fixed	_	_
 31	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	expl:pv	_	_
 32	aprovechará	aprovechar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	advcl	_	_
 33	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	34	det	_	_
@@ -295501,7 +295501,7 @@
 14	culta	culto	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 16	ya	ya	ADV	_	ExtPos=SCONJ	25	mark	_	_
-17	que	que	CCONJ	_	_	16	fixed	_	_
+17	que	que	SCONJ	_	_	16	fixed	_	_
 18	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
 19	clases	clase	NOUN	_	Gender=Fem|Number=Plur	25	nsubj	_	_
 20	populares	popular	ADJ	_	Number=Plur	19	amod	_	SpaceAfter=No
@@ -297241,7 +297241,7 @@
 12	a	a	ADP	_	_	6	dep	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 14	igual	igual	ADJ	_	Gender=Masc|Number=Sing	12	fixed	_	_
-15	que	que	CCONJ	_	_	12	fixed	_	_
+15	que	que	SCONJ	_	_	12	fixed	_	_
 16	en	en	ADP	_	_	18	case	_	_
 17	"	"	PUNCT	_	PunctType=Quot	18	punct	_	SpaceAfter=No
 18	CCC	Ccc	PROPN	_	_	12	nmod	_	_
@@ -299800,7 +299800,7 @@
 3	masaje	masaje	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	_
 4	facial	facial	ADJ	_	Number=Sing	3	amod	_	_
 5	si	si	ADV	_	ExtPos=ADV	8	advmod	_	_
-6	que	que	PRON	_	PronType=Rel	5	fixed	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
 7	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	cop	_	_
 8	buena	buen	ADJ	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
@@ -300027,7 +300027,7 @@
 14	compra	compra	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 16	ya	ya	ADV	_	ExtPos=SCONJ	18	mark	_	_
-17	que	que	CCONJ	_	_	16	fixed	_	_
+17	que	que	SCONJ	_	_	16	fixed	_	_
 18	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	relevo	relevo	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
@@ -304049,7 +304049,7 @@
 14	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	15	obj	_	_
 15	midieran	midir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	ccomp	_	_
 16	ya	ya	ADV	_	ExtPos=SCONJ	18	mark	_	_
-17	que	que	CCONJ	_	_	16	fixed	_	_
+17	que	que	SCONJ	_	_	16	fixed	_	_
 18	pedían	pedir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	12	advcl	_	_
 19	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
 20	sólo	sólo	ADV	_	_	22	advmod	_	_
@@ -308445,7 +308445,7 @@
 8	ésta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	9	det	_	_
 9	empresa	empresa	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
 10	siempre	siempre	ADV	_	ExtPos=SCONJ	12	mark	_	_
-11	que	que	CCONJ	_	_	10	fixed	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
 13	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	avería	avería	NOUN	_	Gender=Fem|Number=Sing	12	obj	_	_
@@ -309701,7 +309701,7 @@
 # text = Una vez que el oro era recuperado, el metal podía tomar varios caminos.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 2	vez	vez	NOUN	_	ExtPos=SCONJ|Gender=Fem|Number=Sing	7	mark	_	_
-3	que	que	CCONJ	_	_	2	fixed	_	_
+3	que	que	SCONJ	_	_	2	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	oro	oro	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
 6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
@@ -310129,7 +310129,7 @@
 6	de	de	ADP	_	_	7	mark	_	_
 7	proceder	proceder	VERB	_	VerbForm=Inf	5	advcl	_	_
 8	ya	ya	ADV	_	ExtPos=SCONJ	18	mark	_	_
-9	que	que	CCONJ	_	_	8	fixed	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	clientela	clientela	NOUN	_	Gender=Fem|Number=Sing	18	nsubj	_	_
 12	que	que	PRON	_	PronType=Rel	13	nsubj	_	_
@@ -311052,7 +311052,7 @@
 16	alta	alto	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
 17	frecuencia	frecuencia	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	_
 18	sólo	sólo	ADV	_	ExtPos=CCONJ	22	cc	_	_
-19	que	que	CCONJ	_	_	18	fixed	_	_
+19	que	que	SCONJ	_	_	18	fixed	_	_
 20	no	no	ADV	_	Polarity=Neg	22	advmod	_	_
 21	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	22	obj	_	_
 22	aplicó	aplicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	conj	_	_
@@ -321721,7 +321721,7 @@
 30	crisis	crisis	NOUN	_	Gender=Fem	22	obl	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	34	punct	_	_
 32	asi	así	ADV	_	ExtPos=CCONJ|Typo=Yes	36	cc	_	CorrectForm=así
-33	que	que	CCONJ	_	_	32	fixed	_	_
+33	que	que	SCONJ	_	_	32	fixed	_	_
 34	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 35	que	que	SCONJ	_	_	36	mark	_	_
 36-37	aprovecharlo	_	_	_	_	_	_	_	SpaceAfter=No
@@ -322421,7 +322421,7 @@
 15	tacómetro	tacómetro	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
 16	analógico	analógico	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
 17	ya	ya	ADV	_	ExtPos=SCONJ	20	mark	_	_
-18	que	que	CCONJ	_	_	17	fixed	_	_
+18	que	que	SCONJ	_	_	17	fixed	_	_
 19	no	no	ADV	_	Polarity=Neg	20	advmod	_	_
 20	sube	subir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 21	igual	igual	ADJ	_	Number=Sing	20	xcomp	_	_
@@ -327499,7 +327499,7 @@
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	vuelvo	volver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	siempre	siempre	ADV	_	ExtPos=SCONJ	7	mark	_	_
-6	que	que	CCONJ	_	_	5	fixed	_	_
+6	que	que	SCONJ	_	_	5	fixed	_	_
 7	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 8	a	a	ADP	_	_	9	case	_	_
 9	Madrid	Madrid	PROPN	_	_	7	obl	_	SpaceAfter=No
@@ -332426,7 +332426,7 @@
 24	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
 25	lineal	lineal	ADJ	_	Number=Sing	22	csubj	_	_
 26	ya	ya	ADV	_	ExtPos=SCONJ	29	mark	_	_
-27	que	que	CCONJ	_	_	26	fixed	_	_
+27	que	que	SCONJ	_	_	26	fixed	_	_
 28	no	no	ADV	_	Polarity=Neg	29	advmod	_	_
 29	ofrece	ofrecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	advcl	_	_
 30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
@@ -333951,7 +333951,7 @@
 23	elección	elección	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 25	antes	antes	ADV	_	ExtPos=ADP	28	case	_	_
-26	que	que	CCONJ	_	_	25	fixed	_	_
+26	que	que	SCONJ	_	_	25	fixed	_	_
 27	a	a	ADP	_	_	28	case	_	_
 28	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	31	obl	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl:pv	_	_
@@ -339275,14 +339275,14 @@
 11	celebrar	celebrar	VERB	_	VerbForm=Inf	9	advcl	_	_
 12	nada	nada	PRON	_	Number=Sing|PronType=Neg	11	obj	_	_
 13	sino	sino	CCONJ	_	ExtPos=CCONJ	15	cc	_	_
-14	que	que	CCONJ	_	_	13	fixed	_	_
+14	que	que	SCONJ	_	_	13	fixed	_	_
 15	haremos	hacer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	9	conj	_	_
 16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	escapada	escapada	NOUN	_	Gender=Fem|Number=Sing|VerbForm=Part	15	obj	_	_
 18	pronto	pronto	ADV	_	_	15	advmod	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 20	ya	ya	ADV	_	ExtPos=SCONJ	23	mark	_	_
-21	que	que	CCONJ	_	_	20	fixed	_	SpaceAfter=No
+21	que	que	SCONJ	_	_	20	fixed	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 23	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 24	a	a	ADP	_	_	29	case	_	_
@@ -344129,7 +344129,7 @@
 77	serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	78	cop	_	_
 78	cuantiosas	cuantioso	ADJ	_	Gender=Fem|Number=Plur	65	advcl	_	_
 79	ya	ya	ADV	_	ExtPos=SCONJ	89	mark	_	_
-80	que	que	CCONJ	_	_	79	fixed	_	_
+80	que	que	SCONJ	_	_	79	fixed	_	_
 81	durante	durante	ADP	_	_	84	case	_	_
 82	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	84	det	_	_
 83	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	84	amod	_	_
@@ -344314,7 +344314,7 @@
 6	con	con	ADP	_	_	7	case	_	_
 7	Chippendales	Chippendales	PROPN	_	_	5	obl	_	_
 8	antes	antes	ADV	_	ExtPos=CCONJ	12	cc	_	_
-9	que	que	CCONJ	_	_	8	fixed	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
 10	con	con	ADP	_	_	12	case	_	_
 11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	Backstreet	Backstreet	PROPN	_	_	7	conj	_	_
@@ -349131,7 +349131,7 @@
 8	llegar	llegar	VERB	_	VerbForm=Inf	5	acl:relcl	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 10	ya	ya	ADV	_	ExtPos=SCONJ	13	mark	_	_
-11	que	que	CCONJ	_	_	10	fixed	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	esta	estar	AUX	_	Mood=Ind|Number=Sing|Typo=Yes|VerbForm=Fin	13	aux	_	CorrectForm=está
 13	apretando	apretar	VERB	_	VerbForm=Ger	3	advcl	_	_
 14	para	para	SCONJ	_	_	15	mark	_	_
@@ -355595,7 +355595,7 @@
 10	enamorado	enamorado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	3	xcomp	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 12	ya	ya	ADV	_	ExtPos=SCONJ	21	mark	_	_
-13	que	que	CCONJ	_	_	12	fixed	_	_
+13	que	que	SCONJ	_	_	12	fixed	_	_
 14	desde	desde	ADP	_	_	15	case	_	_
 15	antes	antes	ADV	_	ExtPos=ADV	21	advmod	_	_
 16	de	de	ADP	_	_	15	fixed	_	_
@@ -361624,7 +361624,7 @@
 6	Merkel	Merkel	PROPN	_	_	3	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 8	ya	ya	ADV	_	ExtPos=SCONJ	12	mark	_	_
-9	que	que	CCONJ	_	_	8	fixed	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	CDU	Cdu	PROPN	_	_	12	nsubj	_	_
 12	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
@@ -369556,7 +369556,7 @@
 # sent_id = es-train-025-s78
 # text = Así que salí esa noche y la pasé muy bien.
 1	Así	así	ADV	_	ExtPos=ADV	3	advmod	_	_
-2	que	que	CCONJ	_	_	1	fixed	_	_
+2	que	que	SCONJ	_	_	1	fixed	_	_
 3	salí	salir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 4	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
 5	noche	noche	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
@@ -375090,7 +375090,7 @@
 20	clínica	clínica	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
 22	ya	ya	ADV	_	ExtPos=SCONJ	28	mark	_	_
-23	que	que	CCONJ	_	_	22	fixed	_	_
+23	que	que	SCONJ	_	_	22	fixed	_	_
 24	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	25	det	_	_
 25	enfermedad	enfermedad	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
 26	no	no	ADV	_	Polarity=Neg	28	advmod	_	_
@@ -377711,7 +377711,7 @@
 2	muy	mucho	ADV	_	_	3	advmod	_	_
 3	contenta	contento	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 4	ya	ya	ADV	_	ExtPos=SCONJ	6	mark	_	_
-5	que	que	CCONJ	_	_	4	fixed	_	_
+5	que	que	SCONJ	_	_	4	fixed	_	_
 6	realicé	realizar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	3	advcl	_	_
 7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	compra	compra	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
@@ -380460,7 +380460,7 @@
 14	a	a	ADP	_	_	11	amod	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 16	igual	igual	ADJ	_	Gender=Masc|Number=Sing	14	fixed	_	_
-17	que	que	CCONJ	_	_	14	fixed	_	_
+17	que	que	SCONJ	_	_	14	fixed	_	_
 18	en	en	ADP	_	_	21	case	_	_
 19	todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	21	det	_	_
 20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
@@ -386304,7 +386304,7 @@
 39	esta	estar	AUX	_	Mood=Ind|Number=Sing|Typo=Yes|VerbForm=Fin	40	aux	_	CorrectForm=está
 40	dando	dar	VERB	_	VerbForm=Ger	32	conj	_	_
 41	para	para	ADP	_	_	44	mark	_	_
-42	que	que	PRON	_	PronType=Rel	41	fixed	_	_
+42	que	que	SCONJ	_	_	41	fixed	_	_
 43	no	no	ADV	_	Polarity=Neg	44	advmod	_	_
 44	salga	salir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	advcl	_	_
 45	ni	ni	ADV	_	Polarity=Neg	46	advmod	_	_
@@ -393994,7 +393994,7 @@
 8	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	7	obj	_	_
 9	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 10	ya	ya	ADV	_	ExtPos=SCONJ	18	mark	_	_
-11	que	que	CCONJ	_	_	10	fixed	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	lejos	lejos	ADV	_	_	18	advmod	_	SpaceAfter=No
@@ -394613,7 +394613,7 @@
 19	especialista	especialista	NOUN	_	Number=Sing	17	obj	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 21	ya	ya	ADV	_	ExtPos=SCONJ	24	mark	_	_
-22	que	que	CCONJ	_	_	21	fixed	_	_
+22	que	que	SCONJ	_	_	21	fixed	_	_
 23	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	24	obl:arg	_	_
 24	hicieron	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	advcl	_	_
 25	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
@@ -400160,7 +400160,7 @@
 11	Tari	Tari	PROPN	_	_	9	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 13	ya	ya	ADV	_	ExtPos=SCONJ	17	mark	_	_
-14	que	que	CCONJ	_	_	13	fixed	_	_
+14	que	que	SCONJ	_	_	13	fixed	_	_
 15	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	17	nsubj	_	_
 16	también	también	ADV	_	_	17	advmod	_	_
 17	saben	saber	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
@@ -401158,7 +401158,7 @@
 4	buena	buen	ADJ	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 6	ya	ya	ADV	_	ExtPos=SCONJ	9	mark	_	_
-7	que	que	CCONJ	_	_	6	fixed	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
 8	delante	delante	ADV	_	_	9	advmod	_	_
 9	tienes	tener	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -403149,7 +403149,7 @@
 6	propia	propio	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
 7	carne	carne	NOUN	_	Gender=Fem|Number=Sing	4	obj	_	_
 8	ya	ya	ADV	_	ExtPos=SCONJ	10	mark	_	_
-9	que	que	CCONJ	_	_	8	fixed	_	_
+9	que	que	SCONJ	_	_	8	fixed	_	_
 10	crian	criar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	4	advcl	_	CorrectForm=crían
 11	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	13	det	_	_
 12	propios	propio	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	_
@@ -404183,7 +404183,7 @@
 36	,	,	PUNCT	_	PunctType=Comm	44	punct	_	_
 37	toda	todo	DET	_	ExtPos=SCONJ|Gender=Fem|Number=Sing|PronType=Tot	44	mark	_	_
 38	vez	vez	NOUN	_	Gender=Fem|Number=Sing	37	fixed	_	_
-39	que	que	CCONJ	_	_	37	fixed	_	_
+39	que	que	SCONJ	_	_	37	fixed	_	_
 40	sin	sin	ADP	_	_	41	case	_	_
 41	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	44	obl	_	_
 42	no	no	ADV	_	Polarity=Neg	44	advmod	_	_
@@ -404236,7 +404236,7 @@
 2	año	año	NOUN	_	_	6	obl	_	_
 3	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	_
 4	sí	sí	INTJ	_	_	6	advcl	_	_
-5	que	que	CCONJ	_	_	4	fixed	_	_
+5	que	que	SCONJ	_	_	4	fixed	_	_
 6	hubo	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	algo	algo	PRON	_	Number=Sing|PronType=Ind	6	obj	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
@@ -405256,7 +405256,7 @@
 8	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	9	det	_	_
 9	vida	vida	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
 10	ya	ya	ADV	_	ExtPos=SCONJ	12	mark	_	_
-11	que	que	CCONJ	_	_	10	fixed	_	_
+11	que	que	SCONJ	_	_	10	fixed	_	_
 12	pedimos	pedir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	advcl	_	_
 13	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	14	nummod	_	_
 14	menus	menú	NOUN	_	Gender=Masc|Number=Plur|Typo=Yes	12	obj	_	CorrectForm=menús
@@ -405267,7 +405267,7 @@
 19	5	5	NUM	_	NumForm=Digit|NumType=Card	18	obj	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 21	ya	ya	ADV	_	ExtPos=SCONJ	23	mark	_	_
-22	que	que	CCONJ	_	_	21	fixed	_	_
+22	que	que	SCONJ	_	_	21	fixed	_	_
 23	decian	decir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	17	advcl	_	CorrectForm=decían
 24	que	que	SCONJ	_	_	25	mark	_	_
 25	habiamos	haber	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Imp|Typo=Yes|VerbForm=Fin	23	ccomp	_	CorrectForm=habíamos
@@ -406480,7 +406480,7 @@
 40	antihigiénico	antihigiénico	ADJ	_	Gender=Masc|Number=Sing	39	xcomp	_	SpaceAfter=No
 41	,	,	PUNCT	_	PunctType=Comm	45	punct	_	_
 42	ya	ya	ADV	_	ExtPos=SCONJ	45	mark	_	_
-43	que	que	CCONJ	_	_	42	fixed	_	_
+43	que	que	SCONJ	_	_	42	fixed	_	_
 44	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	45	expl:pv	_	_
 45	pasean	pasear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	39	advcl	_	_
 46	por	por	ADP	_	_	48	case	_	_
@@ -412066,7 +412066,7 @@
 29	internet	internet	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 31	ya	ya	ADV	_	ExtPos=SCONJ	38	mark	_	_
-32	que	que	PRON	_	PronType=Rel	31	fixed	_	_
+32	que	que	SCONJ	_	_	31	fixed	_	_
 33	en	en	ADP	_	_	35	case	_	_
 34	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	_
 35	actualidad	actualidad	NOUN	_	Gender=Fem|Number=Sing	38	nmod	_	_
@@ -412076,7 +412076,7 @@
 39	técnicamente	técnicamente	ADV	_	_	38	advmod	_	SpaceAfter=No
 40	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 41	para	para	ADP	_	_	48	mark	_	_
-42	que	que	PRON	_	PronType=Rel	41	fixed	_	_
+42	que	que	SCONJ	_	_	41	fixed	_	_
 43	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	44	det	_	_
 44	procesos	proceso	NOUN	_	Gender=Masc|Number=Plur	48	nsubj	_	_
 45	de	de	ADP	_	_	46	case	_	_
@@ -417939,7 +417939,7 @@
 20	terreno	terreno	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 22	ya	ya	ADV	_	ExtPos=SCONJ	25	mark	_	_
-23	que	que	CCONJ	_	_	22	fixed	_	_
+23	que	que	SCONJ	_	_	22	fixed	_	_
 24	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	_
 25	demostrada	demostrado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	13	advcl	_	_
 26	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	27	det	_	_
@@ -423859,7 +423859,7 @@
 4	cambiar	cambiar	VERB	_	VerbForm=Inf	3	xcomp	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 6	ya	ya	ADV	_	ExtPos=SCONJ	9	mark	_	_
-7	que	que	CCONJ	_	_	6	fixed	_	_
+7	que	que	SCONJ	_	_	6	fixed	_	_
 8	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
 9	quiere	querer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 10	crear	crear	VERB	_	VerbForm=Inf	9	xcomp	_	_
@@ -426772,7 +426772,7 @@
 57	52	52	NUM	_	NumForm=Digit|NumType=Card	55	nmod	_	SpaceAfter=No
 58	,	,	PUNCT	_	PunctType=Comm	65	punct	_	_
 59	ya	ya	ADV	_	ExtPos=SCONJ	65	mark	_	_
-60	que	que	CCONJ	_	_	59	fixed	_	_
+60	que	que	SCONJ	_	_	59	fixed	_	_
 61	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	62	det	_	_
 62	número	número	NOUN	_	Gender=Masc|Number=Sing	65	nsubj	_	_
 63	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	65	cop	_	_
@@ -430078,7 +430078,7 @@
 22	y	y	CCONJ	_	_	33	cc	_	_
 23	de	de	ADP	_	ExtPos=SCONJ	33	mark	_	_
 24	ahí	ahí	ADV	_	_	23	fixed	_	_
-25	que	que	CCONJ	_	_	23	fixed	_	_
+25	que	que	SCONJ	_	_	23	fixed	_	_
 26	en	en	ADP	_	_	28	case	_	_
 27	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 28	cantidades	cantidad	NOUN	_	Gender=Fem|Number=Plur	33	obl	_	_
@@ -430164,7 +430164,7 @@
 20	Panamericanos	Panamericanos	PROPN	_	_	11	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 22	ya	ya	ADV	_	ExtPos=SCONJ	26	mark	_	_
-23	que	que	CCONJ	_	_	22	fixed	_	_
+23	que	que	SCONJ	_	_	22	fixed	_	_
 24	Cirigliano	Cirigliano	PROPN	_	_	26	nsubj	_	_
 25	sólo	sólo	ADV	_	_	26	advmod	_	_
 26	estaría	estar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	8	advcl	_	_
