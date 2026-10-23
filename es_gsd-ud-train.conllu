@@ -6504,8 +6504,8 @@
 14	tren	tren	NOUN	_	Gender=Masc|Number=Sing	12	obj	_	_
 15	o	o	CCONJ	_	_	19	cc	_	_
 16-17	al	_	_	_	_	_	_	_	_
-16	a	a	ADP	_	ExtPos=CCONJ	17	cc	_	_
-17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
+16	a	a	ADP	_	ExtPos=ADV	19	advmod	_	_
+17	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	fixed	_	_
 18	menos	menos	ADV	_	Degree=Cmp	16	fixed	_	_
 19	reducir	reducir	VERB	_	VerbForm=Inf	12	conj	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
