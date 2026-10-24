@@ -3837,7 +3837,7 @@
 6	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 7	23	23	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
 8	años	año	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
-9	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
+9	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
 10	elegido	elegir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	académico	académico	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
 12	de	de	ADP	_	_	13	case	_	_
@@ -5250,7 +5250,7 @@
 8	de	de	ADP	_	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	reglamento	reglamento	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
-11	ser	ser	AUX	_	VerbForm=Inf	12	aux	_	_
+11	ser	ser	AUX	_	VerbForm=Inf	12	aux:pass	_	_
 12	eliminado	eliminar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 13	e	e	CCONJ	_	_	14	cc	_	_
 14	inhabilitado	inhabilitar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	12	conj	_	_
@@ -5920,7 +5920,7 @@
 
 # sent_id = es-dev-001-s203
 # text = Fue condecorado con la Cruz de Guerra por sus servicios en la Resistencia francesa durante la Segunda Guerra Mundial, en la que estuvo prisionero en el Campo de concentración de Miranda de Ebro.
-1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	condecorado	condecorar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	con	con	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -12731,7 +12731,7 @@
 4	esto	este	PRON	_	Number=Sing|PronType=Dem	10	obl	_	_
 5	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	6	det	_	_
 6	benzodiazepinas	benzodiazepina	NOUN	_	Gender=Fem|Number=Plur	10	nsubj:pass	_	_
-7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+7	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 8	todavía	todavía	ADV	_	_	10	advmod	_	_
 9	extensamente	extensamente	ADV	_	_	10	advmod	_	_
 10	recetadas	recetar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -38850,7 +38850,7 @@
 36	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	37	det	_	_
 37	miles	mil	NOUN	_	Number=Plur	40	nsubj:pass	_	_
 38	más	más	ADV	_	Degree=Cmp	37	advmod	_	_
-39	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	40	aux	_	_
+39	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	40	aux:pass	_	_
 40	detenidos	detener	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	34	parataxis	_	_
 41	o	o	CCONJ	_	_	42	cc	_	_
 42	expulsados	expulsar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	40	conj	_	_
@@ -38893,7 +38893,7 @@
 1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	encuentros	encontrar	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	5	nsubj:pass	_	_
-4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
+4	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 5	jugados	jugar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 6	en	en	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -40309,7 +40309,7 @@
 
 # sent_id = es-dev-003-s354
 # text = Fue descubierto en la tumba de San Cuthbert en la Catedral de Durham, cuando fue abierta en el 1104.
-1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	en	en	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -40716,7 +40716,7 @@
 10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 11	posteriormente	posteriormente	ADV	_	_	14	advmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
 14	nombrado	nombrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	3	conj	_	_
 15	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	pintor	pintor	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
