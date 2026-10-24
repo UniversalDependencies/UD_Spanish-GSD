@@ -15199,7 +15199,7 @@
 # sent_id = es-dev-002-s19
 # text = Este libro es muy conocido y querido por todos los niños en nuestro país.
 1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	2	det	_	_
-2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	libro	libro	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 4	muy	mucho	ADV	_	_	5	advmod	_	_
 5	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
@@ -15451,7 +15451,7 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	cual	cual	PRON	_	Number=Sing|PronType=Rel	28	obl:agent	_	_
 18	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
-19	persona	persona	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
+19	persona	persona	NOUN	_	Gender=Fem|Number=Sing	28	nsubj:pass	_	_
 20	que	que	PRON	_	PronType=Rel	21	nsubj	_	_
 21	origina	originar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	acl:relcl	_	_
 22	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
@@ -16208,7 +16208,7 @@
 # sent_id = es-dev-002-s51
 # text = La actividad económica desarrollada en el municipio de La Puebla de Híjar está basada principalmente en el sector primario (agricultura y ganadería) y en el sector secundario (industria), aunque también podemos encontrar algunas actividades enmarcadas dentro del sector terciario (sector servicios).
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	actividad	actividad	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+2	actividad	actividad	NOUN	_	Gender=Fem|Number=Sing	14	nsubj:pass	_	_
 3	económica	económico	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
 4	desarrollada	desarrollar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	_	_
 5	en	en	ADP	_	_	7	case	_	_
@@ -22184,7 +22184,7 @@
 3	5387	5387	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
 4	habitantes	habitante	NOUN	_	Number=Plur	8	obl	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
-6	Sparta	Sparta	PROPN	_	_	8	nsubj	_	_
+6	Sparta	Sparta	PROPN	_	_	8	nsubj:pass	_	_
 7	estaba	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	aux:pass	_	_
 8	compuesto	componer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 9	por	por	ADP	_	_	12	case	_	_
@@ -33386,7 +33386,7 @@
 17	"	"	PUNCT	_	PunctType=Quot	12	punct	_	SpaceAfter=No
 18	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	10	punct	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-20	que	que	PRON	_	PronType=Rel	22	nsubj	_	_
+20	que	que	PRON	_	PronType=Rel	22	nsubj:pass	_	_
 21	está	estar	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	_	_
 22	vinculado	vinculado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	acl:relcl	_	_
 23	con	con	ADP	_	_	25	case	_	_
@@ -35691,7 +35691,7 @@
 # sent_id = es-dev-003-s204
 # text = Algunas especies de Persoonia como (P. elliptica, P. gunnii, P. longifolia, P. micranthera, P. muelleri) son conocidas por ser altamente susceptibles a infecciones por un Oomycete, Phytophthora cinnamomi, en la naturaleza y este patógeno es fuertemente sospechoso de ser responsable por las muertes de muchas otras especies en cultivo.
 1	Algunas	alguno	DET	_	Gender=Fem|Number=Plur|PronType=Ind	2	det	_	_
-2	especies	especie	NOUN	_	Gender=Fem|Number=Plur	23	nsubj	_	_
+2	especies	especie	NOUN	_	Gender=Fem|Number=Plur	23	nsubj:pass	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Persoonia	Persoonia	PROPN	_	_	2	nmod	_	_
 5	como	como	SCONJ	_	_	7	case	_	_
@@ -35806,7 +35806,7 @@
 # text = Todas las ratonas australianas son denominadas en inglés fairy - wrens (chochines hada) aunque no están relacionadas con el verdadero chochín (familia Troglodytidae).
 1	Todas	todo	DET	_	Gender=Fem|Number=Plur|PronType=Tot	3	det	_	_
 2	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
-3	ratonas	ratona	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	_
+3	ratonas	ratona	NOUN	_	Gender=Fem|Number=Plur	6	nsubj:pass	_	_
 4	australianas	australiano	ADJ	_	Gender=Fem|Number=Plur	3	amod	_	_
 5	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	_
 6	denominadas	denominar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
@@ -38073,7 +38073,7 @@
 22	ya	ya	ADV	_	ExtPos=SCONJ	30	mark	_	_
 23	que	que	SCONJ	_	_	22	fixed	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
-25	operación	operación	NOUN	_	Gender=Fem|Number=Sing	30	nsubj	_	_
+25	operación	operación	NOUN	_	Gender=Fem|Number=Sing	30	nsubj:pass	_	_
 26	no	no	ADV	_	Polarity=Neg	30	advmod	_	_
 27	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	30	aux	_	_
 28	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	30	aux:pass	_	_
