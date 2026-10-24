@@ -33084,7 +33084,7 @@
 12	Williams	Williams	PROPN	_	_	11	flat	_	_
 13	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 14	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-15	vuelto	volver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	csubj	_	_
+15	vuelto	volver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	csubj:pass	_	_
 16	a	a	ADP	_	_	17	mark	_	_
 17	unir	unir	VERB	_	VerbForm=Inf	15	xcomp	_	_
 18	a	a	ADP	_	_	20	case	_	_
@@ -137373,7 +137373,7 @@
 24	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	_	_
 25	prohibido	prohibir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
 26	eventualmente	eventualmente	ADV	_	_	25	advmod	_	_
-27	conducir	conducir	VERB	_	VerbForm=Inf	25	csubj	_	_
+27	conducir	conducir	VERB	_	VerbForm=Inf	25	csubj:pass	_	_
 28	por	por	ADP	_	_	30	case	_	_
 29	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	30	nummod	_	_
 30	meses	mes	NOUN	_	Gender=Masc|Number=Plur	27	obl	_	SpaceAfter=No
@@ -291935,7 +291935,7 @@
 3	cazada	cazar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 4	donde	donde	ADV	_	PronType=Rel	6	advmod	_	_
 5	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	dep	_	_
-6	haya	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+6	haya	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj:pass	_	_
 7	humanos	humano	NOUN	_	VerbForm=Inf	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
