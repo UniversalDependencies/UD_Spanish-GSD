@@ -292402,7 +292402,7 @@
 33	quienes	quien	PRON	_	Number=Plur|PronType=Rel	37	nsubj	_	_
 34	gradualmente	gradualmente	ADV	_	_	37	advmod	_	_
 35	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	37	expl:pv	_	_
-36	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	37	aux:pass	_	_
+36	fueron	ir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	37	aux	_	_
 37	convirtiendo	convertir	VERB	_	VerbForm=Ger	21	acl:relcl	_	_
 38	en	en	ADP	_	_	41	case	_	_
 39	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	41	det	_	_
@@ -331413,7 +331413,7 @@
 # text = Las siguientes campañas, con Louis van Gaal en el banquillo se fue afianzando hasta convertirse en dueño del arco del club de Amsterdam, llegando a ganar varios títulos, especialmente la Liga de Campeones y la Copa Intercontinental del año 1995.
 1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	3	det	_	_
 2	siguientes	siguiente	ADJ	_	Number=Plur	3	amod	_	_
-3	campañas	campaña	NOUN	_	Gender=Fem|Number=Plur	14	nsubj	_	SpaceAfter=No
+3	campañas	campaña	NOUN	_	Gender=Fem|Number=Plur	14	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 5	con	con	ADP	_	_	6	case	_	_
 6	Louis	Louis	PROPN	_	_	3	nmod	_	_
@@ -331423,7 +331423,7 @@
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	banquillo	banquillo	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl:pv	_	_
-13	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	_	_
+13	fue	ir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
 14	afianzando	afianzar	VERB	_	VerbForm=Ger	0	root	_	_
 15	hasta	hasta	ADP	_	_	16	mark	_	_
 16-17	convertirse	_	_	_	_	_	_	_	_
@@ -347411,7 +347411,7 @@
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	Lincoln	Lincoln	PROPN	_	_	8	nsubj	_	_
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
-7	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
+7	fueron	ir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	8	aux	_	_
 8	estableciendo	establecer	VERB	_	VerbForm=Ger	0	root	_	_
 9	en	en	ADP	_	_	11	case	_	_
 10	Nueva	nuevo	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
