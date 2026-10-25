@@ -307730,7 +307730,7 @@
 
 # sent_id = es-train-021-s83
 # text = Debe tenerse en cuenta que las formas de gobierno, las instituciones sociales, las costumbres y la estructura social van cambiando en las sociedades y eso se refleja en el léxico.
-1	Debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux:pass	_	_
+1	Debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	aux	_	_
 2-3	tenerse	_	_	_	_	_	_	_	_
 2	tener	tener	VERB	_	VerbForm=Inf	0	root	_	_
 3	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
