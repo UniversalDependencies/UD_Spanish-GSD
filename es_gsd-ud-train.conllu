@@ -33084,7 +33084,7 @@
 12	Williams	Williams	PROPN	_	_	11	flat	_	_
 13	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	15	expl:pv	_	_
 14	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux	_	_
-15	vuelto	volver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	csubj	_	_
+15	vuelto	volver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	csubj:pass	_	_
 16	a	a	ADP	_	_	17	mark	_	_
 17	unir	unir	VERB	_	VerbForm=Inf	15	xcomp	_	_
 18	a	a	ADP	_	_	20	case	_	_
@@ -47592,7 +47592,7 @@
 
 # sent_id = es-train-004-s60
 # text = Baeotherates es conocido a partir del holotipo OMNH 55758, una mandíbula derecha (dentario).
-1	Baeotherates	Baeotherates	PROPN	_	_	3	nsubj	_	_
+1	Baeotherates	Baeotherates	PROPN	_	_	3	nsubj:pass	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 4	a	a	ADP	_	_	5	mark	_	_
@@ -49839,7 +49839,7 @@
 19	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 20	y	y	CCONJ	_	_	24	cc	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
-22	hélice	hélice	NOUN	_	Number=Sing	24	nsubj	_	_
+22	hélice	hélice	NOUN	_	Number=Sing	24	nsubj:pass	_	_
 23	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux:pass	_	_
 24	accionada	accionar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
 25	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	24	nmod	_	_
@@ -56471,7 +56471,7 @@
 29	a	a	ADP	_	_	30	case	_	_
 30	Roraima	Roraima	PROPN	_	_	26	obl:arg	_	_
 31	y	y	CCONJ	_	_	34	cc	_	_
-32	Guaporé	Guaporé	PROPN	_	_	34	nsubj	_	_
+32	Guaporé	Guaporé	PROPN	_	_	34	nsubj:pass	_	_
 33	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux:pass	_	_
 34	bautizado	bautizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	26	conj	_	_
 35	Rondônia	Rondônia	PROPN	_	_	34	xcomp	_	SpaceAfter=No
@@ -60990,7 +60990,7 @@
 19	puesto	poner	VERB	_	ExtPos=SCONJ|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27	mark	_	_
 20	que	que	SCONJ	_	_	19	fixed	_	_
 21	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	22	det	_	_
-22	absolutos	absoluto	NOUN	_	Gender=Masc|Number=Plur	27	nsubj	_	_
+22	absolutos	absoluto	NOUN	_	Gender=Masc|Number=Plur	27	nsubj:pass	_	_
 23	de	de	ADP	_	_	25	case	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	metafísica	metafísica	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	_
@@ -63241,7 +63241,7 @@
 5	extensión	extensión	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 6	analítica	analítico	ADJ	_	Gender=Fem|Number=Sing	5	amod	_	_
 7	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	8	det	_	_
-8	función	función	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+8	función	función	NOUN	_	Gender=Fem|Number=Sing	11	nsubj:pass	_	_
 9	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
 10	ser	ser	AUX	_	VerbForm=Inf	11	aux:pass	_	_
 11	extendida	extendir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -67776,7 +67776,7 @@
 28	que	que	SCONJ	_	_	33	mark	_	_
 29	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 30	antiguo	antiguo	ADJ	_	Gender=Masc|Number=Sing	31	amod	_	_
-31	claustro	claustro	NOUN	_	Gender=Masc|Number=Sing	33	nsubj	_	_
+31	claustro	claustro	NOUN	_	Gender=Masc|Number=Sing	33	nsubj:pass	_	_
 32	fuese	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	33	aux:pass	_	_
 33	destinado	destinar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	27	ccomp	_	_
 34	para	para	ADP	_	_	35	mark	_	_
@@ -68136,7 +68136,7 @@
 
 # sent_id = es-train-005-s225
 # text = Él es representado como un príncipe heroico, a los dieciséis años de edad se ve obligado a huir de su hogar después de que su reino fue atacado.
-1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj:pass	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	representado	representar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 4	como	como	SCONJ	_	_	6	case	_	_
@@ -74970,7 +74970,7 @@
 19	federación	federación	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 21	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	22	det	_	_
-22	elección	elección	NOUN	_	Gender=Fem|Number=Sing	24	nsubj	_	_
+22	elección	elección	NOUN	_	Gender=Fem|Number=Sing	24	nsubj:pass	_	_
 23	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux:pass	_	_
 24	efectuada	efectuar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 25	en	en	ADP	_	_	26	case	_	_
@@ -79649,7 +79649,7 @@
 13	mientras	mientras	SCONJ	_	ExtPos=SCONJ	19	mark	_	_
 14	que	que	SCONJ	_	_	13	fixed	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
-16	planta	planta	NOUN	_	Gender=Fem|Number=Sing	19	nsubj	_	_
+16	planta	planta	NOUN	_	Gender=Fem|Number=Sing	19	nsubj:pass	_	_
 17	baja	bajo	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	_
 18	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	19	aux:pass	_	_
 19	usada	usar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	advcl	_	_
@@ -88648,7 +88648,7 @@
 # text = Todos los animales a la venta con este sello han sido alimentados con los métodos tradicionales asturianos, además, como mínimo, durante sus cinco primeros meses de vida el animal fue amamantado por su madre.
 1	Todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	3	det	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	animales	animal	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+3	animales	animal	NOUN	_	Gender=Masc|Number=Plur	12	nsubj:pass	_	_
 4	a	a	ADP	_	_	6	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	venta	venta	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	_
@@ -88677,7 +88677,7 @@
 29	de	de	ADP	_	_	30	case	_	_
 30	vida	vida	NOUN	_	Gender=Fem|Number=Sing	28	nmod	_	_
 31	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	32	det	_	_
-32	animal	animal	NOUN	_	Gender=Masc|Number=Sing	34	nsubj	_	_
+32	animal	animal	NOUN	_	Gender=Masc|Number=Sing	34	nsubj:pass	_	_
 33	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	34	aux:pass	_	_
 34	amamantado	amamantar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	12	parataxis	_	_
 35	por	por	ADP	_	_	37	case	_	_
@@ -94575,7 +94575,7 @@
 # sent_id = es-train-007-s95
 # text = Esa decisión del canciller no ha sido sometida a un referéndum entre los panameños, que somos los que debemos tomar una postura ante este tema.
 1	Esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	decisión	decisión	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	_
+2	decisión	decisión	NOUN	_	Gender=Fem|Number=Sing	9	nsubj:pass	_	_
 3-4	del	_	_	_	_	_	_	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -97927,7 +97927,7 @@
 
 # sent_id = es-train-007-s200
 # text = Mickey Mouse fue usado bastante en el arte del álbum tanto en su galería fotográfica, en el vídeo This is the New Shit, en el tour del año 2003 y en su galería de pinturas, Un Mickey Alzando su sombrero de orejas y dejando descubierto su hueco cráneo.
-1	Mickey	Mickey	PROPN	_	_	4	nsubj	_	_
+1	Mickey	Mickey	PROPN	_	_	4	nsubj:pass	_	_
 2	Mouse	Mouse	PROPN	_	_	1	flat	_	_
 3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	usado	usar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -98739,7 +98739,7 @@
 2	ejemplo	ejemplo	NOUN	_	Gender=Masc|Number=Sing	10	obl:agent	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
-5	efluentes	efluente	NOUN	_	Number=Plur	10	nsubj	_	_
+5	efluentes	efluente	NOUN	_	Number=Plur	10	nsubj:pass	_	_
 6	de	de	ADP	_	_	8	case	_	_
 7	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	8	det	_	_
 8	refinerías	refinería	NOUN	_	Gender=Fem|Number=Plur	5	nmod	_	_
@@ -101905,7 +101905,7 @@
 # sent_id = es-train-007-s336
 # text = Las imágenes de lo ocurrido ese día dentro del palacio presidencial fueron captadas por las cineastas Kim Bartley y Donnacha O'Brien en el documental "La Revolución no será trasmitida".
 1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
-2	imágenes	imagen	NOUN	_	Gender=Fem|Number=Plur	14	nsubj	_	_
+2	imágenes	imagen	NOUN	_	Gender=Fem|Number=Plur	14	nsubj:pass	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	5	det	_	_
 5	ocurrido	ocurrido	NOUN	_	Gender=Masc|Number=Sing|VerbForm=Part	2	nmod	_	_
@@ -101932,7 +101932,7 @@
 25	documental	documental	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
 26	"	"	PUNCT	_	PunctType=Quot	31	punct	_	SpaceAfter=No
 27	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
-28	Revolución	Revolución	PROPN	_	_	31	nsubj	_	_
+28	Revolución	Revolución	PROPN	_	_	31	nsubj:pass	_	_
 29	no	no	ADV	_	Polarity=Neg	31	obl	_	_
 30	será	ser	AUX	_	Number=Sing	31	aux:pass	_	_
 31	trasmitida	trasmitido	PROPN	_	Gender=Fem|Number=Sing|VerbForm=Part	25	appos	_	SpaceAfter=No
@@ -128539,7 +128539,7 @@
 40	decir	decir	VERB	_	VerbForm=Inf	38	advcl	_	_
 41	os	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	40	obl:arg	_	_
 42	que	que	SCONJ	_	_	45	mark	_	_
-43	vos	tú	PRON	_	Gender=Masc|Number=Plur|Person=1|PronType=Prs	45	nsubj	_	_
+43	vos	tú	PRON	_	Gender=Masc|Number=Plur|Person=1|PronType=Prs	45	nsubj:pass	_	_
 44	seréis	ser	AUX	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	45	aux:pass	_	_
 45	consagrado	consagrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	40	ccomp	_	_
 46	y	y	CCONJ	_	_	47	cc	_	_
@@ -130320,7 +130320,7 @@
 # sent_id = es-train-009-s301
 # text = El Ojo de la Providencia era entendido comúnmente como un símbolo de Dios y destino.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	Ojo	ojo	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+2	Ojo	ojo	NOUN	_	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Providencia	Providencia	PROPN	_	_	2	nmod	_	_
@@ -136087,7 +136087,7 @@
 7	Peñalolén	Peñalolén	PROPN	_	_	6	appos	_	_
 8	que	que	SCONJ	_	_	12	mark	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
-10	recinto	recinto	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+10	recinto	recinto	NOUN	_	Gender=Masc|Number=Sing	12	nsubj:pass	_	_
 11	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	reconstruido	reconstruir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
 13	y	y	CCONJ	_	_	14	cc	_	_
@@ -137075,7 +137075,7 @@
 # sent_id = es-train-010-s32
 # text = Esta funcionalidad es puesta en práctica con Trabajos de Microsoft (disponible sólo para algunas versiones de Windows) y AppleWorks, a veces llamada ClarisWorks (disponible tanto para el Macintosh como para plataformas de Windows).
 1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	funcionalidad	funcionalidad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
+2	funcionalidad	funcionalidad	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	puesta	poner	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	en	en	ADP	_	_	6	case	_	_
@@ -137373,7 +137373,7 @@
 24	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	25	aux:pass	_	_
 25	prohibido	prohibir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	parataxis	_	_
 26	eventualmente	eventualmente	ADV	_	_	25	advmod	_	_
-27	conducir	conducir	VERB	_	VerbForm=Inf	25	csubj	_	_
+27	conducir	conducir	VERB	_	VerbForm=Inf	25	csubj:pass	_	_
 28	por	por	ADP	_	_	30	case	_	_
 29	seis	seis	NUM	_	Number=Plur|NumForm=Word|NumType=Card	30	nummod	_	_
 30	meses	mes	NOUN	_	Gender=Masc|Number=Plur	27	obl	_	SpaceAfter=No
@@ -138877,7 +138877,7 @@
 34	de	de	ADP	_	_	42	case	_	_
 35	que	que	SCONJ	_	_	42	mark	_	_
 36	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
-37	ejército	ejército	NOUN	_	Gender=Masc|Number=Sing	42	nsubj	_	_
+37	ejército	ejército	NOUN	_	Gender=Masc|Number=Sing	42	nsubj:pass	_	_
 38	alemán	alemán	ADJ	_	Gender=Masc|Number=Sing	37	amod	_	_
 39	no	no	ADV	_	Polarity=Neg	42	advmod	_	_
 40	había	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	42	aux	_	_
@@ -144167,7 +144167,7 @@
 # sent_id = es-train-010-s257
 # text = Los Quirópteros son creados a partir de la sangre de una de las dos reinas, con la sangre de una reina, un ser humano puede trasformarse en Quiróptero y sólo pueden ser destruidos con la sangre de la reina contraria.
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	Quirópteros	quirópteros	NOUN	_	_	4	nsubj	_	_
+2	Quirópteros	quirópteros	NOUN	_	_	4	nsubj:pass	_	_
 3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	creados	crear	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 5	a	a	ADP	_	_	6	mark	_	_
@@ -166393,7 +166393,7 @@
 39	,	,	PUNCT	_	PunctType=Comm	40	punct	_	_
 40	y	y	CCONJ	_	_	30	cc	_	_
 41	que	que	SCONJ	_	_	44	mark	_	_
-42	ambas	ambos	PRON	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	44	nsubj	_	_
+42	ambas	ambos	PRON	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	44	nsubj:pass	_	_
 43	fueran	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	44	aux:pass	_	_
 44	alzadas	alzar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	30	ccomp	_	_
 45-46	al	_	_	_	_	_	_	_	_
@@ -172080,7 +172080,7 @@
 6	y	y	CCONJ	_	_	11	cc	_	_
 7	actualmente	actualmente	ADV	_	_	11	advmod	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
-9	película	película	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
+9	película	película	NOUN	_	Gender=Fem|Number=Sing	11	nsubj:pass	_	_
 10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 11	vista	ver	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 12	como	como	SCONJ	_	_	13	case	_	_
@@ -172322,7 +172322,7 @@
 9	en	en	ADP	_	_	10	case	_	_
 10	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
-12	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
+12	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj:pass	_	_
 13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
 14	creado	crear	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	conj	_	_
 15	para	para	ADP	_	_	16	mark	_	_
@@ -178036,7 +178036,7 @@
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	como	como	SCONJ	_	_	18	mark	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
-6	origen	origen	NOUN	_	Gender=Masc|Number=Sing	18	nsubj	_	_
+6	origen	origen	NOUN	_	Gender=Masc|Number=Sing	18	nsubj:pass	_	_
 7	de	de	ADP	_	_	9	case	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	poemas	poema	NOUN	_	Gender=Masc|Number=Plur	6	nmod	_	_
@@ -189923,7 +189923,7 @@
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
 5	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	nummod	_	_
 6	principales	principal	ADJ	_	Number=Plur	7	amod	_	_
-7	bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	28	nsubj	_	_
+7	bombas	bomba	NOUN	_	Gender=Fem|Number=Plur	28	nsubj:pass	_	_
 8	suministradoras	suministrador	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	_	_	11	case	_	_
@@ -205194,7 +205194,7 @@
 11	siempre	siempre	ADV	_	_	12	advmod	_	_
 12	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
-14	contenido	contenido	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	SpaceAfter=No
+14	contenido	contenido	NOUN	_	Gender=Masc|Number=Sing	12	nsubj:pass	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 16	pero	pero	CCONJ	_	_	18	cc	_	_
 17	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
@@ -212662,7 +212662,7 @@
 21	SeeSaw	Seesaw	PROPN	_	_	15	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
-24	cuál	cuál	PRON	_	Number=Sing|PronType=Int	26	nsubj	_	_
+24	cuál	cuál	PRON	_	Number=Sing|PronType=Int	26	nsubj:pass	_	_
 25	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	26	aux:pass	_	_
 26	lanzado	lanzar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	15	acl:relcl	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -213532,7 +213532,7 @@
 
 # sent_id = es-train-015-s28
 # text = Javier Riba ha sido premiado en diferentes Concursos Internacionales:
-1	Javier	Javier	PROPN	_	_	5	nsubj	_	_
+1	Javier	Javier	PROPN	_	_	5	nsubj:pass	_	_
 2	Riba	Riba	PROPN	_	_	1	flat	_	_
 3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
@@ -213862,7 +213862,7 @@
 # text = El último emir, Shafaul ibn Ali Shaif Al Amiri, fue depuesto y el estado de Dhala abolido en 1967, integrándose a la naciente República Popular de Yemen del Sur, por lo que la región es actualmente parte de la República de Yemen.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 2	último	último	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
-3	emir	emir	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	SpaceAfter=No
+3	emir	emir	NOUN	_	Gender=Masc|Number=Sing	13	nsubj:pass	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 5	Shafaul	Shafaul	PROPN	_	_	3	appos	_	_
 6	ibn	ibn	PROPN	_	_	5	flat	_	_
@@ -225847,7 +225847,7 @@
 9	evitar	evitar	VERB	_	VerbForm=Inf	8	xcomp	_	_
 10	que	que	SCONJ	_	_	14	mark	_	_
 11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
-12	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
+12	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	14	nsubj:pass	_	_
 13	fuese	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux:pass	_	_
 14	encarcelada	encarcelar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
 15	de	de	ADP	_	_	17	case	_	_
@@ -237481,7 +237481,7 @@
 
 # sent_id = es-train-016-s324
 # text = Freud et la faute cachée du père (1979), fueron rechazadas por muchos de sus colegas, lo que provocó su salida de la Universidad de La Sorbona.
-1	Freud	Freud	PROPN	_	_	13	nsubj	_	_
+1	Freud	Freud	PROPN	_	_	13	nsubj:pass	_	_
 2	et	et	PROPN	_	Number=Sing	1	flat	_	_
 3	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	flat	_	_
 4	faute	faute	PROPN	_	Number=Sing	1	flat	_	_
@@ -255703,7 +255703,7 @@
 14	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	aux:pass	_	_
 15	enviada	enviar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
-17	intimación	intimación	NOUN	_	Gender=Fem|Number=Sing	15	nsubj	_	_
+17	intimación	intimación	NOUN	_	Gender=Fem|Number=Sing	15	nsubj:pass	_	_
 18	a	a	ADP	_	_	19	mark	_	_
 19-20	rendirse	_	_	_	_	_	_	_	_
 19	rendir	rendir	VERB	_	VerbForm=Inf	17	advcl	_	_
@@ -268751,7 +268751,7 @@
 18	de	de	ADP	_	_	28	case	_	_
 19	que	que	SCONJ	_	_	28	mark	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
-21	persona	persona	NOUN	_	Gender=Fem|Number=Sing	28	nsubj	_	_
+21	persona	persona	NOUN	_	Gender=Fem|Number=Sing	28	nsubj:pass	_	_
 22	que	que	PRON	_	PronType=Rel	24	nsubj	_	_
 23	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	26	obj	_	_
 24	iba	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	21	acl:relcl	_	_
@@ -271781,7 +271781,7 @@
 # sent_id = es-train-018-s439
 # text = La hCG es comúnmente usada durante y después de un ciclo de esteroides para mantener y recuperar el tamaño testicular como también la producción natural de testosterona.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	hCG	hcg	X	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	hCG	hcg	X	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
 3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux:pass	_	_
 4	comúnmente	comúnmente	ADV	_	_	5	advmod	_	_
 5	usada	usar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
@@ -291935,7 +291935,7 @@
 3	cazada	cazar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 4	donde	donde	ADV	_	PronType=Rel	6	advmod	_	_
 5	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	dep	_	_
-6	haya	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj	_	_
+6	haya	haber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	csubj:pass	_	_
 7	humanos	humano	NOUN	_	VerbForm=Inf	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -293333,7 +293333,7 @@
 # sent_id = es-train-020-s117
 # text = Los rusos y el comercio con ellos eran tenidos en gran estima en el norte de Noruega y tenían fama de que se podía confiar en ellos.
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	rusos	ruso	NOUN	_	Gender=Masc|Number=Plur	9	nsubj	_	_
+2	rusos	ruso	NOUN	_	Gender=Masc|Number=Plur	9	nsubj:pass	_	_
 3	y	y	CCONJ	_	_	5	cc	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	comercio	comercio	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
@@ -302106,7 +302106,7 @@
 
 # sent_id = es-train-020-s407
 # text = Guanambi es conocida como la capital del algodón, por su gran producción en 1985.
-1	Guanambi	Guanambi	PROPN	_	_	3	nsubj	_	_
+1	Guanambi	Guanambi	PROPN	_	_	3	nsubj:pass	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	conocida	conocer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	como	como	SCONJ	_	_	6	case	_	_
@@ -303804,7 +303804,7 @@
 2	de	de	ADP	_	_	1	fixed	_	_
 3	que	que	SCONJ	_	_	7	mark	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	puerto	puerto	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	puerto	puerto	NOUN	_	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 6	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
 7	construido	construir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	18	advcl	_	_
 8	durante	durante	ADP	_	_	10	case	_	_
@@ -309703,7 +309703,7 @@
 2	vez	vez	NOUN	_	ExtPos=SCONJ|Gender=Fem|Number=Sing	7	mark	_	_
 3	que	que	SCONJ	_	_	2	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	oro	oro	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
+5	oro	oro	NOUN	_	Gender=Masc|Number=Sing	7	nsubj:pass	_	_
 6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
 7	recuperado	recuperar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
@@ -315468,7 +315468,7 @@
 # sent_id = es-train-021-s335
 # text = El diseño educativo, el diseño sistemático de materiales, las actividades y los ambientes interactivos para aprender, son ampliamente conformados por la teoría e investigación de la psicología educativa.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	22	nsubj	_	_
+2	diseño	diseño	NOUN	_	Gender=Masc|Number=Sing	22	nsubj:pass	_	_
 3	educativo	educativo	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -324102,7 +324102,7 @@
 # sent_id = es-train-022-s115
 # text = Esta raza era originalmente criada a partir del ánade real (Anas platyrhynchos), y aun ahora hay algunos que lo denominan así, aunque otros lo clasifican como Anas domesticus.
 1	Esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
-2	raza	raza	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
+2	raza	raza	NOUN	_	Gender=Fem|Number=Sing	5	nsubj:pass	_	_
 3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	aux:pass	_	_
 4	originalmente	originalmente	ADV	_	_	5	advmod	_	_
 5	criada	criar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
@@ -341884,7 +341884,7 @@
 30	dudaba	dudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	25	acl:relcl	_	_
 31	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	44	punct	_	SpaceAfter=No
 32	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	33	det	_	_
-33	madre	madre	NOUN	_	Gender=Fem|Number=Sing	44	nsubj	_	_
+33	madre	madre	NOUN	_	Gender=Fem|Number=Sing	44	nsubj:pass	_	_
 34	Margarita	Margarita	PROPN	_	_	33	appos	_	SpaceAfter=No
 35	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
 36	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	37	amod	_	_
@@ -350145,7 +350145,7 @@
 39	argumentaron	argumentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
 40	para	para	ADP	_	_	44	mark	_	_
 41	que	que	SCONJ	_	_	44	mark	_	_
-42	Aylwin	Aylwin	PROPN	_	_	44	nsubj	_	_
+42	Aylwin	Aylwin	PROPN	_	_	44	nsubj:pass	_	_
 43	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	44	aux:pass	_	_
 44	proclamado	proclamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	39	obl	_	_
 45	candidato	candidato	NOUN	_	Gender=Masc|Number=Sing	44	xcomp	_	_
@@ -358166,7 +358166,7 @@
 # sent_id = es-train-024-s204
 # text = Los palacios micénicos que construyeron los aqueos en otros lugares son desconocidos, exceptuando los restos conservados sobre las ruinas de residencias anteriores, en Hagia Triada, en las casa de Tylisos.
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	palacios	palacio	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+2	palacios	palacio	NOUN	_	Gender=Masc|Number=Plur	12	nsubj:pass	_	_
 3	micénicos	micénico	ADJ	_	Gender=Masc|Number=Plur	2	amod	_	_
 4	que	que	PRON	_	PronType=Rel	5	obj	_	_
 5	construyeron	construir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
@@ -363882,7 +363882,7 @@
 4	impedir	impedir	VERB	_	VerbForm=Inf	3	xcomp	_	_
 5	que	que	SCONJ	_	_	11	mark	_	_
 6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
-7	opiniones	opinión	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	_
+7	opiniones	opinión	NOUN	_	Gender=Fem|Number=Plur	11	nsubj:pass	_	_
 8	minoritarias	minoritario	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
 9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
 10	sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
@@ -377041,7 +377041,7 @@
 9	descubierto	descubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 11	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	12	amod	_	_
-12	intento	intento	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
+12	intento	intento	NOUN	_	Gender=Masc|Number=Sing	9	nsubj:pass	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
 # sent_id = es-train-025-s316
@@ -389801,7 +389801,7 @@
 # sent_id = es-train-026-s247
 # text = Las impresiones de restos apropiados y las plantas basadas en fósiles asociados eran incluidas en la base del grupo, incluyendo hojas de ginkgo, conos de Sequoia y matas de equisetos.
 1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
-2	impresiones	impresión	NOUN	_	Gender=Fem|Number=Plur	14	nsubj	_	_
+2	impresiones	impresión	NOUN	_	Gender=Fem|Number=Plur	14	nsubj:pass	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	restos	resto	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
 5	apropiados	apropiado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	4	amod	_	_
@@ -390953,7 +390953,7 @@
 # sent_id = es-train-026-s286
 # text = El patio interior fue cubierto con un techo de cristal a raíz de la renovación que se llevó a cabo desde febrero de 2004 hasta diciembre de 2006 y es el lugar donde está el mostrador donde se recoge la comida.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	patio	patio	NOUN	_	Gender=Masc|Number=Sing	5	nsubj	_	_
+2	patio	patio	NOUN	_	Gender=Masc|Number=Sing	5	nsubj:pass	_	_
 3	interior	interior	ADJ	_	Number=Sing	2	amod	_	_
 4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	cubierto	cubrir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -393743,7 +393743,7 @@
 
 # sent_id = es-train-026-s380
 # text = Rubens fue tratada y pronunciada recuperada de su problema de drogadicción por el State Narcotic Hospital en Spadra, California (ahora parte de Pomona (California)) y el Patton State Hospital en San Bernardino (California).
-1	Rubens	Rubens	PROPN	_	_	3	nsubj	_	_
+1	Rubens	Rubens	PROPN	_	_	3	nsubj:pass	_	_
 2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	tratada	tratar	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	_
 4	y	y	CCONJ	_	_	5	cc	_	_
@@ -395422,7 +395422,7 @@
 
 # sent_id = es-train-026-s436
 # text = Clematis crassifolia fue descrita por George Bentham y publicado en Flora Hongkongensis 7, en el año 1861.
-1	Clematis	Clematis	PROPN	_	Gender=Fem|Number=Plur	4	nsubj	_	_
+1	Clematis	Clematis	PROPN	_	Gender=Fem|Number=Plur	4	nsubj:pass	_	_
 2	crassifolia	crassifolia	PROPN	_	_	1	amod	_	_
 3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	descrita	describir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
@@ -403105,7 +403105,7 @@
 # sent_id = es-train-027-s181
 # text = Una versión remezclada de esta canción, con Dirty South, titulada «It 's Too Late (Ride on)», también fue lanzada, y apareció en numerosos álbumes recopilatorios.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	versión	versión	NOUN	_	Gender=Fem|Number=Sing	26	nsubj	_	_
+2	versión	versión	NOUN	_	Gender=Fem|Number=Sing	26	nsubj:pass	_	_
 3	remezclada	remezclado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	2	amod	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	6	det	_	_
@@ -410824,7 +410824,7 @@
 19	tratado	tratado	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
-22	cual	cual	PRON	_	Number=Sing|PronType=Rel	32	nsubj	_	SpaceAfter=No
+22	cual	cual	PRON	_	Number=Sing|PronType=Rel	32	nsubj:pass	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 24	según	según	ADP	_	_	26	case	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
@@ -415548,7 +415548,7 @@
 19	idea	idea	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
 20	de	de	ADP	_	_	24	case	_	_
 21	que	que	SCONJ	_	_	24	mark	_	_
-22	Himmler	Himmler	PROPN	_	_	24	nsubj	_	_
+22	Himmler	Himmler	PROPN	_	_	24	nsubj:pass	_	_
 23	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux:pass	_	_
 24	develado	develar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	advcl	_	_
 25	como	como	SCONJ	_	_	26	case	_	_
@@ -415586,7 +415586,7 @@
 # sent_id = es-train-028-s97
 # text = Los batlles locales, que ayudaban a los regidores, eran nombrados cada año por la Audiencia.
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
-2	batlles	batlle	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+2	batlles	batlle	NOUN	_	Gender=Masc|Number=Plur	12	nsubj:pass	_	_
 3	locales	local	ADJ	_	Number=Plur	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 5	que	que	PRON	_	PronType=Rel	6	nsubj	_	_
@@ -418646,7 +418646,7 @@
 # sent_id = es-train-028-s196
 # text = La totalidad de los libros de cuentos, y casi todas sus novelas (salvo La literatura nazi en América, publicada por la editorial Seix Barral, y Consejos de un discípulo..., reeditada por la Editorial Acantilado), fue publicada por Anagrama.
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	totalidad	totalidad	NOUN	_	Gender=Fem|Number=Sing	44	nsubj	_	_
+2	totalidad	totalidad	NOUN	_	Gender=Fem|Number=Sing	44	nsubj:pass	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	libros	libro	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
@@ -420314,7 +420314,7 @@
 1	Fuerón	ser	AUX	_	Mood=Ind|VerbForm=Fin	2	aux:pass	_	_
 2	propuestos	proponer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 3	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	4	nummod	_	_
-4	candidatos	candidato	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	SpaceAfter=No
+4	candidatos	candidato	NOUN	_	Gender=Masc|Number=Plur	2	nsubj:pass	_	SpaceAfter=No
 5	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-028-s251
@@ -423415,7 +423415,7 @@
 22	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	23	cop	_	_
 23	inútil	inútil	ADJ	_	Number=Sing	18	ccomp	_	_
 24	y	y	CCONJ	_	_	27	cc	_	_
-25	PreCrimen	Precrimen	PROPN	_	_	27	nsubj	_	_
+25	PreCrimen	Precrimen	PROPN	_	_	27	nsubj:pass	_	_
 26	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	27	aux:pass	_	_
 27	descontinuado	descontinuar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	23	conj	_	SpaceAfter=No
 28	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -430780,7 +430780,7 @@
 2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	presentado	presentar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
-5	Mila	Mila	PROPN	_	_	3	nsubj	_	_
+5	Mila	Mila	PROPN	_	_	3	nsubj:pass	_	_
 6	2	2	NUM	_	NumForm=Digit|NumType=Card	5	nummod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 8	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
