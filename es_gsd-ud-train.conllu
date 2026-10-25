@@ -2669,7 +2669,7 @@
 6	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	7	det	_	_
 7	naciones	nación	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	_
 8	que	que	PRON	_	PronType=Rel	10	nsubj:pass	_	_
-9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
+9	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	_
 10	gobernadas	gobernar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	7	acl:relcl	_	_
 11	por	por	ADP	_	_	12	case	_	_
 12	beorcs	beorcs	NOUN	_	Gender=Masc|Number=Sing	10	obl:agent	_	_
@@ -36659,7 +36659,7 @@
 # text = En 1799 es enviado a Kronstadt, San Petersburgo, a supervisar el embarque de algunas tropas rusas destinadas a apoyar el ataque a Holanda.
 1	En	en	ADP	_	_	2	case	_	_
 2	1799	1799	NUM	_	NumForm=Digit|NumType=Card	4	obl	_	_
-3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	enviado	enviar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 5	a	a	ADP	_	_	6	case	_	_
 6	Kronstadt	Kronstadt	PROPN	_	_	4	obl	_	SpaceAfter=No
@@ -38140,7 +38140,7 @@
 22	Comité	comité	NOUN	_	Gender=Masc|Number=Sing	16	obl	_	_
 23	Central	central	ADJ	_	_	22	amod	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
-25	siendo	ser	AUX	_	VerbForm=Ger	26	aux	_	_
+25	siendo	ser	AUX	_	VerbForm=Ger	26	aux:pass	_	_
 26	elegido	elegir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	16	parataxis	_	_
 27	diputado	diputado	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	_
 28	por	por	ADP	_	_	29	case	_	_
@@ -47593,7 +47593,7 @@
 # sent_id = es-train-004-s60
 # text = Baeotherates es conocido a partir del holotipo OMNH 55758, una mandíbula derecha (dentario).
 1	Baeotherates	Baeotherates	PROPN	_	_	3	nsubj	_	_
-2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	conocido	conocer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 4	a	a	ADP	_	_	5	mark	_	_
 5	partir	partir	VERB	_	VerbForm=Inf	3	advcl	_	_
@@ -49840,7 +49840,7 @@
 20	y	y	CCONJ	_	_	24	cc	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	hélice	hélice	NOUN	_	Number=Sing	24	nsubj	_	_
-23	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux	_	_
+23	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	24	aux:pass	_	_
 24	accionada	accionar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	6	conj	_	_
 25	gracias	gracia	NOUN	_	Gender=Fem|Number=Plur	24	nmod	_	_
 26	a	a	ADP	_	_	28	case	_	_
@@ -56050,7 +56050,7 @@
 52	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	53	det	_	_
 53	llantas	llanta	NOUN	_	Gender=Fem|Number=Plur	48	obl	_	_
 54	cuando	cuando	SCONJ	_	_	56	mark	_	_
-55	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	56	aux	_	_
+55	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	56	aux:pass	_	_
 56	infladas	inflar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	48	advcl	_	_
 57	con	con	ADP	_	_	58	case	_	_
 58	aire	aire	NOUN	_	Gender=Masc|Number=Sing	56	obl	_	SpaceAfter=No
@@ -58389,7 +58389,7 @@
 4	culto	culto	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 5	interno	interno	ADJ	_	Gender=Masc|Number=Sing	4	amod	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-7	siendo	ser	AUX	_	VerbForm=Ger	8	aux	_	_
+7	siendo	ser	AUX	_	VerbForm=Ger	8	aux:pass	_	_
 8	vestido	vestir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	parataxis	_	_
 9	según	según	ADP	_	_	11	case	_	_
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
@@ -60994,7 +60994,7 @@
 23	de	de	ADP	_	_	25	case	_	_
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	metafísica	metafísica	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	_
-26	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	aux	_	_
+26	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	27	aux:pass	_	_
 27	substituidos	substituir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	16	advcl	_	_
 28	simplemente	simplemente	ADV	_	_	27	advmod	_	_
 29	en	en	ADP	_	_	31	case	_	_
@@ -67839,7 +67839,7 @@
 
 # sent_id = es-train-005-s216
 # text = Fue grabada esta música entre 1988 y 1991 en los estudios de Antonio Giner, Francisco Corchado y por último con Tato quien grabó la voz de Marisa (De Lille)».
-1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	grabada	grabar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	música	música	NOUN	_	Gender=Fem|Number=Sing	2	nsubj:pass	_	_
@@ -68137,7 +68137,7 @@
 # sent_id = es-train-005-s225
 # text = Él es representado como un príncipe heroico, a los dieciséis años de edad se ve obligado a huir de su hogar después de que su reino fue atacado.
 1	Él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	_
+2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux:pass	_	_
 3	representado	representar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 4	como	como	SCONJ	_	_	6	case	_	_
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
@@ -75824,7 +75824,7 @@
 10	México	México	PROPN	_	_	8	nmod	_	_
 11	para	para	ADP	_	_	14	mark	_	_
 12	que	que	SCONJ	_	_	14	mark	_	_
-13	fueran	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+13	fueran	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux:pass	_	_
 14	juzgados	juzgar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	5	advcl	_	_
 15	por	por	ADP	_	_	17	case	_	_
 16	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -83284,7 +83284,7 @@
 5	de	de	ADP	_	_	6	case	_	_
 6	animales	animal	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
 7	que	que	PRON	_	PronType=Rel	9	nsubj:pass	_	_
-8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux	_	_
+8	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	aux:pass	_	_
 9	considerados	considerar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
 10	impuros	impuro	ADJ	_	Gender=Masc|Number=Plur	9	xcomp	_	SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
@@ -97929,7 +97929,7 @@
 # text = Mickey Mouse fue usado bastante en el arte del álbum tanto en su galería fotográfica, en el vídeo This is the New Shit, en el tour del año 2003 y en su galería de pinturas, Un Mickey Alzando su sombrero de orejas y dejando descubierto su hueco cráneo.
 1	Mickey	Mickey	PROPN	_	_	4	nsubj	_	_
 2	Mouse	Mouse	PROPN	_	_	1	flat	_	_
-3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux	_	_
+3	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	aux:pass	_	_
 4	usado	usar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	bastante	bastante	ADV	_	_	4	advmod	_	_
 6	en	en	ADP	_	_	8	case	_	_
@@ -101934,7 +101934,7 @@
 27	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	Revolución	Revolución	PROPN	_	_	31	nsubj	_	_
 29	no	no	ADV	_	Polarity=Neg	31	obl	_	_
-30	será	ser	AUX	_	Number=Sing	31	aux	_	_
+30	será	ser	AUX	_	Number=Sing	31	aux:pass	_	_
 31	trasmitida	trasmitido	PROPN	_	Gender=Fem|Number=Sing|VerbForm=Part	25	appos	_	SpaceAfter=No
 32	"	"	PUNCT	_	PunctType=Quot	31	punct	_	SpaceAfter=No
 33	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
@@ -106500,7 +106500,7 @@
 10	en	en	ADP	_	_	11	case	_	_
 11	1776	1776	NUM	_	NumForm=Digit|NumType=Card	1	obl	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-13	siendo	ser	AUX	_	VerbForm=Ger	14	aux	_	_
+13	siendo	ser	AUX	_	VerbForm=Ger	14	aux:pass	_	_
 14	nombrado	nombrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	_
 15	secretario	secretario	NOUN	_	Gender=Masc|Number=Sing	14	obj	_	_
 16	perpetuo	perpetuo	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
@@ -109672,7 +109672,7 @@
 
 # sent_id = es-train-008-s100
 # text = Fue inaugurada el 19 de abril del 1982 por el alcalde de Barcelona, Narcís Serra y el Presidente de la Generalitat de Cataluña, Jordi Pujol, pues esta fue la primera obra en el metro llevada a cabo por el gobierno autonómico.
-1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	inaugurada	inaugurar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	19	19	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
@@ -119679,7 +119679,7 @@
 20	Pinochet	Pinochet	PROPN	_	_	18	nmod	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 22	y	y	CCONJ	_	_	24	cc	_	_
-23	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	24	aux	_	_
+23	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	24	aux:pass	_	_
 24	financiados	financiar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	10	conj	_	_
 25	en	en	ADP	_	_	27	case	_	_
 26	gran	gran	ADJ	_	Number=Sing	27	amod	_	_
@@ -124045,7 +124045,7 @@
 38	sociales	social	ADJ	_	Number=Plur	37	amod	_	SpaceAfter=No
 39	,	,	PUNCT	_	PunctType=Comm	42	punct	_	_
 40	que	que	PRON	_	PronType=Rel	42	nsubj:pass	_	_
-41	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	42	aux	_	_
+41	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	42	aux:pass	_	_
 42	utilizadas	utilizar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	37	acl:relcl	_	_
 43	para	para	ADP	_	_	44	mark	_	_
 44	corromper	corromper	VERB	_	VerbForm=Inf	42	advcl	_	_
@@ -125862,7 +125862,7 @@
 44	,	,	PUNCT	_	PunctType=Comm	48	punct	_	_
 45	que	que	PRON	_	PronType=Rel	48	nsubj:pass	_	_
 46	después	después	ADV	_	_	48	advmod	_	_
-47	serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	48	aux	_	_
+47	serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	48	aux:pass	_	_
 48	sometidas	someter	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	35	acl:relcl	_	_
 49	a	a	ADP	_	_	51	case	_	_
 50	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	51	det	_	_
@@ -128540,7 +128540,7 @@
 41	os	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	40	obl:arg	_	_
 42	que	que	SCONJ	_	_	45	mark	_	_
 43	vos	tú	PRON	_	Gender=Masc|Number=Plur|Person=1|PronType=Prs	45	nsubj	_	_
-44	seréis	ser	AUX	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	45	aux	_	_
+44	seréis	ser	AUX	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	45	aux:pass	_	_
 45	consagrado	consagrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	40	ccomp	_	_
 46	y	y	CCONJ	_	_	47	cc	_	_
 47	coronado	coronar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	45	conj	_	_
@@ -130324,7 +130324,7 @@
 3	de	de	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	Providencia	Providencia	PROPN	_	_	2	nmod	_	_
-6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
 7	entendido	entender	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	comúnmente	comúnmente	ADV	_	_	7	advmod	_	_
 9	como	como	SCONJ	_	_	11	case	_	_
@@ -136088,7 +136088,7 @@
 8	que	que	SCONJ	_	_	12	mark	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
 10	recinto	recinto	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
-11	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux	_	_
+11	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	12	aux:pass	_	_
 12	reconstruido	reconstruir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	acl:relcl	_	_
 13	y	y	CCONJ	_	_	14	cc	_	_
 14	entregado	entregar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	conj	_	_
@@ -140420,7 +140420,7 @@
 3	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	4	cop	_	_
 4	triangular	triangular	ADJ	_	Number=Sing	0	root	_	_
 5	cuando	cuando	SCONJ	_	_	7	mark	_	_
-6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
 7	visto	ver	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	advcl	_	_
 8	desde	desde	ADP	_	_	9	case	_	_
 9	arriba	arriba	ADV	_	_	7	advmod	_	SpaceAfter=No
@@ -144168,7 +144168,7 @@
 # text = Los Quirópteros son creados a partir de la sangre de una de las dos reinas, con la sangre de una reina, un ser humano puede trasformarse en Quiróptero y sólo pueden ser destruidos con la sangre de la reina contraria.
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	Quirópteros	quirópteros	NOUN	_	_	4	nsubj	_	_
-3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	_
+3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	aux:pass	_	_
 4	creados	crear	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 5	a	a	ADP	_	_	6	mark	_	_
 6	partir	partir	VERB	_	VerbForm=Inf	4	obl	_	_
@@ -166394,7 +166394,7 @@
 40	y	y	CCONJ	_	_	30	cc	_	_
 41	que	que	SCONJ	_	_	44	mark	_	_
 42	ambas	ambos	PRON	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	44	nsubj	_	_
-43	fueran	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	44	aux	_	_
+43	fueran	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	44	aux:pass	_	_
 44	alzadas	alzar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	30	ccomp	_	_
 45-46	al	_	_	_	_	_	_	_	_
 45	a	a	ADP	_	_	47	case	_	_
@@ -172081,7 +172081,7 @@
 7	actualmente	actualmente	ADV	_	_	11	advmod	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	película	película	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	_
-10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 11	vista	ver	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	3	conj	_	_
 12	como	como	SCONJ	_	_	13	case	_	_
 13	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	11	obl	_	_
@@ -172323,7 +172323,7 @@
 10	realidad	realidad	NOUN	_	Gender=Fem|Number=Sing	14	obl	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	14	nsubj	_	_
-13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
 14	creado	crear	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	7	conj	_	_
 15	para	para	ADP	_	_	16	mark	_	_
 16	ver	ver	VERB	_	VerbForm=Inf	14	advcl	_	_
@@ -187906,7 +187906,7 @@
 34	Estado	estado	NOUN	_	_	32	nmod	_	_
 35	si	si	SCONJ	_	_	38	mark	_	_
 36	no	no	ADV	_	Polarity=Neg	38	advmod	_	_
-37	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	38	aux	_	_
+37	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	38	aux:pass	_	_
 38	elegido	elegir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	30	advcl	_	_
 39	como	como	SCONJ	_	_	40	case	_	_
 40	regente	regente	NOUN	_	Gender=Masc|Number=Sing	38	obl	_	SpaceAfter=No
@@ -200767,7 +200767,7 @@
 35	para	para	ADP	_	_	36	mark	_	_
 36	evitar	evitar	VERB	_	VerbForm=Inf	22	advcl	_	_
 37	que	que	SCONJ	_	_	39	mark	_	_
-38	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	39	aux	_	_
+38	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	39	aux:pass	_	_
 39	agredida	agredir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	36	ccomp	_	SpaceAfter=No
 40	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
 
@@ -205085,7 +205085,7 @@
 10	a	a	ADP	_	_	12	case	_	_
 11	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
 12	cuales	cual	PRON	_	Number=Plur|PronType=Rel	14	nmod	_	_
-13	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	_
+13	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
 14	unidos	unido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	9	acl:relcl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 16	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cc	_	_
@@ -213535,7 +213535,7 @@
 1	Javier	Javier	PROPN	_	_	5	nsubj	_	_
 2	Riba	Riba	PROPN	_	_	1	flat	_	_
 3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
-4	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux	_	_
+4	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	aux:pass	_	_
 5	premiado	premiar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 6	en	en	ADP	_	_	8	case	_	_
 7	diferentes	diferente	ADJ	_	Number=Plur	8	amod	_	_
@@ -225848,7 +225848,7 @@
 10	que	que	SCONJ	_	_	14	mark	_	_
 11	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	12	det	_	_
 12	hermana	hermana	NOUN	_	Gender=Fem|Number=Sing	14	nsubj	_	_
-13	fuese	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+13	fuese	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	14	aux:pass	_	_
 14	encarcelada	encarcelar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	9	ccomp	_	_
 15	de	de	ADP	_	_	17	case	_	_
 16	por	por	ADP	_	_	17	case	_	_
@@ -254989,7 +254989,7 @@
 47	que	que	SCONJ	_	_	51	mark	_	_
 48	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	49	det	_	_
 49	canciones	canción	NOUN	_	Gender=Fem|Number=Plur	51	nsubj:pass	_	_
-50	sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	aux	_	_
+50	sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	51	aux:pass	_	_
 51	pasadas	pasar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	41	advcl	_	_
 52-53	al	_	_	_	_	_	_	_	_
 52	a	a	ADP	_	_	54	case	_	_
@@ -267502,7 +267502,7 @@
 30	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	31	det	_	_
 31	nuestro	nuestro	PRON	_	Gender=Masc|Number=Plur|Person=1|Poss=Yes|PronType=Prs	25	obj	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	34	punct	_	_
-33	siendo	ser	AUX	_	VerbForm=Ger	34	aux	_	_
+33	siendo	ser	AUX	_	VerbForm=Ger	34	aux:pass	_	_
 34	recibido	recibir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	11	advcl	_	_
 35	con	con	ADP	_	_	36	case	_	_
 36	aprecio	aprecio	NOUN	_	Gender=Masc|Number=Sing	34	obl	_	_
@@ -269153,7 +269153,7 @@
 
 # sent_id = es-train-018-s359
 # text = Fue inaugurada el 31 de mayo del 2011.
-1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	inaugurada	inaugurar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	31	31	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
@@ -274793,7 +274793,7 @@
 34	masa	masa	NOUN	_	Gender=Fem|Number=Sing	31	obl	_	_
 35	forestal	forestal	ADJ	_	Number=Sing	34	amod	_	SpaceAfter=No
 36	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
-37	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	38	aux	_	_
+37	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	38	aux:pass	_	_
 38	recibidos	recibir	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	7	conj	_	_
 39	con	con	ADP	_	_	41	case	_	_
 40	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	41	det	_	_
@@ -284806,7 +284806,7 @@
 10	3	3	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
 11	actos	acto	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
-13	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux	_	_
+13	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	aux:pass	_	_
 14	estrenada	estrenar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	Teatro	teatro	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
@@ -292324,7 +292324,7 @@
 11	de	de	ADP	_	_	12	case	_	_
 12	Sudáfrica	Sudáfrica	PROPN	_	_	10	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
-14	siendo	ser	AUX	_	VerbForm=Ger	15	aux	_	_
+14	siendo	ser	AUX	_	VerbForm=Ger	15	aux:pass	_	_
 15	elegido	elegir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	parataxis	_	_
 16	como	como	SCONJ	_	_	18	case	_	_
 17	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	18	amod	_	_
@@ -293339,7 +293339,7 @@
 5	comercio	comercio	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	_
 6	con	con	ADP	_	_	7	case	_	_
 7	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	9	obl	_	_
-8	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux	_	_
+8	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	aux:pass	_	_
 9	tenidos	tener	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 10	en	en	ADP	_	_	12	case	_	_
 11	gran	gran	ADJ	_	Number=Sing	12	amod	_	_
@@ -294616,7 +294616,7 @@
 
 # sent_id = es-train-020-s160
 # text = Serán hechas el 4 de noviembre de 2008 por toda California y es parte de las elecciones presidenciales de Estados Unidos de 2008.
-1	Serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	aux	_	_
+1	Serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	2	aux:pass	_	_
 2	hechas	hacer	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	0	root	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	4	4	NUM	_	NumForm=Digit|NumType=Card	2	obl	_	_
@@ -303339,7 +303339,7 @@
 
 # sent_id = es-train-020-s448
 # text = Fue nombrado así en honor al ingeniero británico Francis Brockton.
-1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	nombrado	nombrar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	así	así	ADV	_	_	2	advmod	_	_
 4	en	en	ADP	_	_	5	case	_	_
@@ -303805,7 +303805,7 @@
 3	que	que	SCONJ	_	_	7	mark	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	puerto	puerto	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
-6	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
 7	construido	construir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	18	advcl	_	_
 8	durante	durante	ADP	_	_	10	case	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -306950,7 +306950,7 @@
 # text = Los equipos serán informados al menos una semana antes de cada gran premio (el primero será el de Malasia).
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	equipos	equipo	NOUN	_	Gender=Masc|Number=Plur	4	nsubj:pass	_	_
-3	serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	4	aux	_	_
+3	serán	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	4	aux:pass	_	_
 4	informados	informar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 5-6	al	_	_	_	_	_	_	_	_
 5	a	a	ADP	_	ExtPos=ADV	8	advmod	_	_
@@ -308399,7 +308399,7 @@
 1	Luego	luego	ADV	_	ExtPos=ADP	3	case	_	_
 2	de	de	ADP	_	_	1	fixed	_	_
 3	esto	este	PRON	_	Number=Sing|PronType=Dem	5	obl	_	_
-4	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux	_	_
+4	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
 5	traídos	traer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	0	root	_	_
 6	mitimaes	mitimae	NOUN	_	Number=Plur	5	obj	_	_
 7	aymaras	aymara	ADJ	_	Gender=Fem|Number=Plur	6	amod	_	_
@@ -309704,7 +309704,7 @@
 3	que	que	SCONJ	_	_	2	fixed	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	oro	oro	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
-6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
+6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux:pass	_	_
 7	recuperado	recuperar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	12	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 9	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
@@ -320511,7 +320511,7 @@
 8	Teniente	Teniente	PROPN	_	_	6	nmod	_	_
 9	Coronel	Coronel	PROPN	_	_	8	flat	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-11	siendo	ser	AUX	_	VerbForm=Ger	12	aux	_	_
+11	siendo	ser	AUX	_	VerbForm=Ger	12	aux:pass	_	_
 12	hecho	hacer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	1	parataxis	_	_
 13	prisionero	prisionero	NOUN	_	Gender=Masc|Number=Sing	12	xcomp	_	_
 14	pos	po	ADP	_	_	16	case	_	_
@@ -327313,7 +327313,7 @@
 33	exóticos	exótico	ADJ	_	Gender=Masc|Number=Plur	32	amod	_	_
 34	coníferas	conífero	ADJ	_	Gender=Fem|Number=Plur	32	amod	_	_
 35	que	que	PRON	_	PronType=Rel	37	nsubj:pass	_	_
-36	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	37	aux	_	_
+36	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	37	aux:pass	_	_
 37	cultivados	cultivar	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	32	acl:relcl	_	_
 38	en	en	ADP	_	_	39	case	_	_
 39	Bretaña	Bretaña	PROPN	_	_	37	obl	_	_
@@ -332210,7 +332210,7 @@
 
 # sent_id = es-train-022-s372
 # text = Fue elegido miembro de la United States National Academy of Sciences en 1930.
-1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux	_	_
+1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	elegido	elegir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3	miembro	miembro	NOUN	_	Gender=Masc|Number=Sing	2	xcomp	_	_
 4	de	de	ADP	_	_	6	case	_	_
@@ -346949,7 +346949,7 @@
 15	ya	ya	ADV	_	ExtPos=SCONJ	19	mark	_	_
 16	que	que	SCONJ	_	_	15	fixed	_	_
 17	ella	él	PRON	_	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	19	nsubj:pass	_	_
-18	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux	_	_
+18	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	aux:pass	_	_
 19	plantada	plantar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	7	advcl	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	día	día	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	_
@@ -350146,7 +350146,7 @@
 40	para	para	ADP	_	_	44	mark	_	_
 41	que	que	SCONJ	_	_	44	mark	_	_
 42	Aylwin	Aylwin	PROPN	_	_	44	nsubj	_	_
-43	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	44	aux	_	_
+43	fuera	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	44	aux:pass	_	_
 44	proclamado	proclamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	39	obl	_	_
 45	candidato	candidato	NOUN	_	Gender=Masc|Number=Sing	44	xcomp	_	_
 46	presidencial	presidencial	ADJ	_	Number=Sing	45	amod	_	_
@@ -363885,7 +363885,7 @@
 7	opiniones	opinión	NOUN	_	Gender=Fem|Number=Plur	11	nsubj	_	_
 8	minoritarias	minoritario	ADJ	_	Gender=Fem|Number=Plur	7	amod	_	_
 9	no	no	ADV	_	Polarity=Neg	11	advmod	_	_
-10	sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux	_	_
+10	sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	_
 11	tenidas	tener	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	4	ccomp	_	_
 12	en	en	ADP	_	_	13	case	_	_
 13	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	_
@@ -389211,7 +389211,7 @@
 14	gobierno	gobierno	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
 15	federal	federal	ADJ	_	Number=Sing	14	amod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
-17	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux	_	_
+17	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	18	aux:pass	_	_
 18	designado	designar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 19	interventor	interventor	NOUN	_	Gender=Masc|Number=Sing	18	xcomp	_	_
 20	de	de	ADP	_	_	22	case	_	_
@@ -389812,7 +389812,7 @@
 10	en	en	ADP	_	_	11	case	_	_
 11	fósiles	fósil	NOUN	_	Gender=Masc|Number=Plur	9	obl	_	_
 12	asociados	asociar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	11	acl	_	_
-13	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux	_	_
+13	eran	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	14	aux:pass	_	_
 14	incluidas	incluir	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
@@ -405211,7 +405211,7 @@
 6	potencial	potencial	NOUN	_	Number=Sing	2	nmod	_	_
 7	forestal	forestal	ADJ	_	Number=Sing	6	amod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-9	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	aux	_	_
+9	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
 10	decretadas	decretar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	0	root	_	_
 11	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	12	det	_	_
 12	Reservas	reservas	NOUN	_	Gender=Fem|Number=Plur	10	nsubj:pass	_	_
@@ -406872,7 +406872,7 @@
 18	por	por	ADP	_	_	20	case	_	_
 19	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	20	det	_	_
 20	general	general	NOUN	_	Number=Sing	22	obl:agent	_	_
-21	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux	_	_
+21	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	_	_
 22	utilizadas	utilizar	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	5	conj	_	_
 23	como	como	SCONJ	_	_	24	case	_	_
 24	sogas	soga	NOUN	_	Gender=Fem|Number=Plur	22	obl	_	_
@@ -423416,7 +423416,7 @@
 23	inútil	inútil	ADJ	_	Number=Sing	18	ccomp	_	_
 24	y	y	CCONJ	_	_	27	cc	_	_
 25	PreCrimen	Precrimen	PROPN	_	_	27	nsubj	_	_
-26	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	27	aux	_	_
+26	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	27	aux:pass	_	_
 27	descontinuado	descontinuar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	23	conj	_	SpaceAfter=No
 28	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
