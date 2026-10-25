@@ -64571,7 +64571,7 @@
 68	mes	mes	NOUN	_	Gender=Masc|Number=Sing	65	nmod	_	_
 69	de	de	ADP	_	_	70	case	_	_
 70	enero	enero	NOUN	_	_	68	nmod	_	_
-71	haya	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	72	aux:pass	_	_
+71	haya	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	72	aux	_	_
 72	subido	subir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	40	advcl	_	_
 73	en	en	ADP	_	_	75	case	_	_
 74	22.122	22122	NUM	_	NumForm=Digit|NumType=Card	75	nummod	_	_
@@ -169015,7 +169015,7 @@
 24	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	idea	idea	NOUN	_	Gender=Fem|Number=Sing	23	obj	_	_
 26	y	y	CCONJ	_	_	28	cc	_	_
-27	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	28	aux:pass	_	_
+27	habría	haber	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	28	aux	_	_
 28	organización	organización	NOUN	_	Gender=Fem|Number=Sing	23	conj	_	_
 29	para	para	ADP	_	_	30	mark	_	_
 30-31	celebrarlo	_	_	_	_	_	_	_	_
