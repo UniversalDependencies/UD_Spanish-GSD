@@ -2151,7 +2151,7 @@
 11	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 12	donde	donde	ADV	_	PronType=Rel	14	advmod	_	_
 13	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	14	expl:pv	_	_
-14	reencuentra	reencuentrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+14	reencuentra	reencontrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 15	con	con	ADP	_	_	17	case	_	_
 16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
@@ -3061,7 +3061,7 @@
 18	"	"	PUNCT	_	PunctType=Quot	21	punct	_	SpaceAfter=No
 19	porque	porque	SCONJ	_	_	21	mark	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	obj	_	_
-21	invité	inviter	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	advcl	_	_
+21	invité	invitar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	17	advcl	_	_
 22	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	23	det	_	_
 23	veces	vez	NOUN	_	Gender=Fem|Number=Plur	21	obl	_	_
 24	a	a	ADP	_	_	25	mark	_	_
@@ -5261,7 +5261,7 @@
 # text = Finalmente, escuchemos a Ibsen que a partir de su obra infra señalada, se convierte en un abanderado feminista, y declara como un desafío de su época: "Existen dos códigos de moral, dos conciencias diferentes, una del hombre y otra de la mujer, y al mujer se le juzga según el código de los hombres.... Una mujer no puede ser auténticamente ella en la sociedad actual - hace 100 años se hizo ese pronunciamiento, y aun se mantienen los mismos preceptos condenatorios –, una sociedad exclusivamente masculina, con leyes exclusivamente masculinas, con jueces y fiscales que la juzgan desde el punto de vista masculino".
 1	Finalmente	finalmente	ADV	_	_	3	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
-3	escuchemos	escucher	VERB	_	VerbForm=Ger	0	root	_	_
+3	escuchemos	escuchar	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 4	a	a	ADP	_	_	5	case	_	_
 5	Ibsen	ibsen	NOUN	_	_	3	obj	_	_
 6	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
@@ -5473,7 +5473,7 @@
 13	Radical	radical	ADJ	_	Number=Sing	12	amod	_	_
 14	K	K	PROPN	_	_	12	appos	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
-16	parecieran	parecir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+16	parecieran	parecer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 17	olvidar	olvidar	VERB	_	VerbForm=Inf	16	xcomp	_	_
 18	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	19	det	_	_
 19	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
@@ -8036,7 +8036,7 @@
 29	Hassan	Hassan	PROPN	_	_	28	appos	_	_
 30	II	ii	NUM	_	NumForm=Roman|NumType=Card	29	nummod	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
-32	recogía	recogir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
+32	recogía	recoger	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	ccomp	_	_
 33	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	34	det	_	_
 34	reformas	reforma	NOUN	_	Gender=Fem|Number=Plur	32	obj	_	_
 35	importantes	importante	ADJ	_	Number=Plur	34	amod	_	SpaceAfter=No
@@ -12687,7 +12687,7 @@
 3	pretendia	pretender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=pretendía
 4	que	que	SCONJ	_	_	6	mark	_	_
 5	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obl:arg	_	_
-6	devolvieran	devolvir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
+6	devolvieran	devolver	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	3	ccomp	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
