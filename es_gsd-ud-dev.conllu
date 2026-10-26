@@ -148,7 +148,7 @@
 19	y	y	CCONJ	_	_	22	cc	_	_
 20	en	en	ADP	_	_	21	case	_	_
 21	él	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	obl	_	_
-22	nacieron	nacir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	_
+22	nacieron	nacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	15	conj	_	_
 23	varios	varios	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	22	nsubj	_	_
 24	de	de	ADP	_	_	27	case	_	_
 25	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
@@ -3448,7 +3448,7 @@
 21	en	en	ADP	_	_	23	case	_	_
 22	varias	varios	DET	_	Gender=Fem|Number=Plur|PronType=Ind	23	det	_	_
 23	subregiones	subregión	NOUN	_	Gender=Fem|Number=Plur	18	obl	_	_
-24	prefiriendo	prefirer	VERB	_	VerbForm=Ger	18	advcl	_	_
+24	prefiriendo	preferir	VERB	_	VerbForm=Ger	18	advcl	_	_
 25	algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	26	det	_	_
 26	tipos	tipo	NOUN	_	Gender=Masc|Number=Plur	24	obj	_	_
 27	de	de	ADP	_	_	28	case	_	_
@@ -3627,7 +3627,7 @@
 12	semanas	semana	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 14	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	15	obj	_	_
-15	llevé	llever	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	SpaceAfter=No
+15	llevé	llevar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	7	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 17	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	18	obl:arg	_	_
 18	siguió	seguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	conj	_	_
@@ -4212,7 +4212,7 @@
 5	franquicia	franquicia	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
-8	ahorre	ahorrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+8	ahorre	ahorrar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 9	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	8	obl	_	_
 10	en	en	ADP	_	_	12	case	_	_
 11	cierto	cierto	DET	_	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
@@ -6260,7 +6260,7 @@
 8	carreteras	carretera	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
 9	comarcales	comarcal	ADJ	_	Number=Plur	8	amod	_	_
 10	que	que	PRON	_	PronType=Rel	11	nsubj	_	_
-11	atraviesan	atraviesar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
+11	atraviesan	atravesar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	_
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	macizo	macizo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
 14	y	y	CCONJ	_	_	16	cc	_	_
@@ -6734,7 +6734,7 @@
 8	delicada	delicado	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 9	situación	situación	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
-11	invirtió	invirtir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+11	invirtió	invertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 12	en	en	ADP	_	_	14	case	_	_
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	club	club	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
@@ -6920,7 +6920,7 @@
 18	colaterales	colateral	ADJ	_	Number=Plur	16	amod	_	_
 19	o	o	CCONJ	_	_	20	cc	_	_
 20	concéntricos	concéntrico	ADJ	_	Gender=Masc|Number=Plur	18	conj	_	_
-21	esparcidos	esparcer	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	_
+21	esparcidos	esparcir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	acl	_	_
 22	regularmente	regularmente	ADV	_	_	21	advmod	_	_
 23	en	en	ADP	_	_	26	case	_	_
 24	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	26	det	_	_
@@ -16614,7 +16614,7 @@
 11	fichaje	fichaje	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	Joaquín	Joaquín	PROPN	_	_	11	nmod	_	_
-14	valdrá	valir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	conj	_	_
+14	valdrá	valer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	3	conj	_	_
 15	menos	menos	ADV	_	Degree=Cmp	14	advmod	_	_
 16	cuanto	cuanto	ADV	_	_	17	advmod	_	_
 17	más	más	ADV	_	Degree=Cmp	18	advmod	_	_
@@ -17288,7 +17288,7 @@
 17	Valka	Valka	PROPN	_	_	9	obl	_	SpaceAfter=No
 18	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	9	punct	_	_
 19	que	que	PRON	_	PronType=Rel	20	nsubj	_	_
-20	compite	compitar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
+20	compite	competir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	_
 21	por	por	ADP	_	_	23	case	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	20	obl	_	_
@@ -19884,7 +19884,7 @@
 18	bien	bien	ADV	_	_	17	advmod	_	_
 19	que	que	SCONJ	_	_	21	mark	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	obj	_	_
-21	entrene	entrener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	csubj	_	_
+21	entrene	entrenar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	csubj	_	_
 22	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	míster	míster	NOUN	_	Gender=Masc|Number=Sing	21	nsubj	_	_
 24	que	que	PRON	_	PronType=Rel	27	nsubj	_	_
@@ -21021,7 +21021,7 @@
 54	en	en	ADP	_	_	55	case	_	_
 55	causas	causa	NOUN	_	Gender=Fem|Number=Plur	50	obl	_	_
 56	que	que	PRON	_	PronType=Rel	57	nsubj	_	_
-57	involucren	involucrir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	55	acl:relcl	_	_
+57	involucren	involucrar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	55	acl:relcl	_	_
 58	corrupción	corrupción	NOUN	_	Gender=Fem|Number=Sing	57	obj	_	_
 59	de	de	ADP	_	_	60	case	_	_
 60	funcionarios	funcionario	NOUN	_	Gender=Masc|Number=Plur	58	nmod	_	SpaceAfter=No
@@ -22369,7 +22369,7 @@
 13	y	y	CCONJ	_	_	12	cc	_	_
 14	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	15	det	_	_
 15	leyes	ley	NOUN	_	Gender=Fem|Number=Plur	12	nsubj	_	_
-16	debieran	debir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
+16	debieran	deber	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	9	acl:relcl	_	_
 17	decir	decir	VERB	_	VerbForm=Inf	16	xcomp	_	_
 18	queda	quedar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 19	dentro	dentro	ADV	_	ExtPos=ADP	22	case	_	_
@@ -25201,7 +25201,7 @@
 6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 7	cuando	cuando	SCONJ	_	_	9	mark	_	_
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
-9	incendió	incender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+9	incendió	incendiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
 10	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	techo	techo	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	SpaceAfter=No
 12	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -26668,7 +26668,7 @@
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	personaje	personaje	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
 23	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	24	expl:pv	_	_
-24	compare	comparir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
+24	compare	comparar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	ccomp	_	_
 25	con	con	ADP	_	_	28	case	_	_
 26	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	28	det	_	_
 27	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	28	det	_	_
@@ -32666,7 +32666,7 @@
 4	denunciado	denunciar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 5	que	que	SCONJ	_	_	7	mark	_	_
 6	Nicaragua	Nicaragua	PROPN	_	_	7	nsubj	_	_
-7	vierte	vertir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
+7	vierte	vertir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	ccomp	_	_
 8	sedimentos	sedimento	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	_	_	11	case	_	_
@@ -34116,7 +34116,7 @@
 29	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 30	Mitchell	Mitchell	PROPN	_	_	31	nsubj	_	_
 31-32	absteniéndose	_	_	_	_	_	_	_	_
-31	absteniendo	abstenir	VERB	_	VerbForm=Ger	3	advcl	_	_
+31	absteniendo	abstener	VERB	_	VerbForm=Ger	3	advcl	_	_
 32	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	31	expl:pv	_	_
 33	de	de	ADP	_	_	34	mark	_	_
 34	beber	beber	VERB	_	VerbForm=Inf	31	advcl	_	_
@@ -34572,7 +34572,7 @@
 3	mucho	mucho	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Ind	2	obl	_	_
 4	que	que	SCONJ	_	_	6	mark	_	_
 5	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	6	obj	_	_
-6	atendieran	atendir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
+6	atendieran	atender	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	2	ccomp	_	_
 7	y	y	CCONJ	_	_	8	cc	_	_
 8	más	más	ADV	_	Degree=Cmp	2	conj	_	_
 9	siendo	ser	AUX	_	VerbForm=Ger	10	cop	_	_
@@ -36303,7 +36303,7 @@
 14	de	de	ADP	_	_	15	case	_	_
 15	Agoda	Agoda	PROPN	_	_	13	nmod	_	_
 16	también	también	ADV	_	_	17	advmod	_	_
-17	obtienen	obtenir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+17	obtienen	obtener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 18	puntos	punto	NOUN	_	Gender=Masc|Number=Plur	17	obj	_	_
 19	de	de	ADP	_	_	20	case	_	_
 20	bonificación	bonificación	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	_
@@ -39550,7 +39550,7 @@
 13	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	12	nsubj	_	_
 14	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
 15	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	16	expl:pv	_	_
-16	rendían	render	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
+16	rendían	rendir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 18	en	en	ADP	_	_	20	case	_	_
 19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
