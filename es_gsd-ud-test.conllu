@@ -1061,7 +1061,7 @@
 
 # sent_id = es-dev-003-s453
 # text = Partiendo de la confianza en la capacidad humana para construir un mundo más equitativo y justo, su misión consiste en proporcionar oportunidades a las personas para que puedan, a través del trabajo, desarrollar sus capacidades y ser protagonistas de su propio desarrollo.
-1	Partiendo	parter	VERB	_	VerbForm=Ger	20	advcl	_	_
+1	Partiendo	partir	VERB	_	VerbForm=Ger	20	advcl	_	_
 2	de	de	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	confianza	confianza	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -1141,7 +1141,7 @@
 
 # sent_id = es-dev-003-s455
 # text = Eligieron bien, y con sólo una semana a la venta el respetable ya coreaba las canciones del nuevo disco sin demasiado pudor.
-1	Eligieron	eliger	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Eligieron	elegir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	bien	bien	ADV	_	_	1	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 4	y	y	CCONJ	_	_	15	cc	_	_
@@ -1746,7 +1746,7 @@
 11	que	que	PRON	_	PronType=Rel	14	nsubj	_	_
 12	así	así	ADV	_	_	14	advmod	_	_
 13	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	obj	_	_
-14	requieran	requer	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	_
+14	requieran	requerir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	10	acl:relcl	_	_
 15	para	para	ADP	_	_	16	mark	_	_
 16	modificar	modificar	VERB	_	VerbForm=Inf	14	advcl	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -5459,7 +5459,7 @@
 # text = Una vez electos, los referentes de la oposición al Gobierno Radical K, parecieran olvidar este tipo de escandalos y unirse al circulo corrupto del poder.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	vez	vez	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
-3	electos	eligir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	advcl	_	SpaceAfter=No
+3	electos	elegir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	16	advcl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	referentes	referente	NOUN	_	Number=Plur	16	nsubj	_	_
@@ -5918,7 +5918,7 @@
 # sent_id = es-test-001-s39
 # text = ¿Pueden sus propios amigos describir un combate en común?
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	2	punct	_	SpaceAfter=No
-2	Pueden	pueder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	Pueden	poder	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 4	propios	propio	ADJ	_	Gender=Masc|Number=Plur	5	amod	_	_
 5	amigos	amigo	NOUN	_	Gender=Masc|Number=Plur	2	nsubj	_	_
@@ -7034,7 +7034,7 @@
 # sent_id = es-test-001-s77
 # text = Estoy leyendo "Sobre la guerra", de Clausewitz.
 1	Estoy	estar	AUX	_	Mood=Ind|VerbForm=Fin	2	aux	_	_
-2	leyendo	leir	VERB	_	VerbForm=Ger	0	root	_	_
+2	leyendo	leer	VERB	_	VerbForm=Ger	0	root	_	_
 3	"	"	PUNCT	_	PunctType=Quot	4	punct	_	SpaceAfter=No
 4	Sobre	Sobre	PROPN	_	_	2	obj	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
@@ -8636,7 +8636,7 @@
 24	de	de	ADP	_	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	vino	vino	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
-27	expusieron	expuser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
+27	expusieron	exponer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
 28	en	en	ADP	_	_	30	case	_	_
 29	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	det	_	_
 30	ponencias	ponencia	NOUN	_	Gender=Fem|Number=Plur	27	obl	_	SpaceAfter=No
@@ -9421,7 +9421,7 @@
 1	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	2	det	_	_
 2	lectores	lector	NOUN	_	Gender=Masc|Number=Plur	10	nsubj	_	_
 3	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
-4	deseen	deseer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
+4	deseen	desear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 5	participar	participar	VERB	_	VerbForm=Inf	4	xcomp	_	_
 6	aportando	aportar	VERB	_	VerbForm=Ger	5	advcl	_	_
 7	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
@@ -9933,7 +9933,7 @@
 49	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	conj	_	_
 50	que	que	PRON	_	PronType=Rel	52	nsubj	_	_
 51	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	52	obj	_	_
-52	ejecute	ejecutir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	49	acl:relcl	_	SpaceAfter=No
+52	ejecute	ejecutar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	49	acl:relcl	_	SpaceAfter=No
 53	.	.	PUNCT	_	PunctType=Peri	23	punct	_	_
 
 # sent_id = es-test-001-s150
@@ -11942,7 +11942,7 @@
 14	estas	este	DET	_	Gender=Fem|Number=Plur|PronType=Dem	15	det	_	_
 15	prótesis	prótesis	NOUN	_	Gender=Fem	13	obj	_	_
 16	mamarias	mamario	ADJ	_	Gender=Fem|Number=Plur	15	amod	_	_
-17	acudan	acudar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
+17	acudan	acudir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	ccomp	_	_
 18	a	a	ADP	_	_	20	case	_	_
 19	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	cirujanos	cirujano	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_

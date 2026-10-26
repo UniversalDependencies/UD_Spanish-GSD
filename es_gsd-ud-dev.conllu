@@ -3699,7 +3699,7 @@
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	estaciones	estación	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
 6	apenas	apenas	ADV	_	_	7	advmod	_	_
-7	diferían	difer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
+7	diferían	diferir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	10	det	_	_
 10	causas	causa	NOUN	_	Gender=Fem|Number=Plur	7	obl	_	_
@@ -4218,7 +4218,7 @@
 11	cierto	cierto	DET	_	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	personal	personal	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-14	sepa	separ	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	sepa	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 15	cuales	cual	PRON	_	Number=Plur|PronType=Rel	14	ccomp	_	_
 16	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
@@ -7583,7 +7583,7 @@
 6	Don	don	NOUN	_	Gender=Masc|Number=Sing	2	nmod	_	_
 7	Giovanni	Giovanni	PROPN	_	_	6	appos	_	_
 8	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	9	obl:arg	_	_
-9	convenció	convenciar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+9	convenció	convencer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 10	de	de	ADP	_	_	14	case	_	_
 11	que	que	SCONJ	_	_	14	mark	_	_
 12	Mozart	Mozart	PROPN	_	_	14	nsubj	_	_
@@ -8526,7 +8526,7 @@
 
 # sent_id = es-dev-001-s296
 # text = Hará unos dias alquilé un camión con plataforma para una mudanza, recorrimos bastantes kilometros y en general muy muy bien... muy satisfechos con el servicio, nos dieron un camión que tenía menos de 2000km.
-1	Hará	har	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	advcl	_	_
+1	Hará	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	4	advcl	_	_
 2	unos	uno	DET	_	Definite=Ind|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	dias	día	NOUN	_	Gender=Masc|Number=Plur|Typo=Yes	1	obl	_	CorrectForm=días
 4	alquilé	alquilar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -10452,7 +10452,7 @@
 28	en	en	ADP	_	_	29	case	_	_
 29	crisis	crisis	NOUN	_	Gender=Fem	31	obl	_	_
 30	siempre	siempre	ADV	_	_	31	advmod	_	_
-31	descuentan	descuentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
+31	descuentan	descontar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	conj	_	_
 32	algo	algo	PRON	_	Number=Sing|PronType=Ind	31	obj	_	_
 33	y	y	CCONJ	_	_	35	cc	_	_
 34	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	35	obl:arg	_	_
@@ -11444,7 +11444,7 @@
 
 # sent_id = es-dev-001-s393
 # text = Refirió que esos millones de pesos, que fueron aprobados ayer, sumados a los mil 300 millones de pesos que ya invirtió la SCT en obras de carreteras federales, vienen a resarcir los daños ocasionados el año pasado por lluvias extremas y los huracanes "Karl" y Mathew "en 2010.
-1	Refirió	refirir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Refirió	referir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	_	_	32	mark	_	_
 3	esos	ese	DET	_	Gender=Masc|Number=Plur|PronType=Dem	4	det	_	_
 4	millones	millón	NOUN	_	Gender=Masc|Number=Plur	6	nummod	_	_
@@ -13266,7 +13266,7 @@
 # sent_id = es-dev-001-s450
 # text = Se entienden a la perfección.
 1	Se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
-2	entienden	entiender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+2	entienden	entender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	a	a	ADP	_	_	5	case	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
 5	perfección	perfección	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
@@ -18110,7 +18110,7 @@
 40	pidió	pedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	conj	_	_
 41	que	que	SCONJ	_	_	43	mark	_	_
 42	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	43	obl:arg	_	_
-43	sirvieran	sirvir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	40	ccomp	_	_
+43	sirvieran	servir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	40	ccomp	_	_
 44	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	45	nummod	_	_
 45	güisquis	güisquis	NOUN	_	Gender=Fem	43	obj	_	SpaceAfter=No
 46	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
@@ -18683,7 +18683,7 @@
 
 # sent_id = es-dev-002-s139
 # text = Posee una capacidad agrícola que la convierte en una de las provincias más productivas del departamento;
-1	Posee	poeer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Posee	poseer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	capacidad	capacidad	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 4	agrícola	agrícola	ADJ	_	Number=Sing	3	amod	_	_
@@ -19245,7 +19245,7 @@
 
 # sent_id = es-dev-002-s156
 # text = Estuve con mi amiga que se casa y otras hasta 20 personas era mi grupo, me encantó, te lo pasas muy bien.
-1	Estuve	estener	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Estuve	estar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 2	con	con	ADP	_	_	4	case	_	_
 3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	amiga	amiga	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -25050,7 +25050,7 @@
 15	en	en	ADP	_	_	16	case	_	_
 16	donde	donde	ADV	_	PronType=Rel	18	advmod	_	_
 17	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
-18	retuvieron	retuvir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
+18	retuvieron	retener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	advcl	_	_
 19	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	20	det	_	_
 20	meses	mes	NOUN	_	Gender=Masc|Number=Plur	18	obl	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
@@ -26301,7 +26301,7 @@
 
 # sent_id = es-dev-002-s379
 # text = Partiendo de esa suma (en la realidad barrial, no llegaría a los USD 20.000, o sea $ 80.000 por vivienda) y teniendo en cuenta los censados (5.000), puede estimarse una necesidad de 1250 viviendas, aproximadamente, a razón de una cada cuatro personas.
-1	Partiendo	parter	VERB	_	VerbForm=Ger	36	advcl	_	_
+1	Partiendo	partir	VERB	_	VerbForm=Ger	36	advcl	_	_
 2	de	de	ADP	_	_	4	case	_	_
 3	esa	ese	DET	_	Gender=Fem|Number=Sing|PronType=Dem	4	det	_	_
 4	suma	suma	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -27089,7 +27089,7 @@
 32	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 33	cual	cual	PRON	_	Number=Sing|PronType=Rel	35	obl	_	_
 34	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	35	expl:pv	_	_
-35	emitieron	emiter	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	acl:relcl	_	_
+35	emitieron	emitir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	22	acl:relcl	_	_
 36	143	143	NUM	_	NumForm=Digit|NumType=Card	37	nummod	_	_
 37	episodios	episodio	NOUN	_	Gender=Masc|Number=Plur	35	nsubj	_	_
 38	entre	entre	ADP	_	_	39	case	_	_
@@ -29728,7 +29728,7 @@
 28	de	de	ADP	_	_	29	case	_	_
 29	izquierda	izquierda	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-31	comprometido	comprometir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	_
+31	comprometido	comprometer	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	20	acl	_	_
 32	con	con	ADP	_	_	33	case	_	_
 33	causas	causa	NOUN	_	Gender=Fem|Number=Plur	31	obl	_	_
 34	sociales	social	ADJ	_	Number=Plur	33	amod	_	SpaceAfter=No
@@ -31660,7 +31660,7 @@
 6	cerrado	cerrado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	0	root	_	_
 7	y	y	CCONJ	_	_	9	cc	_	_
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
-9	suspendieron	suspendir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
+9	suspendieron	suspender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	_
 10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	elecciones	elección	NOUN	_	Gender=Fem|Number=Plur	9	nsubj	_	_
 12	legislativas	legislativo	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	_
@@ -34013,7 +34013,7 @@
 # sent_id = es-dev-003-s146
 # text = Fue sucedida al año siguiente por su compañero de bancada, Luis Gonzales Posada.
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
-2	sucedida	sucedir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
+2	sucedida	suceder	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 3-4	al	_	_	_	_	_	_	_	_
 3	a	a	ADP	_	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -38833,7 +38833,7 @@
 19	aunque	aunque	SCONJ	_	_	22	mark	_	_
 20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	estimaciones	estimación	NOUN	_	Gender=Fem|Number=Plur	22	nsubj	_	_
-22	varían	var	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	12	advcl	_	_
+22	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	12	advcl	_	_
 23	de	de	ADP	_	_	26	case	_	_
 24	menos	menos	ADV	_	Degree=Cmp	26	advmod	_	_
 25	de	de	ADP	_	_	24	case	_	_
@@ -41593,7 +41593,7 @@
 4	ingesta	ingesta	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	calcio	calcio	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
-7	varían	var	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+7	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 8	dependiendo	depender	VERB	_	VerbForm=Ger	7	advcl	_	_
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	_	_	11	case	_	_
