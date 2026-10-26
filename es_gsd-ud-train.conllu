@@ -6811,7 +6811,7 @@
 2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	trabajo	trabajo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 4	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
-5	requería	requerir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	3	acl:relcl	_	_
+5	requería	requerir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	acl:relcl	_	_
 6	experiencia	experiencia	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 7	y	y	CCONJ	_	_	9	cc	_	_
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -15502,7 +15502,7 @@
 26	que	que	SCONJ	_	_	29	mark	_	_
 27	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	29	expl:pv	_	_
 28	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	29	obj	_	_
-29	resuelvan	resolver	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	SpaceAfter=No
+29	resuelvan	resolver	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	19	advcl	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
 31	como	como	SCONJ	_	_	32	mark	_	_
 32	hacen	hacer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	29	advcl	_	_
@@ -22786,7 +22786,7 @@
 10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 11	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	12	det	_	_
 12	otros	otro	PRON	_	Gender=Masc|Number=Plur|PronType=Ind	13	nsubj	_	_
-13	salgan	salir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+13	salgan	salir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 14	perjudicados	perjudicar	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	13	advcl	_	_
 15	para	para	ADP	_	_	19	mark	_	_
 16	que	que	SCONJ	_	_	19	mark	_	_
@@ -75323,7 +75323,7 @@
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	presión	presión	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	_
 3	atmosférica	atmosférico	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
-4	varía	variar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+4	varía	variar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	considerablemente	considerablemente	ADV	_	_	4	advmod	_	_
 6	con	con	ADP	_	_	8	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -78388,7 +78388,7 @@
 19	de	de	ADP	_	_	21	case	_	_
 20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	benzodiazepinas	benzodiazepina	NOUN	_	Gender=Fem|Number=Plur	15	nmod	_	_
-22	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+22	varían	variar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 23	de	de	ADP	_	_	25	case	_	_
 24	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	experto	experto	NOUN	_	Gender=Masc|Number=Sing	22	obl	_	_
@@ -93110,7 +93110,7 @@
 9	ruego	rogar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	3	conj	_	_
 10	que	que	SCONJ	_	_	12	mark	_	_
 11	me	yo	PRON	_	Case=Acc,Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	12	obj	_	_
-12	comprendan	comprender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	SpaceAfter=No
+12	comprendan	comprender	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	9	ccomp	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
 # sent_id = es-train-007-s47
@@ -93667,7 +93667,7 @@
 49	fecha	fecha	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	_
 50	en	en	ADP	_	_	51	case	_	_
 51	que	que	PRON	_	PronType=Rel	52	obl	_	_
-52	comiencen	comenzar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	49	acl:relcl	_	_
+52	comiencen	comenzar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	49	acl:relcl	_	_
 53	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	54	det	_	_
 54	alegatos	alegato	NOUN	_	Gender=Masc|Number=Plur	52	nsubj	_	SpaceAfter=No
 55	,	,	PUNCT	_	PunctType=Comm	56	punct	_	_
@@ -105192,7 +105192,7 @@
 15	Federico	Federico	PROPN	_	_	13	conj	_	_
 16	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
 17	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	expl:pv	_	_
-18	salgan	salir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+18	salgan	salir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 19	con	con	ADP	_	_	21	case	_	_
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	suya	suyo	NOUN	_	Gender=Fem|Number=Sing	18	obl	_	SpaceAfter=No
@@ -157229,7 +157229,7 @@
 14	rugosos	rugoso	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 16	pero	pero	CCONJ	_	_	17	cc	_	_
-17	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	10	conj	_	_
+17	varían	variar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 18	considerablemente	considerablemente	ADV	_	_	17	advmod	_	_
 19	en	en	ADP	_	_	20	case	_	_
 20	forma	forma	NOUN	_	Gender=Fem|Number=Sing	17	obl	_	SpaceAfter=No
@@ -185932,7 +185932,7 @@
 3	de	de	ADP	_	_	5	case	_	_
 4	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	5	det	_	_
 5	mejora	mejora	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-6	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+6	varían	variar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	según	según	ADP	_	_	9	case	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	naturaleza	naturaleza	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
@@ -223836,7 +223836,7 @@
 7	sin	sin	ADP	_	ExtPos=CCONJ	10	cc	_	_
 8	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	7	fixed	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-10	diferían	diferir	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	SpaceAfter=No
+10	diferían	diferir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 12	prefiriendo	prefirer	VERB	_	VerbForm=Ger	10	advcl	_	_
 13	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
@@ -226419,7 +226419,7 @@
 43	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	44	det	_	_
 44	leyes	ley	NOUN	_	Gender=Fem|Number=Plur	42	obj	_	_
 45	que	que	PRON	_	PronType=Rel	46	nsubj	_	_
-46	prohíben	prohibir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	44	acl:relcl	_	_
+46	prohíben	prohibir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	44	acl:relcl	_	_
 47	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
 48	marihuana	marihuana	NOUN	_	Gender=Fem|Number=Sing	46	obj	_	SpaceAfter=No
 49	.	.	PUNCT	_	PunctType=Peri	37	punct	_	_
@@ -244530,7 +244530,7 @@
 2	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
 3	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 4	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	5	obl:arg	_	_
-5	olvide	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	olvide	olvidar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	comentar	comentar	VERB	_	VerbForm=Inf	5	csubj	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	trato	trato	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	_
@@ -248652,7 +248652,7 @@
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	para	para	ADP	_	_	5	case	_	_
 4	quienes	quien	PRON	_	Number=Plur|PronType=Rel	5	nsubj	_	_
-5	deseen	desear	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
+5	deseen	desear	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 6	Planes	planes	NOUN	_	Gender=Masc|Number=Plur	5	obj	_	_
 7	para	para	ADP	_	_	8	mark	_	_
 8	disfrutar	disfrutar	VERB	_	VerbForm=Inf	6	advcl	_	_
@@ -252397,7 +252397,7 @@
 6	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 7	aunque	aunque	SCONJ	_	_	9	mark	_	_
 8	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
-9	cubren	cubrir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
+9	cubren	cubrir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	5	advcl	_	_
 10	bien	bien	ADV	_	_	9	advmod	_	_
 11	con	con	ADP	_	_	13	case	_	_
 12	diferentes	diferente	ADJ	_	Number=Plur	13	amod	_	_
@@ -264910,7 +264910,7 @@
 36	de	de	ADP	_	_	37	case	_	_
 37	Chauvet	Chauvet	PROPN	_	_	35	nmod	_	_
 38	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	39	expl:pv	_	_
-39	cubren	cubrir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+39	cubren	cubrir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 40	con	con	ADP	_	_	41	case	_	_
 41	depredadores	depredador	NOUN	_	Gender=Masc|Number=Plur	39	obl	_	SpaceAfter=No
 42	:	:	PUNCT	_	PunctType=Colo	43	punct	_	_
@@ -310077,7 +310077,7 @@
 
 # sent_id = es-train-021-s158
 # text = Imaginemos que queremos practicar paintball en Madrid, basta con señalar provincia + actividad en Yumping.com y una vez obtengamos los datos filtrados podremos encontrar el alojamiento más cercano al campo de paintball al que iremos.
-1	Imaginemos	imaginar	VERB	_	VerbForm=Inf	0	root	_	_
+1	Imaginemos	imaginar	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	_	_	3	mark	_	_
 3	queremos	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	1	ccomp	_	_
 4	practicar	practicar	VERB	_	VerbForm=Inf	3	xcomp	_	_
@@ -336641,7 +336641,7 @@
 
 # sent_id = es-train-023-s18
 # text = Olvidemos todo ese discurso, válido para tantas y tantas cuestiones, pero que no sirve para una juventud vendida a las pastillas, a los tripis, a la cocaina, al speed.
-1	Olvidemos	olvidar	VERB	_	VerbForm=Inf	0	root	_	_
+1	Olvidemos	olvidar	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 2	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	4	det	_	_
 3	ese	ese	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	_
 4	discurso	discurso	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	SpaceAfter=No
@@ -337387,7 +337387,7 @@
 6	espectral	espectral	ADJ	_	Number=Sing	5	amod	_	_
 7	A	A	PROPN	_	_	5	appos	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
-9	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+9	varían	variar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 10	en	en	ADP	_	_	11	case	_	_
 11	0,2	0,2	NUM	_	NumForm=Digit|NumType=Card	9	obl	_	_
 12	a	a	ADP	_	_	14	case	_	_
@@ -344287,9 +344287,9 @@
 
 # sent_id = es-train-023-s258
 # text = Asentía, sonreía, era tan educado como podía, y después volvía a casa.
-1	Asentía	asentir	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	SpaceAfter=No
+1	Asentía	asentir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
-3	sonreía	sonreír	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	1	conj	_	SpaceAfter=No
+3	sonreía	sonreír	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	1	conj	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 5	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	cop	_	_
 6	tan	tanto	ADV	_	_	7	advmod	_	_
@@ -350254,7 +350254,7 @@
 18	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
 19	categorías	categoría	NOUN	_	Gender=Fem|Number=Plur	21	nsubj	_	_
 20	expresadas	expresar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	19	acl	_	_
-21	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	7	advcl	_	_
+21	varían	variar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
 22	mucho	mucho	ADV	_	_	21	obl	_	_
 23	de	de	ADP	_	_	25	case	_	_
 24	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
@@ -359254,7 +359254,7 @@
 18	de	de	ADP	_	_	19	case	_	_
 19	Bidasoa	Bidasoa	PROPN	_	_	17	nmod	_	_
 20	cuando	cuando	SCONJ	_	_	21	mark	_	_
-21	salía	salir	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	11	advcl	_	_
+21	salía	salir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	11	advcl	_	_
 22	de	de	ADP	_	_	23	mark	_	_
 23	trabajar	trabajar	VERB	_	VerbForm=Inf	21	advcl	_	_
 24	de	de	ADP	_	_	25	case	_	_
@@ -368059,7 +368059,7 @@
 14	para	para	ADP	_	_	17	mark	_	_
 15	que	que	SCONJ	_	_	17	mark	_	_
 16	así	así	ADV	_	_	17	advmod	_	_
-17	salgan	salir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
+17	salgan	salir	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 18	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	20	det	_	_
 19	485	485	NUM	_	NumForm=Digit|NumType=Card	20	nummod	_	_
 20	€	€	SYM	_	_	17	obj	_	_
@@ -385959,7 +385959,7 @@
 2	último	último	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
 3	quiero	querer	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	_	_	5	mark	_	_
-5	sepa	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
+5	sepa	saber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
 6	que	que	SCONJ	_	_	10	mark	_	_
 7	este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	8	det	_	_
 8	blog	blog	NOUN	_	_	10	nsubj	_	_

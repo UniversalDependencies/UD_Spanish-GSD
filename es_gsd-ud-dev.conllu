@@ -4218,7 +4218,7 @@
 11	cierto	cierto	DET	_	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	personal	personal	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-14	sepa	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
+14	sepa	saber	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	8	conj	_	_
 15	cuales	cual	PRON	_	Number=Plur|PronType=Rel	14	ccomp	_	_
 16	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	_
 17	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	19	det	_	_
@@ -38833,7 +38833,7 @@
 19	aunque	aunque	SCONJ	_	_	22	mark	_	_
 20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
 21	estimaciones	estimación	NOUN	_	Gender=Fem|Number=Plur	22	nsubj	_	_
-22	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	12	advcl	_	_
+22	varían	variar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 23	de	de	ADP	_	_	26	case	_	_
 24	menos	menos	ADV	_	Degree=Cmp	26	advmod	_	_
 25	de	de	ADP	_	_	24	case	_	_
@@ -41593,7 +41593,7 @@
 4	ingesta	ingesta	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	calcio	calcio	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
-7	varían	variar	VERB	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+7	varían	variar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	dependiendo	depender	VERB	_	VerbForm=Ger	7	advcl	_	_
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	_	_	11	case	_	_
