@@ -4414,7 +4414,7 @@
 # text = Lo que tenéis que hacer es pagar a la gente y no engañar tanto.
 1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	0	root	_	_
 2	que	que	PRON	_	PronType=Rel	3	obj	_	_
-3	tenéis	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
+3	tenéis	tener	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	_
 4	que	que	SCONJ	_	_	5	mark	_	_
 5	hacer	hacer	VERB	_	VerbForm=Inf	3	xcomp	_	_
 6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	_
@@ -10795,7 +10795,7 @@
 60	si	si	SCONJ	_	_	63	mark	_	_
 61	no	no	ADV	_	Polarity=Neg	63	advmod	_	_
 62	os	tú	PRON	_	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	63	obl:arg	_	_
-63	decidís	decidir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	57	advcl	_	_
+63	decidís	decidir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	57	advcl	_	_
 64	por	por	ADP	_	_	65	case	_	_
 65	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	63	obl	_	_
 66	u	u	CCONJ	_	_	67	cc	_	_
@@ -10813,7 +10813,7 @@
 77	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	78	det	_	_
 78	Transformer	Transformer	PROPN	_	_	75	nmod	_	_
 79	no	no	ADV	_	Polarity=Neg	81	advmod	_	_
-80	podréis	poder	AUX	_	VerbForm=Inf	81	aux	_	_
+80	podréis	poder	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	81	aux	_	_
 81-82	adquirirla	_	_	_	_	_	_	_	_
 81	adquirir	adquirir	VERB	_	VerbForm=Inf	57	advcl	_	_
 82	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	81	obj	_	_
@@ -12259,7 +12259,7 @@
 1	Super	super	ADV	_	_	2	advmod	_	_
 2	recomendable	recomendable	ADJ	_	Number=Sing	0	root	_	_
 3	si	si	SCONJ	_	_	4	mark	_	_
-4	buscáis	buscar	VERB	_	VerbForm=Ger	2	advcl	_	_
+4	buscáis	buscar	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	advcl	_	_
 5	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	sitio	sitio	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	en	en	ADP	_	_	9	case	_	_

@@ -11764,7 +11764,7 @@
 # text = No os dejeis engañar por las fotos, la entrada al hotel es de peli de tarantino.
 1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
 2	os	tú	PRON	_	Case=Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
-3	dejeis	dejar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dejeis	dejar	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=dejéis
 4	engañar	engañar	VERB	_	VerbForm=Inf	3	xcomp	_	_
 5	por	por	ADP	_	_	7	case	_	_
 6	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	7	det	_	_
@@ -36610,10 +36610,10 @@
 10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 11	así	así	ADV	_	ExtPos=SCONJ	13	mark	_	_
 12	que	que	SCONJ	_	_	11	fixed	_	_
-13	indicad	indicar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	9	advcl	_	_
+13	indicad	indicar	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	9	advcl	_	_
 14	cómo	cómo	ADV	_	PronType=Int	16	advmod	_	_
 15	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	16	obj	_	_
-16	queréis	querer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	13	ccomp	_	SpaceAfter=No
+16	queréis	querer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	ccomp	_	SpaceAfter=No
 17	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
 # sent_id = es-train-003-s173
@@ -63393,14 +63393,14 @@
 # sent_id = es-train-005-s81
 # text = Aquí podéis ver imágenes de la herradura, disfrutad son de todos y para todos.
 1	Aquí	aquí	ADV	_	_	3	advmod	_	_
-2	podéis	poder	AUX	_	VerbForm=Inf	3	aux	_	_
+2	podéis	poder	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	aux	_	_
 3	ver	ver	VERB	_	VerbForm=Inf	0	root	_	_
 4	imágenes	imagen	NOUN	_	Gender=Fem|Number=Plur	3	obj	_	_
 5	de	de	ADP	_	_	7	case	_	_
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	herradura	herradura	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-9	disfrutad	disfrutar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	3	parataxis	_	_
+9	disfrutad	disfrutar	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	3	parataxis	_	_
 10	son	ser	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 11	de	de	ADP	_	_	12	case	_	_
 12	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	10	obl	_	_
@@ -68528,7 +68528,7 @@
 
 # sent_id = es-train-005-s239
 # text = Tened en cuenta que el autobus pasa por la frontera de Suiza y Francia, y de vez en cuando suben a controlar los pasaportes en el Bus en el puesto de Frontera.
-1	Tened	tener	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Tened	tener	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	3	case	_	_
 3	cuenta	cuenta	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
 4	que	que	SCONJ	_	_	7	mark	_	_
@@ -90077,7 +90077,7 @@
 4	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
 5	escalonada	escalonado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-7	habéis	haber	AUX	_	Mood=Ind|VerbForm=Fin	8	aux	_	_
+7	habéis	haber	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	aux	_	_
 8	ido	ir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	5	parataxis	_	_
 9	subiendo	subir	VERB	_	VerbForm=Ger	8	xcomp	_	_
 10	escalón	escalón	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
@@ -101351,7 +101351,7 @@
 2	Pero	pero	CCONJ	_	_	5	cc	_	_
 3	cómo	cómo	ADV	_	PronType=Int	5	advmod	_	_
 4	os	tú	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
-5	metisteis	meter	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
+5	metisteis	meter	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Past|VerbForm=Fin	0	root	_	_
 6	ahí	ahí	ADV	_	_	5	advmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 8	almas	alma	NOUN	_	Gender=Fem|Number=Plur	5	dep	_	_
@@ -126676,7 +126676,7 @@
 1	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	4	punct	_	SpaceAfter=No
 2	A	a	ADP	_	_	3	case	_	_
 3	qué	qué	PRON	_	PronType=Int	4	obl	_	_
-4	esperáis	esperar	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	0	root	_	_
+4	esperáis	esperar	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	para	para	ADP	_	_	6	mark	_	_
 6	sorprender	sorprender	VERB	_	VerbForm=Inf	4	advcl	_	_
 7	a	a	ADP	_	_	8	case	_	_
@@ -128540,7 +128540,7 @@
 41	os	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	40	obl:arg	_	_
 42	que	que	SCONJ	_	_	45	mark	_	_
 43	vos	tú	PRON	_	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	45	nsubj:pass	_	_
-44	seréis	ser	AUX	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	45	aux:pass	_	_
+44	seréis	ser	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	45	aux:pass	_	_
 45	consagrado	consagrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	40	ccomp	_	_
 46	y	y	CCONJ	_	_	47	cc	_	_
 47	coronado	coronar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	45	conj	_	_
@@ -128550,7 +128550,7 @@
 51	de	de	ADP	_	_	52	case	_	_
 52	Reims	Reims	PROPN	_	_	50	nmod	_	_
 53	y	y	CCONJ	_	_	54	cc	_	_
-54	seréis	ser	VERB	_	Mood=Ind|VerbForm=Fin	45	conj	_	_
+54	seréis	ser	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	45	conj	_	_
 55	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	56	det	_	_
 56	legado	legado	NOUN	_	Gender=Masc|Number=Sing	54	obj	_	_
 57-58	del	_	_	_	_	_	_	_	_
@@ -143454,7 +143454,7 @@
 # sent_id = es-train-010-s234
 # text = Se situa en dependencias posteriores del museo Histórico Municipal y cuenta además con un espacio abierto para la presentación de manifestaciones culturales munido de un escenario al aire libre.
 1	Se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	2	expl:pv	_	_
-2	situa	situar	VERB	_	Mood=Imp|Number=Plur|Person=2|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=sitúa
+2	situa	situar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	0	root	_	CorrectForm=sitúa
 3	en	en	ADP	_	_	4	case	_	_
 4	dependencias	dependencia	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
 5	posteriores	posterior	ADJ	_	Number=Plur	4	amod	_	_
@@ -146083,7 +146083,7 @@
 12	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 13	orgullosos	orgulloso	ADJ	_	Gender=Masc|Number=Plur	0	root	_	_
 14	que	que	SCONJ	_	_	15	mark	_	_
-15	llenéis	llenar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
+15	llenéis	llenar	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	ccomp	_	_
 16	salas	sala	NOUN	_	Gender=Fem|Number=Plur	15	obj	_	_
 17	a	a	ADP	_	_	23	mark	_	_
 18	pesar	pesar	VERB	_	VerbForm=Inf	17	fixed	_	_
@@ -146091,7 +146091,7 @@
 20	ahora	ahora	ADV	_	_	23	advmod	_	_
 21	ya	ya	ADV	_	_	23	advmod	_	_
 22	no	no	ADV	_	Polarity=Neg	23	advmod	_	_
-23	sonéis	sonar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	15	advcl	_	_
+23	sonéis	sonar	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	15	advcl	_	_
 24	en	en	ADP	_	_	26	case	_	_
 25	grandes	grande	ADJ	_	Number=Plur	26	amod	_	_
 26	radiofórmulas	radiofórmula	NOUN	_	Gender=Fem|Number=Plur	23	obl	_	_
@@ -214932,9 +214932,9 @@
 # text = No lo dudéis si vais al barrio pesquero, no os arrepentiréis.
 1	No	no	ADV	_	Polarity=Neg	3	advmod	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
-3	dudéis	dudar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	dudéis	dudar	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	si	si	SCONJ	_	_	5	mark	_	_
-5	vais	ir	VERB	_	Mood=Ind|VerbForm=Fin	3	advcl	_	_
+5	vais	ir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	3	advcl	_	_
 6-7	al	_	_	_	_	_	_	_	_
 6	a	a	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
@@ -214943,7 +214943,7 @@
 10	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 11	no	no	ADV	_	Polarity=Neg	13	advmod	_	_
 12	os	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	13	obl:arg	_	_
-13	arrepentiréis	arrepentir	VERB	_	Mood=Ind|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
+13	arrepentiréis	arrepentir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|VerbForm=Fin	3	parataxis	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-train-015-s73
@@ -225989,7 +225989,7 @@
 1	No	no	ADV	_	Polarity=Neg	2	advmod	_	_
 2	sabía	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	4	mark	_	_
-4	sabais	saber	VERB	_	VerbForm=Inf	2	ccomp	_	_
+4	sabais	saber	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|Typo=Yes|VerbForm=Fin	2	ccomp	_	CorrectForm=sabíais
 5	hacer	hacer	VERB	_	VerbForm=Inf	4	xcomp	_	_
 6	tantas	tanto	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Dem	7	det	_	_
 7	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	5	obj	_	SpaceAfter=No
@@ -242651,7 +242651,7 @@
 
 # sent_id = es-train-016-s495
 # text = Podriaís poner el horario de apertura y cierre del taller.
-1	Podriaís	poder	AUX	_	Mood=Ind|VerbForm=Fin	2	aux	_	_
+1	Podriaís	poder	AUX	_	Mood=Cnd|Number=Plur|Person=2|Typo=Yes|VerbForm=Fin	2	aux	_	CorrectForm=Podríais
 2	poner	poner	VERB	_	VerbForm=Inf	0	root	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	horario	horario	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
@@ -258367,7 +258367,7 @@
 # sent_id = es-train-018-s8
 # text = Probadlo!
 1-2	Probadlo	_	_	_	_	_	_	_	SpaceAfter=No
-1	Probad	probar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+1	Probad	probar	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	1	punct	_	_
 
@@ -267744,7 +267744,7 @@
 9	despedida	despedido	NOUN	_	Gender=Fem|Number=Sing|VerbForm=Part	2	obl	_	_
 10	que	que	PRON	_	PronType=Rel	13	obj	_	_
 11	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	13	obl:arg	_	_
-12	habéis	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux	_	_
+12	habéis	haber	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	13	aux	_	_
 13	organizado	organizar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	9	acl:relcl	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 15	pasado	pasado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	16	amod	_	_
@@ -283896,7 +283896,7 @@
 5	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
 6	más	más	ADV	_	Degree=Cmp	7	advmod	_	_
 7	variedad	variedad	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	_
-8	tenéis	tener	VERB	_	Mood=Ind|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
+8	tenéis	tener	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-train-019-s324
@@ -298749,7 +298749,7 @@
 5	girando	girar	VERB	_	VerbForm=Ger	8	advcl	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 7	¿	¿	PUNCT	_	PunctSide=Ini|PunctType=Qest	8	punct	_	SpaceAfter=No
-8	echáis	echar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+8	echáis	echar	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	de	de	ADP	_	_	10	case	_	_
 10	menos	menos	ADV	_	Degree=Cmp	8	advmod	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -302700,7 +302700,7 @@
 48	y	y	CCONJ	_	_	51	cc	_	_
 49	sin	sin	ADP	_	ExtPos=ADV	51	advmod	_	_
 50	embargo	embargo	NOUN	_	Gender=Masc|Number=Sing	49	fixed	_	_
-51	continuáis	continuar	VERB	_	Mood=Ind|VerbForm=Fin	4	conj	_	_
+51	continuáis	continuar	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	4	conj	_	_
 52	por	por	ADP	_	_	53	case	_	_
 53	repugnancia	repugnancia	NOUN	_	Gender=Fem|Number=Sing	51	obl	_	_
 54	o	o	CCONJ	_	_	57	cc	_	_
@@ -327764,7 +327764,7 @@
 29	agradable	agradable	ADJ	_	Number=Sing	27	xcomp	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
 31	como	como	SCONJ	_	_	32	mark	_	_
-32	imaginareis	imaginar	VERB	_	Mood=Ind|VerbForm=Fin	27	advcl	_	SpaceAfter=No
+32	imaginareis	imaginar	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Fut|Typo=Yes|VerbForm=Fin	27	advcl	_	CorrectForm=imaginaréis|SpaceAfter=No
 33	.	.	PUNCT	_	PunctType=Peri	15	punct	_	_
 
 # sent_id = es-train-022-s235
@@ -340722,7 +340722,7 @@
 
 # sent_id = es-train-023-s157
 # text = Hacéis el pollo al limón como ninguno!
-1	Hacéis	hacer	VERB	_	VerbForm=Inf	0	root	_	_
+1	Hacéis	hacer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	pollo	pollo	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4-5	al	_	_	_	_	_	_	_	_
@@ -347996,13 +347996,13 @@
 # sent_id = es-train-023-s370
 # text = Si queréis un buen servicio técnico, id directamente a un Apple Store o a otro servicio autorizado por Apple.
 1	Si	si	SCONJ	_	_	2	mark	_	_
-2	queréis	querer	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
+2	queréis	querer	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	8	advcl	_	_
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 4	buen	buen	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 5	servicio	servicio	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	_
 6	técnico	técnico	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-8	id	ir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
+8	id	ir	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 9	directamente	directamente	ADV	_	_	8	advmod	_	_
 10	a	a	ADP	_	_	12	case	_	_
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -349874,7 +349874,7 @@
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	meseta	meseta	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
-16	sabed	saber	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
+16	sabed	saber	VERB	_	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	0	root	_	_
 17	que	que	SCONJ	_	_	19	mark	_	_
 18	Girona	Girona	PROPN	_	_	19	nsubj	_	_
 19	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	ccomp	_	_
@@ -382488,7 +382488,7 @@
 2	recomiendo	recomir	VERB	_	VerbForm=Ger	0	root	_	_
 3	que	que	SCONJ	_	_	5	mark	_	_
 4	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
-5	vayáis	ir	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
+5	vayáis	ir	VERB	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	2	ccomp	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 7	si	si	SCONJ	_	_	8	mark	_	_
 8	podéis	poder	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	5	advcl	_	SpaceAfter=No
