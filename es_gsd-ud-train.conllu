@@ -39966,7 +39966,7 @@
 12	brecha	brecha	NOUN	_	Gender=Fem|Number=Sing	9	obl	_	_
 13	necesitamos	necesitar	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	1	conj	_	_
 14	de	de	ADP	_	_	16	case	_	_
-15	vuestra	vuestra	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	16	det	_	_
+15	vuestra	vuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	16	det	_	_
 16	ayuda	ayuda	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
 17	en	en	ADP	_	_	18	case	_	_
 18	forma	forma	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	_
@@ -90071,7 +90071,7 @@
 
 # sent_id = es-train-006-s449
 # text = Vuestra carrera ha sido escalonada, habéis ido subiendo escalón a escalón, siempre subiendo.
-1	Vuestra	vuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	2	det	_	_
+1	Vuestra	vuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	2	det	_	_
 2	carrera	carrera	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	_
 3	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	_
 4	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	cop	_	_
@@ -128539,7 +128539,7 @@
 40	decir	decir	VERB	_	VerbForm=Inf	38	advcl	_	_
 41	os	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	40	obl:arg	_	_
 42	que	que	SCONJ	_	_	45	mark	_	_
-43	vos	tú	PRON	_	Gender=Masc|Number=Plur|Person=1|PronType=Prs	45	nsubj:pass	_	_
+43	vos	tú	PRON	_	Case=Acc,Nom|Number=Plur|Person=2|PronType=Prs	45	nsubj:pass	_	_
 44	seréis	ser	AUX	_	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	45	aux:pass	_	_
 45	consagrado	consagrar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	40	ccomp	_	_
 46	y	y	CCONJ	_	_	47	cc	_	_
@@ -167075,7 +167075,7 @@
 28	,	,	PUNCT	_	PunctType=Comm	30	punct	_	_
 29	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	30	expl:pv	_	_
 30	nota	notar	NOUN	_	Number=Sing	1	parataxis	_	_
-31	vuestras	vuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	32	det	_	_
+31	vuestras	vuestro	DET	_	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	32	det	_	_
 32	ganas	gana	NOUN	_	Gender=Fem|Number=Plur	30	nsubj	_	_
 33	y	y	CCONJ	_	_	34	cc	_	_
 34	predisposición	predisposición	NOUN	_	Gender=Fem|Number=Sing	32	conj	_	_
@@ -171464,7 +171464,7 @@
 28	en	en	ADP	_	_	32	case	_	_
 29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	32	det	_	_
 30	dicha	dicho	DET	_	Gender=Fem|Number=Sing|PronType=Ind	32	det	_	_
-31	vuestra	vuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	32	det	_	_
+31	vuestra	vuestro	DET	_	Gender=Fem|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	32	det	_	_
 32	casa	casa	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	_
 33	y	y	CCONJ	_	_	37	cc	_	_
 34	en	en	ADP	_	_	37	case	_	_
@@ -228282,7 +228282,7 @@
 # sent_id = es-train-016-s20
 # text = Con vuestro apoyo puede ser una realidad.
 1	Con	con	ADP	_	_	3	case	_	_
-2	vuestro	vuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	3	det	_	_
+2	vuestro	vuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=2|Poss=Yes|PronType=Prs	3	det	_	_
 3	apoyo	apoyo	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	_
 4	puede	poder	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 5	ser	ser	AUX	_	VerbForm=Inf	7	cop	_	_

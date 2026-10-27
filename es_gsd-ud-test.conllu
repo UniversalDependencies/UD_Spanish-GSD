@@ -6547,7 +6547,7 @@
 13	nada	nada	PRON	_	Number=Sing|PronType=Neg	10	nsubj	_	SpaceAfter=No
 14	...	...	PUNCT	_	PunctType=Elip	18	punct	_	_
 15	con	con	ADP	_	_	16	case	_	_
-16	vos	tú	PRON	_	Gender=Masc|Number=Plur|PronType=Prs	18	obl	_	_
+16	vos	tú	PRON	_	Case=Acc,Nom|Number=Sing|Person=2|PronType=Prs	18	obl	_	_
 17	no	no	ADV	_	Polarity=Neg	18	advmod	_	_
 18	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
