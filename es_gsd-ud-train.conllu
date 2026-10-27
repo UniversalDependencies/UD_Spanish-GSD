@@ -235451,7 +235451,7 @@
 42	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
 
 # sent_id = es-train-016-s254
-# text = Montalegre es una villa portuguesa en el Distrito de Vila Real, se ubica dentro de la Região Norte y subregión de Alto Trás - os - Montes, con cerca de 1 800 habitantes.
+# text = Montalegre es una villa portuguesa en el Distrito de Vila Real, se ubica dentro de la Região Norte y subregión de Alto Trás-os-Montes, con cerca de 1 800 habitantes.
 1	Montalegre	Montalegre	PROPN	_	_	4	nsubj	_	_
 2	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
@@ -235475,19 +235475,18 @@
 21	subregión	subregión	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	_
 22	de	de	ADP	_	_	24	case	_	_
 23	Alto	Alto	PROPN	_	_	24	amod	_	_
-24	Trás	Trás	PROPN	_	_	21	nmod	_	_
-25	-	-	PUNCT	_	PunctType=Dash	28	punct	_	_
-26	os	tú	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	28	det	_	_
-27	-	-	PUNCT	_	PunctType=Dash	26	punct	_	_
+24	Trás	Trás	PROPN	_	_	21	nmod	_	SpaceAfter=No
+25	-	-	PUNCT	_	PunctType=Dash	28	punct	_	SpaceAfter=No
+26	os	tú	PRON	_	Case=Acc,Dat|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	28	det	_	SpaceAfter=No
+27	-	-	PUNCT	_	PunctType=Dash	26	punct	_	SpaceAfter=No
 28	Montes	Montes	PROPN	_	_	24	nmod	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-30	con	con	ADP	_	_	35	case	_	_
+30	con	con	ADP	_	_	34	case	_	_
 31	cerca	cerca	ADV	_	_	33	advmod	_	_
-32	de	de	ADP	_	_	31	case	_	_
-33	1	1	NUM	_	NumForm=Digit|NumType=Card	34	nummod	_	_
-34	800	800	NUM	_	NumForm=Digit|NumType=Card	35	nummod	_	_
-35	habitantes	habitante	NOUN	_	Number=Plur	4	nmod	_	SpaceAfter=No
-36	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
+32	de	de	ADP	_	_	33	case	_	_
+33	1 800	1800	NUM	_	NumForm=Digit|NumType=Card	34	nummod	_	_
+34	habitantes	habitante	NOUN	_	Number=Plur	4	nmod	_	SpaceAfter=No
+35	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-train-016-s255
 # text = La agricultura es una de las actividades peor constatadas en el registro arqueológico de la Campa Torres, pero se han conservado restos de trigo vestido o escanda (Triticum dicoccum) y cebada (Hordeum vulgare).
