@@ -10877,7 +10877,7 @@
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	llegar	llegar	VERB	_	VerbForm=Inf	12	advcl	_	_
 9	a	a	ADP	_	_	11	case	_	_
-10	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|PronType=Ind	11	amod	_	_
+10	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	11	amod	_	_
 11	plaza	plaza	NOUN	_	Gender=Fem|Number=Sing	8	obl	_	_
 12	observaron	observar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	como	como	ADV	_	_	16	advmod	_	_

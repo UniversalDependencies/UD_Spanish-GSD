@@ -7544,7 +7544,7 @@
 28	propuesta	propuesta	NOUN	_	Gender=Fem|Number=Sing	26	obj	_	_
 29	para	para	ADP	_	_	33	mark	_	_
 30	que	que	SCONJ	_	_	33	mark	_	_
-31	dicho	dicho	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	32	amod	_	_
+31	dicho	dicho	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	32	amod	_	_
 32	país	país	NOUN	_	Gender=Masc|Number=Sing	33	nsubj	_	_
 33	albergara	albergar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	advcl	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
@@ -9971,7 +9971,7 @@
 16	de	de	ADP	_	_	17	case	_	_
 17	copias	copia	NOUN	_	Gender=Fem|Number=Plur	15	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-19	dicho	dicho	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	20	amod	_	_
+19	dicho	dicho	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	20	amod	_	_
 20	tema	tema	NOUN	_	Gender=Masc|Number=Sing	22	nsubj:pass	_	_
 21	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	22	aux:pass	_	_
 22	interpretado	interpretar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	parataxis	_	_
@@ -11531,7 +11531,7 @@
 4	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	5	det	_	_
 5	talleres	taller	NOUN	_	Gender=Masc|Number=Plur	3	obj	_	_
 6	en	en	ADP	_	_	8	case	_	_
-7	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|PronType=Ind	8	amod	_	_
+7	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	8	amod	_	_
 8	organización	organización	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 10	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	aux:pass	_	_
@@ -12053,7 +12053,7 @@
 1	Mientrás	mientrás	ADV	_	ExtPos=SCONJ	6	mark	_	_
 2	que	que	SCONJ	_	_	1	fixed	_	_
 3	de	de	ADP	_	_	5	case	_	_
-4	dicha	dicha	ADJ	_	Gender=Fem|Number=Sing|PronType=Ind	5	amod	_	_
+4	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	amod	_	_
 5	categoria	categoría	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	6	obl	_	CorrectForm=categoría
 6	ascendió	ascender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	Rampla	Rampla	PROPN	_	_	6	nsubj	_	_
@@ -15482,7 +15482,7 @@
 47	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	48	det	_	_
 48	realización	realización	NOUN	_	Gender=Fem|Number=Sing	45	nmod	_	_
 49	de	de	ADP	_	_	51	case	_	_
-50	dicha	dicha	ADJ	_	Gender=Fem|Number=Sing|PronType=Ind	51	amod	_	_
+50	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	51	amod	_	_
 51	llamada	llamado	NOUN	_	Gender=Fem|Number=Sing|VerbForm=Part	48	nmod	_	SpaceAfter=No
 52	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
 
@@ -21846,7 +21846,7 @@
 20	a	a	ADP	_	_	21	case	_	_
 21	Canales	Canales	PROPN	_	_	19	obj	_	_
 22	en	en	ADP	_	_	24	case	_	_
-23	dicha	dicha	ADJ	_	Gender=Fem|Number=Sing|PronType=Ind	24	amod	_	_
+23	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	24	amod	_	_
 24	tertulia	tertulia	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	19	punct	_	_
 
@@ -32806,7 +32806,7 @@
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	historia	historia	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
-9	dicho	dicho	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	10	amod	_	_
+9	dicho	dicho	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	10	amod	_	_
 10	video	vídeo	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	13	nsubj:pass	_	CorrectForm=vídeo
 11	ya	ya	ADV	_	_	13	advmod	_	_
 12	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	13	aux:pass	_	_
@@ -34251,7 +34251,7 @@
 1	Su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
 2	eliminación	eliminación	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	de	de	ADP	_	_	5	case	_	_
-4	dicha	dicha	ADJ	_	Gender=Fem|Number=Sing|PronType=Ind	5	amod	_	_
+4	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	amod	_	_
 5	capa	capa	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 7	complicada	complicado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	0	root	_	SpaceAfter=No
@@ -39177,7 +39177,7 @@
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	de	de	ADP	_	_	5	case	_	_
-4	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|PronType=Ind	5	amod	_	_
+4	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	5	amod	_	_
 5	expedición	expedición	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
 6	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
 7	regresar	regresar	VERB	_	VerbForm=Inf	2	csubj	_	_
