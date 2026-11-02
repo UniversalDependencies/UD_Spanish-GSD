@@ -578,7 +578,7 @@
 8	en	en	ADP	_	_	9	case	_	_
 9	helicóptero	helicóptero	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 10	donde	donde	ADV	_	PronType=Rel	11	advmod	_	_
-11	falleció	fallecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No
+11	falleció	fallecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No
 12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-001-s19
