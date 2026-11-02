@@ -394178,10 +394178,10 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	único	único	ADJ	_	Gender=Masc|Number=Sing	6	amod	_	_
 6	volumen	volumen	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
-7	que	que	PRON	_	PronType=Rel	8	obj	_	_
+7	que	que	PRON	_	PronType=Rel	8	nsubj	_	_
 8	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	_
 9	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	10	det	_	_
-10	propiedad	propiedad	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	SpaceAfter=No
+10	propiedad	propiedad	NOUN	_	Gender=Fem|Number=Sing	8	obj	_	SpaceAfter=No
 11	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
 # sent_id = es-train-026-s394
