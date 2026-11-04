@@ -96177,7 +96177,7 @@
 1	Pero	pero	CCONJ	_	_	2	cc	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	0	root	_	_
 3	que	que	PRON	_	PronType=Rel	5	nsubj	_	_
-4	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	obl:arg	_	_
+4	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	5	expl	_	_
 5	importa	importar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	_
 6	a	a	ADP	_	_	7	case	_	_
 7	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	5	obl:arg	_	_
@@ -114300,7 +114300,7 @@
 33	a	a	ADP	_	_	34	case	_	_
 34	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	37	obl:arg	_	_
 35	no	no	ADV	_	Polarity=Neg	37	advmod	_	_
-36	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	37	obl:arg	_	_
+36	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	37	expl	_	_
 37	cuadraba	cuadrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	41	advcl	_	SpaceAfter=No
 38	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
 39	pues	pues	ADV	_	_	41	advmod	_	_
@@ -175372,7 +175372,7 @@
 43	como	como	SCONJ	_	_	47	mark	_	_
 44	a	a	ADP	_	_	45	case	_	_
 45	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	47	obl:arg	_	_
-46	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	47	obl:arg	_	_
+46	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	47	expl	_	_
 47	gustaría	gustar	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	30	advcl	_	SpaceAfter=No
 48	.	.	PUNCT	_	PunctType=Peri	14	punct	_	_
 
@@ -208588,7 +208588,7 @@
 9	a	a	ADP	_	_	10	case	_	_
 10	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	13	obl:arg	_	_
 11	nunca	nunca	ADV	_	_	13	advmod	_	_
-12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	obl:arg	_	_
+12	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	13	expl	_	_
 13	contó	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 14	detalles	detalle	NOUN	_	Gender=Masc|Number=Plur	13	obj	_	_
 15	de	de	ADP	_	_	16	case	_	_
@@ -279098,7 +279098,7 @@
 15	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	20	obl:arg	_	_
 16	no	no	ADV	_	Polarity=Neg	20	advmod	_	_
 17	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:impers	_	_
-18	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	20	obl:arg	_	_
+18	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	20	expl	_	_
 19	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux	_	_
 20	notificado	notificar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	parataxis	_	_
 21	nada	nada	PRON	_	Number=Sing|PronType=Neg	20	obj	_	SpaceAfter=No
@@ -301284,7 +301284,7 @@
 6	cual	cual	PRON	_	Number=Sing|PronType=Rel	10	nsubj	_	_
 7	a	a	ADP	_	_	8	case	_	_
 8	mí	yo	PRON	_	Case=Acc|Number=Sing|Person=1|PrepCase=Pre|PronType=Prs	10	obl:arg	_	_
-9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	obl:arg	_	_
+9	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	10	expl	_	_
 10	dio	dar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	parataxis	_	_
 11	mucha	mucho	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	12	det	_	_
 12	seguridad	seguridad	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	SpaceAfter=No

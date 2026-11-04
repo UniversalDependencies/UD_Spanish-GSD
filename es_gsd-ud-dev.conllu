@@ -14283,7 +14283,7 @@
 21	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	22	det	_	_
 22	vida	vida	NOUN	_	Gender=Fem|Number=Sing	25	nsubj	_	_
 23	privada	privado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	22	amod	_	_
-24	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	25	obl:arg	_	_
+24	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	25	expl	_	_
 25	interesa	interesar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	ccomp	_	_
 26	sólo	sólo	ADV	_	_	25	advmod	_	_
 27	a	a	ADP	_	_	28	case	_	_
