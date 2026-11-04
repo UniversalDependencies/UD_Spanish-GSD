@@ -1235,7 +1235,7 @@
 12	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	15	det	_	_
-15	cuales	cual	NOUN	_	Number=Plur	19	nmod	_	_
+15	cuales	cual	PRON	_	Number=Plur|PronType=Rel	19	nmod	_	_
 16	28,87	2,87	NUM	_	NumForm=Digit|NumType=Card	17	nummod	_	_
 17	km2	km2	NOUN	_	_	19	nsubj	_	_
 18	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cop	_	_
