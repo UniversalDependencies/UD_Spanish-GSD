@@ -399064,7 +399064,7 @@
 35	presentó	presentar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	28	acl:relcl	_	_
 36	a	a	ADP	_	_	38	case	_	_
 37	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	38	det	_	_
-38	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	35	obl:arg	_	SpaceAfter=No
+38	amigo	amigo	NOUN	_	Gender=Masc|Number=Sing	35	obj	_	SpaceAfter=No
 39	,	,	PUNCT	_	PunctType=Comm	41	punct	_	_
 40	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	41	det	_	_
 41	poeta	poeta	NOUN	_	Gender=Masc|Number=Sing	38	appos	_	_
