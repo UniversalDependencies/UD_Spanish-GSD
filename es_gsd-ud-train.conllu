@@ -89779,7 +89779,7 @@
 7	Sarasate	Sarasate	PROPN	_	_	6	flat	_	_
 8	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	9	obj	_	_
 9	llamó	llamar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	csubj	_	_
-10	maestro	maestro	NOUN	_	Gender=Masc|Number=Sing	9	obj	_	_
+10	maestro	maestro	NOUN	_	Gender=Masc|Number=Sing	9	xcomp	_	_
 11	desde	desde	ADP	_	_	13	case	_	_
 12	que	que	SCONJ	_	_	13	mark	_	_
 13	ofrecieron	ofrecer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	9	advcl	_	_
@@ -225543,7 +225543,7 @@
 9	también	también	ADV	_	_	11	advmod	_	_
 10	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	11	obj	_	_
 11	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
-12	ectoparásitos	ectoparásito	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	_
+12	ectoparásitos	ectoparásito	NOUN	_	Gender=Masc|Number=Plur	11	xcomp	_	_
 13	y	y	CCONJ	_	_	14	cc	_	_
 14	polinívoros	polinívoro	NOUN	_	Gender=Masc|Number=Plur	12	conj	_	SpaceAfter=No
 15	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
