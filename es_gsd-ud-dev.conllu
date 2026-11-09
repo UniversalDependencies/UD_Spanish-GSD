@@ -1572,7 +1572,7 @@
 23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 24	denominados	denominado	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	25	amod	_	_
 25	meristemas	meristema	NOUN	_	Gender=Masc|Number=Plur	21	nmod	_	_
-26	secundarios	secundario	NOUN	_	Gender=Masc|Number=Plur	25	amod	_	_
+26	secundarios	secundario	ADJ	_	Gender=Masc|Number=Plur	25	amod	_	_
 27	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	28	punct	_	SpaceAfter=No
 28	cámbium	cámbium	NOUN	_	Gender=Masc|Number=Sing	25	appos	_	_
 29	y	y	CCONJ	_	_	30	cc	_	_
@@ -14067,7 +14067,7 @@
 # sent_id = es-dev-001-s478
 # text = Este espinoso y aromático arbusto es nativo del desierto del suroeste de los Estados Unidos.
 1	Este	este	DET	_	Gender=Masc|Number=Sing|PronType=Dem	5	det	_	_
-2	espinoso	espinoso	NOUN	_	Gender=Masc|Number=Sing	5	amod	_	_
+2	espinoso	espinoso	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
 3	y	y	CCONJ	_	_	2	cc	_	_
 4	aromático	aromático	ADJ	_	Gender=Masc|Number=Sing	2	amod	_	_
 5	arbusto	arbusto	NOUN	_	Gender=Masc|Number=Sing	7	nsubj	_	_
@@ -14731,9 +14731,9 @@
 14	lado	lado	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
 15	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
 16	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	20	det	_	_
-17	cándida	cándido	NOUN	_	Gender=Fem|Number=Sing	20	amod	_	_
-18	espectacular	espectacular	ADJ	_	Number=Sing	20	amod	_	_
-19	y	y	CCONJ	_	_	20	dep	_	_
+17	cándida	cándido	ADJ	_	Gender=Fem|Number=Sing	20	amod	_	_
+18	espectacular	espectacular	ADJ	_	Number=Sing	17	conj	_	_
+19	y	y	CCONJ	_	_	18	cc	_	_
 20	muchachita	muchachito	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
 21	de	de	ADP	_	_	23	case	_	_
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
@@ -17315,11 +17315,11 @@
 # text = Las Siete Partidas (o simplemente Partidas) es un cuerpo normativo redactado en Castilla, durante el reinado de Alfonso X (1252-1284), con el objetivo de conseguir una cierta uniformidad jurídica del Reino.
 1	Las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	2	det	_	_
 2	Siete	Siete	PROPN	_	Number=Plur	11	nsubj	_	_
-3	Partidas	Partido	PROPN	_	_	2	amod	_	_
+3	Partidas	Partidas	PROPN	_	_	2	flat	_	_
 4	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	7	punct	_	SpaceAfter=No
 5	o	o	CCONJ	_	_	7	cc	_	_
 6	simplemente	simplemente	ADV	_	_	7	advmod	_	_
-7	Partidas	partidas	NOUN	_	_	2	amod	_	SpaceAfter=No
+7	Partidas	Partidas	PROPN	_	_	2	appos	_	SpaceAfter=No
 8	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	7	punct	_	_
 9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
@@ -22089,7 +22089,7 @@
 6	evidencian	evidenciar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	aparatos	aparato	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
-9	glaciares	glaciar	NOUN	_	Number=Plur	8	amod	_	_
+9	glaciares	glaciar	ADJ	_	Number=Plur	8	amod	_	_
 10-11	del	_	_	_	_	_	_	_	_
 10	de	de	ADP	_	_	12	case	_	_
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
@@ -22159,7 +22159,7 @@
 16	Caesalpinioideae	Caesalpinioideae	PROPN	_	_	14	conj	_	SpaceAfter=No
 17	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	14	punct	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
-19	nativa	nativa	NOUN	_	Gender=Fem|Number=Sing	9	amod	_	_
+19	nativa	nativo	ADJ	_	Gender=Fem|Number=Sing	9	amod	_	_
 20	de	de	ADP	_	_	21	case	_	_
 21	América	América	PROPN	_	_	19	nmod	_	_
 22	y	y	CCONJ	_	_	23	cc	_	_
@@ -27163,10 +27163,10 @@
 6	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	5	expl:pv	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	5	obj	_	_
-9	bajo	bajo	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	_
-10	escrutinio	escrutinio	NOUN	_	Gender=Masc|Number=Sing	8	amod	_	_
+9	bajo	bajo	ADP	_	_	10	case	_	_
+10	escrutinio	escrutinio	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 11	con	con	ADP	_	_	12	case	_	_
-12	fuerzas	fuerza	NOUN	_	Gender=Fem|Number=Plur	8	nmod	_	_
+12	fuerzas	fuerza	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
 13	controladas	controlado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	12	amod	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -28404,7 +28404,7 @@
 8	lateral	lateral	ADJ	_	Number=Sing	7	amod	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
 10	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	conj	_	_
-11	centrales	central	NOUN	_	Gender=Masc|Number=Plur	10	amod	_	_
+11	centrales	central	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
 12	y	y	CCONJ	_	_	15	cc	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	siete	siete	NUM	_	Number=Plur|NumForm=Word|NumType=Card	15	nummod	_	_
@@ -30442,7 +30442,7 @@
 20	con	con	ADP	_	_	21	case	_	_
 21	grietas	grieta	NOUN	_	Gender=Fem|Number=Plur	19	obl	_	_
 22	estrechas	estrecho	ADJ	_	Gender=Fem|Number=Plur	21	amod	_	_
-23	longitudinales	longitudinal	NOUN	_	Number=Plur	21	amod	_	SpaceAfter=No
+23	longitudinales	longitudinal	ADJ	_	Number=Plur	21	amod	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 25	gris	gris	NOUN	_	Gender=Masc	21	conj	_	_
 26	oscura	oscuro	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	SpaceAfter=No
@@ -32611,7 +32611,7 @@
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	antigua	antiguo	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
 9	entrenadora	entrenadora	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
-10	vocal	vocal	NOUN	_	Number=Sing	9	amod	_	_
+10	vocal	vocal	ADJ	_	Number=Sing	9	amod	_	_
 11	de	de	ADP	_	_	13	case	_	_
 12	Australian	Australian	PROPN	_	_	13	amod	_	_
 13	Idol	Idol	PROPN	_	_	9	nmod	_	_
@@ -34407,7 +34407,7 @@
 7	de	de	ADP	_	_	8	case	_	_
 8	orquídea	orquídea	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
 9	epífita	epífito	ADJ	_	Gender=Fem|Number=Sing	8	amod	_	_
-10	originaria	originario	NOUN	_	Gender=Fem|Number=Sing	6	amod	_	_
+10	originaria	originario	ADJ	_	Gender=Fem|Number=Sing	6	amod	_	_
 11	de	de	ADP	_	_	13	case	_	_
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	Neotrópicos	Neotrópicos	PROPN	_	_	10	nmod	_	SpaceAfter=No
