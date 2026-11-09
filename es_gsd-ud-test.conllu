@@ -9131,7 +9131,7 @@
 62	que	que	SCONJ	_	_	65	mark	_	_
 63	"	"	PUNCT	_	PunctType=Quot	65	punct	_	SpaceAfter=No
 64	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	65	det	_	_
-65	primero	primero	NOUN	_	Gender=Masc|Number=Sing	61	ccomp	_	_
+65	primero	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	61	ccomp	_	_
 66	que	que	PRON	_	PronType=Rel	68	obj	_	_
 67	debe	deber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	68	aux	_	_
 68	hacer	hacer	VERB	_	VerbForm=Inf	65	acl:relcl	_	_
