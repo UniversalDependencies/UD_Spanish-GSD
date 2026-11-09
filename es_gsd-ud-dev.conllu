@@ -775,7 +775,7 @@
 1	Durante	durante	ADP	_	_	3	case	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
-4	promedió	promeder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+4	promedió	promediar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	5	5	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
 6	puntos	punto	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	_
 7	y	y	CCONJ	_	_	9	cc	_	_
@@ -3723,7 +3723,7 @@
 28	que	que	SCONJ	_	_	31	mark	_	_
 29	alguna	alguno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	30	det	_	_
 30	forma	forma	NOUN	_	Gender=Fem|Number=Sing	31	nsubj	_	_
-31	sobresalía	sobresaliar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	advcl	_	_
+31	sobresalía	sobresalir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	advcl	_	_
 32	por	por	ADP	_	_	36	case	_	_
 33	encima	encima	ADV	_	ExtPos=ADP	36	case	_	_
 34-35	del	_	_	_	_	_	_	_	_
@@ -7752,7 +7752,7 @@
 19	esta	este	DET	_	Gender=Fem|Number=Sing|PronType=Dem	20	det	_	_
 20	flor	flor	NOUN	_	Gender=Fem|Number=Sing	22	nsubj	_	_
 21	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	22	expl:pv	_	_
-22	pudre	pudrar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+22	pudre	pudrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 23	y	y	CCONJ	_	_	25	cc	_	_
 24	Tauro	Tauro	PROPN	_	_	25	nsubj	_	_
 25	reconoce	reconocer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	conj	_	_
@@ -10486,7 +10486,7 @@
 17	de	de	ADP	_	_	20	case	_	_
 18	cómo	cómo	ADV	_	PronType=Int	20	advmod	_	_
 19	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	20	obl:arg	_	_
-20	incida	incer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
+20	incida	incidir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	advcl	_	_
 21	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	22	det	_	_
 22	luz	luz	NOUN	_	Gender=Fem|Number=Sing	20	nsubj	_	SpaceAfter=No
 23	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
@@ -10617,7 +10617,7 @@
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	que	que	PRON	_	PronType=Rel	20	obl	_	_
 19	también	también	ADV	_	_	20	advmod	_	_
-20	medió	meder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
+20	medió	mediar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	acl:relcl	_	_
 21	Noam	Noam	PROPN	_	_	20	nsubj	_	_
 22	Chomsky	Chomsky	PROPN	_	_	21	flat	_	_
 23	hablando	hablar	VERB	_	VerbForm=Ger	20	xcomp	_	_
@@ -12742,7 +12742,7 @@
 1	Hola	hola	PART	_	_	4	dep	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
-4	recomiendo	recomer	VERB	_	VerbForm=Ger	0	root	_	_
+4	recomiendo	recomendar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	100	100	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	_
 6	%	%	SYM	_	_	4	obl	_	_
 7	yo	yo	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
@@ -14409,7 +14409,7 @@
 11	que	que	SCONJ	_	_	14	mark	_	_
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	españoles	español	NOUN	_	Gender=Masc|Number=Plur	14	nsubj	_	_
-14	devolviesen	devolviesar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	_
+14	devolviesen	devolver	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	7	ccomp	_	_
 15	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	14	obj	_	_
 16	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	19	det	_	_
 17	que	que	PRON	_	PronType=Rel	19	obj	_	_
@@ -15571,7 +15571,7 @@
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	derecha	derecha	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	_
 22	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	23	expl:pv	_	_
-23	yergue	yergar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
+23	yergue	erguir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 24	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	25	det	_	_
 25	espada	espada	NOUN	_	Gender=Fem|Number=Sing	23	nsubj	_	_
 26	desenvainada	desenvainado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	25	amod	_	SpaceAfter=No
@@ -22292,7 +22292,7 @@
 
 # sent_id = es-dev-002-s257
 # text = Obtuvimos 21 sentencias favorables del Juez de Primera Instancia y la Cámara Federal, más 4 fallos sobre pedidos de "per saltum" y cautelares definitivos de la Corte Suprema ajustados a derecho (Expediente N º 77.334).
-1	Obtuvimos	obtuvir	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
+1	Obtuvimos	obtener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 2	21	21	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
 3	sentencias	sentencia	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
 4	favorables	favorable	ADJ	_	Number=Plur	3	amod	_	_
@@ -27127,7 +27127,7 @@
 # sent_id = es-dev-002-s402
 # text = Lo recomiendo tanto a familias, como a parejas ya grupos de amigos que quieran compartir una velada con una atención maravillosa.
 1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
-2	recomiendo	recomer	VERB	_	VerbForm=Ger	0	root	_	_
+2	recomiendo	recomendar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	tanto	tanto	ADV	_	_	5	cc	_	_
 4	a	a	ADP	_	_	5	case	_	_
 5	familias	familia	NOUN	_	Gender=Fem|Number=Plur	2	obl:arg	_	SpaceAfter=No
@@ -29649,7 +29649,7 @@
 14	etc	etcétera	X	_	_	8	conj	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
-17	graba	grar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	6	conj	_	_
+17	graba	grabar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 18	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	casete	casete	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
 20	para	para	ADP	_	_	21	mark	_	_
@@ -37518,7 +37518,7 @@
 3	manera	manera	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	6	expl:pv	_	_
-6	expandió	expandiar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
+6	expandió	expandir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 7	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	det	_	_
 8	comercialización	comercialización	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
 9	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_

@@ -3026,7 +3026,7 @@
 8	en	en	ADP	_	_	10	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	cual	cual	PRON	_	Number=Sing|PronType=Rel	11	obl	_	_
-11	promedió	promeder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	parataxis	_	_
+11	promedió	promediar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	parataxis	_	_
 12	5,3	5.3	NUM	_	NumForm=Digit|NumType=Card	13	nummod	_	_
 13	puntos	punto	NOUN	_	Gender=Masc|Number=Plur	11	obj	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
@@ -6601,7 +6601,7 @@
 23	impedimento	impedimento	NOUN	_	Gender=Masc|Number=Sing	4	conj	_	_
 24	para	para	ADP	_	_	26	case	_	_
 25	que	que	SCONJ	_	_	26	mark	_	_
-26	probáramos	probárar	VERB	_	Mood=Cnd|Number=Plur|Person=1|VerbForm=Fin	23	advcl	_	_
+26	probáramos	probar	VERB	_	Mood=Sub|Number=Plur|Person=1|Tense=Imp|VerbForm=Fin	23	advcl	_	_
 27	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	28	det	_	_
 28	mieles	miel	NOUN	_	Gender=Fem|Number=Plur	26	obj	_	_
 29	de	de	ADP	_	_	30	case	_	_
@@ -8661,7 +8661,7 @@
 # text = Todos se rieron, y desde entonces Licey y Aguilas mantienen un jueguito peligroso de ataques promocionales, en cada estadio, juego que no tiene fin.
 1	Todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	3	nsubj	_	_
 2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	3	expl:pv	_	_
-3	rieron	rer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
+3	rieron	reír	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 5	y	y	CCONJ	_	_	11	cc	_	_
 6	desde	desde	ADP	_	_	7	case	_	_
@@ -12192,7 +12192,7 @@
 # sent_id = es-test-001-s207
 # text = Lo recomiendo.
 1	Lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	2	obj	_	_
-2	recomiendo	recomir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
+2	recomiendo	recomendar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-test-001-s208
@@ -12453,7 +12453,7 @@
 # text = Os lo recomiendo sinceramente
 1	Os	tú	PRON	_	Case=Dat|Gender=Masc|Number=Plur|Person=2|PrepCase=Npr|PronType=Prs	3	obl:arg	_	_
 2	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	3	obj	_	_
-3	recomiendo	recomir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+3	recomiendo	recomendar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	sinceramente	sinceramente	ADV	_	_	3	advmod	_	_
 
 # sent_id = es-test-001-s222
@@ -12815,7 +12815,7 @@
 3	alguna	alguno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 5	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	6	obj	_	_
-6	recomiendo	recomer	VERB	_	VerbForm=Ger	0	root	_	_
+6	recomiendo	recomendar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 7-8	al	_	_	_	_	_	_	_	_
 7	a	a	ADP	_	_	10	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	10	det	_	_
