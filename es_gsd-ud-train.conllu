@@ -26421,7 +26421,7 @@
 29	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	estrategia	estrategia	NOUN	_	Gender=Fem|Number=Sing	28	obj	_	_
 31	defensiva	defensivo	ADJ	_	Gender=Fem|Number=Sing	30	amod	_	_
-32	conservadora	conservador	NOUN	_	Gender=Fem|Number=Sing	30	amod	_	_
+32	conservadora	conservador	ADJ	_	Gender=Fem|Number=Sing	30	amod	_	_
 33	que	que	PRON	_	PronType=Rel	34	obj	_	_
 34	buscaba	buscar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	30	acl:relcl	_	_
 35	ganar	ganar	VERB	_	VerbForm=Inf	34	xcomp	_	_
@@ -40669,7 +40669,7 @@
 23	de	de	ADP	_	_	24	case	_	_
 24	origen	origen	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
 25	chino	chino	ADJ	_	Gender=Masc|Number=Sing	24	amod	_	_
-26	diseñadora	diseñador	NOUN	_	Gender=Fem|Number=Sing	19	obl:agent	_	_
+26	diseñadora	diseñadora	NOUN	_	Gender=Fem|Number=Sing	19	obl:agent	_	_
 27	de	de	ADP	_	_	28	case	_	_
 28	moda	moda	NOUN	_	Gender=Fem|Number=Sing	26	nmod	_	_
 29	Vera	Vera	PROPN	_	Gender=Fem|Number=Sing	26	appos	_	_
@@ -44585,7 +44585,7 @@
 11	nos	yo	PRON	_	Case=Dat|Number=Plur|Person=1|PrepCase=Npr|PronType=Prs	12	obl:arg	_	_
 12	sorprendió	sorprender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	14	det	_	_
-14	acogedora	acogedorar	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
+14	acogedora	acogedor	ADJ	_	Gender=Fem|Number=Sing	12	nsubj	_	_
 15	que	que	SCONJ	_	_	16	mark	_	_
 16	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -54967,7 +54967,7 @@
 24	catalogar	catalogar	VERB	_	VerbForm=Inf	16	advcl	_	_
 25	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
 26	de	de	ADP	_	_	27	case	_	_
-27	conservadora	conservador	NOUN	_	Gender=Fem|Number=Sing	24	obl	_	_
+27	conservadora	conservador	ADJ	_	Gender=Fem|Number=Sing	24	obl	_	_
 28	y	y	CCONJ	_	_	29	cc	_	_
 29	reaccionaria	reaccionario	ADJ	_	Gender=Fem|Number=Sing	27	conj	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
@@ -58882,7 +58882,7 @@
 14	entre	entre	ADP	_	_	17	case	_	_
 15	dos	dos	NUM	_	Number=Plur|NumForm=Word|NumType=Card	17	nummod	_	_
 16	mini	mini	ADJ	_	_	17	amod	_	_
-17	computadoras	computador	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
+17	computadoras	computadora	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
 18	PDP	pdp	X	_	_	17	appos	_	_
 19	-	-	PUNCT	_	PunctType=Dash	20	punct	_	_
 20	11	11	NUM	_	NumForm=Digit|NumType=Card	18	dep	_	_
@@ -59441,7 +59441,7 @@
 13	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	11	nmod	_	_
 14	que	que	PRON	_	PronType=Rel	16	nsubj	_	_
 15	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	cop	_	_
-16	salvadora	salvador	NOUN	_	Gender=Fem|Number=Sing	13	acl:relcl	_	_
+16	salvadora	salvadora	NOUN	_	Gender=Fem|Number=Sing	13	acl:relcl	_	_
 17-18	del	_	_	_	_	_	_	_	_
 17	de	de	ADP	_	_	19	case	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
@@ -107391,7 +107391,7 @@
 29	Osandon	Osandon	PROPN	_	_	28	flat	_	_
 30	Arredondo	Arredondo	PROPN	_	_	28	flat	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
-32	gobernadora	gobernador	NOUN	_	Gender=Fem|Number=Sing	28	appos	_	_
+32	gobernadora	gobernadora	NOUN	_	Gender=Fem|Number=Sing	28	appos	_	_
 33	provincial	provincial	ADJ	_	Number=Sing	32	amod	_	_
 34	de	de	ADP	_	_	35	case	_	_
 35	Chañaral	Chañaral	PROPN	_	_	32	nmod	_	SpaceAfter=No
@@ -122030,7 +122030,7 @@
 15	de	de	ADP	_	_	18	case	_	_
 16	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
 17	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	18	nummod	_	_
-18	presentadoras	presentador	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
+18	presentadoras	presentadora	NOUN	_	Gender=Fem|Number=Plur	14	nmod	_	_
 19	iniciales	inicial	ADJ	_	Number=Plur	18	amod	_	_
 20-21	del	_	_	_	_	_	_	_	_
 20	de	de	ADP	_	_	22	case	_	_
@@ -154376,7 +154376,7 @@
 4	compañía	compañía	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 5	propietaria	propietario	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_
 6	y	y	CCONJ	_	_	7	cc	_	_
-7	operadora	operador	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+7	operadora	operadora	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
 8	de	de	ADP	_	_	10	case	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	red	red	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
@@ -162691,7 +162691,7 @@
 20	muy	mucho	ADV	_	_	21	advmod	_	_
 21	entalladas	entallado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	19	amod	_	_
 22	y	y	CCONJ	_	_	23	cc	_	_
-23	cazadoras	cazador	NOUN	_	Gender=Fem|Number=Plur	9	conj	_	_
+23	cazadoras	cazadora	NOUN	_	Gender=Fem|Number=Plur	9	conj	_	_
 24	tipo	tipo	NOUN	_	Gender=Masc|Number=Sing	23	appos	_	_
 25	kimono	kimono	NOUN	_	_	24	appos	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
@@ -186771,7 +186771,7 @@
 17	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 18	modelo	modelo	NOUN	_	Gender=Masc|Number=Sing	13	conj	_	_
 19	y	y	CCONJ	_	_	20	cc	_	_
-20	presentadora	presentador	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
+20	presentadora	presentadora	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
 21	de	de	ADP	_	_	22	case	_	_
 22	televisión	televisión	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
@@ -214448,7 +214448,7 @@
 22	nacionales	nacional	ADJ	_	Number=Plur	21	amod	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 24	6	6	NUM	_	NumForm=Digit|NumType=Card	25	nummod	_	_
-25	senadoras	senador	NOUN	_	Gender=Fem|Number=Plur	21	conj	_	_
+25	senadoras	senadora	NOUN	_	Gender=Fem|Number=Plur	21	conj	_	_
 26	nacionales	nacional	ADJ	_	Number=Plur	25	amod	_	SpaceAfter=No
 27	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
 28	y	y	CCONJ	_	_	37	cc	_	_
@@ -241133,7 +241133,7 @@
 40	desde	desde	ADP	_	_	43	case	_	_
 41	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	43	det	_	_
 42	modernas	moderno	ADJ	_	Gender=Fem|Number=Plur	43	amod	_	_
-43	licuadoras	licuador	NOUN	_	Gender=Fem|Number=Plur	39	obl	_	_
+43	licuadoras	licuadora	NOUN	_	Gender=Fem|Number=Plur	39	obl	_	_
 44	eléctricas	eléctrico	ADJ	_	Gender=Fem|Number=Plur	43	amod	_	SpaceAfter=No
 45	,	,	PUNCT	_	PunctType=Comm	47	punct	_	_
 46	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	47	det	_	_
@@ -244302,7 +244302,7 @@
 64	que	que	PRON	_	PronType=Rel	67	nsubj	_	_
 65	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	67	aux	_	_
 66	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	67	cop	_	_
-67	ganadoras	ganador	NOUN	_	Gender=Fem|Number=Plur	62	acl:relcl	_	_
+67	ganadoras	ganadora	NOUN	_	Gender=Fem|Number=Plur	62	acl:relcl	_	_
 68-69	del	_	_	_	_	_	_	_	_
 68	de	de	ADP	_	_	70	case	_	_
 69	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	70	det	_	_
@@ -253638,7 +253638,7 @@
 3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	redes	red	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
 5	de	de	ADP	_	_	6	case	_	_
-6	computadoras	computador	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
+6	computadoras	computadora	NOUN	_	Gender=Fem|Number=Plur	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 9	contra	contra	X	_	Gender=Fem|Number=Sing	11	dep	_	_
@@ -262486,7 +262486,7 @@
 14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 15	bailarina	bailarina	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
-17	diseñadora	diseñador	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
+17	diseñadora	diseñadora	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
 18	de	de	ADP	_	_	19	case	_	_
 19	vestuario	vestuario	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	_
 20	y	y	CCONJ	_	_	21	cc	_	_
@@ -267057,7 +267057,7 @@
 7	gimnasia	gimnasia	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 8	rítmica	rítmico	ADJ	_	Gender=Fem|Number=Sing	7	amod	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
-10	patinadora	patinador	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
+10	patinadora	patinadora	NOUN	_	Gender=Fem|Number=Sing	4	conj	_	_
 11	artística	artístico	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	_
 12	introdujo	introducir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	a	a	ADP	_	_	16	case	_	_
@@ -328715,7 +328715,7 @@
 27	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	cop	_	_
 28	que	que	SCONJ	_	_	31	mark	_	_
 29	dicha	dicho	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	30	amod	_	_
-30	trabajadora	trabajador	NOUN	_	Gender=Fem|Number=Sing	31	nsubj	_	_
+30	trabajadora	trabajadora	NOUN	_	Gender=Fem|Number=Sing	31	nsubj	_	_
 31	sufriera	sufrir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	26	csubj	_	_
 32	graves	grave	ADJ	_	Number=Plur	33	amod	_	_
 33	problemas	problema	NOUN	_	Gender=Masc|Number=Plur	31	obj	_	_
@@ -354649,7 +354649,7 @@
 22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 23	sexóloga	sexólogo	NOUN	_	Gender=Fem|Number=Sing	21	conj	_	_
 24	e	e	CCONJ	_	_	25	cc	_	_
-25	investigadora	investigador	NOUN	_	Gender=Fem|Number=Sing	21	conj	_	_
+25	investigadora	investigadora	NOUN	_	Gender=Fem|Number=Sing	21	conj	_	_
 26	francesa	francés	ADJ	_	Gender=Fem|Number=Sing	25	amod	_	_
 27	afincada	afincar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	21	acl	_	_
 28	actualmente	actualmente	ADV	_	_	27	advmod	_	_
@@ -376244,11 +376244,11 @@
 12	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	botánica	botánico	NOUN	_	Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
-15	curadora	curador	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
+15	curadora	curadora	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 17	profesora	profesora	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
-19	exploradora	explorador	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
+19	exploradora	exploradora	NOUN	_	Gender=Fem|Number=Sing	13	conj	_	_
 20	argentina	argentino	ADJ	_	Gender=Fem|Number=Sing	19	amod	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
 
@@ -383089,7 +383089,7 @@
 1	Hola	hola	PART	_	_	4	dep	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 3	soy	ser	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	cop	_	_
-4	decoradora	decorador	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
+4	decoradora	decoradora	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 5	de	de	ADP	_	_	6	case	_	_
 6	interiores	interior	NOUN	_	Gender=Masc|Number=Plur	4	nmod	_	_
 7	y	y	CCONJ	_	_	16	cc	_	_
@@ -408900,7 +408900,7 @@
 2	prenden	prender	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	velas	vela	NOUN	_	Gender=Fem|Number=Plur	2	obj	_	_
 4	o	o	CCONJ	_	_	5	cc	_	_
-5	veladoras	velador	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
+5	veladoras	veladora	NOUN	_	Gender=Fem|Number=Plur	3	conj	_	_
 6	en	en	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	altar	altar	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_

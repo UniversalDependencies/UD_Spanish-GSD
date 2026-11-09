@@ -32610,7 +32610,7 @@
 6	con	con	ADP	_	_	9	case	_	_
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 8	antigua	antiguo	NOUN	_	Gender=Fem|Number=Sing	9	nmod	_	_
-9	entrenadora	entrenador	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
+9	entrenadora	entrenadora	NOUN	_	Gender=Fem|Number=Sing	2	obl	_	_
 10	vocal	vocal	NOUN	_	Number=Sing	9	amod	_	_
 11	de	de	ADP	_	_	13	case	_	_
 12	Australian	Australian	PROPN	_	_	13	amod	_	_
@@ -32718,7 +32718,7 @@
 3	Producción	producción	NOUN	_	_	1	nmod	_	_
 4	por	por	ADP	_	_	6	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
-6	ganadora	ganador	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
+6	ganadora	ganadora	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	_
 7-8	al	_	_	_	_	_	_	_	_
 7	a	a	ADP	_	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_

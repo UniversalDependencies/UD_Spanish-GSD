@@ -6081,7 +6081,7 @@
 50	no	no	ADV	_	Polarity=Neg	51	advmod	_	_
 51	tenemos	tener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	35	advcl	_	_
 52	ni	ni	CCONJ	_	_	53	cc	_	_
-53	computadoras	computador	NOUN	_	Gender=Fem|Number=Plur	51	obj	_	_
+53	computadoras	computadora	NOUN	_	Gender=Fem|Number=Plur	51	obj	_	_
 54	ni	ni	CCONJ	_	_	55	cc	_	_
 55	internet	internet	ADJ	_	Gender=Masc|Number=Plur	53	conj	_	_
 56	para	para	ADP	_	_	57	mark	_	_
