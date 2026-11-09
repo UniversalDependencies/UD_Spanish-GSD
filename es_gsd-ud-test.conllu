@@ -6442,7 +6442,7 @@
 11	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	camino	camino	NOUN	_	Gender=Masc|Number=Sing	8	obj	_	_
 13	que	que	PRON	_	PronType=Rel	14	obj	_	_
-14	iniciara	iniciar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|Typo=Yes|VerbForm=Fin	12	acl:relcl	_	CorrectForm=iniciará
+14	iniciara	iniciar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	12	acl:relcl	_	_
 15	en	en	ADP	_	_	17	case	_	_
 16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	14	obl	_	_
