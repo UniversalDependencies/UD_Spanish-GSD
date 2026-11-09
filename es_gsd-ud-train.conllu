@@ -19312,7 +19312,7 @@
 
 # sent_id = es-train-002-s105
 # text = Ayudemos a mi compañero Jimmy".
-1	Ayudemos	ayudar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Ayudemos	ayudar	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	4	det	_	_
 4	compañero	compañero	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
@@ -31382,7 +31382,7 @@
 1	Por	por	ADP	_	_	2	case	_	_
 2	favor	favor	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-4	corrijan	corregir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	corrijan	corregir	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	datos	dato	NOUN	_	Gender=Masc|Number=Plur	4	obj	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
@@ -56521,7 +56521,7 @@
 
 # sent_id = es-train-004-s362
 # text = Pidan el pan de pizza que es excelente.
-1	Pidan	pedir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Pidan	pedir	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	pan	pan	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	de	de	ADP	_	_	5	case	_	_
@@ -104141,7 +104141,7 @@
 
 # sent_id = es-train-007-s407
 # text = Divida a la poblacion en grupos antagonicos, incitando las discusiones sobre asuntos sociales.
-1	Divida	dividir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Divida	dividir	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	poblacion	población	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	1	obj	_	CorrectForm=población
@@ -106903,7 +106903,7 @@
 44	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	ccomp	_	_
 45	cómo	cómo	ADV	_	PronType=Int	46	advmod	_	_
 46-47	deshacerse	_	_	_	_	_	_	_	_
-46	deshacer	deshacer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	44	xcomp	_	_
+46	deshacer	deshacer	VERB	_	VerbForm=Inf	44	xcomp	_	_
 47	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	46	expl:pv	_	_
 48	de	de	ADP	_	_	50	case	_	_
 49	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	50	det	_	_
@@ -113666,7 +113666,7 @@
 
 # sent_id = es-train-008-s242
 # text = Ten cuidado con las serpientes y los barrancos, ya que son las únicas cosas que te podrían matar en este nivel.
-1	Ten	tener	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Ten	tener	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	cuidado	cuidado	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 3	con	con	ADP	_	_	5	case	_	_
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
@@ -127163,7 +127163,7 @@
 
 # sent_id = es-train-009-s188
 # text = Sigan asi.
-1	Sigan	seguir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Sigan	seguir	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 2	asi	así	ADV	_	Typo=Yes	1	advmod	_	CorrectForm=así|SpaceAfter=No
 3	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -145036,12 +145036,12 @@
 
 # sent_id = es-train-010-s282
 # text = Cierra los ojos y ábrelos.
-1	Cierra	cerrar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+1	Cierra	cerrar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	ojos	ojo	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 4	y	y	CCONJ	_	_	5	cc	_	_
 5-6	ábrelos	_	_	_	_	_	_	_	SpaceAfter=No
-5	ábre	abrir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+5	ábre	abrir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
 6	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	5	obj	_	_
 7	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -162322,7 +162322,7 @@
 
 # sent_id = es-train-011-s360
 # text = Sepan comprender que de aqui en adelante sera duro recuperar adherentes.
-1	Sepan	saber	VERB	_	Mood=Imp|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Sepan	saber	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 2	comprender	comprender	VERB	_	VerbForm=Inf	1	xcomp	_	_
 3	que	que	SCONJ	_	_	9	mark	_	_
 4	de	de	ADP	_	_	5	case	_	_
@@ -166146,7 +166146,7 @@
 18	Canadá	Canadá	PROPN	_	_	15	conj	_	_
 19	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	20	punct	_	SpaceAfter=No
 20-21	véase	_	_	_	_	_	_	_	_
-20	véa	ver	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	9	parataxis	_	_
+20	véa	ver	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	9	parataxis	_	_
 21	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 22	Cena	Cena	PROPN	_	_	20	appos	_	_
 23	de	de	ADP	_	_	24	case	_	_
@@ -190265,8 +190265,8 @@
 5	siglo	siglo	NOUN	_	Gender=Masc|Number=Sing	3	obl	_	_
 6	XIII	xiii	NUM	_	NumForm=Roman|NumType=Card	5	nummod	_	SpaceAfter=No
 7	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	5	punct	_	_
-8-10	agregádosele	_	_	_	_	_	_	_	_
-8	agregádo	agregar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	advcl	_	_
+8-10	agregádosele	_	_	_	Typo=Yes	_	_	_	CorrectForm=agregándosele
+8	agregando	agregar	VERB	_	VerbForm=Ger	3	advcl	_	_
 9	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 10	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	8	obl:arg	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
@@ -207714,7 +207714,7 @@
 45	impulsivo	impulsivo	ADJ	_	Gender=Masc|Number=Sing	43	amod	_	SpaceAfter=No
 46	,	,	PUNCT	_	PunctType=Comm	47	punct	_	_
 47-48	véase	_	_	_	_	_	_	_	_
-47	vea	ver	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	conj	_	_
+47	vea	ver	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	41	conj	_	_
 48	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	47	expl:pv	_	_
 49	"	"	PUNCT	_	PunctType=Quot	50	punct	_	SpaceAfter=No
 50	Gandul	Gandul	PROPN	_	_	47	xcomp	_	SpaceAfter=No
@@ -213811,7 +213811,7 @@
 # sent_id = es-train-015-s38
 # text = Date prisa, pronto se sabrá quienes son los que asistirán por la patilla al concierto enérgico de TEED y compañía.
 1-2	Date	_	_	_	_	_	_	_	_
-1	Da	dar	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+1	Da	dar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	obl:arg	_	_
 3	prisa	prisa	NOUN	_	Number=Sing	1	obj	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
@@ -223048,13 +223048,13 @@
 1	Por	por	ADP	_	_	2	case	_	_
 2	favor	favor	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-4	haga	hacer	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+4	haga	hacer	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 5	como	como	SCONJ	_	_	6	case	_	_
 6	nosotros	yo	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=1|PronType=Prs	4	obl	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 8	trabaje	trabajar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	4	parataxis	_	_
 9	e	e	CCONJ	_	_	10	cc	_	_
-10	invierta	invertir	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	8	conj	_	_
+10	invierta	invertir	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	8	conj	_	_
 11	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	10	obj	_	_
 12	y	y	CCONJ	_	_	13	cc	_	_
 13	dinero	dinero	NOUN	_	Gender=Masc|Number=Sing	11	conj	_	_
@@ -228545,13 +228545,13 @@
 
 # sent_id = es-train-016-s31
 # text = Escucha a tus sentimientos y pregúntate porque sientes esto o aquello, que te produce ira o miedo.
-1	Escucha	escuchar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Escucha	escuchar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	tus	tu	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
 4	sentimientos	sentimiento	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 5	y	y	CCONJ	_	_	6	cc	_	_
 6-7	pregúntate	_	_	_	_	_	_	_	_
-6	pregúnta	preguntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
+6	pregúnta	preguntar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
 7	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	6	obl:arg	_	_
 8	porque	porque	SCONJ	_	_	9	mark	_	_
 9	sientes	sentir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	6	ccomp	_	_
@@ -247754,7 +247754,7 @@
 
 # sent_id = es-train-017-s163
 # text = Paga a tus proveedores y trabajadores.
-1	Paga	pagar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Paga	pagar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	tus	tus	DET	_	Number=Plur|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	4	det	_	_
 4	proveedores	proveedor	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
@@ -264566,7 +264566,7 @@
 34	prendas	prenda	NOUN	_	Gender=Fem|Number=Plur	32	obj	_	SpaceAfter=No
 35	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
 36-38	probárselas	_	_	_	_	_	_	_	_
-36	probar	probar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	32	conj	_	_
+36	probar	probar	VERB	_	VerbForm=Inf	32	conj	_	_
 37	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	36	expl:pv	_	_
 38	las	él	PRON	_	Case=Acc|Gender=Fem|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	36	obj	_	_
 39	y	y	CCONJ	_	_	40	cc	_	_
@@ -269547,7 +269547,7 @@
 # sent_id = es-train-018-s371
 # text = Déjate aconsejar.
 1-2	Déjate	_	_	_	_	_	_	_	_
-1	Déja	dejar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
+1	Déja	dejar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	1	obj	_	_
 3	aconsejar	aconsejar	VERB	_	VerbForm=Inf	1	xcomp	_	SpaceAfter=No
 4	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -300073,7 +300073,7 @@
 # sent_id = es-train-020-s339
 # text = Véase más información en la Saga de Teutoburgo y sus artículos relacionados.
 1-2	Véase	_	_	_	_	_	_	_	_
-1	Véa	ver	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	_
+1	Véa	ver	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
 2	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	1	expl:pv	_	_
 3	más	más	ADV	_	Degree=Cmp	4	advmod	_	_
 4	información	información	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
@@ -320339,8 +320339,8 @@
 21	está	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	_
 22	apunto	apunto	X	_	_	24	obl	_	_
 23	de	de	ADP	_	_	24	case	_	_
-24-25	descubrilos	_	_	_	_	_	_	_	SpaceAfter=No
-24	descubri	descubrir	VERB	_	Mood=Ind|VerbForm=Fin	21	advcl	_	_
+24-25	descubrilos	_	_	_	Typo=Yes	_	_	_	CorrectForm=descubrirlos|SpaceAfter=No
+24	descubrir	descubrir	VERB	_	VerbForm=Inf	21	advcl	_	_
 25	los	él	PRON	_	Case=Acc|Gender=Masc|Number=Plur|Person=3|PrepCase=Npr|PronType=Prs	24	obj	_	_
 26	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
@@ -322142,7 +322142,7 @@
 
 # sent_id = es-train-022-s53
 # text = Viva la Virgen de Guadalajara!
-1	Viva	vivir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Viva	vivir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	Virgen	Virgen	PROPN	_	_	1	obj	_	_
 4	de	de	ADP	_	_	5	case	_	_
@@ -339744,7 +339744,7 @@
 
 # sent_id = es-train-023-s124
 # text = Seamos serios!
-1	Seamos	ser	AUX	_	Mood=Imp|Number=Plur|VerbForm=Fin	2	cop	_	_
+1	Seamos	ser	AUX	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	2	cop	_	_
 2	serios	serio	ADJ	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 3	!	!	PUNCT	_	PunctSide=Fin|PunctType=Excl	2	punct	_	_
 
@@ -369644,7 +369644,7 @@
 30	usado	usado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	29	amod	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 32-34	indiqueselo	_	_	_	_	_	_	_	_
-32	indique	indicar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	parataxis	_	_
+32	indique	indicar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	4	parataxis	_	_
 33	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	expl:pv	_	_
 34	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	32	obj	_	_
 35-36	al	_	_	_	_	_	_	_	_
@@ -369653,7 +369653,7 @@
 37	cliente	cliente	NOUN	_	Number=Sing	32	obl:arg	_	SpaceAfter=No
 38	,	,	PUNCT	_	PunctType=Comm	39	punct	_	_
 39-40	reduzcale	_	_	_	_	_	_	_	_
-39	reduzca	reducir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	conj	_	_
+39	reduzca	reducir	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	32	conj	_	_
 40	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	39	obl:arg	_	_
 41	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	_
 42	precio	precio	NOUN	_	Gender=Masc|Number=Sing	39	obj	_	SpaceAfter=No
@@ -419189,8 +419189,8 @@
 17	estado	estado	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 18	helenístico	helenístico	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	_
 19	en	en	ADP	_	_	20	case	_	_
-20-21	incorporase	_	_	_	_	_	_	_	_
-20	incorpora	incorporar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	17	advcl	_	_
+20-21	incorporase	_	_	_	Typo=Yes	_	_	_	CorrectForm=incorporarse
+20	incorporar	incorporar	VERB	_	VerbForm=Inf	17	advcl	_	_
 21	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 22	formalmente	formalmente	ADV	_	_	20	advmod	_	_
 23-24	al	_	_	_	_	_	_	_	_
@@ -424459,14 +424459,14 @@
 2	consejo	consejo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 4	si	si	SCONJ	_	_	5	mark	_	_
-5	deseas	desear	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	10	advcl	_	_
+5	deseas	desear	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 6	atención	atención	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 7-8	al	_	_	_	_	_	_	_	_
 7	a	a	ADP	_	_	9	case	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	cliente	cliente	NOUN	_	Number=Sing	6	nmod	_	_
 10-11	olvidate	_	_	_	_	_	_	_	_
-10	olvida	olvidar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+10	olvida	olvidar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	parataxis	_	_
 11	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	10	obl:arg	_	_
 12	de	de	ADP	_	_	13	mark	_	_
 13	trabajar	trabajar	VERB	_	VerbForm=Inf	10	advcl	_	_
