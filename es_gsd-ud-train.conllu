@@ -96617,9 +96617,9 @@
 7	cuatro	cuatro	NUM	_	Number=Plur|NumForm=Word|NumType=Card	8	nummod	_	_
 8	escuelas	escuela	NOUN	_	Gender=Fem|Number=Plur	5	obl	_	_
 9	públicas	público	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	SpaceAfter=No
-10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-11	2	2	NUM	_	NumForm=Digit|NumType=Card	8	conj	_	_
-12	privadas	privado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	11	amod	_	SpaceAfter=No
+10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
+11	2	2	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
+12	privadas	privado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	8	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 14	2	2	NUM	_	NumForm=Digit|NumType=Card	15	nummod	_	_
 15	secundarias	secundaria	NOUN	_	Gender=Fem|Number=Plur	8	conj	_	_
@@ -99251,9 +99251,9 @@
 7	48	48	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
 8	parejas	pareja	NOUN	_	Gender=Fem|Number=Plur	5	appos	_	_
 9	masculinas	masculino	ADJ	_	Gender=Fem|Number=Plur	8	amod	_	_
-10	y	y	CCONJ	_	_	11	cc	_	_
-11	48	48	NUM	_	NumForm=Digit|NumType=Card	8	conj	_	_
-12	femeninas	femenino	ADJ	_	Gender=Fem|Number=Plur	11	amod	_	SpaceAfter=No
+10	y	y	CCONJ	_	_	12	cc	_	_
+11	48	48	NUM	_	NumForm=Digit|NumType=Card	12	nummod	_	_
+12	femeninas	femenino	ADJ	_	Gender=Fem|Number=Plur	8	conj	_	SpaceAfter=No
 13	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	8	punct	_	_
 14	de	de	ADP	_	_	16	case	_	_
 15	26	26	NUM	_	NumForm=Digit|NumType=Card	16	nummod	_	_
@@ -121590,10 +121590,10 @@
 21	asiáticos	asiático	ADJ	_	Gender=Masc|Number=Plur	20	amod	_	_
 22	en	en	ADP	_	_	23	case	_	_
 23	lugar	lugar	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
-24	de	de	ADP	_	_	26	case	_	_
-25	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
-26	nueve	nueve	NUM	_	Number=Plur|NumForm=Word|NumType=Card	23	nmod	_	_
-27	actuales	actual	ADJ	_	Number=Plur	26	amod	_	_
+24	de	de	ADP	_	_	27	case	_	_
+25	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	27	det	_	_
+26	nueve	nueve	NUM	_	Number=Plur|NumForm=Word|NumType=Card	27	nummod	_	_
+27	actuales	actual	ADJ	_	Number=Plur	23	nmod	_	_
 28	y	y	CCONJ	_	_	29	cc	_	_
 29	aumentando	aumentar	VERB	_	VerbForm=Ger	17	conj	_	_
 30	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	31	det	_	_
@@ -170344,9 +170344,9 @@
 52	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	53	det	_	_
 53	cascos	casco	NOUN	_	Gender=Masc|Number=Plur	54	nsubj	_	_
 54	permiten	permitir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	45	parataxis	_	_
-55	hasta	hasta	ADP	_	_	56	case	_	_
-56	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	54	obj	_	_
-57	simultáneos	simultáneo	ADJ	_	Gender=Masc|Number=Plur	56	amod	_	SpaceAfter=No
+55	hasta	hasta	ADP	_	_	57	case	_	_
+56	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	57	nummod	_	_
+57	simultáneos	simultáneo	ADJ	_	Gender=Masc|Number=Plur	54	obj	_	SpaceAfter=No
 58	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	54	punct	_	SpaceAfter=No
 59	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -196704,8 +196704,8 @@
 19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	contrato	contrato	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
 21	pone	poner	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
-22	40	40	NUM	_	NumForm=Digit|NumType=Card	21	obj	_	_
-23	semanales	semanal	ADJ	_	Gender=Masc|Number=Plur	22	amod	_	SpaceAfter=No
+22	40	40	NUM	_	NumForm=Digit|NumType=Card	23	nummod	_	_
+23	semanales	semanal	ADJ	_	Gender=Masc|Number=Plur	21	obj	_	SpaceAfter=No
 24	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	21	punct	_	_
 25	llegando	llegar	VERB	_	VerbForm=Ger	9	advcl	_	_
 26	a	a	ADP	_	_	27	mark	_	_
@@ -274476,10 +274476,10 @@
 6	hay	haber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	1	1	NUM	_	NumForm=Digit|NumType=Card	8	nummod	_	_
 8	guardería	guardería	NOUN	_	Gender=Fem|Number=Sing	6	obj	_	_
-9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	10	punct	_	SpaceAfter=No
-10	1	1	NUM	_	NumForm=Digit|NumType=Card	8	appos	_	_
-11	pública	público	ADJ	_	Gender=Fem|Number=Sing	10	amod	_	SpaceAfter=No
-12	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	10	punct	_	_
+9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	11	punct	_	SpaceAfter=No
+10	1	1	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
+11	pública	público	ADJ	_	Gender=Fem|Number=Sing	8	appos	_	SpaceAfter=No
+12	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	11	punct	_	_
 13	y	y	CCONJ	_	_	15	cc	_	_
 14	1	1	NUM	_	NumForm=Digit|NumType=Card	15	nummod	_	_
 15	colegio	colegio	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
@@ -375272,14 +375272,14 @@
 16	continentales	continental	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
 17	o	o	CCONJ	_	_	18	cc	_	_
 18	contiguos	contiguo	ADJ	_	Gender=Masc|Number=Plur	16	conj	_	_
-19	y	y	CCONJ	_	_	25	cc	_	SpaceAfter=No
+19	y	y	CCONJ	_	_	26	cc	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
 21	en	en	ADP	_	_	22	case	_	_
-22	ocasiones	ocasión	NOUN	_	Gender=Fem|Number=Plur	25	obl	_	SpaceAfter=No
+22	ocasiones	ocasión	NOUN	_	Gender=Fem|Number=Plur	26	obl	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-24	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
-25	48	48	NUM	_	NumForm=Digit|NumType=Card	16	conj	_	_
-26	inferiores	inferior	ADJ	_	Number=Plur	25	amod	_	SpaceAfter=No
+24	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
+25	48	48	NUM	_	NumForm=Digit|NumType=Card	26	nummod	_	_
+26	inferiores	inferior	ADJ	_	Number=Plur	16	conj	_	SpaceAfter=No
 27	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
 # sent_id = es-train-025-s257

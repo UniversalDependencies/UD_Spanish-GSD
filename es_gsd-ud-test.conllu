@@ -9389,10 +9389,10 @@
 13	a	a	ADP	_	_	15	case	_	_
 14	560.000	560000	NUM	_	NumForm=Digit|NumType=Card	15	nummod	_	_
 15	unidades	unidad	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	_
-16	desde	desde	ADP	_	_	18	case	_	_
-17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	18	det	_	_
-18	541.000	541000	NUM	_	NumForm=Digit|NumType=Card	12	obl	_	_
-19	anteriores	anterior	ADJ	_	Number=Plur	18	amod	_	SpaceAfter=No
+16	desde	desde	ADP	_	_	19	case	_	_
+17	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	19	det	_	_
+18	541.000	541000	NUM	_	NumForm=Digit|NumType=Card	19	nummod	_	_
+19	anteriores	anterior	ADJ	_	Number=Plur	12	obl	_	SpaceAfter=No
 20	.	.	PUNCT	_	PunctType=Peri	12	punct	_	_
 
 # sent_id = es-test-001-s136
