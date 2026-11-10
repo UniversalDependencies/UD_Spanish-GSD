@@ -4946,7 +4946,7 @@
 
 # sent_id = es-dev-001-s172
 # text = Sampleos caseros, programaciones rústicas y rimas metafóricamente no - convencionales componen este disco de los tempranos 90.
-1	Sampleos	sampleos	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
+1	Sampleos	sampleo	NOUN	_	Gender=Masc|Number=Plur	12	nsubj	_	_
 2	caseros	casero	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
 4	programaciones	programación	NOUN	_	Gender=Fem|Number=Plur	1	conj	_	_
@@ -14807,7 +14807,7 @@
 
 # sent_id = es-dev-002-s4
 # text = Muebles concebidos por diseñadores y técnicos de primera línea.
-1	Muebles	muebles	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+1	Muebles	mueble	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
 2	concebidos	concebir	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	1	acl	_	_
 3	por	por	ADP	_	_	4	case	_	_
 4	diseñadores	diseñador	NOUN	_	Gender=Masc|Number=Plur	2	obl:agent	_	_
@@ -21669,7 +21669,7 @@
 
 # sent_id = es-dev-002-s235
 # text = Culturas prehistóricas de Copiapó.
-1	Culturas	culturas	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+1	Culturas	cultura	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
 2	prehistóricas	prehistórico	ADJ	_	Gender=Fem|Number=Plur	1	amod	_	_
 3	de	de	ADP	_	_	4	case	_	_
 4	Copiapó	Copiapó	PROPN	_	_	1	nmod	_	SpaceAfter=No
@@ -27172,7 +27172,7 @@
 
 # sent_id = es-dev-002-s404
 # text = Moños negros en muchas edificaciones, suspensión de obras teatrales y otras manifestaciones.
-1	Moños	moños	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
+1	Moños	moño	NOUN	_	Gender=Masc|Number=Plur	0	root	_	_
 2	negros	negro	ADJ	_	Gender=Masc|Number=Plur	1	amod	_	_
 3	en	en	ADP	_	_	5	case	_	_
 4	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
@@ -28091,7 +28091,7 @@
 11	baterías	batería	NOUN	_	Gender=Fem|Number=Plur	10	nsubj	_	_
 12	de	de	ADP	_	_	14	case	_	_
 13	6	6	NUM	_	NumForm=Digit|NumType=Card	14	nummod	_	_
-14	Voltios	voltios	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
+14	Voltios	voltio	NOUN	_	Gender=Masc|Number=Plur	11	nmod	_	_
 15	de	de	ADP	_	_	17	case	_	_
 16	3	3	NUM	_	NumForm=Digit|NumType=Card	17	nummod	_	_
 17	elementos	elemento	NOUN	_	Gender=Masc|Number=Plur	14	nmod	_	SpaceAfter=No
@@ -33826,7 +33826,7 @@
 
 # sent_id = es-dev-003-s138
 # text = Literarios como Giovanni Pascoli y Marino Moretti dedicaron algunas de sus obras a la piadina.
-1	Literarios	literarios	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
+1	Literarios	literario	NOUN	_	Gender=Masc|Number=Plur	8	nsubj	_	_
 2	como	como	SCONJ	_	_	3	case	_	_
 3	Giovanni	Giovanni	PROPN	_	_	1	nmod	_	_
 4	Pascoli	Pascoli	PROPN	_	_	3	flat	_	_
