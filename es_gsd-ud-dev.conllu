@@ -28402,9 +28402,9 @@
 6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
 7	uno	uno	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	5	appos	_	_
 8	lateral	lateral	ADJ	_	Number=Sing	7	amod	_	_
-9	y	y	CCONJ	_	_	10	cc	_	_
-10	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	7	conj	_	_
-11	centrales	central	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
+9	y	y	CCONJ	_	_	11	cc	_	_
+10	tres	tres	NUM	_	Number=Plur|NumForm=Word|NumType=Card	11	nummod	_	_
+11	centrales	central	ADJ	_	Gender=Masc|Number=Plur	7	conj	_	_
 12	y	y	CCONJ	_	_	15	cc	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	siete	siete	NUM	_	Number=Plur|NumForm=Word|NumType=Card	15	nummod	_	_
