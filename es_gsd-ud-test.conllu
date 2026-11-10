@@ -5242,13 +5242,13 @@
 5	nuestro	nuestro	DET	_	Gender=Masc|Number=Sing|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	6	det	_	_
 6	material	material	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 7	en	en	ADP	_	_	8	case	_	_
-8	Conciertos	conciertos	NOUN	_	_	4	obl	_	SpaceAfter=No
+8	Conciertos	concierto	NOUN	_	_	4	obl	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
-10	Fiestas	fiestas	NOUN	_	_	8	conj	_	SpaceAfter=No
+10	Fiestas	fiesta	NOUN	_	_	8	conj	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-12	Txarlas	txarlas	NOUN	_	_	8	conj	_	SpaceAfter=No
+12	Txarlas	txarla	NOUN	_	_	8	conj	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-14	Jornadas	jornadas	NOUN	_	_	8	conj	_	SpaceAfter=No
+14	Jornadas	jornada	NOUN	_	_	8	conj	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 16	etc	etcétera	X	_	_	8	conj	_	SpaceAfter=No
 17	..	..	PUNCT	_	_	19	punct	_	_
@@ -6175,7 +6175,7 @@
 28	EN	en	ADP	_	_	31	case	_	_
 29	TODOS	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	31	det	_	_
 30	SUS	sus	DET	_	Number=Sing|Poss=Yes|PronType=Prs	31	det	_	_
-31	NIVELES	niveles	NOUN	_	_	27	obl	_	SpaceAfter=No
+31	NIVELES	nivel	NOUN	_	_	27	obl	_	SpaceAfter=No
 32	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-test-001-s49
@@ -12149,7 +12149,7 @@
 9	HAN	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	10	aux	_	_
 10	HECHO	hacer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	acl:relcl	_	_
 11	LOS	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	12	det	_	_
-12	VALENCIANOS	valencianos	NOUN	_	_	10	nsubj	_	_
+12	VALENCIANOS	valenciano	NOUN	_	_	10	nsubj	_	_
 13	Y	y	CCONJ	_	_	14	cc	_	_
 14	GENTE	gente	NOUN	_	_	12	conj	_	_
 15	DE	de	ADP	_	_	16	case	_	_
@@ -12665,7 +12665,7 @@
 4	TODO	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
 5	TIPO	tipo	NOUN	_	Gender=Masc|Number=Sing	3	obj	_	_
 6	DE	de	ADP	_	_	7	case	_	_
-7	TRATAMIENTOS	tratamientos	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
+7	TRATAMIENTOS	tratamiento	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
 8	TERMALES	termales	ADJ	_	Number=Plur	7	amod	_	_
 9	AGUAS	agua	NOUN	_	_	7	conj	_	_
 10	SULFUROSAS	sulfuroso	ADJ	_	_	9	amod	_	_
@@ -13466,7 +13466,7 @@
 12	SON	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	_
 13	CASAS	casa	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	_
 14	DE	de	ADP	_	_	15	case	_	_
-15	PARTICULARES	particulares	NOUN	_	_	13	nmod	_	_
+15	PARTICULARES	particular	NOUN	_	_	13	nmod	_	_
 
 # sent_id = es-test-001-s294
 # text = Tal vez sea un poco caro para lo que es y donde está ubicado.
