@@ -198432,10 +198432,10 @@
 5	no	no	ADV	_	Polarity=Neg	6	advmod	_	_
 6	técnicas	técnico	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
 7	como	como	SCONJ	_	_	8	case	_	_
-8	Economía	economía	NOUN	_	Number=Sing	3	obl	_	_
+8	Economía	economía	NOUN	_	Number=Sing	4	nmod	_	_
 9	Política	político	ADJ	_	_	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-11	Leyes	leyes	NOUN	_	_	8	conj	_	SpaceAfter=No
+11	Leyes	ley	NOUN	_	_	8	conj	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 13	Filosofía	filosofía	NOUN	_	_	8	conj	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
@@ -208764,7 +208764,7 @@
 10	efectos	efecto	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
 11	periféricos	periférico	ADJ	_	Gender=Masc|Number=Plur	10	amod	_	_
 12	como	como	SCONJ	_	_	13	case	_	_
-13	pupilas	pupila	NOUN	_	Gender=Fem|Number=Plur	9	obl	_	_
+13	pupilas	pupila	NOUN	_	Gender=Fem|Number=Plur	10	nmod	_	_
 14	dilatadas	dilatado	ADJ	_	Gender=Fem|Number=Plur|VerbForm=Part	13	amod	_	_
 15	no	no	ADV	_	Polarity=Neg	16	advmod	_	_
 16	reactivas	reactivo	ADJ	_	Gender=Fem|Number=Plur	13	amod	_	SpaceAfter=No
@@ -312621,7 +312621,7 @@
 
 # sent_id = es-train-021-s240
 # text = Leyes que no fueron aplicadas, ni si quiera de una manera meramente formal (para guardar las apariencias) a medios de comunicación como Basque Red Net, Ardi Beltza, Egin, Egin Irratia, Egunkaria, apurtu.org ya otros que durante los últimos 30 años han visto secuestradas en algún momento sus publicaciones.
-1	Leyes	leyes	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+1	Leyes	ley	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
 2	que	que	PRON	_	PronType=Rel	5	nsubj:pass	_	_
 3	no	no	ADV	_	Polarity=Neg	5	advmod	_	_
 4	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
@@ -355768,7 +355768,7 @@
 44	por	por	ADP	_	_	45	case	_	_
 45	arquitectos	arquitecto	NOUN	_	Gender=Masc|Number=Plur	43	obl:agent	_	_
 46	como	como	SCONJ	_	_	47	case	_	_
-47	Francesco	Francesco	PROPN	_	_	43	obl	_	_
+47	Francesco	Francesco	PROPN	_	_	45	nmod	_	_
 48	di	dar	PROPN	_	_	47	nmod	_	_
 49	Giorgio	Giorgio	PROPN	_	_	47	flat	_	_
 50	y	y	CCONJ	_	_	52	cc	_	_
