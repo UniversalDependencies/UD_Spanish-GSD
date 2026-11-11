@@ -1210,7 +1210,7 @@
 # sent_id = es-train-001-s37
 # text = Por último, las comunidades con mayor número de hipotecas canceladas registralmente por cada cien mil habitantes son Murcia (144), La Rioja (118) y la Comunidad Valenciana (113), además de Melilla (118).
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	NOUN	_	Gender=Masc|Number=Sing	19	nmod	_	SpaceAfter=No
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	comunidades	comunidad	NOUN	_	Gender=Fem|Number=Plur	19	nsubj	_	_
@@ -59480,7 +59480,7 @@
 # sent_id = es-train-004-s458
 # text = Por último, el fin de semana de celebración de fiestas en honor a San Bartolomé, el pueblo se llena de satisfacción al acoger en el pueblo el baile, una verbena que ameniza la velada de todos los habitantes, turistas, y visitantes y amigos de la aldea.
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	21	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	fin	fin	NOUN	_	Gender=Masc|Number=Sing	21	obl	_	_
@@ -67859,7 +67859,7 @@
 17	Corchado	Corchado	PROPN	_	Gender=Masc|Number=Sing|VerbForm=Part	16	flat	_	_
 18	y	y	CCONJ	_	_	22	cc	_	_
 19	por	por	ADP	_	_	20	case	_	_
-20	último	último	NOUN	_	Gender=Masc|Number=Sing	22	nmod	_	_
+20	último	último	ADJ	_	Gender=Masc|Number=Sing	22	amod	_	_
 21	con	con	ADP	_	_	22	case	_	_
 22	Tato	Tato	PROPN	_	_	2	conj	_	_
 23	quien	quien	PRON	_	Number=Sing|PronType=Rel	24	nsubj	_	_
@@ -108864,7 +108864,7 @@
 21	Katakwi	Katakwi	PROPN	_	_	19	nmod	_	_
 22	y	y	CCONJ	_	_	25	cc	_	_
 23	por	por	ADP	_	_	24	case	_	_
-24	último	último	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_
+24	último	último	ADJ	_	Gender=Masc|Number=Sing	25	obl	_	_
 25	comparte	compartir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	conj	_	_
 26	fronteras	frontera	NOUN	_	Gender=Fem|Number=Plur	25	obj	_	_
 27	con	con	ADP	_	_	29	case	_	_
@@ -139432,7 +139432,7 @@
 # sent_id = es-train-010-s109
 # text = Por último en agosto del 2009 sacó un episodio extra llamado Minami - ke – Betsubara OAD.
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	8	obl	_	_
 3	en	en	ADP	_	_	4	case	_	_
 4	agosto	agosto	NOUN	_	_	2	nmod	_	_
 5-6	del	_	_	_	_	_	_	_	_
@@ -169960,7 +169960,7 @@
 11	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 12	y	y	CCONJ	_	_	15	cc	_	_
 13	por	por	ADP	_	_	14	case	_	_
-14	último	último	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
+14	último	último	ADJ	_	Gender=Masc|Number=Sing	15	obl	_	_
 15	coronó	coronar	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	4	conj	_	_
 16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	carrera	carrera	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_
@@ -228599,7 +228599,7 @@
 # sent_id = es-train-016-s33
 # text = Por último, los vecinos señalaron que es necesario ensanchar y despejar el camino hacia Arroyo El Gato.
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	vecinos	vecino	NOUN	_	Gender=Masc|Number=Plur	6	nsubj	_	_
@@ -231544,7 +231544,7 @@
 # sent_id = es-train-016-s131
 # text = Por último, Bisigniani mostró su satisfacción por el compromiso que recoge el real decreto de reducir las tasas de navegación en torno a la media de los cinco mayores proveedores de servicios de Europa, lo que según estima, se traducirá en un recorte del 15 % de cara a 2013.
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	PROPN	_	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	Bisigniani	Bisigniani	PROPN	_	_	5	nsubj	_	_
 5	mostró	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -280349,7 +280349,7 @@
 17	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 18	y	y	CCONJ	_	_	36	cc	_	_
 19	por	por	ADP	_	_	20	case	_	_
-20	último	último	NOUN	_	Gender=Masc|Number=Sing	36	obl	_	SpaceAfter=No
+20	último	último	ADJ	_	Gender=Masc|Number=Sing	36	obl	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	Instituto	Instituto	PROPN	_	_	36	nsubj	_	_
@@ -303280,7 +303280,7 @@
 # sent_id = es-train-020-s445
 # text = Por último, el objeto es el valor de la propiedad o el otro recurso con el que se establece la relación.
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	SpaceAfter=No
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	8	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	objeto	objeto	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
@@ -346442,7 +346442,7 @@
 # sent_id = es-train-023-s326
 # text = Por último, el ministro dijo que será imperativo aplicar las reglas de la competencia y así por ejemplo los productos se presentarán de forma que se puedan comparar con los de otras entidades.
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	6	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	ministro	ministro	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -385954,7 +385954,7 @@
 # sent_id = es-train-026-s119
 # text = Por último quiero que sepa que este blog está hecho por y para usted, con el único objetivo de ayudarle y guiarle en todo lo posible en este mundo financiero.
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	_
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	3	obl	_	_
 3	quiero	querer	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	_	_	5	mark	_	_
 5	sepa	saber	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	_
@@ -420015,7 +420015,7 @@
 18	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 19	y	y	CCONJ	_	_	23	cc	_	_
 20	por	por	ADP	_	_	21	case	_	_
-21	último	último	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+21	último	último	ADJ	_	Gender=Masc|Number=Sing	23	amod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 23	Leonard	Leonard	PROPN	_	_	5	conj	_	_
 24	Wolf	Wolf	PROPN	_	_	23	flat	_	SpaceAfter=No
