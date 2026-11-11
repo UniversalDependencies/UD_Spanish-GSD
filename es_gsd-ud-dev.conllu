@@ -16044,7 +16044,7 @@
 # sent_id = es-dev-002-s45
 # text = Por último, en consideración por el cuarto de día que él consideraba que completaba el año, estableció la regla de que, al final de cada cuatro años, un único día debía ser intercalado donde el mes había sido anteriormente insertado, esto es, inmediatamente después de los Terminalia;
 1	Por	por	ADP	_	_	2	case	_	_
-2	último	último	NOUN	_	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
+2	último	último	ADJ	_	Gender=Masc|Number=Sing	19	obl	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 4	en	en	ADP	_	_	5	case	_	_
 5	consideración	consideración	NOUN	_	Gender=Fem|Number=Sing	19	obl	_	_
