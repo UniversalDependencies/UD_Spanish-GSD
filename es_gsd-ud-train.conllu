@@ -13277,7 +13277,7 @@
 14	después	después	ADV	_	_	15	advmod	_	_
 15	Furlo	Furlo	PROPN	_	Gender=Masc|Number=Sing	13	appos	_	_
 16	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	22	punct	_	SpaceAfter=No
-17	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cc	_	_
+17	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cc	_	_
 18	decir	decir	VERB	_	VerbForm=Inf	17	fixed	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -23736,7 +23736,7 @@
 3	bien	bien	ADV	_	_	4	advmod	_	_
 4	seco	seco	ADJ	_	Gender=Masc|Number=Sing	2	xcomp	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-6	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cc	_	_
+6	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cc	_	_
 7	decir	decir	VERB	_	VerbForm=Inf	6	fixed	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 9	con	con	ADP	_	_	11	case	_	_
@@ -24940,7 +24940,7 @@
 7	abundantes	abundante	ADJ	_	Number=Plur	8	amod	_	_
 8	sobreextensiones	sobreextensión	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-10	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cc	_	_
+10	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cc	_	_
 11	decir	decir	VERB	_	VerbForm=Inf	10	fixed	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 13	extiende	extender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
@@ -25688,7 +25688,7 @@
 7	Spit	Spit	PROPN	_	_	6	flat	_	SpaceAfter=No
 8	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	6	punct	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-10	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cc	_	_
+10	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cc	_	_
 11	decir	decir	VERB	_	VerbForm=Inf	10	fixed	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
@@ -31957,7 +31957,7 @@
 
 # sent_id = es-train-003-s8
 # text = Es decir el canal principal continúa doblando o cayendo a la izquierda ó babor.
-1	Es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cc	_	_
+1	Es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cc	_	_
 2	decir	decir	VERB	_	VerbForm=Inf	1	fixed	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	canal	canal	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
@@ -40176,7 +40176,7 @@
 46	productos	producto	NOUN	_	Gender=Masc|Number=Plur	44	nsubj	_	_
 47	sin	sin	ADP	_	_	48	case	_	_
 48	TACC	tacc	X	_	_	46	nmod	_	_
-49	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	51	cc	_	_
+49	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	51	cc	_	_
 50	decir	decir	VERB	_	VerbForm=Inf	49	fixed	_	_
 51	trigo	trigo	NOUN	_	Gender=Masc|Number=Sing	46	conj	_	SpaceAfter=No
 52	,	,	PUNCT	_	PunctType=Comm	53	punct	_	_
@@ -45551,7 +45551,7 @@
 17	ta	ta	X	_	Gender=Fem|Number=Sing	14	conj	_	_
 18	maftūḥa	maftūḥa	X	_	Gender=Fem|Number=Sing	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-20	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cc	_	_
+20	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cc	_	_
 21	decir	decir	VERB	_	VerbForm=Inf	20	fixed	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 23	abierta	abrir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	7	conj	_	_
@@ -55053,7 +55053,7 @@
 20	consideran	considerar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	xcomp	_	_
 21	puros	puro	ADJ	_	Gender=Masc|Number=Plur	20	xcomp	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-23	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cc	_	_
+23	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cc	_	_
 24	decir	decir	VERB	_	VerbForm=Inf	23	fixed	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 26	cuáles	cuál	PRON	_	Number=Plur|PronType=Int	27	nsubj	_	_
@@ -60102,7 +60102,7 @@
 22	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	23	obj	_	_
 23	hablan	hablar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	20	acl:relcl	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
-25	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cc	_	_
+25	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cc	_	_
 26	decir	decir	VERB	_	VerbForm=Inf	25	fixed	_	SpaceAfter=No
 27	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 28	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
@@ -105800,7 +105800,7 @@
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	restricción	restricción	NOUN	_	Gender=Fem|Number=Sing	32	obj	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	48	punct	_	_
-38	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	cc	_	_
+38	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	48	cc	_	_
 39	decir	decir	VERB	_	VerbForm=Inf	38	fixed	_	SpaceAfter=No
 40	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 41	más	más	ADV	_	Degree=Cmp	42	advmod	_	_
@@ -109348,7 +109348,7 @@
 7	en	en	ADP	_	_	8	case	_	_
 8	palo	palo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	13	punct	_	SpaceAfter=No
-10	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cc	_	_
+10	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cc	_	_
 11	decir	decir	VERB	_	VerbForm=Inf	10	fixed	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pv	_	_
 13	presentan	presentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
@@ -109364,7 +109364,7 @@
 23	en	en	ADP	_	_	24	case	_	_
 24	faja	faja	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	_
 25	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	28	punct	_	SpaceAfter=No
-26	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cc	_	_
+26	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cc	_	_
 27	decir	decir	VERB	_	VerbForm=Inf	26	fixed	_	_
 28	horizontalmente	horizontalmente	ADV	_	_	24	conj	_	SpaceAfter=No
 29	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	28	punct	_	SpaceAfter=No
@@ -138198,7 +138198,7 @@
 11	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
 12	lado	lado	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
-14	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cc	_	_
+14	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cc	_	_
 15	decir	decir	VERB	_	VerbForm=Inf	14	fixed	_	_
 16	a	a	ADP	_	_	18	case	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -170963,7 +170963,7 @@
 
 # sent_id = es-train-012-s139
 # text = Es decir, este no es un problema menor para el presidente Lugo, que habría que ver cómo se resuelve.
-1	Es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cc	_	_
+1	Es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cc	_	_
 2	decir	decir	VERB	_	VerbForm=Inf	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	este	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem|Typo=Yes	8	nsubj	_	CorrectForm=éste
@@ -179518,7 +179518,7 @@
 18	Comité	comité	NOUN	_	Gender=Masc|Number=Sing	8	conj	_	_
 19	Provincial	provincial	ADJ	_	_	18	amod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-21	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cc	_	_
+21	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cc	_	_
 22	decir	decir	VERB	_	VerbForm=Inf	21	fixed	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 24	a	a	ADP	_	_	27	case	_	_
@@ -180182,7 +180182,7 @@
 17	necesidades	necesidad	NOUN	_	Gender=Fem|Number=Plur	13	nmod	_	_
 18	especiales	especial	ADJ	_	Number=Plur	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
-20	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	_
+20	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	_
 21	decir	decir	VERB	_	VerbForm=Inf	20	fixed	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
@@ -205089,7 +205089,7 @@
 13	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	aux:pass	_	_
 14	unidos	unido	ADJ	_	Gender=Masc|Number=Plur|VerbForm=Part	9	acl:relcl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
-16	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cc	_	_
+16	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cc	_	_
 17	decir	decir	VERB	_	VerbForm=Inf	16	fixed	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 19	actúan	actuar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
@@ -221586,7 +221586,7 @@
 8	procesal	procesal	ADJ	_	Number=Sing	6	conj	_	_
 9	penal	penal	ADJ	_	Number=Sing	8	appos	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
-11	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cc	_	_
+11	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cc	_	_
 12	decir	decir	VERB	_	VerbForm=Inf	11	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 14	a	a	ADP	_	_	16	case	_	_
@@ -224712,7 +224712,7 @@
 
 # sent_id = es-train-015-s402
 # text = Es decir, si al tirar los dados el resultado es 6 y 4, solamente se podra entrar en las casillas respectivas;
-1	Es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cc	_	_
+1	Es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	cc	_	_
 2	decir	decir	VERB	_	VerbForm=Inf	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 4	si	si	SCONJ	_	_	11	mark	_	_
@@ -240907,7 +240907,7 @@
 60	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	61	det	_	_
 61	campo	campo	NOUN	_	Gender=Masc|Number=Sing	58	nmod	_	SpaceAfter=No
 62	,	,	PUNCT	_	PunctType=Comm	68	punct	_	_
-63	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	68	cc	_	_
+63	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	68	cc	_	_
 64	decir	decir	VERB	_	VerbForm=Inf	63	fixed	_	SpaceAfter=No
 65	,	,	PUNCT	_	PunctType=Comm	63	punct	_	_
 66	56	56	NUM	_	NumForm=Digit|NumType=Card	67	nummod	_	_
@@ -242369,7 +242369,7 @@
 18	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	infección	infección	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
-21	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cc	_	_
+21	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cc	_	_
 22	decir	decir	VERB	_	VerbForm=Inf	21	fixed	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 24	de	de	ADP	_	_	25	mark	_	_
@@ -242383,7 +242383,7 @@
 
 # sent_id = es-train-016-s486
 # text = Es decir, la mano derecha toca las cuerdas uno, tres, cuatro, seis, ocho y diez.
-1	Es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cc	_	_
+1	Es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cc	_	_
 2	decir	decir	VERB	_	VerbForm=Inf	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	_
@@ -264892,7 +264892,7 @@
 18	rupestre	rupestre	ADJ	_	Number=Sing	17	amod	_	_
 19	paleolítico	paleolítico	ADJ	_	Gender=Masc|Number=Sing	17	amod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-21	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cc	_	_
+21	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cc	_	_
 22	decir	decir	VERB	_	VerbForm=Inf	21	fixed	_	_
 23	caballos	caballo	NOUN	_	Gender=Masc|Number=Plur	7	conj	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
@@ -269322,7 +269322,7 @@
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	OTAN	Otan	PROPN	_	_	4	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
-13	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cc	_	_
+13	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cc	_	_
 14	decir	decir	VERB	_	VerbForm=Inf	13	fixed	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
 16	equivalente	equivalente	NOUN	_	Number=Sing	4	conj	_	_
@@ -281125,7 +281125,7 @@
 8	servidor	servidor	NOUN	_	Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
 9	"	"	PUNCT	_	PunctType=Quot	8	punct	_	_
 10	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	14	punct	_	SpaceAfter=No
-11	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cc	_	_
+11	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cc	_	_
 12	decir	decir	VERB	_	VerbForm=Inf	11	fixed	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 14	muestra	mostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
@@ -288756,7 +288756,7 @@
 17	superficie	superficie	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
 18	terrestre	terrestre	ADJ	_	Number=Sing	17	amod	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
-20	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	_
+20	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	_
 21	decir	decir	VERB	_	VerbForm=Inf	20	fixed	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
@@ -300889,7 +300889,7 @@
 24	en	en	ADP	_	_	25	case	_	_
 25	villa	villa	NOUN	_	Gender=Fem|Number=Sing	23	obl	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
-27	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cc	_	_
+27	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cc	_	_
 28	decir	decir	VERB	_	VerbForm=Inf	27	fixed	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
 30	que	que	SCONJ	_	_	31	mark	_	_
@@ -316146,7 +316146,7 @@
 32	de	de	ADP	_	_	33	case	_	_
 33	polen	polen	NOUN	_	Gender=Masc|Number=Sing	31	nmod	_	_
 34	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	40	punct	_	SpaceAfter=No
-35	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	cc	_	_
+35	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	cc	_	_
 36	decir	decir	VERB	_	VerbForm=Inf	35	fixed	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
 38	por	por	ADP	_	_	40	case	_	_
@@ -323156,7 +323156,7 @@
 22	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	23	det	_	_
 23	retina	retina	NOUN	_	Gender=Fem|Number=Sing	20	obl:arg	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
-25	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cc	_	_
+25	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cc	_	_
 26	decir	decir	VERB	_	VerbForm=Inf	25	fixed	_	_
 27	a	a	ADP	_	_	29	case	_	_
 28	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	29	det	_	_
@@ -329591,7 +329591,7 @@
 3	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
 4	omnívoros	omnívoro	ADJ	_	Gender=Masc|Number=Plur	0	root	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-6	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cc	_	_
+6	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cc	_	_
 7	decir	decir	VERB	_	VerbForm=Inf	6	fixed	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 9	consumen	consumir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
@@ -332610,7 +332610,7 @@
 
 # sent_id = es-train-022-s387
 # text = Es decir, el cliente envía paquetes de TCP SYN a los pares y extrae los valores TTL de los paquetes SYN / ACK o RST posteriores.
-1	Es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cc	_	_
+1	Es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cc	_	_
 2	decir	decir	VERB	_	VerbForm=Inf	1	fixed	_	SpaceAfter=No
 3	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -333480,7 +333480,7 @@
 29	puntos	punto	NOUN	_	Gender=Masc|Number=Plur	30	nsubj	_	_
 30	claros	claro	ADJ	_	Gender=Masc|Number=Plur	21	conj	_	SpaceAfter=No
 31	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
-32	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cc	_	_
+32	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cc	_	_
 33	decir	decir	VERB	_	VerbForm=Inf	32	fixed	_	SpaceAfter=No
 34	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
 35	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	36	det	_	_
@@ -334117,7 +334117,7 @@
 12	cobre	cobre	NOUN	_	Gender=Masc|Number=Sing	10	nmod	_	_
 13	nativo	nativo	ADJ	_	Gender=Masc|Number=Sing	12	amod	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-15	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cc	_	_
+15	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cc	_	_
 16	decir	decir	VERB	_	VerbForm=Inf	15	fixed	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 18	que	que	SCONJ	_	_	20	mark	_	_
@@ -345763,7 +345763,7 @@
 48	menor	menor	ADJ	_	Degree=Cmp|Number=Sing	47	amod	_	SpaceAfter=No
 49	"	"	PUNCT	_	PunctType=Quot	47	punct	_	SpaceAfter=No
 50	,	,	PUNCT	_	PunctType=Comm	54	punct	_	_
-51	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	cc	_	_
+51	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	cc	_	_
 52	decir	decir	VERB	_	VerbForm=Inf	51	fixed	_	SpaceAfter=No
 53	,	,	PUNCT	_	PunctType=Comm	51	punct	_	_
 54	versos	verso	NOUN	_	Gender=Masc|Number=Plur	43	conj	_	_
@@ -352780,7 +352780,7 @@
 18	ámbito	ámbito	NOUN	_	Gender=Masc|Number=Sing	15	obl	_	_
 19	rural	rural	ADJ	_	Number=Sing	18	amod	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
-21	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	_
+21	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	_
 22	decir	decir	VERB	_	VerbForm=Inf	21	fixed	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 24	núcleos	núcleo	NOUN	_	Gender=Masc|Number=Plur	18	conj	_	_
@@ -353983,7 +353983,7 @@
 15	años	año	NOUN	_	Gender=Masc|Number=Plur	12	conj	_	_
 16	después	después	ADJ	_	_	15	amod	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-18	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cc	_	_
+18	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	cc	_	_
 19	decir	decir	VERB	_	VerbForm=Inf	18	fixed	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 21	en	en	ADP	_	_	22	case	_	_
@@ -384384,7 +384384,7 @@
 18	rozamiento	rozamiento	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
 19	interno	interno	ADJ	_	Gender=Masc|Number=Sing	18	amod	_	_
 20	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	31	punct	_	SpaceAfter=No
-21	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cc	_	_
+21	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	cc	_	_
 22	decir	decir	VERB	_	VerbForm=Inf	21	fixed	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 24	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
@@ -390055,7 +390055,7 @@
 11	salvación	salvación	NOUN	_	Gender=Fem|Number=Sing	12	nsubj	_	_
 12	posible	posible	ADJ	_	Number=Sing	9	xcomp	_	_
 13	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	18	punct	_	SpaceAfter=No
-14	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cc	_	_
+14	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cc	_	_
 15	decir	decir	VERB	_	VerbForm=Inf	14	fixed	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 17	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	18	obj	_	_
@@ -393444,7 +393444,7 @@
 
 # sent_id = es-train-026-s372
 # text = Es decir que un jugador puede jugar como un WHM / BLM (mago blanco / mago negro) utilizar este combinación le da más magia, inteligencia y una pequeña destreza en magia elemental a comparación de lo que tendría un WHM sin subjob.
-1	Es	ser	CCONJ	_	ExtPos=CCONJ	7	cc	_	_
+1	Es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cc	_	_
 2	decir	decir	VERB	_	VerbForm=Inf	1	fixed	_	_
 3	que	que	SCONJ	_	_	7	mark	_	_
 4	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -401807,7 +401807,7 @@
 27	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	23	cop	_	_
 28	entrantes	entrante	NOUN	_	Number=Plur	23	nsubj	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
-30	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cc	_	_
+30	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	cc	_	_
 31	decir	decir	VERB	_	VerbForm=Inf	30	fixed	_	_
 32	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 33	loncha	loncha	NOUN	_	Gender=Fem|Number=Sing	28	conj	_	_
@@ -410955,7 +410955,7 @@
 28	algunos	alguno	DET	_	Gender=Masc|Number=Plur|PronType=Ind	29	det	_	_
 29	años	año	NOUN	_	Gender=Masc|Number=Plur	26	obl	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	37	punct	_	_
-31	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cc	_	_
+31	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cc	_	_
 32	decir	decir	VERB	_	VerbForm=Inf	31	fixed	_	SpaceAfter=No
 33	,	,	PUNCT	_	PunctType=Comm	31	punct	_	_
 34	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	_
@@ -412117,7 +412117,7 @@
 80	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	81	det	_	_
 81	intermediación	intermediación	NOUN	_	Gender=Fem|Number=Sing	79	obj	_	SpaceAfter=No
 82	,	,	PUNCT	_	PunctType=Comm	87	punct	_	_
-83	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	87	cc	_	_
+83	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	87	cc	_	_
 84	decir	decir	VERB	_	VerbForm=Inf	83	fixed	_	SpaceAfter=No
 85	,	,	PUNCT	_	PunctType=Comm	83	punct	_	_
 86	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	87	det	_	_
@@ -428734,7 +428734,7 @@
 22	Doblete	Doblete	PROPN	_	_	19	obj	_	SpaceAfter=No
 23	"	"	PUNCT	_	PunctType=Quot	22	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
-25	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cc	_	_
+25	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cc	_	_
 26	decir	decir	VERB	_	VerbForm=Inf	25	fixed	_	SpaceAfter=No
 27	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 28	que	que	PRON	_	PronType=Rel	29	nsubj	_	_
