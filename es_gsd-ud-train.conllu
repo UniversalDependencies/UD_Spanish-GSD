@@ -221583,8 +221583,8 @@
 5	derecho	derecho	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 6	penal	penal	ADJ	_	Number=Sing	5	amod	_	_
 7	y	y	CCONJ	_	_	8	cc	_	_
-8	procesal	procesal	ADJ	_	Number=Sing	6	conj	_	_
-9	penal	penal	ADJ	_	Number=Sing	8	appos	_	SpaceAfter=No
+8	procesal	procesal	ADJ	_	Number=Sing	5	conj	_	_
+9	penal	penal	ADJ	_	Number=Sing	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 11	es	ser	AUX	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cc	_	_
 12	decir	decir	VERB	_	VerbForm=Inf	11	fixed	_	SpaceAfter=No
