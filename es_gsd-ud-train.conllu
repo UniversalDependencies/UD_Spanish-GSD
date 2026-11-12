@@ -24939,10 +24939,10 @@
 6	encuentran	encontrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 7	abundantes	abundante	ADJ	_	Number=Plur	8	amod	_	_
 8	sobreextensiones	sobreextensión	NOUN	_	Gender=Fem|Number=Plur	6	nsubj	_	SpaceAfter=No
-9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
-10	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
+9	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+10	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cc	_	_
 11	decir	decir	VERB	_	VerbForm=Inf	10	fixed	_	SpaceAfter=No
-12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
+12	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 13	extiende	extender	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	significado	significado	NOUN	_	Gender=Masc|Number=Sing	13	obj	_	_
@@ -25688,11 +25688,11 @@
 7	Spit	Spit	PROPN	_	_	6	flat	_	SpaceAfter=No
 8	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	6	punct	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-10	es	ser	VERB	_	ExtPos=ADV|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advmod	_	_
+10	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cc	_	_
 11	decir	decir	VERB	_	VerbForm=Inf	10	fixed	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
-14	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	2	appos	_	_
+14	tierra	tierra	NOUN	_	Gender=Fem|Number=Sing	2	conj	_	_
 15-16	al	_	_	_	_	_	_	_	_
 15	a	a	ADP	_	_	17	case	_	_
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
@@ -109348,10 +109348,10 @@
 7	en	en	ADP	_	_	8	case	_	_
 8	palo	palo	NOUN	_	Gender=Masc|Number=Sing	6	obl	_	_
 9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	13	punct	_	SpaceAfter=No
-10	es	ser	VERB	_	ExtPos=SCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	mark	_	_
+10	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cc	_	_
 11	decir	decir	VERB	_	VerbForm=Inf	10	fixed	_	_
 12	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	13	expl:pv	_	_
-13	presentan	presentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	advcl	_	_
+13	presentan	presentar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 14	en	en	ADP	_	_	16	case	_	_
 15	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 16	orientación	orientación	NOUN	_	Gender=Fem|Number=Sing	13	obl	_	_
@@ -109364,9 +109364,9 @@
 23	en	en	ADP	_	_	24	case	_	_
 24	faja	faja	NOUN	_	Gender=Fem|Number=Sing	22	obl	_	_
 25	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	28	punct	_	SpaceAfter=No
-26	es	ser	VERB	_	ExtPos=SCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	mark	_	_
+26	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cc	_	_
 27	decir	decir	VERB	_	VerbForm=Inf	26	fixed	_	_
-28	horizontalmente	horizontalmente	ADV	_	_	22	advmod	_	SpaceAfter=No
+28	horizontalmente	horizontalmente	ADV	_	_	24	conj	_	SpaceAfter=No
 29	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	28	punct	_	SpaceAfter=No
 30	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
@@ -221585,18 +221585,18 @@
 7	y	y	CCONJ	_	_	8	cc	_	_
 8	procesal	procesal	ADJ	_	Number=Sing	6	conj	_	_
 9	penal	penal	ADJ	_	Number=Sing	8	appos	_	SpaceAfter=No
-10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-11	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cc	_	_
+10	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+11	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cc	_	_
 12	decir	decir	VERB	_	VerbForm=Inf	11	fixed	_	SpaceAfter=No
-13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
+13	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 14	a	a	ADP	_	_	16	case	_	_
 15	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	16	det	_	_
-16	delitos	delito	NOUN	_	Gender=Masc|Number=Plur	5	nmod	_	_
-17	y	y	CCONJ	_	_	16	cc	_	_
+16	delitos	delito	NOUN	_	Gender=Masc|Number=Plur	5	conj	_	_
+17	y	y	CCONJ	_	_	20	cc	_	_
 18-19	al	_	_	_	_	_	_	_	_
-18	a	a	ADP	_	_	20	cc	_	_
-19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
-20	procedimiento	procedimiento	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	_
+18	a	a	ADP	_	_	20	case	_	_
+19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
+20	procedimiento	procedimiento	NOUN	_	Gender=Masc|Number=Sing	16	conj	_	_
 21	penal	penal	ADJ	_	Number=Sing	20	amod	_	_
 22	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	24	punct	_	SpaceAfter=No
 23	de	de	ADP	_	_	24	case	_	_
@@ -288755,12 +288755,12 @@
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	superficie	superficie	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
 18	terrestre	terrestre	ADJ	_	Number=Sing	17	amod	_	SpaceAfter=No
-19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-20	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cc	_	_
+19	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+20	es	ser	VERB	_	ExtPos=CCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	cc	_	_
 21	decir	decir	VERB	_	VerbForm=Inf	20	fixed	_	SpaceAfter=No
-22	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
+22	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
-24	distancia	distancia	NOUN	_	Gender=Fem|Number=Sing	10	appos	_	_
+24	distancia	distancia	NOUN	_	Gender=Fem|Number=Sing	10	conj	_	_
 25	que	que	PRON	_	PronType=Rel	26	nsubj	_	_
 26	existe	existir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	_
 27	entre	entre	ADP	_	_	29	case	_	_
@@ -353987,7 +353987,7 @@
 19	decir	decir	VERB	_	VerbForm=Inf	18	fixed	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 21	en	en	ADP	_	_	22	case	_	_
-22	1967	1967	NUM	_	NumForm=Digit|NumType=Card	15	nmod	_	SpaceAfter=No
+22	1967	1967	NUM	_	NumForm=Digit|NumType=Card	15	conj	_	SpaceAfter=No
 23	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-train-024-s65
