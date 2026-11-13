@@ -21861,7 +21861,7 @@
 7	no	no	ADV	_	Polarity=Neg	9	advmod	_	_
 8	tanto	tanto	ADV	_	_	9	advmod	_	_
 9	viticultora	viticultor	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
-10	como	como	SCONJ	_	_	11	mark	_	_
+10	como	como	SCONJ	_	_	11	cc	_	_
 11	cultural	cultural	ADJ	_	Number=Sing	9	conj	_	SpaceAfter=No
 12	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
