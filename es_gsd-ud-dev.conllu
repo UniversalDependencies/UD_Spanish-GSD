@@ -28788,8 +28788,8 @@
 14	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 15	solo	solo	ADJ	_	Gender=Masc|Number=Sing	16	amod	_	_
 16	acto	acto	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	_
-17	Il	Il	PROPN	_	Gender=Masc|Number=Sing	12	appos	_	_
-18	tabarro	tabarro	PROPN	_	Gender=Masc|Number=Sing	17	flat	_	_
+17	Il	il	DET	_	Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art	18	det	_	Lang=it
+18	tabarro	tabarro	PROPN	_	Gender=Masc|Number=Sing	12	appos	_	_
 19	y	y	CCONJ	_	_	27	cc	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 21	después	después	ADV	_	ExtPos=SCONJ	23	mark	_	_
@@ -41433,10 +41433,10 @@
 18	de	de	ADP	_	_	20	case	_	_
 19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	20	det	_	_
 20	diario	diario	NOUN	_	Gender=Masc|Number=Sing	17	nmod	_	SpaceAfter=No
-21	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-22	L'	L'	PROPN	_	_	20	appos	_	SpaceAfter=No
-23	Italia	Italia	PROPN	_	_	22	flat	_	_
-24	Libera	Libera	PROPN	_	_	22	flat	_	SpaceAfter=No
+21	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
+22	L'	il	DET	_	Definite=Def|Foreign=Yes|Gender=Fem|Number=Sing|PronType=Art	23	det	_	Lang=it|SpaceAfter=No
+23	Italia	Italia	PROPN	_	_	20	appos	_	_
+24	Libera	Libera	PROPN	_	_	23	flat	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
 # sent_id = es-dev-003-s391

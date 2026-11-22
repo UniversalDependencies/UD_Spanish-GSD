@@ -29707,7 +29707,7 @@
 # text = Io che l'onde raffreno, que abrió el Intermedio 5, fue cantado por Vittoria Archilei en el papel de Anfítrite;
 1	Io	io	X	_	Gender=Masc|Number=Sing	5	compound	_	_
 2	che	che	X	_	Gender=Masc|Number=Sing	5	compound	_	_
-3	l'	l'	PROPN	_	Gender=Fem|Number=Sing	4	dep	_	SpaceAfter=No
+3	l'	il	DET	_	Definite=Def|Foreign=Yes|Gender=Fem|Number=Plur|PronType=Art	4	det	_	Lang=it|SpaceAfter=No
 4	onde	onde	X	_	Number=Sing|Person=3	5	compound	_	_
 5	raffreno	raffreno	X	_	Gender=Masc|Number=Sing	14	nsubj:pass	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
@@ -52016,7 +52016,7 @@
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	Provincia	provincia	NOUN	_	_	10	nmod	_	_
 14	de	de	ADP	_	_	16	case	_	_
-15	L'	l'	DET	_	PronType=Ind	16	det	_	SpaceAfter=No
+15	L'	il	DET	_	Definite=Def|Foreign=Yes|Gender=Fem|Number=Sing|PronType=Art	16	det	_	Lang=it|SpaceAfter=No
 16	Aquila	Aquila	PROPN	_	_	13	nmod	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 18	en	en	ADP	_	_	19	case	_	_
@@ -326067,7 +326067,7 @@
 37	como	como	SCONJ	_	_	38	case	_	_
 38	Lindoro	Lindoro	PROPN	_	_	31	obl	_	_
 39	en	en	ADP	_	_	41	case	_	_
-40	L'	l'	DET	_	PronType=Ind	41	det	_	SpaceAfter=No
+40	L'	il	DET	_	Definite=Def|Foreign=Yes|Gender=Fem|Number=Sing|PronType=Art	41	det	_	Lang=it|SpaceAfter=No
 41	italiana	italiano	PROPN	_	Gender=Fem|Number=Sing	31	obl	_	_
 42	in	in	ADP	_	_	43	case	_	_
 43	Algeri	Algeri	PROPN	_	_	41	nmod	_	SpaceAfter=No
