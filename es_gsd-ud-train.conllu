@@ -252612,7 +252612,7 @@
 
 # sent_id = es-train-017-s321
 # text = Die Brücke (El Puente) es la tendencia artística de un grupo de pintores alemanes expresionistas reunidos en Dresde entre 1905 y 1913.
-1	Die	die	DET	_	PronType=Ind	2	det	_	_
+1	Die	der	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=de
 2	Brücke	Brücke	PROPN	_	_	9	nsubj	_	_
 3	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	5	punct	_	SpaceAfter=No
 4	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
@@ -354092,10 +354092,10 @@
 
 # sent_id = es-train-024-s68
 # text = "Das Magazin" es una revista disponible para visitantes y pasajeros que viajan a través del aeropuerto.
-1	"	"	PUNCT	_	PunctType=Quot	2	punct	_	SpaceAfter=No
-2	Das	Das	PROPN	_	_	7	nsubj	_	_
-3	Magazin	Magazin	PROPN	_	_	2	flat	_	SpaceAfter=No
-4	"	"	PUNCT	_	PunctType=Quot	2	punct	_	_
+1	"	"	PUNCT	_	PunctType=Quot	3	punct	_	SpaceAfter=No
+2	Das	der	DET	_	Definite=Def|Foreign=Yes|PronType=Art	3	det	_	Lang=de
+3	Magazin	Magazin	PROPN	_	_	7	nsubj	_	SpaceAfter=No
+4	"	"	PUNCT	_	PunctType=Quot	3	punct	_	_
 5	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	revista	revista	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -407563,7 +407563,7 @@
 10	Viena	Viena	PROPN	_	_	8	nmod	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 12	Haus	Haus	PROPN	_	_	8	conj	_	_
-13	der	der	ADP	_	_	14	case	_	_
+13	der	der	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=de
 14	Kunst	Kunst	PROPN	_	_	12	nmod	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
 16	München	München	PROPN	_	_	12	appos	_	SpaceAfter=No
