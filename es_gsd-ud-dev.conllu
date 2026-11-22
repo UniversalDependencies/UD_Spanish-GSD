@@ -1790,7 +1790,7 @@
 13	iniciativa	iniciativa	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	Reclaim	Reclaim	PROPN	_	_	13	nmod	_	_
-16	the	the	PROPN	_	Gender=Masc|Number=Sing	15	flat	_	_
+16	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	17	det	_	Lang=en
 17	Streets	Streets	PROPN	_	_	15	flat	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 19	en	en	ADP	_	_	21	case	_	_
@@ -3216,18 +3216,18 @@
 14	de	de	ADP	_	_	16	case	_	_
 15	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	película	película	NOUN	_	Gender=Fem|Number=Sing	13	nmod	_	_
-17	The	The	PROPN	_	_	16	appos	_	_
-18	Taking	Taking	PROPN	_	_	17	flat	_	_
-19	of	of	PROPN	_	_	17	flat	_	_
-20	Pelham	Pelham	PROPN	_	_	17	flat	_	_
-21	123	123	NUM	_	NumForm=Digit|NumType=Card	17	flat	_	SpaceAfter=No
+17	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
+18	Taking	Taking	PROPN	_	_	16	appos	_	_
+19	of	of	PROPN	_	_	18	flat	_	_
+20	Pelham	Pelham	PROPN	_	_	18	flat	_	_
+21	123	123	NUM	_	NumForm=Digit|NumType=Card	18	flat	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
 23	mientras	mientras	SCONJ	_	ExtPos=SCONJ	36	mark	_	_
 24	que	que	SCONJ	_	_	23	fixed	_	_
 25	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	det	_	_
 26	canción	canción	NOUN	_	Gender=Fem|Number=Sing	36	nsubj	_	_
 27	"	"	PUNCT	_	PunctType=Quot	29	punct	_	SpaceAfter=No
-28	The	the	DET	_	PronType=Ind	29	det	_	_
+28	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	29	det	_	Lang=en
 29	Outsider	Outsider	PROPN	_	_	26	appos	_	SpaceAfter=No
 30	"	"	PUNCT	_	PunctType=Quot	29	punct	_	_
 31	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	32	punct	_	SpaceAfter=No
@@ -6579,7 +6579,7 @@
 47	a	a	ADP	_	_	46	fixed	_	_
 48	"	"	PUNCT	_	PunctType=Quot	49	punct	_	SpaceAfter=No
 49	Save	Save	PROPN	_	_	45	obl	_	_
-50	the	the	PROPN	_	_	49	flat	_	_
+50	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	51	det	_	Lang=en
 51	World	World	PROPN	_	_	49	flat	_	SpaceAfter=No
 52	"	"	PUNCT	_	PunctType=Quot	49	punct	_	_
 53	de	de	ADP	_	_	54	case	_	_
@@ -7376,7 +7376,7 @@
 # text = Live in the Navajo Nation es un DVD musical de la cantante canadiense Alanis Morissette, publicado el 27 de agosto del año 2002.
 1	Live	Live	PROPN	_	Number=Sing	8	nsubj	_	_
 2	in	in	PROPN	_	_	1	flat	_	_
-3	the	the	PROPN	_	Gender=Fem|Number=Sing	1	flat	_	_
+3	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	4	det	_	Lang=en
 4	Navajo	Navajo	PROPN	_	_	1	flat	_	_
 5	Nation	Nation	PROPN	_	_	1	flat	_	_
 6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
@@ -9818,13 +9818,13 @@
 26	de	de	ADP	_	_	27	case	_	_
 27	música	música	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	_
 28	alternativa	alternativo	ADJ	_	Gender=Fem|Number=Sing	27	amod	_	_
-29	como	como	SCONJ	_	_	30	case	_	_
-30	The	The	PROPN	_	_	25	nmod	_	_
-31	New	New	PROPN	_	Number=Sing	30	flat	_	_
-32	England	England	PROPN	_	_	30	flat	_	_
-33	Roses	Roses	PROPN	_	_	30	flat	_	_
+29	como	como	SCONJ	_	_	31	case	_	_
+30	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	31	det	_	Lang=en
+31	New	New	PROPN	_	Number=Sing	25	nmod	_	_
+32	England	England	PROPN	_	_	31	flat	_	_
+33	Roses	Roses	PROPN	_	_	31	flat	_	_
 34	o	o	CCONJ	_	_	35	cc	_	_
-35	MEN	Men	PROPN	_	_	30	conj	_	SpaceAfter=No
+35	MEN	Men	PROPN	_	_	31	conj	_	SpaceAfter=No
 36	,	,	PUNCT	_	PunctType=Comm	39	punct	_	_
 37	además	además	ADV	_	ExtPos=SCONJ	39	mark	_	_
 38	de	de	ADP	_	_	37	fixed	_	_
@@ -10576,7 +10576,7 @@
 2	on	on	ADP	_	_	3	case	_	_
 3	Top	Top	PROPN	_	_	1	nmod	_	_
 4	–	–	PUNCT	_	_	7	punct	_	_
-5	The	the	DET	_	PronType=Ind	7	det	_	_
+5	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
 6	Greatest	Greatest	PROPN	_	_	7	amod	_	_
 7	Hits	Hits	PROPN	_	_	1	appos	_	_
 8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	_
@@ -15081,7 +15081,7 @@
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	versión	versión	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 5	de	de	ADP	_	_	7	case	_	_
-6	The	the	DET	_	PronType=Ind	7	det	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
 7	Wideboys	Wideboys	PROPN	_	_	4	nmod	_	_
 8	Club	Club	PROPN	_	_	4	appos	_	_
 9	Mix	Mix	PROPN	_	_	8	flat	_	SpaceAfter=No
@@ -16921,7 +16921,7 @@
 21	Remorse	remorse	NOUN	_	Foreign=Yes	20	flat	_	Lang=en
 22	Death	death	NOUN	_	Foreign=Yes	20	flat	_	Lang=en
 23	On	on	ADP	_	Foreign=Yes	20	flat	_	Lang=en
-24	The	the	DET	_	Foreign=Yes|PronType=Art	20	flat	_	Lang=en
+24	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	25	det	_	Lang=en
 25	Road	road	NOUN	_	Foreign=Yes	20	flat	_	Lang=en
 26	Tour	tour	NOUN	_	Foreign=Yes	20	flat	_	Lang=en
 27	entre	entre	ADP	_	_	29	case	_	_
@@ -24059,7 +24059,7 @@
 
 # sent_id = es-dev-002-s304
 # text = The Scotsman se comprometió a ser un diario "imparcial, firme e independiente".
-1	The	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+1	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=en
 2	Scotsman	Scotsman	PROPN	_	_	4	nsubj	_	_
 3	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	4	expl:pv	_	_
 4	comprometió	comprometer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -24601,9 +24601,9 @@
 28	en	en	ADP	_	_	30	case	_	_
 29	ambas	ambos	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Tot	30	det	_	_
 30	series	serie	NOUN	_	Gender=Fem|Number=Plur	23	obl	_	_
-31	de	de	ADP	_	_	32	case	_	_
-32	The	The	PROPN	_	Gender=Masc|Number=Sing	30	nmod	_	_
-33	Patty	Patty	PROPN	_	_	32	flat	_	_
+31	de	de	ADP	_	_	33	case	_	_
+32	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	33	det	_	Lang=en
+33	Patty	Patty	PROPN	_	_	30	nmod	_	_
 34	y	y	CCONJ	_	_	35	cc	_	_
 35	participó	participar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	16	conj	_	_
 36	en	en	ADP	_	_	38	case	_	_
@@ -24616,7 +24616,7 @@
 43	talentos	talento	NOUN	_	Gender=Masc|Number=Plur	41	nmod	_	_
 44	Dancing	Dancing	PROPN	_	_	41	appos	_	_
 45	with	with	PROPN	_	_	44	flat	_	_
-46	the	the	PROPN	_	Gender=Masc|Number=Sing	44	flat	_	_
+46	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	47	det	_	Lang=en
 47	Stars	Stars	PROPN	_	_	44	flat	_	_
 48	llevó	llevar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	35	conj	_	_
 49	por	por	ADP	_	_	50	case	_	_
@@ -27079,11 +27079,11 @@
 22	serie	serie	NOUN	_	Gender=Fem|Number=Sing	19	nmod	_	_
 23	televisiva	televisivo	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
 24	británica	británico	ADJ	_	Gender=Fem|Number=Sing	22	amod	_	_
-25	The	The	PROPN	_	_	22	appos	_	_
-26	Adventures	Adventures	PROPN	_	_	25	flat	_	_
-27	of	of	PROPN	_	_	25	flat	_	_
-28	Robin	Robin	PROPN	_	_	25	flat	_	_
-29	Hood	Hood	PROPN	_	_	25	flat	_	SpaceAfter=No
+25	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	26	det	_	Lang=en
+26	Adventures	Adventures	PROPN	_	_	22	appos	_	_
+27	of	of	PROPN	_	_	26	flat	_	_
+28	Robin	Robin	PROPN	_	_	26	flat	_	_
+29	Hood	Hood	PROPN	_	_	26	flat	_	SpaceAfter=No
 30	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
 31	de	de	ADP	_	_	33	case	_	_
 32	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
@@ -29328,7 +29328,7 @@
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	programa	programa	NOUN	_	Gender=Masc|Number=Sing	8	nsubj	_	_
 3	"	"	PUNCT	_	PunctType=Quot	5	punct	_	SpaceAfter=No
-4	The	the	DET	_	PronType=Ind	5	det	_	_
+4	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	5	det	_	Lang=en
 5	Insider	Insider	PROPN	_	_	2	appos	_	SpaceAfter=No
 6	"	"	PUNCT	_	PunctType=Quot	5	punct	_	_
 7	también	también	ADV	_	_	8	advmod	_	_
@@ -30073,13 +30073,13 @@
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	bajista	bajista	NOUN	_	Number=Sing	16	nmod	_	_
 22	de	de	ADP	_	_	24	case	_	_
-23	The	the	DET	_	PronType=Ind	24	det	_	_
+23	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	24	det	_	Lang=en
 24	Scream	Scream	PROPN	_	_	21	nmod	_	SpaceAfter=No
-25	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
-26	y	y	CCONJ	_	_	27	cc	_	_
-27	The	The	PROPN	_	_	24	conj	_	_
-28	Mars	Mars	PROPN	_	_	27	flat	_	_
-29	Volta	Volta	PROPN	_	_	27	flat	_	SpaceAfter=No
+25	,	,	PUNCT	_	PunctType=Comm	28	punct	_	_
+26	y	y	CCONJ	_	_	28	cc	_	_
+27	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	28	det	_	Lang=en
+28	Mars	Mars	PROPN	_	_	24	conj	_	_
+29	Volta	Volta	PROPN	_	_	28	flat	_	SpaceAfter=No
 30	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-dev-003-s4
@@ -34428,7 +34428,7 @@
 10	NBA	Nba	PROPN	_	_	2	appos	_	_
 11	Executive	Executive	PROPN	_	_	10	flat	_	_
 12	of	of	ADP	_	_	14	case	_	_
-13	the	the	DET	_	Gender=Fem|Number=Sing|PronType=Ind	14	det	_	_
+13	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en
 14	Year	Year	PROPN	_	Number=Sing	11	nmod	_	_
 15	Award	Award	PROPN	_	_	10	flat	_	SpaceAfter=No
 16	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	10	punct	_	_
@@ -41208,9 +41208,9 @@
 7	Rolling	Rolling	PROPN	_	_	5	appos	_	_
 8	Stone	Stone	PROPN	_	_	7	flat	_	_
 9	situó	situar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-10	a	a	ADP	_	_	11	case	_	_
-11	The	The	PROPN	_	_	9	obj	_	_
-12	Band	Band	PROPN	_	_	11	flat	_	_
+10	a	a	ADP	_	_	12	case	_	_
+11	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	12	det	_	Lang=en
+12	Band	Band	PROPN	_	_	9	obj	_	_
 13	en	en	ADP	_	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	puesto	puesto	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
@@ -41790,12 +41790,12 @@
 27	récord	récord	NOUN	_	Gender=Masc|Number=Sing	25	obj	_	_
 28	de	de	ADP	_	_	29	case	_	_
 29	taquilla	taquilla	NOUN	_	Gender=Fem|Number=Sing	27	nmod	_	_
-30	de	de	ADP	_	_	31	case	_	_
-31	The	The	PROPN	_	_	29	nmod	_	_
-32	Circus	Circus	PROPN	_	_	31	flat	_	_
-33	Tour	Tour	PROPN	_	_	31	flat	_	_
+30	de	de	ADP	_	_	32	case	_	_
+31	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	32	det	_	Lang=en
+32	Circus	Circus	PROPN	_	_	29	nmod	_	_
+33	Tour	Tour	PROPN	_	_	32	flat	_	_
 34	en	en	ADP	_	_	35	case	_	_
-35	2008	2008	NUM	_	NumForm=Digit|NumType=Card	31	nmod	_	SpaceAfter=No
+35	2008	2008	NUM	_	NumForm=Digit|NumType=Card	32	nmod	_	SpaceAfter=No
 36	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
 
 # sent_id = es-dev-003-s406

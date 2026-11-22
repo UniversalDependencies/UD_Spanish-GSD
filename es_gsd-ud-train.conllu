@@ -442,7 +442,7 @@
 19	de	de	ADP	_	_	20	case	_	_
 20	Lake	Lake	PROPN	_	_	18	nmod	_	_
 21	of	of	PROPN	_	Gender=Masc|Number=Sing	20	flat	_	_
-22	the	the	PROPN	_	Number=Sing	20	flat	_	_
+22	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	23	det	_	Lang=en
 23	Woods	Woods	PROPN	_	_	20	flat	_	_
 24	en	en	ADP	_	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
@@ -1398,12 +1398,12 @@
 22	de	de	ADP	_	_	24	case	_	_
 23	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	_
 24	BBC	Bbc	PROPN	_	_	21	nmod	_	_
-25	"	"	PUNCT	_	PunctType=Quot	26	punct	_	SpaceAfter=No
-26	The	The	PROPN	_	_	21	appos	_	_
-27	Sound	Sound	PROPN	_	_	26	flat	_	_
-28	of	of	PROPN	_	Gender=Masc|Number=Sing	26	flat	_	_
-29	Musicals	Musicals	PROPN	_	_	26	flat	_	SpaceAfter=No
-30	"	"	PUNCT	_	PunctType=Quot	26	punct	_	SpaceAfter=No
+25	"	"	PUNCT	_	PunctType=Quot	27	punct	_	SpaceAfter=No
+26	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	27	det	_	Lang=en
+27	Sound	Sound	PROPN	_	_	21	appos	_	_
+28	of	of	PROPN	_	Gender=Masc|Number=Sing	27	flat	_	_
+29	Musicals	Musicals	PROPN	_	_	27	flat	_	SpaceAfter=No
+30	"	"	PUNCT	_	PunctType=Quot	27	punct	_	SpaceAfter=No
 31	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
 # sent_id = es-train-001-s41
@@ -1986,7 +1986,7 @@
 6	en	en	ADP	_	_	7	case	_	_
 7	Back	Back	PROPN	_	_	2	obl	_	_
 8	to	to	PROPN	_	Gender=Masc|Number=Sing	7	flat	_	_
-9	the	the	PROPN	_	Number=Sing	7	flat	_	_
+9	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	10	det	_	Lang=en
 10	Future	Future	PROPN	_	_	7	flat	_	_
 11	III	iii	NUM	_	NumForm=Roman|NumType=Card	7	nummod	_	SpaceAfter=No
 12	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -3666,14 +3666,14 @@
 1	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
 2	banda	banda	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	_
 3	británica	británico	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	_
-4	The	the	DET	_	PronType=Ind	5	det	_	_
+4	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	5	det	_	Lang=en
 5	Horrors	Horrors	PROPN	_	_	2	appos	_	_
 6	han	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	versionado	versionar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 9	característica	característico	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
 10	'	'	PUNCT	_	PunctType=Quot	13	punct	_	SpaceAfter=No
-11	The	the	DET	_	PronType=Ind	13	det	_	_
+11	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	13	det	_	Lang=en
 12	Best	Best	PROPN	_	_	13	amod	_	_
 13	Thing	Thing	PROPN	_	_	7	obj	_	_
 14	I	I	PROPN	_	_	16	nsubj	_	_
@@ -4493,7 +4493,7 @@
 8	:	:	PUNCT	_	PunctType=Colo	9	punct	_	_
 9	Love	Love	PROPN	_	_	7	appos	_	_
 10	of	of	ADP	_	_	12	case	_	_
-11	the	the	DET	_	Number=Sing|Person=3|PronType=Ind	12	det	_	_
+11	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	12	det	_	Lang=en
 12	Damned	Damned	PROPN	_	_	9	nmod	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -5882,7 +5882,7 @@
 7	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
 8	película	película	NOUN	_	Gender=Fem|Number=Sing	3	obl	_	_
 9	musical	musical	ADJ	_	Number=Sing	8	amod	_	_
-10	The	the	DET	_	PronType=Ind	11	det	_	_
+10	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
 11	Blonde	Blonde	PROPN	_	_	8	appos	_	_
 12	From	From	PROPN	_	_	11	flat	_	_
 13	Brooklyn	Brooklyn	PROPN	_	_	11	flat	_	SpaceAfter=No
@@ -9182,7 +9182,7 @@
 5	Angeles	Angeles	PROPN	_	_	1	nmod	_	_
 6	Times	Times	PROPN	_	_	5	flat	_	_
 7	y	y	CCONJ	_	_	9	cc	_	_
-8	The	the	DET	_	PronType=Ind	9	det	_	_
+8	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	9	det	_	Lang=en
 9	Philadelphia	Philadelphia	PROPN	_	_	5	conj	_	_
 10	Inquirer	Inquirer	PROPN	_	_	9	flat	_	_
 11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
@@ -11558,7 +11558,7 @@
 36	hell	hell	PROPN	_	Gender=Masc|Number=Sing	34	nmod	_	SpaceAfter=No
 37	"	"	PUNCT	_	PunctType=Quot	34	punct	_	_
 38	de	de	ADP	_	_	40	case	_	_
-39	The	the	DET	_	PronType=Ind	40	det	_	_
+39	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	40	det	_	Lang=en
 40	Clash	Clash	PROPN	_	_	34	nmod	_	SpaceAfter=No
 41	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -16135,7 +16135,7 @@
 # sent_id = es-train-001-s494
 # text = En The Empire Strikes Back, Vader captura a Leia, Han, Chewbacca (Peter Mayhew), y a C3PO (Anthony Daniels) en Bespin (la ciudad de las nubes), para atraer a Luke a un enfrentamiento.
 1	En	en	ADP	_	_	4	case	_	_
-2	The	the	DET	_	PronType=Ind	3	det	_	_
+2	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	3	det	_	Lang=en
 3	Empire	Empire	PROPN	_	Number=Sing	4	nsubj	_	_
 4	Strikes	Strikes	PROPN	_	_	8	obl	_	_
 5	Back	Back	PROPN	_	_	4	nmod	_	SpaceAfter=No
@@ -19715,10 +19715,10 @@
 14	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	_
 15	Planxty	Planxty	PROPN	_	_	14	appos	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
-17	The	the	DET	_	PronType=Ind	18	det	_	_
+17	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
 18	Chieftains	Chieftains	PROPN	_	_	15	conj	_	_
 19	y	y	CCONJ	_	_	21	cc	_	_
-20	The	the	DET	_	PronType=Ind	21	det	_	_
+20	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	21	det	_	Lang=en
 21	Dubliners	Dubliners	PROPN	_	_	15	conj	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 23	así	así	ADV	_	ExtPos=CCONJ	26	cc	_	_
@@ -31173,7 +31173,7 @@
 10	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	vida	vida	NOUN	_	Gender=Fem|Number=Sing	8	nmod	_	_
 12	de	de	ADP	_	_	14	case	_	_
-13	The	the	DET	_	PronType=Ind	14	det	_	_
+13	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en
 14	Beatles	Beatles	PROPN	_	_	11	nmod	_	_
 15	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	16	obl:arg	_	_
 16	permitiría	permitir	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
@@ -34866,7 +34866,7 @@
 # text = Recientemente, The Guardian publicó una información sobre la estructura del grupo Lulzsec.
 1	Recientemente	recientemente	ADV	_	_	5	advmod	_	SpaceAfter=No
 2	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
-3	The	the	DET	_	PronType=Ind	4	det	_	_
+3	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	4	det	_	Lang=en
 4	Guardian	Guardian	PROPN	_	_	5	nsubj	_	_
 5	publicó	publicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 6	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
@@ -35115,7 +35115,7 @@
 14	Truth	Truth	PROPN	_	_	12	flat	_	_
 15	y	y	CCONJ	_	_	18	cc	_	_
 16	a	a	ADP	_	_	18	case	_	_
-17	The	the	DET	_	PronType=Ind	18	det	_	_
+17	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
 18	Miz	Miz	PROPN	_	_	12	conj	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
 20-21	volviéndose	_	_	_	_	_	_	_	_
@@ -35797,7 +35797,7 @@
 4	sindicado	sindicado	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	2	amod	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 6	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	2	acl	_	_
-7	The	the	DET	_	PronType=Ind	8	det	_	_
+7	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	8	det	_	Lang=en
 8	Porter	Porter	PROPN	_	_	6	xcomp	_	_
 9	Wagoner	Wagoner	PROPN	_	_	8	flat	_	_
 10	Show	Show	PROPN	_	_	8	flat	_	SpaceAfter=No
@@ -43794,7 +43794,7 @@
 6	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	_
 7	finca	finca	NOUN	_	Gender=Fem|Number=Sing	4	nmod	_	_
 8	«	«	PUNCT	_	PunctType=Quot	10	punct	_	SpaceAfter=No
-9	The	the	DET	_	PronType=Ind	10	det	_	_
+9	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	10	det	_	Lang=en
 10	Firs	Firs	PROPN	_	_	7	appos	_	SpaceAfter=No
 11	»	»	PUNCT	_	PunctType=Quot	10	punct	_	_
 12	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	14	punct	_	SpaceAfter=No
@@ -44520,7 +44520,7 @@
 17	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 18	"	"	PUNCT	_	PunctType=Quot	19	punct	_	SpaceAfter=No
 19	In	In	PROPN	_	_	9	conj	_	_
-20	The	The	PROPN	_	_	19	flat	_	_
+20	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	21	det	_	Lang=en
 21	Mood	Mood	PROPN	_	_	19	flat	_	_
 22	For	For	PROPN	_	_	19	flat	_	_
 23	Something	Something	PROPN	_	_	19	flat	_	_
@@ -45675,9 +45675,9 @@
 14	Carrollton	Carrollton	PROPN	_	_	11	obl	_	_
 15	School	School	PROPN	_	_	14	flat	_	_
 16	of	of	PROPN	_	Gender=Masc|Number=Sing	14	flat	_	_
-17	the	the	PROPN	_	Gender=Masc|Number=Sing	16	amod	_	_
-18	Sacred	Sacred	PROPN	_	_	17	flat	_	_
-19	Heart	Heart	PROPN	_	_	17	flat	_	_
+17	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
+18	Sacred	Sacred	PROPN	_	_	16	amod	_	_
+19	Heart	Heart	PROPN	_	_	18	flat	_	_
 20	en	en	ADP	_	_	21	case	_	_
 21	Miami	Miami	PROPN	_	_	14	nmod	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
@@ -45687,13 +45687,13 @@
 26	clases	clase	NOUN	_	Gender=Fem|Number=Plur	25	obj	_	_
 27	de	de	ADP	_	_	28	case	_	_
 28	verano	verano	NOUN	_	Gender=Masc|Number=Sing	26	nmod	_	_
-29	en	en	ADP	_	_	30	case	_	_
-30	The	The	PROPN	_	_	25	obl	_	_
-31	Lee	Lee	PROPN	_	_	30	flat	_	_
-32	Strasberg	Strasberg	PROPN	_	_	30	flat	_	_
-33	Theater	Theater	PROPN	_	_	30	flat	_	_
+29	en	en	ADP	_	_	31	case	_	_
+30	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	31	det	_	Lang=en
+31	Lee	Lee	PROPN	_	_	25	obl	_	_
+32	Strasberg	Strasberg	PROPN	_	_	31	flat	_	_
+33	Theater	Theater	PROPN	_	_	31	flat	_	_
 34	y	y	CCONJ	_	_	35	cc	_	_
-35	Film	Film	PROPN	_	_	30	conj	_	_
+35	Film	Film	PROPN	_	_	31	conj	_	_
 36	Institutes	Institutes	PROPN	_	_	35	flat	_	SpaceAfter=No
 37	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
 
@@ -46616,9 +46616,9 @@
 1	K	K	PROPN	_	_	8	nsubj	_	_
 2	-	-	PUNCT	_	PunctType=Dash	3	punct	_	_
 3	19	19	NUM	_	NumForm=Digit|NumType=Card	1	nummod	_	SpaceAfter=No
-4	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
-5	The	The	PROPN	_	_	1	appos	_	_
-6	Widowmaker	Widowmaker	PROPN	_	_	5	flat	_	_
+4	:	:	PUNCT	_	PunctType=Colo	6	punct	_	_
+5	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	6	det	_	Lang=en
+6	Widowmaker	Widowmaker	PROPN	_	_	1	appos	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	estrena	estrenar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	en	en	ADP	_	_	10	case	_	_
@@ -61314,7 +61314,7 @@
 12	Chyler	Chyler	PROPN	_	_	3	conj	_	_
 13	Leigh	Leigh	PROPN	_	_	12	amod	_	_
 14	en	en	ADP	_	_	16	case	_	_
-15	The	the	DET	_	PronType=Ind	16	det	_	_
+15	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	16	det	_	Lang=en
 16	Practice	Practice	PROPN	_	Number=Sing	12	nmod	_	_
 17	antes	antes	ADV	_	ExtPos=SCONJ	19	mark	_	_
 18	de	de	ADP	_	_	17	fixed	_	_
@@ -65306,7 +65306,7 @@
 38	Blood	Blood	PROPN	_	_	37	flat	_	_
 39	Ulmer	Ulmer	PROPN	_	_	37	flat	_	_
 40	y	y	CCONJ	_	_	42	cc	_	_
-41	The	the	DET	_	PronType=Ind	42	det	_	_
+41	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	42	det	_	Lang=en
 42	Doors	Doors	PROPN	_	_	37	conj	_	_
 43	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	45	expl:pv	_	_
 44	habían	haber	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	45	aux	_	_
@@ -68609,11 +68609,11 @@
 11	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	13	punct	_	SpaceAfter=No
 12	en	en	ADP	_	_	13	case	_	_
 13	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	_
-14	The	The	PROPN	_	Number=Sing	13	appos	_	_
-15	Girl	Girl	PROPN	_	_	14	flat	_	_
-16	Who	Who	PROPN	_	Number=Sing	14	flat	_	_
-17	Had	Had	PROPN	_	_	14	flat	_	_
-18	Everything	Everything	PROPN	_	_	14	flat	_	SpaceAfter=No
+14	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	15	det	_	Lang=en
+15	Girl	Girl	PROPN	_	_	13	appos	_	_
+16	Who	Who	PROPN	_	Number=Sing	15	flat	_	_
+17	Had	Had	PROPN	_	_	15	flat	_	_
+18	Everything	Everything	PROPN	_	_	15	flat	_	SpaceAfter=No
 19	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	13	punct	_	SpaceAfter=No
 20	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
 21	en	en	ADP	_	_	22	case	_	_
@@ -70957,7 +70957,7 @@
 7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
 8	Hamlet	Hamlet	PROPN	_	_	4	conj	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	10	punct	_	_
-10	The	The	PROPN	_	_	4	flat	_	_
+10	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
 11	Hunchback	Hunchback	PROPN	_	_	4	flat	_	_
 12	of	of	PROPN	_	_	4	flat	_	_
 13	Notre	Notre	PROPN	_	Gender=Masc|Number=Sing	4	flat	_	_
@@ -70965,7 +70965,7 @@
 15	y	y	CCONJ	_	_	16	cc	_	_
 16	Looking	Looking	PROPN	_	_	4	conj	_	_
 17	for	for	PROPN	_	Gender=Masc|Number=Sing	16	flat	_	_
-18	the	the	PROPN	_	Number=Sing	16	flat	_	_
+18	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	19	det	_	Lang=en
 19	Pony	Pony	PROPN	_	_	16	flat	_	_
 20	en	en	ADP	_	_	21	case	_	_
 21	Manhattan	Manhattan	PROPN	_	_	3	obl	_	_
@@ -72027,7 +72027,7 @@
 # sent_id = es-train-005-s350
 # text = El The New York Times listó a Malenkov como primero y a Beria como segundo entre los diez hombres del Presidium - y a Jrushchov como último.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
-2	The	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	3	det	_	_
+2	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	3	det	_	Lang=en
 3	New	New	PROPN	_	_	6	nsubj	_	_
 4	York	York	PROPN	_	_	3	flat	_	_
 5	Times	Times	PROPN	_	_	3	flat	_	_
@@ -72250,11 +72250,11 @@
 14	por	por	ADP	_	_	15	case	_	_
 15	título	título	NOUN	_	Gender=Masc|Number=Sing	13	obl	_	_
 16	"	"	PUNCT	_	PunctType=Quot	19	punct	_	SpaceAfter=No
-17	The	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	19	det	_	_
+17	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	19	det	_	Lang=en
 18	internal	internal	PROPN	_	Number=Sing	19	amod	_	_
 19	secretion	secretion	PROPN	_	Gender=Masc|Number=Sing	13	obj	_	_
 20	of	of	ADP	_	_	22	case	_	_
-21	the	the	DET	_	PronType=Ind	22	det	_	_
+21	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	22	det	_	Lang=en
 22	páncreas	páncrea	PROPN	_	Gender=Fem|Number=Plur	19	nmod	_	SpaceAfter=No
 23	"	"	PUNCT	_	PunctType=Quot	19	punct	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
@@ -72635,7 +72635,7 @@
 # text = Como adelanta The People, estarían dispuestos a pagar casi 20 millones por Henderson, jugador que juega actualmente en el Sunderland, equipo de la Premier League.
 1	Como	como	SCONJ	_	_	2	mark	_	_
 2	adelanta	adelantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	_
-3	The	the	DET	_	PronType=Ind	4	det	_	_
+3	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	4	det	_	Lang=en
 4	People	People	PROPN	_	_	2	nsubj	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 6	estarían	estar	AUX	_	Mood=Cnd|Number=Plur|Person=3|VerbForm=Fin	7	cop	_	_
@@ -73575,7 +73575,7 @@
 21	entre	entre	ADP	_	_	22	case	_	_
 22	covers	cover	NOUN	_	Gender=Masc|Number=Sing	35	obl	_	_
 23	de	de	ADP	_	_	26	case	_	_
-24	The	the	DET	_	PronType=Ind	26	det	_	_
+24	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	26	det	_	Lang=en
 25	Rolling	Rolling	PROPN	_	_	26	amod	_	_
 26	Stones	Stones	PROPN	_	_	22	nmod	_	_
 27	principalmente	principalmente	ADV	_	_	26	advmod	_	_
@@ -79888,10 +79888,10 @@
 2	a	a	ADP	_	_	3	case	_	_
 3	esto	este	PRON	_	Number=Sing|PronType=Dem	16	nmod	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
-5	en	en	ADP	_	_	6	case	_	_
-6	The	The	PROPN	_	Gender=Masc|Number=Sing	16	nmod	_	_
-7	Titans	Titans	PROPN	_	_	6	flat	_	_
-8	Expansion	Expansion	PROPN	_	_	6	flat	_	_
+5	en	en	ADP	_	_	7	case	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
+7	Titans	Titans	PROPN	_	_	16	nmod	_	_
+8	Expansion	Expansion	PROPN	_	_	7	flat	_	_
 9	"	"	PUNCT	_	PunctType=Quot	10	punct	_	SpaceAfter=No
 10	Asesino	asesino	NOUN	_	Gender=Masc|Number=Sing	14	nsubj	_	_
 11	de	de	ADP	_	_	12	case	_	_
@@ -82334,11 +82334,11 @@
 51	y	y	CCONJ	_	_	52	cc	_	_
 52	Josh	Josh	PROPN	_	_	49	conj	_	_
 53	Saviano	Saviano	PROPN	_	_	52	flat	_	_
-54	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	55	punct	_	SpaceAfter=No
-55	The	The	PROPN	_	_	49	appos	_	_
-56	Wonder	Wonder	PROPN	_	_	55	flat	_	_
-57	Years	Years	PROPN	_	_	55	flat	_	SpaceAfter=No
-58	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	55	punct	_	SpaceAfter=No
+54	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	56	punct	_	SpaceAfter=No
+55	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	56	det	_	Lang=en
+56	Wonder	Wonder	PROPN	_	_	49	appos	_	_
+57	Years	Years	PROPN	_	_	56	flat	_	SpaceAfter=No
+58	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	56	punct	_	SpaceAfter=No
 59	,	,	PUNCT	_	PunctType=Comm	60	punct	_	_
 60	Breckin	Breckin	PROPN	_	_	34	conj	_	_
 61	Meyer	Meyer	PROPN	_	_	60	flat	_	_
@@ -91254,7 +91254,7 @@
 17	Detroit	Detroit	PROPN	_	_	16	xcomp	_	_
 18	Marriott	Marriott	PROPN	_	_	17	flat	_	_
 19	at	at	PROPN	_	_	17	flat	_	_
-20	the	the	PROPN	_	Number=Sing	17	flat	_	_
+20	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	21	det	_	Lang=en
 21	Renaissance	Renaissance	PROPN	_	_	17	flat	_	_
 22	Center	Center	PROPN	_	_	17	flat	_	SpaceAfter=No
 23	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
@@ -93750,12 +93750,12 @@
 27	Players	Players	PROPN	_	_	25	flat	_	SpaceAfter=No
 28	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	25	punct	_	_
 29	publicada	publicar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	12	acl	_	_
-30	por	por	ADP	_	_	32	case	_	_
-31	"	"	PUNCT	_	PunctType=Quot	32	punct	_	SpaceAfter=No
-32	The	The	PROPN	_	_	29	obl:agent	_	_
-33	Sporting	Sporting	PROPN	_	_	32	flat	_	_
-34	News	News	PROPN	_	_	32	flat	_	SpaceAfter=No
-35	"	"	PUNCT	_	PunctType=Quot	32	punct	_	_
+30	por	por	ADP	_	_	33	case	_	_
+31	"	"	PUNCT	_	PunctType=Quot	33	punct	_	SpaceAfter=No
+32	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	33	det	_	Lang=en
+33	Sporting	Sporting	PROPN	_	_	29	obl:agent	_	_
+34	News	News	PROPN	_	_	33	flat	_	SpaceAfter=No
+35	"	"	PUNCT	_	PunctType=Quot	33	punct	_	_
 36	y	y	CCONJ	_	_	38	cc	_	_
 37	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	38	aux:pass	_	_
 38	nominado	nominar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	conj	_	_
@@ -97950,8 +97950,8 @@
 19	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	20	det	_	_
 20	vídeo	vídeo	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 21	This	this	X	_	_	22	compound	_	_
-22	is	is	X	_	Gender=Masc	23	compound	_	_
-23	the	the	X	_	Gender=Masc|Number=Sing	24	compound	_	_
+22	is	is	X	_	Gender=Masc	24	compound	_	_
+23	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	24	det	_	Lang=en
 24	New	new	X	_	_	25	compound	_	_
 25	Shit	shit	X	_	_	20	appos	_	SpaceAfter=No
 26	,	,	PUNCT	_	PunctType=Comm	29	punct	_	_
@@ -100271,7 +100271,7 @@
 4	de	de	ADP	_	_	5	case	_	_
 5	gospel	gospel	NOUN	_	Gender=Masc|Number=Sing	3	nmod	_	_
 6	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
-7	The	the	DET	_	Gender=Fem|Number=Sing|PronType=Ind	8	det	_	_
+7	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	8	det	_	Lang=en
 8	Lord	Lord	PROPN	_	_	10	nsubj	_	_
 9	Will	Will	PROPN	_	_	10	nmod	_	_
 10	Make	Make	PROPN	_	_	3	nsubj	_	_
@@ -101318,7 +101318,7 @@
 9	Car	Car	PROPN	_	_	4	nsubj:pass	_	_
 10	designer	designer	PROPN	_	Number=Sing	9	flat	_	_
 11	of	of	ADP	_	_	13	case	_	_
-12	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	13	det	_	_
+12	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	13	det	_	Lang=en
 13	Century	Century	PROPN	_	_	9	nmod	_	SpaceAfter=No
 14	"	"	PUNCT	_	PunctType=Quot	9	punct	_	_
 15	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	16	punct	_	SpaceAfter=No
@@ -103291,14 +103291,14 @@
 36	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	37	det	_	_
 37	sombras	sombra	NOUN	_	Gender=Fem|Number=Plur	28	obl	_	_
 38	de	de	ADP	_	_	41	case	_	_
-39	The	the	DET	_	PronType=Ind	41	det	_	_
+39	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	41	det	_	Lang=en
 40	Rolling	Rolling	PROPN	_	_	41	amod	_	_
 41	Stones	Stones	PROPN	_	_	37	nmod	_	SpaceAfter=No
 42	,	,	PUNCT	_	PunctType=Comm	43	punct	_	_
 43	Bob	Bob	PROPN	_	_	41	conj	_	_
 44	Dylan	Dylan	PROPN	_	_	43	flat	_	_
 45	y	y	CCONJ	_	_	47	cc	_	_
-46	The	the	DET	_	PronType=Ind	47	det	_	_
+46	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	47	det	_	Lang=en
 47	Beatles	Beatles	PROPN	_	_	41	conj	_	SpaceAfter=No
 48	"	"	PUNCT	_	PunctType=Quot	14	punct	_	SpaceAfter=No
 49	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
@@ -107178,7 +107178,7 @@
 5	Artista	artista	NOUN	_	Number=Sing	1	nmod	_	_
 6	creada	crear	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	acl	_	_
 7	por	por	ADP	_	_	9	case	_	_
-8	The	the	DET	_	PronType=Ind	9	det	_	_
+8	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	9	det	_	Lang=en
 9	Artur	Artur	PROPN	_	_	6	obl:agent	_	_
 10	Balder	Balder	PROPN	_	_	9	flat	_	_
 11	Foundation	Foundation	PROPN	_	_	9	flat	_	_
@@ -110286,13 +110286,13 @@
 32	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	33	punct	_	SpaceAfter=No
 33	1992	1992	NUM	_	NumForm=Digit|NumType=Card	29	nmod	_	SpaceAfter=No
 34	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	33	punct	_	_
-35	o	o	CCONJ	_	_	36	cc	_	_
-36	The	The	PROPN	_	_	8	conj	_	_
-37	First	First	PROPN	_	_	36	flat	_	_
-38	Wives	Wives	PROPN	_	Number=Plur	36	flat	_	_
-39	Club	Club	PROPN	_	_	36	flat	_	_
+35	o	o	CCONJ	_	_	37	cc	_	_
+36	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	37	det	_	Lang=en
+37	First	First	PROPN	_	_	8	conj	_	_
+38	Wives	Wives	PROPN	_	Number=Plur	37	flat	_	_
+39	Club	Club	PROPN	_	_	37	flat	_	_
 40	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	41	punct	_	SpaceAfter=No
-41	1996	1996	NUM	_	NumForm=Digit|NumType=Card	36	nmod	_	SpaceAfter=No
+41	1996	1996	NUM	_	NumForm=Digit|NumType=Card	37	nmod	_	SpaceAfter=No
 42	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	41	punct	_	SpaceAfter=No
 43	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
 
@@ -113375,12 +113375,12 @@
 7	"	"	PUNCT	_	PunctType=Quot	8	punct	_	SpaceAfter=No
 8	Pride	Pride	PROPN	_	_	6	appos	_	SpaceAfter=No
 9	"	"	PUNCT	_	PunctType=Quot	8	punct	_	_
-10	de	de	ADP	_	_	11	case	_	_
-11	The	The	PROPN	_	_	6	nmod	_	_
-12	Magnificent	Magnificent	PROPN	_	_	11	flat	_	_
-13	Seven	Seven	PROPN	_	_	11	flat	_	_
-14	Deadly	Deadly	PROPN	_	_	11	flat	_	_
-15	Sins	Sins	PROPN	_	_	11	flat	_	SpaceAfter=No
+10	de	de	ADP	_	_	12	case	_	_
+11	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	12	det	_	Lang=en
+12	Magnificent	Magnificent	PROPN	_	_	6	nmod	_	_
+13	Seven	Seven	PROPN	_	_	12	flat	_	_
+14	Deadly	Deadly	PROPN	_	_	12	flat	_	_
+15	Sins	Sins	PROPN	_	_	12	flat	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 17	y	y	CCONJ	_	_	18	cc	_	_
 18	tuvo	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	conj	_	_
@@ -116031,11 +116031,11 @@
 6	en	en	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	filme	filme	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
-9	The	The	PROPN	_	_	8	appos	_	_
-10	Count	Count	PROPN	_	_	9	flat	_	_
-11	of	of	PROPN	_	Gender=Masc|Number=Sing	9	flat	_	_
-12	Monte	Monte	PROPN	_	_	9	flat	_	_
-13	Cristo	Cristo	PROPN	_	_	9	flat	_	SpaceAfter=No
+9	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	10	det	_	Lang=en
+10	Count	Count	PROPN	_	_	8	appos	_	_
+11	of	of	PROPN	_	Gender=Masc|Number=Sing	10	flat	_	_
+12	Monte	Monte	PROPN	_	_	10	flat	_	_
+13	Cristo	Cristo	PROPN	_	_	10	flat	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 15	basado	basar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	appos	_	_
 16	en	en	ADP	_	_	18	case	_	_
@@ -118478,7 +118478,7 @@
 2	Do	Do	PROPN	_	_	10	nsubj	_	_
 3	not	not	PROPN	_	Gender=Masc|Number=Sing	2	flat	_	_
 4	Stop	Stop	PROPN	_	_	2	flat	_	_
-5	the	the	PROPN	_	Number=Sing	2	flat	_	_
+5	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	6	det	_	Lang=en
 6	Music	Music	PROPN	_	_	2	flat	_	SpaceAfter=No
 7	»	»	PUNCT	_	PunctType=Quot	2	punct	_	_
 8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
@@ -118984,7 +118984,7 @@
 7	Hermetic	Hermetic	PROPN	_	_	5	appos	_	_
 8	Order	Order	PROPN	_	_	7	flat	_	_
 9	of	of	PROPN	_	_	7	flat	_	_
-10	the	the	PROPN	_	Gender=Masc|Number=Sing	7	flat	_	_
+10	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
 11	Golden	Golden	PROPN	_	_	7	flat	_	_
 12	Dawn	Dawn	PROPN	_	_	7	flat	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
@@ -123998,7 +123998,7 @@
 19	y	y	CCONJ	_	_	21	cc	_	_
 20	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	21	det	_	_
 21	madrileños	madrileño	NOUN	_	Gender=Masc|Number=Plur	13	conj	_	_
-22	The	the	DET	_	Gender=Masc|Number=Plur|PronType=Ind	23	det	_	_
+22	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	23	det	_	Lang=en
 23	Noises	Noises	PROPN	_	_	21	appos	_	SpaceAfter=No
 24	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
@@ -124257,7 +124257,7 @@
 14	sencillo	sencillo	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 15	"	"	PUNCT	_	PunctType=Quot	16	punct	_	SpaceAfter=No
 16	Pass	Pass	PROPN	_	_	14	appos	_	_
-17	the	the	DET	_	PronType=Ind	18	det	_	_
+17	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
 18	Budda	Budda	PROPN	_	_	16	appos	_	SpaceAfter=No
 19	"	"	PUNCT	_	PunctType=Quot	16	punct	_	_
 20	con	con	ADP	_	_	21	case	_	_
@@ -131408,7 +131408,7 @@
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	Merchandising	merchandising	NOUN	_	_	13	obl	_	_
 4	de	de	ADP	_	_	6	case	_	_
-5	The	the	DET	_	PronType=Ind	6	det	_	_
+5	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	6	det	_	Lang=en
 6	Walt	Walt	PROPN	_	_	3	nmod	_	_
 7	Disney	Disney	PROPN	_	_	6	flat	_	_
 8	Company	Company	PROPN	_	_	6	flat	_	SpaceAfter=No
@@ -131430,7 +131430,7 @@
 3	de	de	ADP	_	_	4	case	_	_
 4	Otranto	Otranto	PROPN	_	_	2	nmod	_	_
 5	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	7	punct	_	SpaceAfter=No
-6	The	the	DET	_	PronType=Ind	7	det	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
 7	Castle	Castle	PROPN	_	_	2	appos	_	_
 8	of	of	ADP	_	_	9	case	_	_
 9	Otranto	Otranto	PROPN	_	_	7	nmod	_	SpaceAfter=No
@@ -134897,23 +134897,23 @@
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 9	segunda	segundo	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	10	amod	_	_
 10	colaboración	colaboración	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	_
-11	de	de	ADP	_	_	12	case	_	_
-12	The	The	PROPN	_	_	10	nmod	_	_
-13	Crystal	Crystal	PROPN	_	_	12	flat	_	_
-14	Method	Method	PROPN	_	_	12	flat	_	SpaceAfter=No
+11	de	de	ADP	_	_	13	case	_	_
+12	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	13	det	_	Lang=en
+13	Crystal	Crystal	PROPN	_	_	10	nmod	_	_
+14	Method	Method	PROPN	_	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
 17	cuenta	contar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 18	con	con	ADP	_	_	19	case	_	_
 19	remixes	remixe	NOUN	_	Gender=Masc|Number=Plur	17	obl	_	_
-20	de	de	ADP	_	_	21	case	_	_
-21	The	The	PROPN	_	_	19	nmod	_	_
-22	Crystal	Crystal	PROPN	_	_	21	flat	_	_
-23	Method	Method	PROPN	_	_	21	flat	_	SpaceAfter=No
+20	de	de	ADP	_	_	22	case	_	_
+21	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	22	det	_	Lang=en
+22	Crystal	Crystal	PROPN	_	_	19	nmod	_	_
+23	Method	Method	PROPN	_	_	22	flat	_	SpaceAfter=No
 24	,	,	PUNCT	_	PunctType=Comm	27	punct	_	_
 25	y	y	CCONJ	_	_	27	cc	_	_
 26	otros	otro	DET	_	Gender=Masc|Number=Plur|PronType=Ind	27	det	_	_
-27	artistas	artista	NOUN	_	Number=Plur	21	conj	_	_
+27	artistas	artista	NOUN	_	Number=Plur	22	conj	_	_
 28	de	de	ADP	_	_	29	case	_	_
 29	Nu	Nu	PROPN	_	_	27	nmod	_	_
 30	skool	skool	PROPN	_	Gender=Masc|Number=Sing	29	flat	_	_
@@ -135107,7 +135107,7 @@
 26	diario	diario	NOUN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
 27	británico	británico	ADJ	_	Gender=Masc|Number=Sing	26	amod	_	_
 28	'	'	PUNCT	_	PunctType=Quot	30	punct	_	SpaceAfter=No
-29	The	the	DET	_	PronType=Ind	30	det	_	_
+29	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	30	det	_	Lang=en
 30	Guardian	Guardian	PROPN	_	_	26	appos	_	SpaceAfter=No
 31	'	'	PUNCT	_	PunctType=Quot	30	punct	_	SpaceAfter=No
 32	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
@@ -136727,7 +136727,7 @@
 6	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	8	punct	_	SpaceAfter=No
 7	en	en	ADP	_	_	8	case	_	_
 8	ingles	ingle	NOUN	_	Number=Plur|Typo=Yes	3	nmod	_	CorrectForm=inglés
-9	The	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	10	det	_	_
+9	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	10	det	_	Lang=en
 10	Big	Big	PROPN	_	_	8	appos	_	_
 11	Gold	Gold	PROPN	_	_	10	flat	_	_
 12	Belt	Belt	PROPN	_	_	10	flat	_	SpaceAfter=No
@@ -143318,7 +143318,7 @@
 10	imitadores	imitador	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
 11	de	de	ADP	_	_	14	case	_	_
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	14	det	_	_
-13	The	the	DET	_	PronType=Ind	14	det	_	_
+13	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en
 14	Ramones	Ramones	PROPN	_	_	10	nmod	_	_
 15	o	o	CCONJ	_	_	17	cc	_	_
 16	de	de	ADP	_	_	17	case	_	_
@@ -144441,24 +144441,24 @@
 20	videojuego	videojuego	NOUN	_	Gender=Masc|Number=Sing	18	nmod	_	_
 21	Captain	Captain	PROPN	_	_	20	appos	_	_
 22	N	N	PROPN	_	_	21	flat	_	SpaceAfter=No
-23	:	:	PUNCT	_	PunctType=Colo	24	punct	_	_
-24	The	The	PROPN	_	_	21	appos	_	_
-25	Game	Game	PROPN	_	Number=Sing	24	flat	_	_
-26	Master	Master	PROPN	_	_	24	flat	_	_
-27	intitulado	intitular	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	24	acl	_	_
-28	The	The	PROPN	_	_	27	xcomp	_	_
-29	Fractured	Fractured	PROPN	_	_	28	flat	_	_
-30	Fantasy	Fantasy	PROPN	_	_	28	flat	_	_
-31	of	of	PROPN	_	Gender=Masc|Number=Sing	28	flat	_	_
-32	Captain	Captain	PROPN	_	_	28	flat	_	_
-33	N.	N.	PROPN	_	_	28	appos	_	_
+23	:	:	PUNCT	_	PunctType=Colo	25	punct	_	_
+24	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	25	det	_	Lang=en
+25	Game	Game	PROPN	_	Number=Sing	21	appos	_	_
+26	Master	Master	PROPN	_	_	25	flat	_	_
+27	intitulado	intitular	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	25	acl	_	_
+28	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	29	det	_	Lang=en
+29	Fractured	Fractured	PROPN	_	_	27	xcomp	_	_
+30	Fantasy	Fantasy	PROPN	_	_	29	flat	_	_
+31	of	of	PROPN	_	Gender=Masc|Number=Sing	29	flat	_	_
+32	Captain	Captain	PROPN	_	_	29	flat	_	_
+33	N.	N.	PROPN	_	_	29	appos	_	_
 34	8	8	NUM	_	NumForm=Digit|NumType=Card	33	nummod	_	_
 35	-	-	PUNCT	_	PunctType=Dash	36	punct	_	_
-36	Bit	Bit	PROPN	_	_	28	flat	_	_
-37	Theater	Theater	PROPN	_	_	28	flat	_	SpaceAfter=No
+36	Bit	Bit	PROPN	_	_	29	flat	_	_
+37	Theater	Theater	PROPN	_	_	29	flat	_	SpaceAfter=No
 38	,	,	PUNCT	_	PunctType=Comm	40	punct	_	_
 39	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
-40	webcómic	webcómic	NOUN	_	Number=Sing	28	appos	_	_
+40	webcómic	webcómic	NOUN	_	Number=Sing	29	appos	_	_
 41	basado	basar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	40	acl	_	_
 42	en	en	ADP	_	_	43	case	_	_
 43	sprites	sprite	X	_	Gender=Masc|Number=Plur	41	obl	_	_
@@ -144528,7 +144528,7 @@
 33	trazas	traza	NOUN	_	Gender=Fem|Number=Plur	31	nmod	_	_
 34	asociadas	asociar	VERB	_	Gender=Fem|Number=Plur|VerbForm=Part	33	acl	_	_
 35	a	a	ADP	_	_	37	case	_	_
-36	The	the	DET	_	PronType=Ind	37	det	_	_
+36	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	37	det	_	Lang=en
 37	Sonics	Sonics	PROPN	_	_	34	obl	_	_
 38	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	40	punct	_	SpaceAfter=No
 39	ajada	ajado	ADJ	_	Gender=Fem|Number=Sing|VerbForm=Part	40	amod	_	_
@@ -145012,7 +145012,7 @@
 14	de	de	ADP	_	_	15	case	_	_
 15	Chicago	Chicago	PROPN	_	_	13	nmod	_	_
 16	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	13	acl	_	_
-17	The	the	DET	_	PronType=Ind	18	det	_	_
+17	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
 18	Warehouse	Warehouse	PROPN	_	_	16	xcomp	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 20	que	que	PRON	_	PronType=Rel	21	nsubj	_	_
@@ -151690,7 +151690,7 @@
 8	episodio	episodio	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 9	"	"	PUNCT	_	PunctType=Quot	10	punct	_	SpaceAfter=No
 10	Hit	Hit	PROPN	_	_	8	appos	_	_
-11	the	the	PROPN	_	Number=Sing	10	flat	_	_
+11	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	12	det	_	Lang=en
 12	Road	Road	PROPN	_	_	10	flat	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 14	Chad	Chad	PROPN	_	_	10	flat	_	SpaceAfter=No
@@ -151699,7 +151699,7 @@
 17	de	de	ADP	_	_	18	case	_	_
 18	Who	Who	PROPN	_	_	10	nmod	_	_
 19	's	's	X	_	Number=Plur|Person=1	18	dep	_	_
-20	the	the	PROPN	_	Number=Sing	18	flat	_	_
+20	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	21	det	_	Lang=en
 21	Boss	Boss	PROPN	_	_	18	flat	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
 23	con	con	ADP	_	_	25	case	_	_
@@ -152277,7 +152277,7 @@
 31	Dead	Dead	PROPN	_	_	30	flat	_	_
 32	y	y	CCONJ	_	_	35	cc	_	_
 33	a	a	ADP	_	_	35	case	_	_
-34	The	the	DET	_	PronType=Ind	35	det	_	_
+34	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	35	det	_	Lang=en
 35	Allman	Allman	PROPN	_	_	30	conj	_	_
 36	Brothers	Brothers	PROPN	_	_	35	flat	_	_
 37	Band	Band	PROPN	_	_	35	flat	_	SpaceAfter=No
@@ -154295,7 +154295,7 @@
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	miembros	miembro	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
 4	de	de	ADP	_	_	6	case	_	_
-5	The	the	DET	_	PronType=Ind	6	det	_	_
+5	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	6	det	_	Lang=en
 6	Hawks	Hawks	PROPN	_	_	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 8	solo	sólo	ADV	_	_	10	advmod	_	_
@@ -158241,21 +158241,21 @@
 4	for	for	ADP	_	_	5	case	_	_
 5	Love	Love	PROPN	_	_	1	nmod	_	_
 6	o	o	CCONJ	_	_	8	cc	_	_
-7	The	the	DET	_	PronType=Ind	8	det	_	_
+7	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	8	det	_	Lang=en
 8	Way	Way	PROPN	_	_	5	conj	_	_
 9	of	of	ADP	_	_	11	case	_	_
-10	The	the	DET	_	Number=Sing|PronType=Ind	11	det	_	_
+10	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
 11	World	World	PROPN	_	_	8	nmod	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	William	William	PROPN	_	_	5	nmod	_	_
 14	Congreve	Congreve	PROPN	_	_	13	flat	_	_
 15	o	o	CCONJ	_	_	17	cc	_	_
-16	The	the	DET	_	PronType=Ind	17	det	_	_
+16	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	17	det	_	Lang=en
 17	Relapse	Relapse	PROPN	_	_	5	conj	_	_
-18	y	y	CCONJ	_	_	19	cc	_	_
-19	The	The	PROPN	_	_	17	conj	_	_
-20	Provoked	Provoked	PROPN	_	_	19	amod	_	_
-21	Wife	Wife	PROPN	_	_	19	flat	_	_
+18	y	y	CCONJ	_	_	20	cc	_	_
+19	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	20	det	_	Lang=en
+20	Provoked	Provoked	PROPN	_	_	17	conj	_	_
+21	Wife	Wife	PROPN	_	_	20	flat	_	_
 22	de	de	ADP	_	_	23	case	_	_
 23	John	John	PROPN	_	_	17	nmod	_	_
 24	Vanbrugh	Vanbrugh	PROPN	_	_	23	flat	_	_
@@ -160774,7 +160774,7 @@
 7	canción	canción	NOUN	_	Gender=Fem|Number=Sing	4	obl	_	_
 8	Man	Man	PROPN	_	_	7	appos	_	_
 9	on	on	ADP	_	_	11	case	_	_
-10	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
+10	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
 11	Moon	Moon	PROPN	_	_	8	nmod	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	1992	1992	NUM	_	NumForm=Digit|NumType=Card	7	nmod	_	_
@@ -161214,7 +161214,7 @@
 34	a	a	ADP	_	_	36	case	_	_
 35	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
 36	americanos	americano	NOUN	_	Gender=Masc|Number=Plur	33	nmod	_	_
-37	The	the	DET	_	PronType=Ind	38	det	_	_
+37	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	38	det	_	Lang=en
 38	Chelsea	Chelsea	PROPN	_	_	33	obj	_	_
 39	Smiles	Smiles	PROPN	_	_	38	flat	_	SpaceAfter=No
 40	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -167966,27 +167966,27 @@
 # text = Fue escrita por The Dream, Knowles, Nick "Afrojack" van de Wall, Wesley Pentz, David Taylor y Adidja Palmer y producida por Switch, Knowles y Taylor Shea.
 1	Fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	aux:pass	_	_
 2	escrita	escribir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
-3	por	por	ADP	_	_	4	case	_	_
-4	The	The	PROPN	_	_	2	obl:agent	_	_
+3	por	por	ADP	_	_	7	case	_	_
+4	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
 5	Dream	dream	ADP	_	_	7	case	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
-7	Knowles	Knowles	PROPN	_	_	4	conj	_	SpaceAfter=No
+7	Knowles	Knowles	PROPN	_	_	2	obl:agent	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-9	Nick	Nick	PROPN	_	_	4	flat	_	_
+9	Nick	Nick	PROPN	_	_	7	flat	_	_
 10	"	"	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
-11	Afrojack	Afrojack	PROPN	_	_	4	appos	_	SpaceAfter=No
+11	Afrojack	Afrojack	PROPN	_	_	7	appos	_	SpaceAfter=No
 12	"	"	PUNCT	_	PunctType=Quot	11	punct	_	_
-13	van	ir	PROPN	_	Number=Plur	4	flat	_	_
+13	van	ir	PROPN	_	Number=Plur	7	flat	_	_
 14	de	de	ADP	_	_	15	case	_	_
-15	Wall	Wall	PROPN	_	_	4	flat	_	SpaceAfter=No
+15	Wall	Wall	PROPN	_	_	7	flat	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
-17	Wesley	Wesley	PROPN	_	_	4	conj	_	_
+17	Wesley	Wesley	PROPN	_	_	7	conj	_	_
 18	Pentz	Pentz	PROPN	_	_	17	flat	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-20	David	David	PROPN	_	_	4	conj	_	_
+20	David	David	PROPN	_	_	7	conj	_	_
 21	Taylor	Taylor	PROPN	_	_	20	flat	_	_
 22	y	y	CCONJ	_	_	23	cc	_	_
-23	Adidja	Adidja	PROPN	_	_	4	conj	_	_
+23	Adidja	Adidja	PROPN	_	_	7	conj	_	_
 24	Palmer	Palmer	PROPN	_	_	23	flat	_	_
 25	y	y	CCONJ	_	_	26	cc	_	_
 26	producida	producir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	conj	_	_
@@ -176729,7 +176729,7 @@
 12	británica	británico	ADJ	_	Gender=Fem|Number=Sing	11	amod	_	_
 13	de	de	ADP	_	_	14	case	_	_
 14	rock	rock	PROPN	_	_	11	nmod	_	_
-15	The	the	DET	_	PronType=Ind	16	det	_	_
+15	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	16	det	_	Lang=en
 16	Who	Who	PROPN	_	Gender=Masc|Number=Sing	11	appos	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 18	escrita	escribir	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	8	acl	_	_
@@ -184382,7 +184382,7 @@
 12	International	International	PROPN	_	_	10	appos	_	_
 13	Van	Ir	PROPN	_	_	12	flat	_	_
 14	of	of	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
-15	the	the	PROPN	_	Gender=Masc|Number=Sing	12	flat	_	_
+15	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	16	det	_	Lang=en
 16	Year	Year	PROPN	_	_	12	flat	_	SpaceAfter=No
 17	"	"	PUNCT	_	PunctType=Quot	12	punct	_	SpaceAfter=No
 18	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
@@ -185153,10 +185153,10 @@
 6	sea	ser	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	_
 7	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	Planetas	Planetas	PROPN	_	_	2	nsubj	_	_
-9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	10	punct	_	SpaceAfter=No
-10	The	The	PROPN	_	_	8	appos	_	_
-11	Planets	Planets	PROPN	_	_	10	flat	_	SpaceAfter=No
-12	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	10	punct	_	SpaceAfter=No
+9	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	11	punct	_	SpaceAfter=No
+10	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
+11	Planets	Planets	PROPN	_	_	8	appos	_	SpaceAfter=No
+12	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	11	punct	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
 14	terminada	terminar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	18	acl	_	_
 15	en	en	ADP	_	_	16	case	_	_
@@ -187133,7 +187133,7 @@
 23	de	de	ADP	_	_	25	case	_	_
 24	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	25	det	_	_
 25	británicos	británico	NOUN	_	Gender=Masc|Number=Plur	22	nmod	_	_
-26	The	the	DET	_	Gender=Masc|PronType=Ind	27	det	_	_
+26	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	27	det	_	Lang=en
 27	Horrors	Horrors	PROPN	_	_	25	appos	_	SpaceAfter=No
 28	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
@@ -189617,8 +189617,8 @@
 7	show	show	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
 8	de	de	ADP	_	_	9	case	_	_
 9	ABC	Abc	PROPN	_	_	7	nmod	_	_
-10	The	The	PROPN	_	_	7	appos	_	_
-11	Rifleman	Rifleman	PROPN	_	_	10	flat	_	SpaceAfter=No
+10	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
+11	Rifleman	Rifleman	PROPN	_	_	7	appos	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 13	en	en	ADP	_	_	15	case	_	_
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
@@ -189856,7 +189856,7 @@
 15	Gerald	Gerald	PROPN	_	_	10	conj	_	_
 16	Brisco	Brisco	PROPN	_	_	15	flat	_	_
 17	de	de	ADP	_	_	19	case	_	_
-18	The	the	DET	_	PronType=Ind	19	det	_	_
+18	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	19	det	_	Lang=en
 19	Corporation	Corporation	PROPN	_	_	8	obl	_	_
 20	con	con	ADP	_	_	22	case	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
@@ -191951,7 +191951,7 @@
 29	titulados	titular	VERB	_	Gender=Masc|Number=Plur|VerbForm=Part	21	acl	_	_
 30	Somedody	Somedody	PROPN	_	_	29	xcomp	_	_
 31	on	on	ADP	_	_	33	case	_	_
-32	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	33	det	_	_
+32	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	33	det	_	Lang=en
 33	Phone	Phone	PROPN	_	_	30	nmod	_	_
 34	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	35	punct	_	SpaceAfter=No
 35	Alguien	Alguien	PROPN	_	_	30	appos	_	_
@@ -192628,7 +192628,7 @@
 2	:	:	PUNCT	_	PunctType=Colo	3	punct	_	_
 3	Live	Live	PROPN	_	Gender=Masc|Number=Sing	1	appos	_	_
 4	in	in	ADP	_	_	6	case	_	_
-5	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
+5	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	6	det	_	Lang=en
 6	Jungle	Jungle	PROPN	_	_	3	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
@@ -195966,12 +195966,12 @@
 12	Ninja	Ninja	PROPN	_	_	11	appos	_	_
 13	Gaiden	Gaiden	PROPN	_	_	12	flat	_	_
 14	III	iii	NUM	_	NumForm=Roman|NumType=Card	11	nummod	_	SpaceAfter=No
-15	:	:	PUNCT	_	PunctType=Colo	16	punct	_	_
-16	The	The	PROPN	_	_	11	appos	_	_
-17	ancient	ancient	PROPN	_	Number=Sing	16	flat	_	_
-18	ship	ship	PROPN	_	Gender=Masc|Number=Sing	16	flat	_	_
-19	of	of	PROPN	_	Gender=Masc|Number=Sing	16	flat	_	_
-20	doom	doom	PROPN	_	Gender=Masc|Number=Sing	16	flat	_	SpaceAfter=No
+15	:	:	PUNCT	_	PunctType=Colo	17	punct	_	_
+16	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	17	det	_	Lang=en
+17	ancient	ancient	PROPN	_	Number=Sing	11	appos	_	_
+18	ship	ship	PROPN	_	Gender=Masc|Number=Sing	17	flat	_	_
+19	of	of	PROPN	_	Gender=Masc|Number=Sing	17	flat	_	_
+20	doom	doom	PROPN	_	Gender=Masc|Number=Sing	17	flat	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 22	Ninja	Ninja	PROPN	_	_	28	nsubj	_	_
 23	Gaiden	Gaiden	PROPN	_	_	22	flat	_	_
@@ -196771,21 +196771,21 @@
 9	de	de	ADP	_	_	10	case	_	_
 10	1998	1998	NUM	_	NumForm=Digit|NumType=Card	8	nmod	_	_
 11	titulado	titular	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	8	acl	_	_
-12	The	The	PROPN	_	_	11	xcomp	_	_
-13	Three	Three	PROPN	_	Number=Sing	12	flat	_	_
-14	E.P.	E.p.	PROPN	_	_	12	appos	_	_
+12	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	13	det	_	Lang=en
+13	Three	Three	PROPN	_	Number=Sing	11	xcomp	_	_
+14	E.P.	E.p.	PROPN	_	_	13	appos	_	_
 15	'	'	PUNCT	_	PunctType=Quot	16	punct	_	SpaceAfter=No
 16	s	s	PROPN	_	_	14	dep	_	SpaceAfter=No
-17	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
-18	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	20	case	_	_
+17	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
+18	junto	junto	ADJ	_	ExtPos=ADP|Gender=Masc|Number=Sing	21	case	_	_
 19	a	a	ADP	_	_	18	fixed	_	_
-20	The	The	PROPN	_	_	4	obl	_	_
-21	Patty	Patty	PROPN	_	_	20	flat	_	_
-22	Patty	Patty	PROPN	_	_	20	flat	_	_
-23	Sound	Sound	PROPN	_	_	20	flat	_	_
+20	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	21	det	_	Lang=en
+21	Patty	Patty	PROPN	_	_	4	obl	_	_
+22	Patty	Patty	PROPN	_	_	21	flat	_	_
+23	Sound	Sound	PROPN	_	_	21	flat	_	_
 24	y	y	CCONJ	_	_	26	cc	_	_
 25	Los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	26	det	_	_
-26	Amigos	Amigo	PROPN	_	Gender=Masc|Number=Plur	20	conj	_	_
+26	Amigos	Amigo	PROPN	_	Gender=Masc|Number=Plur	21	conj	_	_
 27-28	del	_	_	_	_	_	_	_	_
 27	de	de	ADP	_	_	30	case	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	30	det	_	_
@@ -203574,11 +203574,11 @@
 9	propio	propio	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
 10	talk	talk	X	_	Gender=Masc|Number=Sing	11	compound	_	_
 11	show	show	NOUN	_	Gender=Masc|Number=Sing	7	appos	_	SpaceAfter=No
-12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-13	The	The	PROPN	_	_	11	appos	_	_
-14	Merv	Merv	PROPN	_	_	13	flat	_	_
-15	Griffin	Griffin	PROPN	_	_	13	flat	_	_
-16	Show	Show	PROPN	_	_	13	flat	_	SpaceAfter=No
+12	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
+13	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en
+14	Merv	Merv	PROPN	_	_	11	appos	_	_
+15	Griffin	Griffin	PROPN	_	_	14	flat	_	_
+16	Show	Show	PROPN	_	_	14	flat	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 18	producido	producir	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	11	acl	_	_
 19	por	por	ADP	_	_	20	case	_	_
@@ -207899,7 +207899,7 @@
 
 # sent_id = es-train-014-s340
 # text = The iRegular project es un proyecto educativo que pretende enseñar los verbos irregulares de una forma visual y sencilla.
-1	The	the	DET	_	PronType=Ind	2	det	_	_
+1	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=en
 2	iRegular	Iregular	PROPN	_	Number=Sing	6	nsubj	_	_
 3	project	project	PROPN	_	Gender=Masc|Number=Sing	2	flat	_	_
 4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	_
@@ -208843,7 +208843,7 @@
 3	año	año	NOUN	_	Gender=Masc|Number=Sing	4	obl	_	_
 4	realizó	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 5	con	con	ADP	_	_	7	case	_	_
-6	The	the	DET	_	PronType=Ind	7	det	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
 7	Jacksons	Jacksons	PROPN	_	_	4	obl	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	tour	tour	X	_	Gender=Masc|Number=Sing	4	nsubj	_	_
@@ -220139,11 +220139,11 @@
 13	de	de	ADP	_	_	15	case	_	_
 14	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	15	det	_	_
 15	albums	album	NOUN	_	Gender=Masc|Number=Plur	12	nmod	_	_
-16	de	de	ADP	_	_	18	case	_	_
-17	"	"	PUNCT	_	PunctType=Quot	18	punct	_	SpaceAfter=No
-18	The	The	PROPN	_	_	15	nmod	_	_
-19	Contours	Contours	PROPN	_	_	18	flat	_	SpaceAfter=No
-20	"	"	PUNCT	_	PunctType=Quot	18	punct	_	SpaceAfter=No
+16	de	de	ADP	_	_	19	case	_	_
+17	"	"	PUNCT	_	PunctType=Quot	19	punct	_	SpaceAfter=No
+18	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	19	det	_	Lang=en
+19	Contours	Contours	PROPN	_	_	15	nmod	_	SpaceAfter=No
+20	"	"	PUNCT	_	PunctType=Quot	19	punct	_	SpaceAfter=No
 21	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
 # sent_id = es-train-015-s247
@@ -221499,17 +221499,17 @@
 # text = Reaparece en The House of the dead 2 y en House of the dead 4 special.
 1	Reaparece	reaparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	11	case	_	_
-3	The	The	PROPN	_	_	1	conj	_	_
-4	House	House	PROPN	_	_	3	flat	_	_
-5	of	of	PROPN	_	Number=Sing	3	flat	_	_
-6	the	the	PROPN	_	Gender=Fem|Number=Sing	3	flat	_	_
-7	dead	dead	PROPN	_	Gender=Fem|Number=Sing	3	flat	_	_
-8	2	2	NUM	_	NumForm=Digit|NumType=Card	3	nummod	_	_
+3	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	4	det	_	Lang=en
+4	House	House	PROPN	_	_	1	conj	_	_
+5	of	of	PROPN	_	Number=Sing	4	flat	_	_
+6	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
+7	dead	dead	PROPN	_	Gender=Fem|Number=Sing	4	flat	_	_
+8	2	2	NUM	_	NumForm=Digit|NumType=Card	4	nummod	_	_
 9	y	y	CCONJ	_	_	2	cc	_	_
 10	en	en	ADP	_	_	11	case	_	_
-11	House	House	PROPN	_	_	3	conj	_	_
+11	House	House	PROPN	_	_	4	conj	_	_
 12	of	of	PROPN	_	Number=Plur	11	flat	_	_
-13	the	the	PROPN	_	Gender=Fem|Number=Sing	11	flat	_	_
+13	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en
 14	dead	dead	PROPN	_	Gender=Fem|Number=Sing	11	flat	_	_
 15	4	4	NUM	_	NumForm=Digit|NumType=Card	11	nummod	_	_
 16	special	special	PROPN	_	Number=Sing	11	appos	_	SpaceAfter=No
@@ -227315,7 +227315,7 @@
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
 2	Hymn	Hymn	PROPN	_	_	7	nsubj	_	_
 3	to	to	PROPN	_	Gender=Masc|Number=Sing	2	flat	_	_
-4	the	the	PROPN	_	Number=Sing	2	flat	_	_
+4	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	5	det	_	Lang=en
 5	Supreme	Supreme	PROPN	_	_	2	flat	_	_
 6	Being	Being	PROPN	_	_	2	flat	_	_
 7	marca	marcar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
@@ -250051,7 +250051,7 @@
 24	Wars	Wars	PROPN	_	_	22	flat	_	_
 25	II	ii	NUM	_	NumForm=Roman|NumType=Card	22	nummod	_	SpaceAfter=No
 26	:	:	PUNCT	_	PunctType=Colo	29	punct	_	_
-27	The	the	DET	_	PronType=Ind	29	det	_	_
+27	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	29	det	_	Lang=en
 28	Original	Original	PROPN	_	_	29	amod	_	_
 29	Trilogy	Trilogy	PROPN	_	_	22	appos	_	SpaceAfter=No
 30	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -253354,16 +253354,16 @@
 1	Tras	tras	ADP	_	_	3	case	_	_
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	éxito	éxito	NOUN	_	Gender=Masc|Number=Sing	17	obl	_	_
-4	de	de	ADP	_	_	6	case	_	_
-5	"	"	PUNCT	_	PunctType=Quot	6	punct	_	SpaceAfter=No
-6	The	The	PROPN	_	Gender=Masc|Number=Sing	3	nmod	_	_
-7	Man	Man	PROPN	_	_	6	flat	_	_
-8	Who	Who	PROPN	_	Gender=Masc|Number=Sing	6	flat	_	_
-9	Can	Can	PROPN	_	_	6	flat	_	_
-10	not	not	PROPN	_	_	6	flat	_	_
-11	Be	Be	PROPN	_	Gender=Masc|Number=Sing	6	flat	_	_
-12	Moved	Moved	PROPN	_	_	6	flat	_	SpaceAfter=No
-13	"	"	PUNCT	_	PunctType=Quot	6	punct	_	SpaceAfter=No
+4	de	de	ADP	_	_	7	case	_	_
+5	"	"	PUNCT	_	PunctType=Quot	7	punct	_	SpaceAfter=No
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
+7	Man	Man	PROPN	_	_	3	nmod	_	_
+8	Who	Who	PROPN	_	Gender=Masc|Number=Sing	7	flat	_	_
+9	Can	Can	PROPN	_	_	7	flat	_	_
+10	not	not	PROPN	_	_	7	flat	_	_
+11	Be	Be	PROPN	_	Gender=Masc|Number=Sing	7	flat	_	_
+12	Moved	Moved	PROPN	_	_	7	flat	_	SpaceAfter=No
+13	"	"	PUNCT	_	PunctType=Quot	7	punct	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
 16	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	17	nsubj	_	_
@@ -254970,7 +254970,7 @@
 28	poca	poco	DET	_	Gender=Fem|Number=Sing|NumType=Card|PronType=Ind	29	det	_	_
 29	suerte	suerte	NOUN	_	Gender=Fem|Number=Sing	23	nmod	_	_
 30	llamada	llamar	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	23	acl	_	_
-31	The	the	DET	_	PronType=Ind	33	det	_	_
+31	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	33	det	_	Lang=en
 32	Lone	Lone	PROPN	_	Number=Sing	33	amod	_	_
 33	Rangers	Rangers	PROPN	_	_	30	xcomp	_	SpaceAfter=No
 34	,	,	PUNCT	_	PunctType=Comm	41	punct	_	_
@@ -255727,7 +255727,7 @@
 7	Plan	Plan	PROPN	_	_	6	flat	_	_
 8	Orange	Orange	PROPN	_	_	6	amod	_	SpaceAfter=No
 9	:	:	PUNCT	_	PunctType=Colo	11	punct	_	_
-10	The	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
+10	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
 11	U.S.	U.s.	PROPN	_	_	6	parataxis	_	_
 12	Strategy	Strategy	PROPN	_	_	11	amod	_	_
 13	to	to	PROPN	_	Gender=Masc|Number=Sing	11	nmod	_	_
@@ -259586,7 +259586,7 @@
 20	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 21	banda	banda	NOUN	_	Gender=Fem|Number=Sing	18	conj	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	25	punct	_	_
-23	The	the	DET	_	PronType=Ind	25	det	_	_
+23	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	25	det	_	Lang=en
 24	Pioneer	Pioneer	PROPN	_	_	25	amod	_	_
 25	Sabouters	Sabouters	PROPN	_	_	21	appos	_	_
 26	-	-	PUNCT	_	PunctType=Dash	28	punct	_	_
@@ -265479,10 +265479,10 @@
 2	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 3	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	4	amod	_	_
 4	disco	disco	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
-5	como	como	SCONJ	_	_	6	case	_	_
-6	The	The	PROPN	_	_	1	obl	_	_
-7	Fat	Fat	PROPN	_	_	6	flat	_	_
-8	Boys	Boys	PROPN	_	_	6	flat	_	SpaceAfter=No
+5	como	como	SCONJ	_	_	7	case	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
+7	Fat	Fat	PROPN	_	_	1	obl	_	_
+8	Boys	Boys	PROPN	_	_	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
 10	y	y	CCONJ	_	_	11	cc	_	_
 11	dieron	dar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	1	conj	_	_
@@ -266577,7 +266577,7 @@
 19	Cathedral	Cathedral	PROPN	_	_	17	appos	_	_
 20	of	of	PROPN	_	_	19	flat	_	_
 21	Christ	Christ	PROPN	_	_	19	flat	_	_
-22	the	the	PROPN	_	Number=Sing	19	flat	_	_
+22	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	23	det	_	Lang=en
 23	Light	Light	PROPN	_	_	19	flat	_	SpaceAfter=No
 24	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	17	punct	_	_
 25	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	_
@@ -267190,7 +267190,7 @@
 36	Sakuraba	Sakuraba	PROPN	_	_	35	flat	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 38	Raising	Raising	PROPN	_	_	33	appos	_	_
-39	the	the	DET	_	Number=Sing|Person=3|PronType=Ind	40	det	_	_
+39	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	40	det	_	Lang=en
 40	Curtain	Curtain	PROPN	_	_	38	obj	_	SpaceAfter=No
 41	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
@@ -267363,17 +267363,17 @@
 3	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	artículo	artículo	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
 5	de	de	ADP	_	_	8	case	_	_
-6	The	the	DET	_	PronType=Ind	8	det	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	8	det	_	Lang=en
 7	Alternate	Alternate	PROPN	_	_	8	amod	_	_
 8	View	View	PROPN	_	_	4	nmod	_	SpaceAfter=No
 9	:	:	PUNCT	_	PunctType=Colo	11	punct	_	_
 10	"	"	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
 11	Boomerang	Boomerang	PROPN	_	_	4	appos	_	_
 12	and	and	CCONJ	_	_	14	cc	_	_
-13	the	the	DET	_	Number=Sing|PronType=Ind	14	det	_	_
+13	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en
 14	Sound	Sound	PROPN	_	_	11	conj	_	_
 15	of	of	ADP	_	_	18	case	_	_
-16	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	18	det	_	_
+16	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
 17	Big	Big	PROPN	_	_	18	amod	_	_
 18	Bang	Bang	PROPN	_	_	14	nmod	_	SpaceAfter=No
 19	"	"	PUNCT	_	PunctType=Quot	11	punct	_	_
@@ -269763,7 +269763,7 @@
 21	originales	original	ADJ	_	Number=Plur	22	amod	_	_
 22	cócteles	cóctel	NOUN	_	Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
 23	,	,	PUNCT	_	PunctType=Comm	4	punct	_	_
-24	The	the	DET	_	PronType=Ind	25	det	_	_
+24	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	25	det	_	Lang=en
 25	Piano	Piano	PROPN	_	Gender=Masc|Number=Sing	27	nsubj	_	_
 26	Bar	Bar	PROPN	_	_	25	flat	_	_
 27	organizará	organizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
@@ -273999,7 +273999,7 @@
 40	de	de	ADP	_	_	42	case	_	_
 41	"	"	PUNCT	_	PunctType=Quot	42	punct	_	SpaceAfter=No
 42	Into	Into	PROPN	_	Gender=Masc|Number=Sing	39	nmod	_	_
-43	the	the	PROPN	_	_	42	flat	_	_
+43	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	44	det	_	Lang=en
 44	Groove	Groove	PROPN	_	_	42	flat	_	SpaceAfter=No
 45	"	"	PUNCT	_	PunctType=Quot	42	punct	_	SpaceAfter=No
 46	.	.	PUNCT	_	PunctType=Peri	20	punct	_	_
@@ -278608,7 +278608,7 @@
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 16	All	All	PROPN	_	_	15	appos	_	_
-17	the	the	PROPN	_	Number=Sing	16	flat	_	_
+17	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
 18	Pretty	Pretty	PROPN	_	_	16	flat	_	_
 19	Little	Little	PROPN	_	_	16	flat	_	_
 20	Horses	Horses	PROPN	_	_	16	flat	_	SpaceAfter=No
@@ -288457,7 +288457,7 @@
 6	ha	haber	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux	_	_
 7	comentado	comentar	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	13	advcl	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-9	The	the	DET	_	PronType=Ind	10	det	_	_
+9	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	10	det	_	Lang=en
 10	Kinks	Kinks	PROPN	_	_	13	nsubj	_	_
 11	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	13	cop	_	_
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
@@ -291861,7 +291861,7 @@
 12	Doctor	Doctor	PROPN	_	_	8	nmod	_	_
 13	Terror	Terror	PROPN	_	_	8	appos	_	_
 14	of	of	PROPN	_	Gender=Masc|Number=Sing	13	flat	_	_
-15	the	the	PROPN	_	Gender=Masc|Number=Sing	13	flat	_	_
+15	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	16	det	_	Lang=en
 16	Autons	Autons	PROPN	_	_	13	flat	_	_
 17	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	18	punct	_	SpaceAfter=No
 18	1971	1971	NUM	_	NumForm=Digit|NumType=Card	13	nmod	_	SpaceAfter=No
@@ -293512,7 +293512,7 @@
 17	editó	editar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	libro	libro	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
-20	The	the	X	_	_	21	compound	_	_
+20	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	21	det	_	Lang=en
 21	Case	case	X	_	_	22	compound	_	_
 22	of	of	X	_	Gender=Masc|Number=Sing	23	compound	_	_
 23	Joe	Joe	PROPN	_	Gender=Masc|Number=Sing	19	appos	_	_
@@ -295587,7 +295587,7 @@
 39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	película	película	NOUN	_	Gender=Fem|Number=Sing	35	obl	_	SpaceAfter=No
 41	,	,	PUNCT	_	PunctType=Comm	43	punct	_	_
-42	The	the	DET	_	PronType=Ind	43	det	_	_
+42	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	43	det	_	Lang=en
 43	Love	Love	PROPN	_	Number=Sing	40	appos	_	_
 44	Bug	Bug	PROPN	_	_	43	flat	_	SpaceAfter=No
 45	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
@@ -302091,7 +302091,7 @@
 22	de	de	ADP	_	_	24	case	_	_
 23	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	24	det	_	_
 24	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	21	nmod	_	_
-25	The	the	X	_	_	26	compound	_	_
+25	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	26	det	_	Lang=en
 26	S.A.T.	s.a.t.	X	_	_	24	appos	_	_
 27	con	con	ADP	_	_	29	case	_	_
 28	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	29	det	_	_
@@ -302758,13 +302758,13 @@
 3	de	de	ADP	_	_	5	case	_	_
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 5	disco	disco	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-6	en	en	ADP	_	_	7	case	_	_
-7	The	The	PROPN	_	_	2	obl	_	_
-8	Tonight	Tonight	PROPN	_	_	7	flat	_	_
-9	Show	Show	PROPN	_	_	7	flat	_	_
-10	with	with	PROPN	_	_	7	flat	_	_
-11	Jay	Jay	PROPN	_	_	7	flat	_	_
-12	Leno	Leno	PROPN	_	_	7	flat	_	SpaceAfter=No
+6	en	en	ADP	_	_	8	case	_	_
+7	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	8	det	_	Lang=en
+8	Tonight	Tonight	PROPN	_	_	2	obl	_	_
+9	Show	Show	PROPN	_	_	8	flat	_	_
+10	with	with	PROPN	_	_	8	flat	_	_
+11	Jay	Jay	PROPN	_	_	8	flat	_	_
+12	Leno	Leno	PROPN	_	_	8	flat	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
 14	Madonna	Madonna	PROPN	_	_	15	nsubj	_	_
 15	explicó	explicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -304265,13 +304265,13 @@
 
 # sent_id = es-train-020-s479
 # text = The Kids Are All Right, titulada en castellano Mi familia en Hispanoamérica y Los chicos están bien en España, es una comedia dramática estrenada el 9 de julio de 2010 en Estados Unidos y el 25 de febrero de 2011 en España.
-1	The	The	PROPN	_	Number=Plur	24	nsubj	_	_
-2	Kids	Kids	PROPN	_	Gender=Masc|Number=Sing	1	flat	_	_
-3	Are	Are	PROPN	_	_	1	flat	_	_
-4	All	All	PROPN	_	_	1	flat	_	_
-5	Right	Right	PROPN	_	_	1	flat	_	SpaceAfter=No
+1	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=en
+2	Kids	Kids	PROPN	_	Gender=Masc|Number=Sing	24	nsubj	_	_
+3	Are	Are	PROPN	_	_	2	flat	_	_
+4	All	All	PROPN	_	_	2	flat	_	_
+5	Right	Right	PROPN	_	_	2	flat	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-7	titulada	titular	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	1	acl	_	_
+7	titulada	titular	VERB	_	Gender=Fem|Number=Sing|VerbForm=Part	2	acl	_	_
 8	en	en	ADP	_	_	9	case	_	_
 9	castellano	castellano	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	_
 10	Mi	mi	DET	_	Number=Sing|Number[psor]=Sing|Person=1|Poss=Yes|PronType=Prs	11	det	_	_
@@ -305354,10 +305354,10 @@
 1	Age	Age	PROPN	_	_	10	nsubj	_	_
 2	of	of	PROPN	_	Number=Sing	1	flat	_	_
 3	Mythology	Mythology	PROPN	_	_	1	flat	_	SpaceAfter=No
-4	:	:	PUNCT	_	PunctType=Colo	5	punct	_	_
-5	The	The	PROPN	_	_	1	appos	_	_
-6	Titans	Titans	PROPN	_	_	5	flat	_	_
-7	Expansion	Expansion	PROPN	_	_	5	flat	_	_
+4	:	:	PUNCT	_	PunctType=Colo	6	punct	_	_
+5	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	6	det	_	Lang=en
+6	Titans	Titans	PROPN	_	_	1	appos	_	_
+7	Expansion	Expansion	PROPN	_	_	6	flat	_	_
 8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 9	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	10	det	_	_
 10	continuación	continuación	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
@@ -308922,14 +308922,14 @@
 2	personaje	personaje	NOUN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
 3	aparece	aparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	actualmente	actualmente	ADV	_	_	3	advmod	_	_
-5	en	en	ADP	_	_	6	case	_	_
-6	The	The	PROPN	_	_	3	obl	_	_
-7	New	New	PROPN	_	_	6	flat	_	_
-8	52	52	NUM	_	NumForm=Digit|NumType=Card	6	nummod	_	SpaceAfter=No
+5	en	en	ADP	_	_	7	case	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
+7	New	New	PROPN	_	_	3	obl	_	_
+8	52	52	NUM	_	NumForm=Digit|NumType=Card	7	nummod	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 10	tambien	también	ADV	_	Typo=Yes	12	advmod	_	CorrectForm=también
 11	de	de	ADP	_	_	12	case	_	_
-12	DC	Dc	PROPN	_	_	6	nmod	_	SpaceAfter=No
+12	DC	Dc	PROPN	_	_	7	nmod	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 14	como	como	SCONJ	_	_	15	case	_	_
 15	protagonista	protagonista	NOUN	_	Number=Sing	3	obl	_	_
@@ -309168,7 +309168,7 @@
 16	OTA	ota	X	_	_	13	obl	_	_
 17	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	18	punct	_	SpaceAfter=No
 18	Over	Over	PROPN	_	_	16	appos	_	_
-19	The	the	DET	_	PronType=Ind	18	det	_	_
+19	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	20	det	_	Lang=en
 20	Air	Air	PROPN	_	_	18	nmod	_	SpaceAfter=No
 21	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	18	punct	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
@@ -312437,10 +312437,10 @@
 13	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	det	_	_
 14	show	show	NOUN	_	Gender=Masc|Number=Sing	8	obl	_	_
 15	parecido	parecido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	14	amod	_	_
-16	a	a	ADP	_	_	17	case	_	_
-17	The	The	PROPN	_	_	15	nmod	_	_
-18	Jerry	Jerry	PROPN	_	_	17	flat	_	_
-19	Springer	Springer	PROPN	_	_	17	flat	_	SpaceAfter=No
+16	a	a	ADP	_	_	18	case	_	_
+17	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
+18	Jerry	Jerry	PROPN	_	_	15	nmod	_	_
+19	Springer	Springer	PROPN	_	_	18	flat	_	SpaceAfter=No
 20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-021-s236
@@ -318035,12 +318035,12 @@
 10	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	11	det	_	_
 11	grupo	grupo	NOUN	_	Gender=Masc|Number=Sing	4	obj	_	_
 12	paralelo	paralelo	ADJ	_	Gender=Masc|Number=Sing	11	amod	_	_
-13	a	a	ADP	_	_	14	case	_	_
-14	The	The	PROPN	_	_	11	nmod	_	_
-15	Bad	Bad	PROPN	_	_	14	flat	_	_
-16	Seeds	Seeds	PROPN	_	_	14	flat	_	_
+13	a	a	ADP	_	_	15	case	_	_
+14	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	15	det	_	Lang=en
+15	Bad	Bad	PROPN	_	_	11	nmod	_	_
+16	Seeds	Seeds	PROPN	_	_	15	flat	_	_
 17	que	que	PRON	_	PronType=Rel	18	nsubj	_	_
-18	publicó	publicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	14	acl:relcl	_	_
+18	publicó	publicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	15	acl:relcl	_	_
 19	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	21	det	_	_
 20	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	21	amod	_	_
 21	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
@@ -318198,7 +318198,7 @@
 9	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	aux:pass	_	_
 10	despedido	despedir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 11	de	de	ADP	_	_	13	case	_	_
-12	The	the	DET	_	PronType=Ind	13	det	_	_
+12	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	13	det	_	Lang=en
 13	Eagles	Eagles	PROPN	_	_	10	obl	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
 15	respondió	responder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	10	conj	_	_
@@ -319168,7 +319168,7 @@
 7	prensa	prensa	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
 8	en	en	ADP	_	_	9	case	_	_
 9	Engineering	Engineering	PROPN	_	_	5	nmod	_	_
-10	The	the	DET	_	PronType=Ind	11	det	_	_
+10	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
 11	Impossible	Impossible	PROPN	_	Number=Sing	9	obj	_	_
 12	de	de	ADP	_	_	13	case	_	_
 13	Discovery	Discovery	PROPN	_	_	9	nmod	_	_
@@ -327292,7 +327292,7 @@
 14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 15	autor	autor	NOUN	_	Gender=Masc|Number=Sing	12	appos	_	_
 16	de	de	ADP	_	_	18	case	_	_
-17	The	the	DET	_	PronType=Ind	18	det	_	_
+17	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	18	det	_	Lang=en
 18	Pinetum	Pinetum	PROPN	_	_	15	nmod	_	_
 19	Britannicum	Britannicum	PROPN	_	_	18	amod	_	_
 20	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	21	punct	_	SpaceAfter=No
@@ -327463,7 +327463,7 @@
 13	en	en	ADP	_	_	14	case	_	_
 14	inglés	inglés	NOUN	_	Gender=Masc|Number=Sing	12	obl	_	_
 15	como	como	SCONJ	_	_	20	case	_	_
-16	The	the	DET	_	PronType=Ind	20	det	_	_
+16	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	20	det	_	Lang=en
 17	Ever	Ever	PROPN	_	_	19	obl	_	_
 18	-	-	PUNCT	_	PunctType=Dash	17	punct	_	_
 19	Present	Present	PROPN	_	Gender=Masc|Number=Sing	20	amod	_	_
@@ -330462,7 +330462,7 @@
 37	a	a	ADP	_	_	39	case	_	_
 38	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	39	det	_	_
 39	organización	organización	NOUN	_	Gender=Fem|Number=Sing	36	nmod	_	_
-40	The	the	DET	_	PronType=Ind	41	det	_	_
+40	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	41	det	_	Lang=en
 41	Ant	Ant	PROPN	_	_	39	appos	_	_
 42	Society	Society	PROPN	_	_	41	flat	_	_
 43	de	de	ADP	_	_	44	case	_	_
@@ -334097,7 +334097,7 @@
 29	*	*	SYM	_	_	24	appos	_	_
 30	GL	gl	X	_	_	29	appos	_	SpaceAfter=No
 31	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	29	punct	_	_
-32	The	the	DET	_	PronType=Ind	33	det	_	_
+32	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	33	det	_	Lang=en
 33	Balé	Balé	PROPN	_	_	22	appos	_	SpaceAfter=No
 34	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -334447,7 +334447,7 @@
 
 # sent_id = es-train-022-s444
 # text = The deer hunters es el 4to episodio de la serie de televisión norteamericana Gilmore Girls.
-1	The	the	DET	_	PronType=Ind	2	det	_	_
+1	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=en
 2	deer	deer	PROPN	_	VerbForm=Inf	7	nsubj	_	_
 3	hunters	hunter	PROPN	_	Gender=Masc|Number=Plur	2	flat	_	_
 4	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	_
@@ -335724,8 +335724,8 @@
 12	've	've	X	_	_	11	dep	_	_
 13	gone	goner	X	_	Number=Sing|Person=3	14	compound	_	_
 14	weirder	weirder	X	_	VerbForm=Inf	15	compound	_	_
-15	with	with	X	_	_	16	compound	_	_
-16	the	the	X	_	Gender=Masc|Number=Sing	17	compound	_	_
+15	with	with	X	_	_	17	compound	_	_
+16	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	17	det	_	Lang=en
 17	music	music	X	_	Gender=Masc|Number=Sing	19	compound	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 19	but	but	X	_	Gender=Masc|Number=Sing	20	compound	_	_
@@ -336135,7 +336135,7 @@
 6	actual	actual	ADJ	_	Number=Sing	7	amod	_	_
 7	equipo	equipo	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	_
 8	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	_
-9	The	the	X	_	_	10	compound	_	_
+9	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	10	det	_	Lang=en
 10	Rangers	rangers	X	_	_	11	compound	_	_
 11	Football	football	X	_	Gender=Masc|Number=Sing	12	compound	_	_
 12	Club	club	X	_	_	7	acl:relcl	_	_
@@ -344323,7 +344323,7 @@
 17	New	New	PROPN	_	_	15	conj	_	_
 18	Kids	Kids	PROPN	_	_	17	conj	_	_
 19	on	on	PROPN	_	Number=Plur	17	flat	_	_
-20	the	the	PROPN	_	Gender=Masc|Number=Sing	17	flat	_	_
+20	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	21	det	_	Lang=en
 21	Block	Block	PROPN	_	_	17	flat	_	_
 22	que	que	PRON	_	PronType=Rel	24	nsubj	_	_
 23	me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	24	obl:arg	_	_
@@ -347725,7 +347725,7 @@
 29	-	-	PUNCT	_	PunctType=Dash	30	punct	_	_
 30	in	in	PROPN	_	_	28	flat	_	_
 31	-	-	PUNCT	_	PunctType=Dash	32	punct	_	_
-32	the	the	PROPN	_	Gender=Masc|Number=Sing	28	flat	_	_
+32	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	34	det	_	Lang=en
 33	-	-	PUNCT	_	PunctType=Dash	34	punct	_	_
 34	Square	Square	PROPN	_	Gender=Masc|Number=Sing	28	flat	_	_
 35	Theatre	Theatre	PROPN	_	_	28	flat	_	_
@@ -350378,8 +350378,8 @@
 7	Girls	Girls	PROPN	_	_	5	xcomp	_	_
 8	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	12	punct	_	SpaceAfter=No
 9	Who	who	X	_	Gender=Masc|Number=Sing	10	compound	_	_
-10	Run	run	X	_	_	11	compound	_	_
-11	The	the	X	_	Number=Sing	12	compound	_	_
+10	Run	run	X	_	_	12	compound	_	_
+11	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	12	det	_	Lang=en
 12	World	world	X	_	_	7	appos	_	SpaceAfter=No
 13	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	12	punct	_	SpaceAfter=No
 14	"	"	PUNCT	_	PunctType=Quot	7	punct	_	SpaceAfter=No
@@ -358813,7 +358813,7 @@
 36	Sakuraba	Sakuraba	PROPN	_	_	35	flat	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 38	Raising	Raising	PROPN	_	_	33	appos	_	_
-39	the	the	DET	_	Number=Sing|Person=3|PronType=Ind	40	det	_	_
+39	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	40	det	_	Lang=en
 40	Curtain	Curtain	PROPN	_	_	38	obj	_	SpaceAfter=No
 41	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
 
@@ -360600,8 +360600,8 @@
 
 # sent_id = es-train-024-s281
 # text = The Magician explica que no puede recibir órdenes de una criatura inferior, como son los seres humanos.
-1	The	The	PROPN	_	Gender=Masc|Number=Sing	3	nsubj	_	_
-2	Magician	Magician	PROPN	_	_	1	flat	_	_
+1	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=en
+2	Magician	Magician	PROPN	_	_	3	nsubj	_	_
 3	explica	explicar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 4	que	que	SCONJ	_	_	7	mark	_	_
 5	no	no	ADV	_	Polarity=Neg	7	advmod	_	_
@@ -361382,15 +361382,15 @@
 1	Aunque	aunque	SCONJ	_	_	3	mark	_	_
 2	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	3	aux:pass	_	_
 3	vendido	vender	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	ccomp	_	_
-4	primero	primero	ADV	_	_	6	advmod	_	_
-5	a	a	ADP	_	_	6	case	_	_
-6	The	The	PROPN	_	_	3	obl:arg	_	_
-7	American	American	PROPN	_	_	6	flat	_	_
-8	Review	Review	PROPN	_	_	6	flat	_	SpaceAfter=No
+4	primero	primero	ADV	_	_	7	advmod	_	_
+5	a	a	ADP	_	_	7	case	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
+7	American	American	PROPN	_	_	3	obl:arg	_	_
+8	Review	Review	PROPN	_	_	7	flat	_	SpaceAfter=No
 9	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 10	que	que	PRON	_	PronType=Rel	12	nsubj	_	_
 11	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
-12	imprimió	imprimir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	acl:relcl	_	_
+12	imprimió	imprimir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
 13	en	en	ADP	_	_	14	case	_	_
 14	1845	1845	NUM	_	NumForm=Digit|NumType=Card	12	obl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
@@ -362519,7 +362519,7 @@
 10	de	de	ADP	_	_	12	case	_	_
 11	Somewhere	Somewhere	PROPN	_	_	12	nmod	_	_
 12	Along	Along	PROPN	_	_	9	nmod	_	_
-13	the	the	DET	_	Number=Sing|PronType=Ind	14	det	_	_
+13	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en
 14	Highway	Highway	PROPN	_	_	12	nmod	_	_
 15	en	en	ADP	_	_	16	case	_	_
 16	2006	2006	NUM	_	NumForm=Digit|NumType=Card	9	nmod	_	SpaceAfter=No
@@ -369384,8 +369384,8 @@
 31	gira	gira	NOUN	_	Gender=Fem|Number=Sing	26	obl	_	_
 32	de	de	ADP	_	_	37	case	_	_
 33	Queens	queens	X	_	_	34	compound	_	_
-34	of	of	X	_	Gender=Masc|Number=Sing	35	compound	_	_
-35	the	the	X	_	Gender=Masc|Number=Sing	36	compound	_	_
+34	of	of	X	_	Gender=Masc|Number=Sing	36	compound	_	_
+35	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	36	det	_	Lang=en
 36	Stone	stone	X	_	_	37	compound	_	_
 37	Age	age	X	_	_	31	nmod	_	SpaceAfter=No
 38	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -376524,7 +376524,7 @@
 5	director	director	NOUN	_	Gender=Masc|Number=Sing	2	appos	_	_
 6	general	general	ADJ	_	Number=Sing	5	amod	_	_
 7	de	de	ADP	_	_	9	case	_	_
-8	The	the	DET	_	PronType=Ind	9	det	_	_
+8	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	9	det	_	Lang=en
 9	Yeatman	Yeatman	PROPN	_	_	5	nmod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
 11	"	"	PUNCT	_	PunctType=Quot	2	punct	_	SpaceAfter=No
@@ -379640,7 +379640,7 @@
 7	con	con	ADP	_	_	11	case	_	_
 8	'	'	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
 9	All	all	DET	_	PronType=Ind	11	det	_	_
-10	the	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	11	det	_	_
+10	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	11	det	_	Lang=en
 11	Lovers	Lovers	PROPN	_	_	4	obl	_	SpaceAfter=No
 12	'	'	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
@@ -384345,9 +384345,9 @@
 9	que	que	SCONJ	_	_	16	mark	_	_
 10	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	11	det	_	_
 11	pulgas	pulga	NOUN	_	Gender=Fem|Number=Plur	16	nsubj	_	_
-12	en	en	ADP	_	_	13	case	_	_
-13	The	The	PROPN	_	_	11	nmod	_	_
-14	Professor	Professor	PROPN	_	_	13	flat	_	_
+12	en	en	ADP	_	_	14	case	_	_
+13	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	14	det	_	Lang=en
+14	Professor	Professor	PROPN	_	_	11	nmod	_	_
 15	son	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	_
 16	reales	real	ADJ	_	Number=Plur	8	ccomp	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
@@ -388687,7 +388687,7 @@
 13	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	14	det	_	_
 14	discoteca	discoteca	NOUN	_	Gender=Fem|Number=Sing	11	nmod	_	_
 15	porteña	porteño	ADJ	_	Gender=Fem|Number=Sing	14	amod	_	_
-16	The	the	DET	_	PronType=Ind	17	det	_	_
+16	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	17	det	_	Lang=en
 17	Roxy	Roxy	PROPN	_	_	14	appos	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 19	y	y	CCONJ	_	_	21	cc	_	_
@@ -390467,15 +390467,15 @@
 15	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	16	det	_	_
 16	canción	canción	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 17	popular	popular	ADJ	_	Number=Sing	16	amod	_	_
-18	de	de	ADP	_	_	19	case	_	_
-19	The	The	PROPN	_	_	16	nmod	_	_
-20	Crystal	Crystal	PROPN	_	_	19	flat	_	_
-21	Method	Method	PROPN	_	_	19	flat	_	SpaceAfter=No
+18	de	de	ADP	_	_	20	case	_	_
+19	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	20	det	_	Lang=en
+20	Crystal	Crystal	PROPN	_	_	16	nmod	_	_
+21	Method	Method	PROPN	_	_	20	flat	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	24	punct	_	_
 23	"	"	PUNCT	_	PunctType=Quot	24	punct	_	SpaceAfter=No
-24	Now	Now	PROPN	_	_	19	appos	_	_
+24	Now	Now	PROPN	_	_	20	appos	_	_
 25	is	is	PROPN	_	Gender=Masc	24	flat	_	_
-26	the	the	PROPN	_	Number=Sing	24	flat	_	_
+26	the	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	27	det	_	Lang=en
 27	Time	Time	PROPN	_	_	24	flat	_	SpaceAfter=No
 28	"	"	PUNCT	_	PunctType=Quot	24	punct	_	SpaceAfter=No
 29	.	.	PUNCT	_	PunctType=Peri	16	punct	_	_
@@ -397506,7 +397506,7 @@
 
 # sent_id = es-train-027-s2
 # text = The Cleveland Show fue nominado en la categoría "Best New TV Comedy" en los 36 º People 's Choice Awards pero perdió contra Glee.
-1	The	the	DET	_	Gender=Masc|Number=Sing|PronType=Ind	2	det	_	_
+1	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=en
 2	Cleveland	Cleveland	PROPN	_	_	5	nsubj:pass	_	_
 3	Show	Show	PROPN	_	_	2	flat	_	_
 4	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
@@ -401186,11 +401186,11 @@
 6	en	en	ADP	_	_	8	case	_	_
 7	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 8	cuento	contar	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
-9	The	The	PROPN	_	_	8	appos	_	_
-10	hound	hound	PROPN	_	Number=Sing	9	flat	_	_
+9	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	10	det	_	Lang=en
+10	hound	hound	PROPN	_	Number=Sing	8	appos	_	_
 11	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	13	punct	_	SpaceAfter=No
 12	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
-13	sabueso	sabueso	NOUN	_	Gender=Masc|Number=Sing	9	appos	_	SpaceAfter=No
+13	sabueso	sabueso	NOUN	_	Gender=Masc|Number=Sing	10	appos	_	SpaceAfter=No
 14	,	,	PUNCT	_	PunctType=Comm	15	punct	_	_
 15	1922	1922	NUM	_	NumForm=Digit|NumType=Card	13	appos	_	SpaceAfter=No
 16	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	13	punct	_	SpaceAfter=No
@@ -406294,7 +406294,7 @@
 9	nuestros	nuestro	DET	_	Gender=Masc|Number=Plur|Number[psor]=Plur|Person=1|Poss=Yes|PronType=Prs	10	det	_	_
 10	cuerpos	cuerpo	NOUN	_	Gender=Masc|Number=Plur	7	obl	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-12	The	the	DET	_	PronType=Ind	13	det	_	_
+12	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	13	det	_	Lang=en
 13	Ting	Ting	PROPN	_	_	28	nsubj	_	_
 14	Tings	Tings	PROPN	_	_	13	flat	_	_
 15	y	y	CCONJ	_	_	17	cc	_	_
@@ -407768,7 +407768,7 @@
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	Avengers	Avengers	PROPN	_	_	18	obl	_	SpaceAfter=No
 6	:	:	PUNCT	_	PunctType=Colo	8	punct	_	_
-7	The	the	DET	_	PronType=Ind	8	det	_	_
+7	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	8	det	_	Lang=en
 8	Ultimate	Ultimate	PROPN	_	Number=Sing	5	appos	_	_
 9	Guide	Guide	PROPN	_	_	8	flat	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
@@ -409493,10 +409493,10 @@
 
 # sent_id = es-train-027-s403
 # text = The Rolling Stones British Tour 1966 fue una gira de conciertos musicales realizada por la banda, que comenzó el 23 de septiembre de 1966 y finalizó el 9 de octubre del mismo añ12o.
-1	The	The	PROPN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
-2	Rolling	Rolling	PROPN	_	_	1	flat	_	_
-3	Stones	Stones	PROPN	_	_	1	flat	_	_
-4	British	British	PROPN	_	_	1	flat	_	_
+1	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	2	det	_	Lang=en
+2	Rolling	Rolling	PROPN	_	_	9	nsubj	_	_
+3	Stones	Stones	PROPN	_	_	2	flat	_	_
+4	British	British	PROPN	_	_	2	flat	_	_
 5	Tour	Tour	PROPN	_	_	4	flat	_	_
 6	1966	1966	NUM	_	NumForm=Digit|NumType=Card	4	nmod	_	_
 7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	cop	_	_
@@ -411390,7 +411390,7 @@
 21	de	de	ADP	_	_	22	case	_	_
 22	Charles	Charles	PROPN	_	_	19	nmod	_	_
 23	Beaumont	Beaumont	PROPN	_	_	22	flat	_	_
-24	The	the	DET	_	PronType=Ind	25	det	_	_
+24	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	25	det	_	Lang=en
 25	Crooked	Crooked	PROPN	_	_	19	appos	_	_
 26	Man	Man	PROPN	_	_	25	flat	_	_
 27	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	28	punct	_	SpaceAfter=No
@@ -412306,7 +412306,7 @@
 1	«	«	PUNCT	_	PunctType=Quot	2	punct	_	SpaceAfter=No
 2	Walk	Walk	PROPN	_	_	20	nsubj	_	_
 3	On	On	PROPN	_	Gender=Masc|Number=Sing	2	flat	_	_
-4	The	The	PROPN	_	_	2	flat	_	_
+4	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	5	det	_	Lang=en
 5	Water	Water	PROPN	_	_	2	flat	_	SpaceAfter=No
 6	»	»	PUNCT	_	PunctType=Quot	2	punct	_	_
 7	-	-	PUNCT	_	PunctType=Dash	9	punct	_	_
@@ -412329,10 +412329,10 @@
 24	de	de	ADP	_	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	álbum	álbum	NOUN	_	Gender=Masc|Number=Sing	20	nmod	_	_
-27	The	The	PROPN	_	_	26	appos	_	_
-28	Lost	Lost	PROPN	_	_	27	flat	_	_
-29	Get	Get	PROPN	_	_	27	flat	_	_
-30	Found	Found	PROPN	_	_	27	flat	_	_
+27	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	28	det	_	Lang=en
+28	Lost	Lost	PROPN	_	_	26	appos	_	_
+29	Get	Get	PROPN	_	_	28	flat	_	_
+30	Found	Found	PROPN	_	_	28	flat	_	_
 31	de	de	ADP	_	_	33	case	_	_
 32	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 33	cantante	cantante	NOUN	_	Number=Sing	26	nmod	_	_
@@ -422149,7 +422149,7 @@
 7	sexualidad	sexualidad	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 8	transespecies	transespecie	ADJ	_	Number=Plur	7	amod	_	_
 9	en	en	ADP	_	_	12	case	_	_
-10	The	the	DET	_	PronType=Ind	12	det	_	_
+10	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	12	det	_	Lang=en
 11	Left	Left	PROPN	_	_	12	amod	_	_
 12	Hand	Hand	PROPN	_	_	7	nmod	_	_
 13	of	of	X	_	_	14	case	_	_
@@ -424212,7 +424212,7 @@
 1	Redknapp	Redknapp	PROPN	_	_	2	nsubj	_	_
 2	habló	hablar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	para	para	ADP	_	_	5	case	_	_
-4	The	the	DET	_	PronType=Ind	5	det	_	_
+4	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	5	det	_	Lang=en
 5	Sun	Sun	PROPN	_	_	2	obl	_	_
 6	y	y	CCONJ	_	_	8	cc	_	_
 7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
@@ -427512,7 +427512,7 @@
 2	fundaron	fundar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	empresa	empresa	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
-5	The	the	DET	_	PronType=Ind	6	det	_	_
+5	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	6	det	_	Lang=en
 6	Vivero	Vivero	PROPN	_	_	4	appos	_	_
 7	Iron	Iron	PROPN	_	_	6	flat	_	_
 8	Ore	Ore	PROPN	_	_	6	flat	_	_
@@ -428656,9 +428656,9 @@
 6	pronto	pronto	ADV	_	_	8	advmod	_	_
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	hizo	hacer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
-9	The	The	PROPN	_	Number=Sing	13	nsubj	_	_
-10	Crystal	Crystal	PROPN	_	Number=Sing	9	flat	_	_
-11	Method	Method	PROPN	_	_	9	flat	_	_
+9	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	10	det	_	Lang=en
+10	Crystal	Crystal	PROPN	_	Number=Sing	13	nsubj	_	_
+11	Method	Method	PROPN	_	_	10	flat	_	_
 12	más	más	ADV	_	Degree=Cmp	13	advmod	_	_
 13	populares	popular	ADJ	_	Number=Plur	8	xcomp	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
@@ -430724,8 +430724,8 @@
 3	en	en	ADP	_	_	4	case	_	_
 4	1960	1960	NUM	_	NumForm=Digit|NumType=Card	2	nmod	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-6	The	The	PROPN	_	_	9	nsubj:pass	_	_
-7	Boss	Boss	PROPN	_	_	6	flat	_	_
+6	The	the	DET	_	Definite=Def|Foreign=Yes|PronType=Art	7	det	_	Lang=en
+7	Boss	Boss	PROPN	_	_	9	nsubj:pass	_	_
 8	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	9	aux:pass	_	_
 9	enviada	enviar	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	0	root	_	_
 10-11	al	_	_	_	_	_	_	_	_
