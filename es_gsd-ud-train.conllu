@@ -218735,7 +218735,7 @@
 12	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 13	Fécamp	Fécamp	PROPN	_	_	14	nsubj	_	_
 14	tiene	tener	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
-15	une	unir	DET	_	Gender=Masc|Number=Sing|PronType=Ind	17	det	_	_
+15	une	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art|Typo=Yes	17	det	_	CorrectForm=una
 16	importante	importante	ADJ	_	Number=Sing	17	amod	_	_
 17	actividad	actividad	NOUN	_	Gender=Fem|Number=Sing	14	obj	_	_
 18	pesquera	pesquero	ADJ	_	Gender=Fem|Number=Sing	17	amod	_	_
