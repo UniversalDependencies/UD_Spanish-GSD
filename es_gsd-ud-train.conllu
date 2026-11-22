@@ -100275,7 +100275,7 @@
 8	Lord	Lord	PROPN	_	_	10	nsubj	_	_
 9	Will	Will	PROPN	_	_	10	nmod	_	_
 10	Make	Make	PROPN	_	_	3	nsubj	_	_
-11	a	a	DET	_	PronType=Ind	12	det	_	_
+11	a	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	12	det	_	Lang=en
 12	Way	Way	PROPN	_	_	10	obj	_	SpaceAfter=No
 13	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
@@ -110274,7 +110274,7 @@
 20	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 21	Bird	Bird	PROPN	_	_	8	conj	_	_
 22	on	on	PROPN	_	Number=Plur	21	flat	_	_
-23	a	a	PROPN	_	_	21	flat	_	_
+23	a	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	24	det	_	Lang=en
 24	Wire	Wire	PROPN	_	_	21	flat	_	_
 25	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	26	punct	_	SpaceAfter=No
 26	1990	1990	NUM	_	NumForm=Digit|NumType=Card	21	nmod	_	SpaceAfter=No
@@ -112055,7 +112055,7 @@
 13	de	de	ADP	_	_	14	case	_	_
 14	Melitón	Melitón	PROPN	_	_	12	nmod	_	_
 15	de	de	ADP	_	_	17	case	_	_
-16	A	a	DET	_	PronType=Ind	17	det	_	_
+16	A	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	17	det	_	Lang=en
 17	Voice	Voice	PROPN	_	_	12	nmod	_	_
 18	of	of	ADP	_	_	19	case	_	_
 19	Warning	Warning	PROPN	_	_	17	nmod	_	SpaceAfter=No
@@ -155187,7 +155187,7 @@
 1	Young	Young	PROPN	_	_	8	nsubj	_	_
 2	Man	Man	PROPN	_	Number=Plur	1	flat	_	_
 3	with	with	PROPN	_	_	1	flat	_	_
-4	a	a	PROPN	_	_	1	flat	_	_
+4	a	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	5	det	_	Lang=en
 5	Horn	Horn	PROPN	_	_	1	flat	_	_
 6	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	_
 7	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	8	det	_	_
@@ -266689,7 +266689,7 @@
 10	"	"	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
 11	Life	Life	PROPN	_	Gender=Masc|Number=Sing	8	nmod	_	_
 12	is	is	PROPN	_	Number=Sing	11	flat	_	_
-13	a	a	PROPN	_	_	11	flat	_	_
+13	a	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	15	det	_	Lang=en
 14	Long	Long	PROPN	_	_	11	flat	_	_
 15	Song	Song	PROPN	_	_	11	flat	_	SpaceAfter=No
 16	"	"	PUNCT	_	PunctType=Quot	11	punct	_	SpaceAfter=No
@@ -270293,7 +270293,7 @@
 40	documental	documental	NOUN	_	Gender=Masc|Number=Sing	37	obl	_	_
 41	de	de	ADP	_	_	42	case	_	_
 42	1995	1995	NUM	_	NumForm=Digit|NumType=Card	40	nummod	_	_
-43	A	a	DET	_	PronType=Ind	45	det	_	_
+43	A	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	45	det	_	Lang=en
 44	Personal	Personal	PROPN	_	_	45	amod	_	_
 45	Journey	Journey	PROPN	_	_	40	appos	_	_
 46	with	with	ADP	_	_	48	case	_	_
@@ -274913,7 +274913,7 @@
 32	y	y	CCONJ	_	_	34	cc	_	_
 33	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	34	det	_	_
 34	directo	directo	NOUN	_	Gender=Masc|Number=Sing	29	conj	_	_
-35	A	a	DET	_	PronType=Ind	36	det	_	_
+35	A	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	36	det	_	Lang=en
 36	little	little	PROPN	_	Number=Sing	37	obl	_	_
 37	south	south	PROPN	_	Gender=Fem|Number=Sing	34	appos	_	_
 38	of	of	ADP	_	_	39	case	_	_
@@ -336099,9 +336099,9 @@
 6	muchas	mucho	DET	_	Gender=Fem|Number=Plur|NumType=Card|PronType=Ind	7	det	_	_
 7	bandas	banda	NOUN	_	Gender=Fem|Number=Plur	12	obl	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
-9	A	A	PROPN	_	_	12	nsubj	_	_
-10	Perfect	Perfect	PROPN	_	_	9	flat	_	_
-11	Circle	Circle	PROPN	_	_	9	flat	_	_
+9	A	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	10	det	_	Lang=en
+10	Perfect	Perfect	PROPN	_	_	12	nsubj	_	_
+11	Circle	Circle	PROPN	_	_	10	flat	_	_
 12	añadieron	añadir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 13	pequeños	pequeño	ADJ	_	Gender=Masc|Number=Plur	14	amod	_	_
 14	detalles	detalle	NOUN	_	Gender=Masc|Number=Plur	12	obj	_	_
@@ -380570,7 +380570,7 @@
 57	y	y	CCONJ	_	_	59	cc	_	_
 58	"	"	PUNCT	_	PunctType=Quot	59	punct	_	SpaceAfter=No
 59	Like	Like	PROPN	_	_	42	conj	_	_
-60	a	a	ADP	_	_	61	case	_	_
+60	a	a	DET	_	Definite=Ind|Foreign=Yes|PronType=Art	61	det	_	Lang=en
 61	Prayer	Prayer	PROPN	_	_	59	nmod	_	SpaceAfter=No
 62	"	"	PUNCT	_	PunctType=Quot	59	punct	_	SpaceAfter=No
 63	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
