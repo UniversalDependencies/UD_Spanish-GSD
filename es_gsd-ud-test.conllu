@@ -1872,7 +1872,7 @@
 # text = Viollet - le - Duc realizó un extenso estudio de la arquitectura gótica y se dispouso a reconstruir y completar las obras inconclusas de la época.
 1	Viollet	Viollet	PROPN	_	_	6	nsubj	_	_
 2	-	-	PUNCT	_	PunctType=Dash	5	punct	_	_
-3	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	5	det	_	_
+3	le	le	DET	_	Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art	5	det	_	Lang=fr
 4	-	-	PUNCT	_	PunctType=Dash	3	punct	_	_
 5	Duc	Duc	PROPN	_	_	1	appos	_	_
 6	realizó	realizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
@@ -2828,9 +2828,9 @@
 34	Rhône	Rhône	PROPN	_	_	30	flat	_	_
 35	y	y	CCONJ	_	_	36	cc	_	_
 36	cantón	cantón	NOUN	_	Gender=Masc|Number=Sing	28	conj	_	_
-37	de	de	ADP	_	_	38	case	_	_
-38	Le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	36	nmod	_	_
-39	Cheylard	Cheylard	PROPN	_	_	38	flat	_	SpaceAfter=No
+37	de	de	ADP	_	_	39	case	_	_
+38	Le	le	DET	_	Definite=Def|Foreign=Yes|Gender=Masc|Number=Sing|PronType=Art	39	det	_	Lang=fr
+39	Cheylard	Cheylard	PROPN	_	_	36	nmod	_	SpaceAfter=No
 40	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-dev-004-s9
@@ -4394,10 +4394,10 @@
 36	muerte	muerte	NOUN	_	Gender=Fem|Number=Sing	25	obl	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	38	punct	_	_
 38	llamado	llamar	VERB	_	Gender=Masc|Number=Sing|VerbForm=Part	24	acl	_	_
-39	La	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
+39	La	le	DET	_	Definite=Def|Foreign=Yes|Gender=Fem|Number=Sing|PronType=Art	40	det	_	Lang=fr
 40	pudeur	pudeur	PROPN	_	_	38	xcomp	_	_
 41	ou	ou	CCONJ	_	_	43	cc	_	_
-42	l'	l'	DET	_	Gender=Masc|Number=Sing|PronType=Ind	43	det	_	SpaceAfter=No
+42	l'	le	DET	_	Definite=Def|Foreign=Yes|Gender=Fem|Number=Sing|PronType=Art	43	det	_	Lang=fr|SpaceAfter=No
 43	impudeur	impudeur	PROPN	_	Gender=Masc|Number=Sing	40	conj	_	_
 44	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	47	punct	_	SpaceAfter=No
 45	"	"	PUNCT	_	PunctType=Quot	47	punct	_	SpaceAfter=No
