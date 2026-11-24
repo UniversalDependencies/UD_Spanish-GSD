@@ -12735,7 +12735,7 @@
 18	,	,	PUNCT	_	PunctType=Comm	21	punct	_	_
 19	con	con	ADP	_	_	21	case	_	_
 20	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	21	det	_	_
-21	fresquito	fresquito	NOUN	_	Gender=Masc|Number=Sing	9	obl	_	_
+21	fresquito	fresquito	ADJ	_	Gender=Masc|Number=Sing	9	obl	_	_
 22	que	que	SCONJ	_	_	23	mark	_	_
 23	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	_
 24	Jaén	Jaén	PROPN	_	_	23	nsubj	_	SpaceAfter=No
