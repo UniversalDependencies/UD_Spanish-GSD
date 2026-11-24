@@ -367942,7 +367942,7 @@
 27	cerveza	cerveza	NOUN	_	Gender=Fem|Number=Sing	30	nsubj	_	_
 28	este	estar	AUX	_	Mood=Ind|Number=Sing|VerbForm=Fin	30	cop	_	_
 29	siempre	siempre	ADV	_	_	30	advmod	_	_
-30	frequita	frequitar	ADJ	_	Gender=Fem|Number=Sing	24	ccomp	_	_
+30	frequita	fresquito	ADJ	_	Gender=Fem|Number=Sing|Typo=Yes	24	ccomp	_	CorrectForm=fresquita
 31	en	en	ADP	_	_	32	case	_	_
 32	verano	verano	NOUN	_	Gender=Masc|Number=Sing	30	nmod	_	_
 33	y	y	CCONJ	_	_	38	cc	_	_
