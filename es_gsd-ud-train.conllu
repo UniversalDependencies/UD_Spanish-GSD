@@ -246910,7 +246910,7 @@
 8	contacta	contactar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	1	conj	_	_
 9	conmigo	yo	PRON	_	Case=Com|Number=Sing|Person=1|PronType=Prs	8	obl	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	11	punct	_	_
-11	verás	ver	VERB	_	Mood=Ind|VerbForm=Fin	1	parataxis	_	_
+11	verás	ver	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	1	parataxis	_	_
 12	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 13	diferencia	diferencia	NOUN	_	Gender=Fem|Number=Sing	11	obj	_	SpaceAfter=No
 14	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
@@ -424474,7 +424474,7 @@
 15	ellos	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs	13	obl	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 17	te	tú	PRON	_	Case=Acc,Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs|Reflex=Yes	18	obj	_	_
-18	verás	ver	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	2	parataxis	_	_
+18	verás	ver	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	2	parataxis	_	_
 19	mejor	mejor	ADV	_	_	20	advmod	_	_
 20	atendido	atendido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	18	xcomp	_	_
 21	por	por	ADP	_	_	23	case	_	_
