@@ -253723,7 +253723,7 @@
 12	sobre	sobre	ADP	_	_	13	case	_	_
 13	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	15	obl	_	_
 14	si	si	SCONJ	_	_	15	mark	_	_
-15	vienes	venir	VERB	_	Mood=Ind|Number=Plur|VerbForm=Fin	10	advcl	_	_
+15	vienes	venir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	advcl	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	lejos	lejos	ADV	_	_	15	advmod	_	_
 18	y	y	CCONJ	_	_	19	cc	_	_
@@ -387663,7 +387663,7 @@
 2	recomiendo	recomendar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	que	que	SCONJ	_	_	11	mark	_	_
 4	si	si	SCONJ	_	_	5	mark	_	_
-5	vienes	venir	VERB	_	Mood=Ind|Number=Sing|VerbForm=Fin	11	advcl	_	_
+5	vienes	venir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 6	en	en	ADP	_	_	7	case	_	_
 7	tren	tren	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
