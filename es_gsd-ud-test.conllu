@@ -7358,7 +7358,7 @@
 14	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	13	obl:arg	_	_
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 16	pero	pero	CCONJ	_	_	17	cc	_	_
-17	tenga	tener	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	conj	_	_
+17	tenga	tener	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	4	conj	_	_
 18	paciencia	paciencia	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
 19	:	:	PUNCT	_	PunctType=Colo	24	punct	_	_
 20	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	21	det	_	_
@@ -9188,7 +9188,7 @@
 12	practica	practicar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	parataxis	_	_
 13	la	él	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	12	obj	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
-15	demuestra	demostrar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	_
+15	demuestra	demostrar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	12	conj	_	_
 16	tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=2|Poss=Yes|PronType=Prs	17	det	_	_
 17	civilidad	civilidad	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	SpaceAfter=No
 18	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_

@@ -20907,7 +20907,7 @@
 3	de	de	ADP	_	_	5	case	_	_
 4	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	5	det	_	_
 5	pais	país	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	2	obl	_	CorrectForm=país
-6	ignoren	ignorar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+6	ignoren	ignorar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
 7	eso	ese	PRON	_	Number=Sing|PronType=Dem	6	obj	_	SpaceAfter=No
 8	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
 
@@ -188227,7 +188227,7 @@
 # text = Por favor sean puntuales.
 1	Por	por	ADP	_	_	2	case	_	_
 2	favor	favor	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	_
-3	sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	_
+3	sean	ser	AUX	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	4	cop	_	_
 4	puntuales	puntual	ADJ	_	Number=Plur	0	root	_	SpaceAfter=No
 5	.	.	PUNCT	_	PunctType=Peri	4	punct	_	_
 
@@ -211856,7 +211856,7 @@
 12	solo	sólo	ADV	_	_	14	advmod	_	_
 13	como	como	SCONJ	_	_	14	case	_	_
 14	sugerencia	sugerencia	NOUN	_	Gender=Fem|Number=Sing	15	obl	_	_
-15	anexen	anexar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
+15	anexen	anexar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	1	parataxis	_	_
 16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	precios	precio	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
 18	de	de	ADP	_	_	20	case	_	_
@@ -246900,7 +246900,7 @@
 
 # sent_id = es-train-017-s134
 # text = Pide un presupuesto a PcBox y después contacta conmigo, verás la diferencia.
-1	Pide	pedir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
+1	Pide	pedir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
 2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	presupuesto	presupuesto	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	a	a	ADP	_	_	5	case	_	_
@@ -387679,7 +387679,7 @@
 16	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	17	det	_	_
 17	acueducto	acueducto	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	SpaceAfter=No
 18	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
-19	aprobecha	aprovechar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|Typo=Yes|VerbForm=Fin	2	parataxis	_	CorrectForm=aprovecha
+19	aprobecha	aprovechar	VERB	_	Mood=Imp|Number=Sing|Person=2|Typo=Yes|VerbForm=Fin	2	parataxis	_	CorrectForm=aprovecha
 20	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	_
 21	ocasion	ocasión	NOUN	_	Gender=Fem|Number=Sing|Typo=Yes	19	obj	_	CorrectForm=ocasión
 22	para	para	SCONJ	_	_	23	mark	_	_
