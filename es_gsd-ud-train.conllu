@@ -2712,7 +2712,7 @@
 18	compartan	compartir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
 19	opiniones	opinión	NOUN	_	Gender=Fem|Number=Plur	18	obj	_	_
 20	y	y	CCONJ	_	_	21	cc	_	_
-21	voten	votar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	13	conj	_	_
+21	voten	votar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	13	conj	_	_
 22	por	por	ADP	_	_	26	case	_	_
 23	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	26	det	_	_
 24	"	"	PUNCT	_	PunctType=Quot	26	punct	_	SpaceAfter=No
@@ -87963,7 +87963,7 @@
 84	de	de	ADP	_	_	85	mark	_	_
 85	cenar	cenar	VERB	_	VerbForm=Inf	83	advcl	_	_
 86	y	y	CCONJ	_	_	87	cc	_	_
-87	apaguen	apagar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	83	conj	_	_
+87	apaguen	apagar	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	83	conj	_	_
 88	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	89	det	_	_
 89	música	música	NOUN	_	Gender=Fem|Number=Sing	87	obj	_	SpaceAfter=No
 90	.	.	PUNCT	_	PunctType=Peri	11	punct	_	_
@@ -251313,7 +251313,7 @@
 23	deprimido	deprimido	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	21	conj	_	_
 24	o	o	CCONJ	_	_	26	cc	_	_
 25	simplemente	simplemente	ADV	_	_	26	advmod	_	_
-26	manifieste	manifestar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	5	conj	_	_
+26	manifieste	manifestar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj	_	_
 27	algún	alguno	DET	_	Gender=Masc|Number=Sing|PronType=Ind	28	det	_	_
 28	comportamiento	comportamiento	NOUN	_	Gender=Masc|Number=Sing	26	obj	_	_
 29	o	o	CCONJ	_	_	30	cc	_	_
@@ -257716,7 +257716,7 @@
 37	Movimiento	movimiento	NOUN	_	_	34	obl	_	_
 38	y	y	CCONJ	_	_	40	cc	_	_
 39	le	él	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	40	obl:arg	_	_
-40	sostengan	sostener	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	34	conj	_	SpaceAfter=No
+40	sostengan	sostener	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	34	conj	_	SpaceAfter=No
 41	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
 
 # sent_id = es-train-017-s483
