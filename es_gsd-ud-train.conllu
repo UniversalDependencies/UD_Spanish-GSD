@@ -21021,7 +21021,7 @@
 4	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 5	otro	otro	DET	_	Gender=Masc|Number=Sing|PronType=Ind	6	det	_	_
 6	dia	día	NOUN	_	Gender=Masc|Number=Sing|Typo=Yes	7	obl	_	CorrectForm=día
-7	compre	comprar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	2	parataxis	_	_
+7	compre	comprar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|Typo=Yes|VerbForm=Fin	2	parataxis	_	CorrectForm=compré
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	portatil	portátil	NOUN	_	Number=Sing|Typo=Yes	7	obj	_	CorrectForm=portátil
 10	Acer	Acer	PROPN	_	_	9	appos	_	_
@@ -110448,7 +110448,7 @@
 
 # sent_id = es-train-008-s125
 # text = Comprobaremos la información (nombre completo y cédula de identidad) que se introduzca en los formularios con bases de datos actualizadas.
-1	Comprobaremos	comprobar	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
+1	Comprobaremos	comprobar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	información	información	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 4	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	5	punct	_	SpaceAfter=No
@@ -166884,7 +166884,7 @@
 2	conocía	conocer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
 3	París	París	PROPN	_	_	2	obj	_	_
 4	y	y	CCONJ	_	_	5	cc	_	_
-5	acerté	acertar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	2	conj	_	_
+5	acerté	acertar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	_
 6	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	_
 7	primer	primero	ADJ	_	Gender=Masc|Number=Sing|NumType=Ord	8	amod	_	_
 8	día	día	NOUN	_	Gender=Masc|Number=Sing	5	obl	_	_
@@ -219415,7 +219415,7 @@
 
 # sent_id = es-train-015-s221
 # text = Tomaremos la carretera de Extremadura A - 5, y a la altura de Alcorcón tomaremos, el desvió de San Martin de Valdeiglesias, pasamos junto a Villaviciosa de Odón, el pantano de San Juan, Pelayos de la Presa.
-1	Tomaremos	tomar	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
+1	Tomaremos	tomar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	det	_	_
 3	carretera	carretera	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	_
 4	de	de	ADP	_	_	5	case	_	_
@@ -283946,7 +283946,7 @@
 2	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	producto	producto	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
 4	que	que	PRON	_	PronType=Rel	5	obj	_	_
-5	compre	comprar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	3	acl:relcl	_	_
+5	compre	comprar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|Typo=Yes|VerbForm=Fin	3	acl:relcl	_	CorrectForm=compré
 6	estaba	estar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	advcl	_	_
 7	bien	bien	ADV	_	_	6	advmod	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
@@ -393785,7 +393785,7 @@
 
 # sent_id = es-train-026-s381
 # text = Disponemos de Certificados de Hospitales y Clínicas Chilenas que certifican la calidad del instrumental médico.
-1	Disponemos	disponer	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	0	root	_	_
+1	Disponemos	disponer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	de	de	ADP	_	_	3	case	_	_
 3	Certificados	certificados	NOUN	_	_	1	obl	_	_
 4	de	de	ADP	_	_	5	case	_	_
