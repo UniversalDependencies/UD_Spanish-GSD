@@ -16619,7 +16619,7 @@
 16	cuanto	cuanto	ADV	_	_	17	advmod	_	_
 17	más	más	ADV	_	Degree=Cmp	18	advmod	_	_
 18	tiempo	tiempo	NOUN	_	Gender=Masc|Number=Sing	19	nsubj	_	_
-19	pase	pasar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	14	advcl	_	_
+19	pase	pasar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	advcl	_	_
 20	y	y	CCONJ	_	_	25	cc	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	Valencia	Valencia	PROPN	_	_	25	nsubj	_	_

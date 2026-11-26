@@ -27253,7 +27253,7 @@
 18	Me	yo	PRON	_	Case=Dat|Number=Sing|Person=1|PrepCase=Npr|PronType=Prs	19	nmod	_	_
 19	Gusta	Gusta	PROPN	_	_	21	obj	_	SpaceAfter=No
 20	"	"	PUNCT	_	PunctType=Quot	19	punct	_	_
-21	acumule	acumular	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	14	acl:relcl	_	_
+21	acumule	acumular	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	_
 22	en	en	ADP	_	_	23	case	_	_
 23	Facebook	Facebook	PROPN	_	_	21	obl	_	SpaceAfter=No
 24	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
@@ -368050,7 +368050,7 @@
 7	entidad	entidad	NOUN	_	Gender=Fem|Number=Sing	5	obj	_	_
 8	que	que	PRON	_	PronType=Rel	10	nsubj	_	_
 9	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	10	obj	_	_
-10	financie	financiar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	7	acl:relcl	_	_
+10	financie	financiar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	_
 11	a	a	ADP	_	_	13	case	_	_
 12	25	25	NUM	_	NumForm=Digit|NumType=Card	13	nummod	_	_
 13	años	año	NOUN	_	Gender=Masc|Number=Plur	10	obl	_	_
