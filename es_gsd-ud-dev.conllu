@@ -22494,7 +22494,7 @@
 17	en	en	ADP	_	_	18	case	_	_
 18	otro	otro	PRON	_	Gender=Masc|Number=Sing|PronType=Ind	13	nmod	_	SpaceAfter=No
 19	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-20	dificultan	dificultar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+20	dificultan	dificultar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 21	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	_
 22	tránsito	tránsito	NOUN	_	Gender=Masc|Number=Sing	20	obj	_	_
 23	de	de	ADP	_	_	25	case	_	_
@@ -37089,7 +37089,7 @@
 25	un	uno	NUM	_	Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	26	nummod	_	_
 26	Hm	hm	NOUN	_	_	28	nsubj	_	SpaceAfter=No
 27	³	³	X	_	_	26	dep	_	_
-28	equivale	equivaler	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	22	parataxis	_	_
+28	equivale	equivaler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	parataxis	_	_
 29	a	a	ADP	_	_	28	case	_	_
 30	un	uno	NUM	_	Gender=Masc|Number=Sing|NumForm=Word|NumType=Card	31	nummod	_	_
 31	millón	millón	NOUN	_	Gender=Masc|Number=Sing	33	nummod	_	_
@@ -38000,7 +38000,7 @@
 # sent_id = es-dev-003-s282
 # text = Según informa la Autoridad Portuaria de Tarragona (APT), titular del Museo, la donación se ha formalizado con la firma de un convenio por el que el maestro botero cede su colección, formada por 108 herramientas, a la APT.
 1	Según	según	SCONJ	_	_	2	mark	_	_
-2	informa	informar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	21	advcl	_	_
+2	informa	informar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	advcl	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	Autoridad	autoridad	NOUN	_	_	2	nsubj	_	_
 5	Portuaria	portuario	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_

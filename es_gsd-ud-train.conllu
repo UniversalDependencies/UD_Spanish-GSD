@@ -19807,7 +19807,7 @@
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
 5	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	6	det	_	_
 6	paciente	paciente	NOUN	_	Number=Sing	7	nsubj	_	_
-7	mira	mirar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+7	mira	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	estímulo	estímulo	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
 10	estándar	estándar	ADJ	_	Number=Sing	9	amod	_	_
@@ -227562,7 +227562,7 @@
 22	nuevos	nuevo	ADJ	_	Gender=Masc|Number=Plur	23	amod	_	_
 23	propietarios	propietario	NOUN	_	Gender=Masc|Number=Plur	19	obl	_	_
 24	según	según	ADP	_	_	25	case	_	_
-25	apunta	apuntar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	9	advcl	_	_
+25	apunta	apuntar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 26	Marca	Marca	PROPN	_	_	25	nsubj	_	SpaceAfter=No
 27	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
 
@@ -399228,7 +399228,7 @@
 22	Bob	Bob	PROPN	_	_	25	nsubj	_	_
 23	Esponja	Esponja	PROPN	_	Number=Sing	22	flat	_	_
 24	sólo	sólo	ADV	_	_	25	advmod	_	_
-25	mira	mirar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	11	advcl	_	_
+25	mira	mirar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	advcl	_	_
 26	con	con	ADP	_	_	27	case	_	_
 27	horror	horror	NOUN	_	Gender=Masc|Number=Sing	25	obl	_	_
 28	como	como	SCONJ	_	_	29	case	_	_
