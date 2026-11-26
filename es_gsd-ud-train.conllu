@@ -98624,7 +98624,7 @@
 7	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	8	expl:pv	_	_
 8	entrecruzan	entrecruzar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	y	y	CCONJ	_	_	10	cc	_	_
-10	atraen	atraer	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	8	conj	_	_
+10	atraen	atraer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 11	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	13	det	_	_
 12	amplia	amplio	ADJ	_	Gender=Fem|Number=Sing	13	amod	_	_
 13	variedad	variedad	NOUN	_	Gender=Fem|Number=Sing	10	obj	_	_
@@ -102067,7 +102067,7 @@
 15	Londres	Londres	PROPN	_	_	13	nmod	_	SpaceAfter=No
 16	,	,	PUNCT	_	PunctType=Comm	18	punct	_	_
 17	y	y	CCONJ	_	_	18	cc	_	_
-18	forma	formar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	6	conj	_	_
+18	forma	formar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 19	parte	parte	NOUN	_	Gender=Fem|Number=Sing	18	obj	_	_
 20-21	del	_	_	_	_	_	_	_	_
 20	de	de	ADP	_	_	22	case	_	_
@@ -121237,7 +121237,7 @@
 15	María	María	PROPN	_	_	13	nmod	_	_
 16	Auxiliadora	Auxiliadora	PROPN	_	_	15	amod	_	_
 17	y	y	CCONJ	_	_	18	cc	_	_
-18	busca	buscar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	conj	_	_
+18	busca	buscar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 19	entonces	entonces	ADV	_	_	18	advmod	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
 21	momento	momento	NOUN	_	Gender=Masc|Number=Sing	18	obj	_	_
@@ -134298,7 +134298,7 @@
 4	cuestiones	cuestión	NOUN	_	Gender=Fem|Number=Plur	2	obl	_	_
 5	precisas	preciso	ADJ	_	Gender=Fem|Number=Plur	4	amod	_	_
 6	y	y	CCONJ	_	_	7	cc	_	_
-7	desempeñan	desempeñar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	2	conj	_	_
+7	desempeñan	desempeñar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	_
 8	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
 9	papel	papel	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
 10	similar	similar	ADJ	_	Number=Sing	9	amod	_	_
@@ -152943,7 +152943,7 @@
 32	Grupo	Grupo	PROPN	_	Gender=Masc|Number=Sing	29	nmod	_	_
 33	Luksic	Luksic	PROPN	_	_	32	appos	_	_
 34	-	-	PUNCT	_	PunctType=Dash	29	punct	_	_
-35	posee	poseer	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	15	ccomp	_	_
+35	posee	poseer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
 36	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	35	obj	_	_
 37	de	de	ADP	_	_	40	case	_	_
 38	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	40	det	_	_
@@ -181843,7 +181843,7 @@
 32	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	33	det	_	_
 33	merienda	merienda	NOUN	_	Gender=Fem|Number=Sing	31	nsubj	_	_
 34	y	y	CCONJ	_	_	35	cc	_	_
-35	festejan	festejar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	24	conj	_	_
+35	festejan	festejar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	24	conj	_	_
 36	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	37	det	_	_
 37	cumpleaños	cumpleaños	NOUN	_	Gender=Masc|Number=Plur	35	obj	_	SpaceAfter=No
 38	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -188041,7 +188041,7 @@
 32	huelga	huelga	NOUN	_	Gender=Fem|Number=Sing	30	obl	_	_
 33	y	y	CCONJ	_	_	35	cc	_	_
 34	"	"	PUNCT	_	PunctType=Quot	35	punct	_	SpaceAfter=No
-35	secuestran	secuestrar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	30	conj	_	_
+35	secuestran	secuestrar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	30	conj	_	_
 36	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	_
 37	país	país	NOUN	_	Gender=Masc|Number=Sing	35	obj	_	SpaceAfter=No
 38	"	"	PUNCT	_	PunctType=Quot	35	punct	_	_
@@ -224573,7 +224573,7 @@
 5	a	a	ADP	_	_	6	case	_	_
 6	Algeciras	Algeciras	PROPN	_	_	3	obl:arg	_	_
 7	y	y	CCONJ	_	_	8	cc	_	_
-8	obliga	obligar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	_
+8	obliga	obligar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	_
 9	a	a	ADP	_	_	10	case	_	_
 10	Granada	Granada	PROPN	_	_	8	obl:arg	_	_
 11	a	a	ADP	_	_	12	mark	_	_
@@ -277967,7 +277967,7 @@
 14	Cloud	Cloud	PROPN	_	_	13	flat	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
 16	e	e	CCONJ	_	_	17	cc	_	_
-17	incluye	incluir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	8	conj	_	_
+17	incluye	incluir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 18	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	19	det	_	_
 19	aplicación	aplicación	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	_
 20	de	de	ADP	_	_	21	case	_	_
@@ -293983,7 +293983,7 @@
 14	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 15	cole	cole	NOUN	_	Gender=Masc|Number=Sing	7	obl	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
-17	abandonan	abandonar	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	7	conj	_	_
+17	abandonan	abandonar	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	coche	coche	NOUN	_	Gender=Masc|Number=Sing	17	obj	_	_
 20	en	en	ADP	_	_	22	case	_	_
@@ -305369,7 +305369,7 @@
 15	of	of	PROPN	_	Number=Sing	14	flat	_	_
 16	Mythology	Mythology	PROPN	_	_	14	flat	_	_
 17	y	y	CCONJ	_	_	18	cc	_	_
-18	añade	añadir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	10	conj	_	_
+18	añade	añadir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 19	15	15	NUM	_	NumForm=Digit|NumType=Card	20	nummod	_	_
 20	unidades	unidad	NOUN	_	Gender=Fem|Number=Plur	18	obj	_	_
 21	humanas	humano	ADJ	_	Gender=Fem|Number=Plur	20	amod	_	SpaceAfter=No
@@ -308221,7 +308221,7 @@
 35	Flash	Flash	PROPN	_	Gender=Masc|Number=Sing	33	obj	_	_
 36	Back	Back	PROPN	_	_	35	flat	_	_
 37	y	y	CCONJ	_	_	38	cc	_	_
-38	recuerda	recordar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	33	conj	_	_
+38	recuerda	recordar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	conj	_	_
 39	qué	qué	PRON	_	Number=Sing|PronType=Int	41	nsubj	_	_
 40	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	cop	_	_
 41	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	38	ccomp	_	_
@@ -355312,7 +355312,7 @@
 27	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	28	det	_	_
 28	mañana	mañana	NOUN	_	Gender=Fem|Number=Sing	25	nmod	_	_
 29	y	y	CCONJ	_	_	30	cc	_	_
-30	mantienen	mantener	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	18	conj	_	_
+30	mantienen	mantener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	18	conj	_	_
 31	abierto	abierto	ADJ	_	Gender=Masc|Number=Sing|VerbForm=Part	30	xcomp	_	_
 32	hasta	hasta	ADP	_	_	34	case	_	_
 33	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	34	det	_	_
@@ -357771,7 +357771,7 @@
 9	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	_
 10	inmediata	inmediato	ADJ	_	Gender=Fem|Number=Sing	0	root	_	_
 11	y	y	CCONJ	_	_	12	cc	_	_
-12	provee	proveer	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	10	conj	_	_
+12	provee	proveer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	conj	_	_
 13	de	de	ADP	_	_	15	case	_	_
 14	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	interfaz	interfaz	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
@@ -361086,7 +361086,7 @@
 22	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	23	det	_	_
 23	Notariado	notariado	NOUN	_	_	20	nmod	_	_
 24	y	y	CCONJ	_	_	25	cc	_	_
-25	recogen	recoger	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	11	conj	_	_
+25	recogen	recoger	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
 26	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	27	det	_	_
 27	número	número	NOUN	_	Gender=Masc|Number=Sing	25	obj	_	_
 28	de	de	ADP	_	_	29	case	_	_
@@ -369209,7 +369209,7 @@
 
 # sent_id = es-train-025-s67
 # text = Afirma que las superficies comerciales "buscan su máximo beneficio, presionan excesivamente al pequeño productor, acaban con el comercio local y transforman negativamente los territorios en los que se asientan, ya que se pierden en ellos las relaciones sociales.
-1	Afirma	afirmar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	_
+1	Afirma	afirmar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	_	_	7	mark	_	_
 3	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	4	det	_	_
 4	superficies	superficie	NOUN	_	Gender=Fem|Number=Plur	7	nsubj	_	_
@@ -420292,7 +420292,7 @@
 11	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	12	det	_	_
 12	espíritu	espíritu	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	_
 13	sí	sí	SCONJ	_	_	14	mark	_	_
-14	quema	quemar	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	9	advcl	_	_
+14	quema	quemar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	_
 15	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	14	obj	_	_
 16	de	de	ADP	_	_	18	case	_	_
 17	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	18	det	_	_

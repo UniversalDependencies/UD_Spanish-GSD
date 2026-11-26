@@ -3162,7 +3162,7 @@
 12	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	Muiden	Muiden	PROPN	_	_	10	nmod	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
-15	sumergen	sumergir	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	8	conj	_	_
+15	sumergen	sumergir	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	8	conj	_	_
 16	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 17	gran	gran	ADJ	_	Number=Sing	18	amod	_	_
 18	parte	parte	NOUN	_	Gender=Fem|Number=Sing	15	obj	_	_

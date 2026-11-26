@@ -3720,7 +3720,7 @@
 52	hacienda	hacienda	NOUN	_	Gender=Fem|Number=Sing	49	nmod	_	_
 53	municipal	municipal	ADJ	_	Number=Sing	52	amod	_	_
 54	y	y	CCONJ	_	_	55	cc	_	_
-55	añade	añadir	VERB	_	Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	7	conj	_	_
+55	añade	añadir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	conj	_	_
 56	que	que	SCONJ	_	_	58	mark	_	_
 57	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	58	cop	_	_
 58	bueno	buen	ADJ	_	Gender=Masc|Number=Sing	55	ccomp	_	_
