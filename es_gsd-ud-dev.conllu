@@ -17228,7 +17228,7 @@
 # sent_id = es-dev-002-s86
 # text = Seguramente tengan alguna cosa mala pero yo y mi colega no lo hemos visto.
 1	Seguramente	seguramente	ADV	_	_	2	advmod	_	_
-2	tengan	tener	VERB	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	0	root	_	_
+2	tengan	tener	VERB	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 3	alguna	alguno	DET	_	Gender=Fem|Number=Sing|PronType=Ind	4	det	_	_
 4	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	_
 5	mala	mal	ADJ	_	Gender=Fem|Number=Sing	4	amod	_	_

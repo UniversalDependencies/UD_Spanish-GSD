@@ -427638,7 +427638,7 @@
 
 # sent_id = es-train-028-s478
 # text = Sean (a, L) y (b, M) dos transformaciones de Poincaré, y denotemos su producto de grupo como (a, L).
-1	Sean	ser	AUX	_	Mood=Imp|Number=Plur|Person=3|VerbForm=Fin	14	cop	_	_
+1	Sean	ser	AUX	_	Mood=Sub|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	_
 2	(	(	PUNCT	_	PunctSide=Ini|PunctType=Brck	3	punct	_	SpaceAfter=No
 3	a	a	NOUN	_	_	14	nsubj	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	5	punct	_	_
