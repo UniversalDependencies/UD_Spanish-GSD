@@ -4212,7 +4212,7 @@
 5	franquicia	franquicia	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	SpaceAfter=No
 6	,	,	PUNCT	_	PunctType=Comm	1	punct	_	_
 7	no	no	ADV	_	Polarity=Neg	8	advmod	_	_
-8	ahorre	ahorrar	VERB	_	Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
+8	ahorre	ahorrar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 9	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	8	obl	_	_
 10	en	en	ADP	_	_	12	case	_	_
 11	cierto	cierto	DET	_	Gender=Masc|Number=Sing|PronType=Ind	12	det	_	_
