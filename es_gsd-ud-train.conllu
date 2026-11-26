@@ -152930,7 +152930,7 @@
 20	-	-	PUNCT	_	PunctType=Dash	21	punct	_	_
 21	inglesa	inglés	ADJ	_	Gender=Fem|Number=Sing	19	dep	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	35	punct	_	_
-23	que	que	SCONJ	_	_	35	mark	_	_
+23	que	que	PRON	_	PronType=Rel	35	nsubj	_	_
 24	junto	junto	ADV	_	_	27	advmod	_	_
 25	a	a	ADP	_	_	27	case	_	_
 26	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	27	det	_	_
@@ -152943,7 +152943,7 @@
 32	Grupo	Grupo	PROPN	_	Gender=Masc|Number=Sing	29	nmod	_	_
 33	Luksic	Luksic	PROPN	_	_	32	appos	_	_
 34	-	-	PUNCT	_	PunctType=Dash	29	punct	_	_
-35	posee	poseer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	ccomp	_	_
+35	posee	poseer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	_
 36	una	uno	PRON	_	Gender=Fem|Number=Sing|PronType=Ind	35	obj	_	_
 37	de	de	ADP	_	_	40	case	_	_
 38	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	40	det	_	_
