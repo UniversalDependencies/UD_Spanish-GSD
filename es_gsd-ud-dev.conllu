@@ -15104,25 +15104,25 @@
 # sent_id = es-dev-002-s16
 # text = El anhelo de las autoridades y los asociados era, como era de prever, obtener la casa propia.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	anhelo	anhelo	NOUN	_	Gender=Masc|Number=Sing	9	nsubj	_	_
+2	anhelo	anhelo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	de	de	ADP	_	_	5	case	_	_
 4	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	5	det	_	_
 5	autoridades	autoridad	NOUN	_	Gender=Fem|Number=Plur	2	nmod	_	_
 6	y	y	CCONJ	_	_	8	cc	_	_
 7	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	8	det	_	_
 8	asociados	asociado	NOUN	_	Gender=Masc|Number=Plur	2	conj	_	_
-9	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No
+9	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
 11	como	como	SCONJ	_	_	12	mark	_	_
-12	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	9	advcl	_	_
+12	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	advcl	_	_
 13	de	de	ADP	_	_	14	mark	_	_
 14	prever	prever	VERB	_	VerbForm=Inf	12	advcl	_	SpaceAfter=No
 15	,	,	PUNCT	_	PunctType=Comm	12	punct	_	_
-16	obtener	obtener	VERB	_	VerbForm=Inf	9	xcomp	_	_
+16	obtener	obtener	VERB	_	VerbForm=Inf	2	csubj	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
 18	casa	casa	NOUN	_	Gender=Fem|Number=Sing	16	obj	_	_
 19	propia	propio	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	SpaceAfter=No
-20	.	.	PUNCT	_	PunctType=Peri	9	punct	_	_
+20	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-dev-002-s17
 # text = Con un divertimento pastoral, Lucinda, la dama por la que suspira el Caballero danés, (junto con otros demonios disfrazados) intenta seducir a éste, pero Ubaldo utiliza un cetro mágico para hacerlos desaparecer.
@@ -15875,13 +15875,13 @@
 28	de	de	ADP	_	_	29	case	_	_
 29	transportes	transporte	NOUN	_	Gender=Masc|Number=Plur	27	nmod	_	_
 30	colectivos	colectivo	ADJ	_	Gender=Masc|Number=Plur	29	amod	_	SpaceAfter=No
-31	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
-32	y	y	CCONJ	_	_	36	cc	_	_
+31	,	,	PUNCT	_	PunctType=Comm	34	punct	_	_
+32	y	y	CCONJ	_	_	34	cc	_	_
 33	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	34	det	_	_
-34	modus	modus	X	_	Gender=Masc	36	compound	_	_
+34	modus	modus	X	_	Gender=Masc	24	conj	_	_
 35	operandi	operandi	X	_	Number=Sing|Person=3	34	compound	_	_
-36	es	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	conj	_	_
-37	someter	someter	VERB	_	VerbForm=Inf	36	csubj	_	_
+36	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	cop	_	_
+37	someter	someter	VERB	_	VerbForm=Inf	34	csubj	_	_
 38	a	a	ADP	_	_	40	case	_	_
 39	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	40	det	_	_
 40	pasajeros	pasajero	NOUN	_	Gender=Masc|Number=Plur	37	obj	_	_

@@ -892,7 +892,7 @@
 # sent_id = es-train-001-s30
 # text = Otra alternativa para los techos planos de la modernidad sería exagerar un techo tradicional para llamar la atención incluso más a esta, como la Academia Estadounidense de las Artes y las Ciencias de Kallmann McKinnell & Wood en Cambridge, Massachusetts, teniendo tres niveles de techo bajo a cuatro aguas constituyendose uno encima de otro para una declaración enfática de refugio.
 1	Otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	2	det	_	_
-2	alternativa	alternativa	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	_
+2	alternativa	alternativa	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 3	para	para	ADP	_	_	5	case	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
 5	techos	techo	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
@@ -900,8 +900,8 @@
 7	de	de	ADP	_	_	9	case	_	_
 8	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	_
 9	modernidad	modernidad	NOUN	_	Gender=Fem|Number=Sing	5	nmod	_	_
-10	sería	ser	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	0	root	_	_
-11	exagerar	exagerar	VERB	_	VerbForm=Inf	10	xcomp	_	_
+10	sería	ser	AUX	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	2	cop	_	_
+11	exagerar	exagerar	VERB	_	VerbForm=Inf	2	csubj	_	_
 12	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	_
 13	techo	techo	NOUN	_	Gender=Masc|Number=Sing	11	obj	_	_
 14	tradicional	tradicional	ADJ	_	Number=Sing	13	amod	_	_
@@ -956,7 +956,7 @@
 62	enfática	enfático	ADJ	_	Gender=Fem|Number=Sing	61	amod	_	_
 63	de	de	ADP	_	_	64	case	_	_
 64	refugio	refugio	NOUN	_	Gender=Masc|Number=Sing	61	nmod	_	SpaceAfter=No
-65	.	.	PUNCT	_	PunctType=Peri	10	punct	_	_
+65	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-001-s31
 # text = El níquel incumple el plan de producción y de exportaciones en 6 mil 700 toneladas, lo que significó dejar de ingresar unos 120 millones de dólares, también en condiciones de una coyuntura de precios más favorable que la prevista en el Plan.
@@ -18559,12 +18559,12 @@
 13	Vera	Vera	PROPN	_	_	15	amod	_	_
 14	-	-	PUNCT	_	PunctType=Dash	13	punct	_	_
 15	Cruz	Cruz	PROPN	_	_	10	nmod	_	SpaceAfter=No
-16	,	,	PUNCT	_	PunctType=Comm	20	punct	_	_
+16	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 17	cuyo	cuyo	DET	_	Gender=Masc|Number=Sing|Poss=Yes|PronType=Rel	19	det	_	_
 18	principal	principal	ADJ	_	Number=Sing	19	amod	_	_
-19	fin	fin	NOUN	_	Gender=Masc|Number=Sing	20	nsubj	_	_
-20	fue	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	7	acl:relcl	_	_
-21	dar	dar	VERB	_	VerbForm=Inf	20	xcomp	_	_
+19	fin	fin	NOUN	_	Gender=Masc|Number=Sing	7	acl:relcl	_	_
+20	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	19	cop	_	_
+21	dar	dar	VERB	_	VerbForm=Inf	19	csubj	_	_
 22	culto	culto	NOUN	_	Gender=Masc|Number=Sing	21	obj	_	_
 23	a	a	ADP	_	_	24	case	_	_
 24	Cristo	Cristo	PROPN	_	_	21	obl:arg	_	_
@@ -216107,7 +216107,7 @@
 # sent_id = es-train-015-s111
 # text = Una técnica que ganó cierta popularidad en el sur de la Galia era plantar hierbas como la lavanda y el tomillo en los viñedos, creyéndose que los sabores se transferían a través del suelo a la uva.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	técnica	técnica	NOUN	_	Gender=Fem|Number=Sing	13	nsubj	_	_
+2	técnica	técnica	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 3	que	que	PRON	_	PronType=Rel	4	nsubj	_	_
 4	ganó	ganar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	acl:relcl	_	_
 5	cierta	cierto	DET	_	Gender=Fem|Number=Sing|PronType=Ind	6	det	_	_
@@ -216118,8 +216118,8 @@
 10	de	de	ADP	_	_	12	case	_	_
 11	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	12	det	_	_
 12	Galia	Galia	PROPN	_	_	9	nmod	_	_
-13	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-14	plantar	plantar	VERB	_	VerbForm=Inf	13	xcomp	_	_
+13	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	cop	_	_
+14	plantar	plantar	VERB	_	VerbForm=Inf	2	csubj	_	_
 15	hierbas	hierba	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	_
 16	como	como	SCONJ	_	_	18	case	_	_
 17	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	_
@@ -216132,7 +216132,7 @@
 24	viñedos	viñedo	NOUN	_	Gender=Masc|Number=Plur	14	obl	_	SpaceAfter=No
 25	,	,	PUNCT	_	PunctType=Comm	26	punct	_	_
 26-27	creyéndose	_	_	_	_	_	_	_	_
-26	creyendo	creer	VERB	_	VerbForm=Ger	13	advcl	_	_
+26	creyendo	creer	VERB	_	VerbForm=Ger	2	advcl	_	_
 27	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	26	expl:pv	_	_
 28	que	que	SCONJ	_	_	32	mark	_	_
 29	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	30	det	_	_
@@ -216148,7 +216148,7 @@
 38	a	a	ADP	_	_	40	case	_	_
 39	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	40	det	_	_
 40	uva	uva	NOUN	_	Gender=Fem|Number=Sing	32	obl	_	SpaceAfter=No
-41	.	.	PUNCT	_	PunctType=Peri	13	punct	_	_
+41	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-015-s112
 # text = Ambos organismos tendrán intervención en todas las causas penales, civiles, administrativas, tributarias que tramiten en la nueva jurisdicción federal de Esquel.
@@ -286900,19 +286900,19 @@
 
 # sent_id = es-train-019-s411
 # text = Si bien el único propósito que Freire tendría con esos buques era derrocar al gobierno dictatorial de Prieto;
-1	Si	si	SCONJ	_	ExtPos=SCONJ	12	mark	_	_
+1	Si	si	SCONJ	_	ExtPos=SCONJ	5	mark	_	_
 2	bien	bien	ADV	_	_	1	fixed	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 4	único	único	ADJ	_	Gender=Masc|Number=Sing	5	amod	_	_
-5	propósito	propósito	NOUN	_	Gender=Masc|Number=Sing	12	nsubj	_	_
+5	propósito	propósito	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 6	que	que	PRON	_	PronType=Rel	8	obj	_	_
 7	Freire	Freire	PROPN	_	_	8	nsubj	_	_
 8	tendría	tener	VERB	_	Mood=Cnd|Number=Sing|Person=3|VerbForm=Fin	5	acl:relcl	_	_
 9	con	con	ADP	_	_	11	case	_	_
 10	esos	ese	DET	_	Gender=Masc|Number=Plur|PronType=Dem	11	det	_	_
 11	buques	buque	NOUN	_	Gender=Masc|Number=Plur	8	obl	_	_
-12	era	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	_
-13	derrocar	derrocar	VERB	_	VerbForm=Inf	12	xcomp	_	_
+12	era	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	5	cop	_	_
+13	derrocar	derrocar	VERB	_	VerbForm=Inf	5	csubj	_	_
 14-15	al	_	_	_	_	_	_	_	_
 14	a	a	ADP	_	_	16	case	_	_
 15	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	16	det	_	_
@@ -286920,7 +286920,7 @@
 17	dictatorial	dictatorial	ADJ	_	Number=Sing	16	amod	_	_
 18	de	de	ADP	_	_	19	case	_	_
 19	Prieto	Prieto	PROPN	_	_	16	nmod	_	SpaceAfter=No
-20	;	;	PUNCT	_	PunctType=Semi	12	punct	_	_
+20	;	;	PUNCT	_	PunctType=Semi	5	punct	_	_
 
 # sent_id = es-train-019-s412
 # text = El núcleo y el espacio de usuario para todas las plataformas soportadas (que comprenden alrededor de una veintena de diferentes procesadores) se compilan desde un árbol de código central y unificado gestionado con CVS.
@@ -356183,19 +356183,19 @@
 # sent_id = es-train-024-s138
 # text = Tu objetivo en estos niveles será tocar todos los bloques y conseguir monedas.
 1	Tu	tu	DET	_	Number=Sing|Number[psor]=Sing|Person=3|Poss=Yes|PronType=Prs	2	det	_	_
-2	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	6	nsubj	_	_
+2	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	en	en	ADP	_	_	5	case	_	_
 4	estos	este	DET	_	Gender=Masc|Number=Plur|PronType=Dem	5	det	_	_
 5	niveles	nivel	NOUN	_	Gender=Masc|Number=Plur	2	nmod	_	_
-6	será	ser	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	0	root	_	_
-7	tocar	tocar	VERB	_	VerbForm=Inf	6	xcomp	_	_
+6	será	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	2	cop	_	_
+7	tocar	tocar	VERB	_	VerbForm=Inf	2	csubj	_	_
 8	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	10	det	_	_
 9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	bloques	bloque	NOUN	_	Gender=Masc|Number=Plur	7	obj	_	_
 11	y	y	CCONJ	_	_	12	cc	_	_
 12	conseguir	conseguir	VERB	_	VerbForm=Inf	7	conj	_	_
 13	monedas	moneda	NOUN	_	Gender=Fem|Number=Plur	12	obj	_	SpaceAfter=No
-14	.	.	PUNCT	_	PunctType=Peri	6	punct	_	_
+14	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-024-s139
 # text = El incidente del Itata fue un asunto diplomático e incidente militar entre los Estados Unidos y los insurgentes de Chile durante la Guerra Civil de 1891.
