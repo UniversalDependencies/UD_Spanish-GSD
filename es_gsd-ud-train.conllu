@@ -35101,9 +35101,9 @@
 # text = Sus primeras medidas fueron despedir a Jim Ross y recontratar a R - Truth y a The Miz, volviéndose heel.
 1	Sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 2	primeras	primero	ADJ	_	Gender=Fem|Number=Plur|NumType=Ord	3	amod	_	_
-3	medidas	medida	NOUN	_	Gender=Fem|Number=Plur	5	nsubj:pass	_	_
-4	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	5	aux:pass	_	_
-5	despedir	despedir	VERB	_	VerbForm=Inf	0	root	_	_
+3	medidas	medida	NOUN	_	Gender=Fem|Number=Plur	0	root	_	_
+4	fueron	ser	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	3	cop	_	_
+5	despedir	despedir	VERB	_	VerbForm=Inf	3	csubj	_	_
 6	a	a	ADP	_	_	7	case	_	_
 7	Jim	Jim	PROPN	_	_	5	obj	_	_
 8	Ross	Ross	PROPN	_	_	7	flat	_	_
@@ -35122,7 +35122,7 @@
 20	volviendo	volver	VERB	_	VerbForm=Ger	10	advcl	_	_
 21	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	20	expl:pv	_	_
 22	heel	heel	X	_	Gender=Masc|Number=Sing	20	xcomp	_	SpaceAfter=No
-23	.	.	PUNCT	_	PunctType=Peri	5	punct	_	_
+23	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
 
 # sent_id = es-train-003-s119
 # text = Un adelanto del episodio fue lanzado para el DVD / Blu - ray con Kung Fu Panda 2 el 13 de diciembre de 2011.
@@ -148438,12 +148438,12 @@
 # sent_id = es-train-010-s399
 # text = Una solución obvia, hubiera sido utilizar los cañones Bordkanone BK 3.7 de 37 mm, adaptados como arma antitanque, que habían sido abandonados por el ejército.
 1	Una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	2	det	_	_
-2	solución	solución	NOUN	_	Gender=Fem|Number=Sing	7	nsubj:pass	_	_
+2	solución	solución	NOUN	_	Gender=Fem|Number=Sing	0	root	_	_
 3	obvia	obvio	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	2	punct	_	_
-5	hubiera	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	7	aux	_	_
-6	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	7	aux:pass	_	_
-7	utilizar	utilizar	VERB	_	VerbForm=Inf	0	root	_	_
+5	hubiera	haber	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	2	aux	_	_
+6	sido	ser	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	2	cop	_	_
+7	utilizar	utilizar	VERB	_	VerbForm=Inf	2	csubj	_	_
 8	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	9	det	_	_
 9	cañones	cañón	PROPN	_	Gender=Masc|Number=Plur	7	obj	_	_
 10	Bordkanone	Bordkanone	PROPN	_	_	9	appos	_	_
@@ -148465,7 +148465,7 @@
 26	por	por	ADP	_	_	28	case	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
 28	ejército	ejército	NOUN	_	Gender=Masc|Number=Sing	25	obl:agent	_	SpaceAfter=No
-29	.	.	PUNCT	_	PunctType=Peri	7	punct	_	_
+29	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-010-s400
 # text = En 1994, Telesecundaria empezó a emitir en formato digital con el advenimiento de la Solidaridad I y vía satélite Edusat nació y comenzó a transmitir en seis canales.
@@ -275368,13 +275368,13 @@
 # sent_id = es-train-019-s49
 # text = El objetivo principal de la escuela fue entrenar a sus bailarines para el Ballet Nacional de Canadá y para compañías a través de Canadá y en todo el mundo.
 1	El	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	_
-2	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	8	nsubj:pass	_	_
+2	objetivo	objetivo	NOUN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	principal	principal	ADJ	_	Number=Sing	2	amod	_	_
 4	de	de	ADP	_	_	6	case	_	_
 5	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	_
 6	escuela	escuela	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	_
-7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	8	aux:pass	_	_
-8	entrenar	entrenar	VERB	_	VerbForm=Inf	0	root	_	_
+7	fue	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	cop	_	_
+8	entrenar	entrenar	VERB	_	VerbForm=Inf	2	csubj	_	_
 9	a	a	ADP	_	_	11	case	_	_
 10	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	11	det	_	_
 11	bailarines	bailarín	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
@@ -275396,7 +275396,7 @@
 27	todo	todo	DET	_	Gender=Masc|Number=Sing|PronType=Tot	29	det	_	_
 28	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	29	det	_	_
 29	mundo	mundo	NOUN	_	Gender=Masc|Number=Sing	22	conj	_	SpaceAfter=No
-30	.	.	PUNCT	_	PunctType=Peri	8	punct	_	_
+30	.	.	PUNCT	_	PunctType=Peri	2	punct	_	_
 
 # sent_id = es-train-019-s50
 # text = Según Daily Mail, las cifras que se manejan son 30 millones por el atacante y unos 18 millones de euros por el zaguero.
