@@ -245401,7 +245401,7 @@
 14	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	15	det	_	_
 15	verdad	verdad	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	_
 16	que	que	SCONJ	_	_	17	mark	_	_
-17	esperaba	esperar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	15	csubj	_	_
+17	esperaba	esperar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	15	csubj	_	_
 18	otra	otro	DET	_	Gender=Fem|Number=Sing|PronType=Ind	19	det	_	_
 19	cosa	cosa	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
 20	.	.	PUNCT	_	PunctType=Peri	1	punct	_	_
