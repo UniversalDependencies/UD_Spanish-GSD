@@ -3932,7 +3932,7 @@
 2	Fernando	Fernando	PROPN	_	Gender=Masc|Number=Sing	0	root	_	_
 3	Gago	Gago	PROPN	_	_	2	flat	_	SpaceAfter=No
 4	:	:	PUNCT	_	PunctType=Colo	27	punct	_	_
-5	Pese	pesar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	acl	_	_
+5	Pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	case	_	_
 6	a	a	ADP	_	_	5	fixed	_	_
 7	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	9	det	_	_
 8	24	24	NUM	_	NumForm=Digit|NumType=Card	9	nummod	_	_
@@ -42423,7 +42423,7 @@
 # text = Nuevamente - pese a los predicados de la doctrina Monroe - enfrentamos un agudo conflicto territorial con la principal potencia europea, habiéndonos convertido en estado corribereño de Europa, con una enorme zona de disputa de por medio, que cobija enormes riquezas mineras, ictícolas, e hidrocarburíferas, equivalentes estas a cincuenta veces nuestra deuda externa.
 1	Nuevamente	nuevamente	ADV	_	_	12	advmod	_	_
 2	-	-	PUNCT	_	PunctType=Dash	6	punct	_	_
-3	pese	pesar	VERB	_	VerbForm=Ger	6	acl	_	_
+3	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	case	_	_
 4	a	a	ADP	_	_	3	fixed	_	_
 5	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	6	det	_	_
 6	predicados	predicado	NOUN	_	Gender=Masc|Number=Plur|VerbForm=Part	12	obl	_	_
@@ -182718,7 +182718,7 @@
 
 # sent_id = es-train-013-s29
 # text = Pese a ello, el equipo de Vicente Moreno se fue de vacío y se complica la vida, ya que Gerard, ya en el tiempo de prolongación finiquitó el encuentro con un tanto a la contra.
-1	Pese	pese	NOUN	_	VerbForm=Ger	3	nmod	_	_
+1	Pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	case	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	ello	él	PRON	_	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
@@ -192394,7 +192394,7 @@
 
 # sent_id = es-train-013-s343
 # text = Pese al aumento de la participación, el partido socialista prevé que perderá peso político.
-1	Pese	pesar	VERB	_	VerbForm=Ger	4	acl	_	_
+1	Pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	case	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	1	det	_	_
@@ -206514,7 +206514,7 @@
 24	a	a	ADP	_	_	26	case	_	_
 25	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	_
 26	mes	mes	NOUN	_	Gender=Masc|Number=Sing	23	nmod	_	_
-27	pese	pesar	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	acl	_	_
+27	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	30	case	_	_
 28	a	a	ADP	_	_	27	fixed	_	_
 29	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	30	det	_	_
 30	oposición	oposición	NOUN	_	Gender=Fem|Number=Sing	7	obl	_	_
@@ -236612,7 +236612,7 @@
 
 # sent_id = es-train-016-s295
 # text = Pese a esto muchos tibetanos exiliados dicen que debido a la afluencia masiva de emigrantes de otras zonas de China los tibetanos son una minoría.
-1	Pese	pesar	VERB	_	ExtPos=CCONJ|VerbForm=Ger	3	cc	_	_
+1	Pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	case	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	esto	este	PRON	_	Number=Sing|PronType=Dem	7	obl	_	_
 4	muchos	mucho	DET	_	Gender=Masc|Number=Plur|NumType=Card|PronType=Ind	5	det	_	_
@@ -343028,7 +343028,7 @@
 9	integral	integral	ADJ	_	Number=Sing	7	amod	_	_
 10	que	que	PRON	_	PronType=Rel	18	nsubj	_	SpaceAfter=No
 11	,	,	PUNCT	_	PunctType=Comm	16	punct	_	_
-12	pese	pesar	VERB	_	VerbForm=Ger	16	acl	_	_
+12	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	case	_	_
 13	a	a	ADP	_	_	12	fixed	_	_
 14	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	16	det	_	_
 15	relativa	relativo	ADJ	_	Gender=Fem|Number=Sing	16	amod	_	_
