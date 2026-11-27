@@ -126239,7 +126239,7 @@
 
 # sent_id = es-train-009-s158
 # text = Pese a que en la actualidad Action Comics es un título mensual dedicado a Superman, comenzó siendo una antología, al igual que muchos de los primeros cómics.
-1	Pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	11	mark	_	_
+1	Pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	mark	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	que	que	SCONJ	_	_	11	mark	_	_
 4	en	en	ADP	_	_	6	case	_	_
@@ -128511,7 +128511,7 @@
 13	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	15	det	_	_
 14	verdadero	verdadero	ADJ	_	Gender=Masc|Number=Sing	15	amod	_	_
 15	rey	rey	NOUN	_	Gender=Masc|Number=Sing	7	obj	_	_
-16	pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	20	mark	_	_
+16	pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	mark	_	_
 17	a	a	ADP	_	_	16	fixed	_	_
 18	que	que	SCONJ	_	_	20	mark	_	_
 19	éste	este	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	20	nsubj	_	_
@@ -143142,7 +143142,7 @@
 30	ninguna	ninguno	DET	_	Gender=Fem|Number=Sing|PronType=Neg	31	det	_	_
 31	temporada	temporada	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	SpaceAfter=No
 32	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
-33	pese	pesar	VERB	_	ExtPos=ADP|VerbForm=Ger	36	case	_	_
+33	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	case	_	_
 34	a	a	ADP	_	_	33	fixed	_	_
 35	las	el	DET	_	Definite=Def|Gender=Fem|Number=Plur|PronType=Art	36	det	_	_
 36	protestas	protesta	NOUN	_	Gender=Fem|Number=Plur	10	obl	_	_
@@ -268939,7 +268939,7 @@
 27	fusión	fusión	NOUN	_	Gender=Fem|Number=Sing	12	obl	_	_
 28	que	que	PRON	_	PronType=Rel	35	nsubj	_	SpaceAfter=No
 29	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
-30	pese	pesar	VERB	_	ExtPos=ADP|Mood=Imp|Number=Sing|Person=3|VerbForm=Fin	32	case	_	_
+30	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	32	case	_	_
 31	a	a	ADP	_	_	30	fixed	_	_
 32	todo	todo	PRON	_	Gender=Masc|Number=Sing|PronType=Tot	36	nmod	_	SpaceAfter=No
 33	,	,	PUNCT	_	PunctType=Comm	32	punct	_	_
@@ -286423,7 +286423,7 @@
 69	cabe	caber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	26	parataxis	_	_
 70	agregar	agregar	VERB	_	VerbForm=Inf	69	xcomp	_	_
 71	que	que	SCONJ	_	_	79	mark	_	_
-72	pese	pesar	VERB	_	ExtPos=ADP|VerbForm=Ger	76	case	_	_
+72	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	76	case	_	_
 73	a	a	ADP	_	_	72	fixed	_	_
 74	todos	todo	DET	_	Gender=Masc|Number=Plur|PronType=Tot	76	det	_	_
 75	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	76	det	_	_
@@ -301108,7 +301108,7 @@
 
 # sent_id = es-train-020-s372
 # text = Pese a que los médicos inicialmente predijeron que se recuperaría en seis semanas, luego de dos meses le dijeron que transcurriría un año o más antes de que se sintiera mejor.
-1	Pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	mark	_	_
+1	Pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	mark	_	_
 2	a	a	ADP	_	_	1	fixed	_	_
 3	que	que	SCONJ	_	_	7	mark	_	_
 4	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	5	det	_	_
@@ -345323,7 +345323,7 @@
 3	habilidad	habilidad	NOUN	_	Gender=Fem|Number=Sing	11	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
 5	y	y	CCONJ	_	_	9	cc	_	_
-6	pese	pesar	VERB	_	ExtPos=ADP|VerbForm=Inf	9	case	_	_
+6	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	case	_	_
 7-8	al	_	_	_	_	_	_	_	_
 7	a	a	ADP	_	_	6	fixed	_	_
 8	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	_
@@ -377188,7 +377188,7 @@
 8	ejército	ejército	NOUN	_	Gender=Masc|Number=Sing	5	nmod	_	_
 9	rojo	rojo	ADJ	_	Gender=Masc|Number=Sing	8	amod	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	14	punct	_	_
-11	pese	pesar	VERB	_	ExtPos=ADP|VerbForm=Ger	14	case	_	_
+11	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	case	_	_
 12	a	a	ADP	_	_	11	fixed	_	_
 13	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	det	_	_
 14	ideario	ideario	NOUN	_	Gender=Masc|Number=Sing	2	obl	_	_
@@ -403216,7 +403216,7 @@
 11	Abdón	Abdón	PROPN	_	Gender=Masc|Number=Sing	22	nsubj	_	_
 12	Calderón	Calderón	PROPN	_	_	11	flat	_	SpaceAfter=No
 13	,	,	PUNCT	_	PunctType=Comm	17	punct	_	_
-14	pese	pesar	VERB	_	ExtPos=ADP|VerbForm=Ger	17	case	_	_
+14	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	case	_	_
 15	a	a	ADP	_	_	14	fixed	_	_
 16	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	det	_	_
 17	juventud	juventud	NOUN	_	Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
@@ -403385,7 +403385,7 @@
 35	cuya	cuyo	DET	_	Gender=Fem|Number=Sing|Poss=Yes|PronType=Rel	36	det	_	_
 36	duración	duración	NOUN	_	Gender=Fem|Number=Sing	45	obl	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	36	punct	_	_
-38	pese	pesar	VERB	_	ExtPos=SCONJ|VerbForm=Ger	41	mark	_	_
+38	pese	pesar	VERB	_	ExtPos=SCONJ|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	41	mark	_	_
 39	a	a	ADP	_	_	38	fixed	_	_
 40	ser	ser	AUX	_	VerbForm=Inf	41	cop	_	_
 41	algo	algo	PRON	_	Number=Sing|PronType=Ind	45	advcl	_	_
