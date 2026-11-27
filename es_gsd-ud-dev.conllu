@@ -2199,7 +2199,7 @@
 40	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	41	det	_	_
 41	estreno	estreno	NOUN	_	Gender=Masc|Number=Sing	38	obl	_	SpaceAfter=No
 42	,	,	PUNCT	_	PunctType=Comm	47	punct	_	_
-43	pese	pesar	VERB	_	VerbForm=Ger	47	acl	_	_
+43	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	47	case	_	_
 44	a	a	ADP	_	_	43	fixed	_	_
 45	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	47	det	_	_
 46	apabullante	apabullante	ADJ	_	Number=Sing	47	amod	_	_
@@ -20691,7 +20691,7 @@
 30	poco	poco	PRON	_	NumType=Card|PronType=Ind	28	conj	_	_
 31	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	32	expl:pv	_	_
 32	informa	informar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	_
-33	pese	pesar	VERB	_	VerbForm=Ger	36	acl	_	_
+33	pese	pesar	VERB	_	ExtPos=ADP|Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	36	case	_	_
 34	a	a	ADP	_	_	33	fixed	_	_
 35	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	36	det	_	_
 36	importancia	importancia	NOUN	_	Gender=Fem|Number=Sing	32	obl	_	_
