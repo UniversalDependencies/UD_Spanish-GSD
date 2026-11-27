@@ -16186,7 +16186,7 @@
 3	lo	él	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs	4	obj	_	_
 4	diseño	diseñar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 5	y	y	CCONJ	_	_	6	cc	_	_
-6	utilizó	utilizar	VERB	_	VerbForm=Ger	4	conj	_	_
+6	utilizó	utilizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	_
 7	por	por	ADP	_	_	9	case	_	_
 8	primera	primero	ADJ	_	Gender=Fem|Number=Sing|NumType=Ord	9	amod	_	_
 9	vez	vez	NOUN	_	Gender=Fem|Number=Sing	6	obl	_	_
@@ -29606,7 +29606,7 @@
 
 # sent_id = es-train-002-s433
 # text = Mantendremos un acercamiento permanente con las empresas, verificando que traigan la mejor tecnología, la menos invasiva y dañina, y no la de hace 40 ó 50 años, que deja mucha contaminación y provoca muchas pérdidas al país, puntualizó el secretario Elvira Quesada.
-1	Mantendremos	mantener	VERB	_	VerbForm=Ger	0	root	_	_
+1	Mantendremos	mantener	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	0	root	_	_
 2	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	3	det	_	_
 3	acercamiento	acercamiento	NOUN	_	Gender=Masc|Number=Sing	1	obj	_	_
 4	permanente	permanente	ADJ	_	Number=Sing	3	amod	_	_
@@ -55738,7 +55738,7 @@
 
 # sent_id = es-train-004-s338
 # text = Limita al norte con los municipios de Fundación (en el departamento de Magdalena) y Pueblo Bello, al sur con Bosconia, al este con Valledupar y al oeste con Algarrobo (Magdalena).
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -58643,7 +58643,7 @@
 22	15	15	NUM	_	NumForm=Digit|NumType=Card	23	nummod	_	_
 23	minutos	minuto	NOUN	_	Gender=Masc|Number=Plur	25	obl	_	_
 24	andando	andar	VERB	_	VerbForm=Ger	25	advcl	_	_
-25	llegas	llegar	VERB	_	VerbForm=Ger	5	conj	_	_
+25	llegas	llegar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	5	conj	_	_
 26-27	al	_	_	_	_	_	_	_	_
 26	a	a	ADP	_	_	28	case	_	_
 27	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	28	det	_	_
@@ -76659,7 +76659,7 @@
 
 # sent_id = es-train-006-s4
 # text = Pertenece a la serie de videojuegos Training, creada por Nintendo.
-1	Pertenece	pertenecer	VERB	_	VerbForm=Ger	0	root	_	_
+1	Pertenece	pertenecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	serie	serie	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -79733,7 +79733,7 @@
 5	con	con	ADP	_	_	6	case	_	_
 6	mauseres	mauser	PROPN	_	Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
 7	,	,	PUNCT	_	PunctType=Comm	8	punct	_	_
-8	voy	ir	VERB	_	VerbForm=Ger	1	parataxis	_	_
+8	voy	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	1	parataxis	_	_
 9	a	a	ADP	_	ExtPos=ADV	8	advmod	_	_
 10	menudo	menudo	ADJ	_	Gender=Masc|Number=Sing	9	fixed	_	_
 11	a	a	ADP	_	_	12	mark	_	_
@@ -87126,7 +87126,7 @@
 
 # sent_id = es-train-006-s352
 # text = Creó los hospitales Guernica, Euzkadi y Ochandiano, todos ellos en Cataluña, y el hospital para mutilados, la maternidad y el dispensario de La Roseraie en Biarriz, así como el sanatorio antituberculosos de Cambo - les - Bains.
-1	Creó	crear	VERB	_	VerbForm=Ger	0	root	_	_
+1	Creó	crear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	hospitales	hospital	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	_
 4	Guernica	Guernica	PROPN	_	_	3	appos	_	SpaceAfter=No
@@ -87649,7 +87649,7 @@
 
 # sent_id = es-train-006-s369
 # text = Limita al norte con el término municipal de San Vicente del Raspeig;
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -92368,7 +92368,7 @@
 12	de	de	ADP	_	_	13	case	_	_
 13	caimanes	caimán	NOUN	_	Gender=Masc|Number=Plur	10	nmod	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
-15	visitarás	visitar	VERB	_	VerbForm=Ger	4	conj	_	_
+15	visitarás	visitar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	4	conj	_	_
 16	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	_
 17	Isla	Isla	PROPN	_	Gender=Fem|Number=Sing	15	obj	_	_
 18	de	de	ADP	_	_	20	case	_	_
@@ -99721,7 +99721,7 @@
 
 # sent_id = es-train-007-s259
 # text = Entregó los informes del Comité Central al XII y XIII congreso del partido en 1923 y 1924 respectivamente, algo que solía hacer Lenin.
-1	Entregó	entregar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Entregó	entregar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	informes	informe	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 4-5	del	_	_	_	_	_	_	_	_
@@ -115586,7 +115586,7 @@
 5	encanta	encantar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 6	que	que	SCONJ	_	_	12	mark	_	_
 7	mientras	mientras	SCONJ	_	_	8	mark	_	_
-8	vacíes	vaciar	VERB	_	VerbForm=Ger	12	advcl	_	_
+8	vacíes	vaciar	VERB	_	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	12	advcl	_	_
 9	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	10	det	_	_
 10	platos	plato	NOUN	_	Gender=Masc|Number=Plur	8	obj	_	_
 11	te	tú	PRON	_	Case=Dat|Number=Sing|Person=2|PrepCase=Npr|PronType=Prs	13	obl:arg	_	_
@@ -122627,7 +122627,7 @@
 
 # sent_id = es-train-009-s45
 # text = Limita por el norte con los distritos de Pachamarca y Chinchihuasi, por el sur con los distritos de Anco, El Carmen y Locroja, al este con los distritos de San Pedro de Coris y Pachamarca y por el oeste con los distritos de distrito de Anco y distrito de Cosme.
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	por	por	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	norte	norte	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -128123,7 +128123,7 @@
 
 # sent_id = es-train-009-s225
 # text = Acude a la comisaría donde pide ayuda a la policía para buscar a su hijo, tras reunirse con su ex - mujer, Grace, esta se enfada con él por volver a perder a otro de sus hijos.
-1	Acude	acudir	VERB	_	VerbForm=Ger	0	root	_	_
+1	Acude	acudir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	comisaría	comisaría	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -128677,7 +128677,7 @@
 
 # sent_id = es-train-009-s240
 # text = Pertenece a la colección de los así llamados "Profetas Menores" debido a su escasa extensión y se encuentra ubicado entre los libros de Joel y Abdías.
-1	Pertenece	pertenecer	VERB	_	VerbForm=Ger	0	root	_	_
+1	Pertenece	pertenecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	colección	colección	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -169874,7 +169874,7 @@
 
 # sent_id = es-train-012-s104
 # text = Participó en el concurso de preselección para representar a Suecia con la canción "Soy Tu Venus", pero no fue elegido ya que la estrella sueca, Lena Philipsson, se hizo con el triunfo tanto local como internacionalmente.
-1	Participó	participar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Participó	participar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
 4	concurso	concurso	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -170999,7 +170999,7 @@
 8	se	él	PRON	_	Case=Acc,Dat|Person=3|PrepCase=Npr|PronType=Prs|Reflex=Yes	9	expl:pv	_	_
 9	sabe	saber	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	parataxis	_	SpaceAfter=No
 10	,	,	PUNCT	_	PunctType=Comm	9	punct	_	_
-11	supongo	suponer	VERB	_	VerbForm=Ger	20	parataxis	_	_
+11	supongo	suponer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	20	parataxis	_	_
 12	que	que	SCONJ	_	_	13	mark	_	_
 13	como	como	SCONJ	_	_	11	ccomp	_	_
 14	todos	todo	PRON	_	Gender=Masc|Number=Plur|PronType=Tot	13	nmod	_	_
@@ -175282,7 +175282,7 @@
 15	en	en	ADP	_	_	16	case	_	_
 16	Arizona	Arizona	PROPN	_	_	13	obl	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-18	llegarás	llegar	VERB	_	VerbForm=Ger	1	conj	_	_
+18	llegarás	llegar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Fut|VerbForm=Fin	1	conj	_	_
 19-20	al	_	_	_	_	_	_	_	_
 19	a	a	ADP	_	_	21	case	_	_
 20	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	21	det	_	_
@@ -189152,7 +189152,7 @@
 
 # sent_id = es-train-013-s243
 # text = Limita al norte con los distritos de Neuchâtel (NE) y Seeland (BE), al noreste con See (FR) y Berna - Mittelland (BE), al este con Broye (FR), al sureste con Glâne (FR), al sur con Lavaux - Oron, al suroeste con Gros - de - Vaud, y al oeste con Jura - Nord vaudois y Boudry (NE).
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -189635,7 +189635,7 @@
 
 # sent_id = es-train-013-s257
 # text = Reaparece en el máximo circuito el 8 de julio de 1956 perdiendo ante el Zacatepec por 2-1.
-1	Reaparece	reaparecer	VERB	_	VerbForm=Ger	0	root	_	_
+1	Reaparece	reaparecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	en	en	ADP	_	_	5	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	5	det	_	_
 4	máximo	máximo	ADJ	_	Degree=Sup|Gender=Masc|Number=Sing	5	amod	_	_
@@ -192572,7 +192572,7 @@
 
 # sent_id = es-train-013-s347
 # text = Destacaría por encima de todo la rigurosidad de sus trabajos: compromiso en fechas de entrega, búsqueda de alternativas, adaptabilidad sectorial y flexibilidad en la relación contractual.
-1	Destacaría	destacar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Destacaría	destacar	VERB	_	Mood=Cnd|Number=Sing|Person=1|VerbForm=Fin	0	root	_	_
 2	por	por	ADP	_	_	3	case	_	_
 3	encima	encima	ADV	_	ExtPos=ADV	1	advmod	_	_
 4	de	de	ADP	_	_	3	fixed	_	_
@@ -219430,7 +219430,7 @@
 13	altura	altura	NOUN	_	Gender=Fem|Number=Sing	16	obl	_	_
 14	de	de	ADP	_	_	15	case	_	_
 15	Alcorcón	Alcorcón	PROPN	_	_	13	nmod	_	_
-16	tomaremos	tomar	VERB	_	VerbForm=Ger	1	conj	_	SpaceAfter=No
+16	tomaremos	tomar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	1	conj	_	SpaceAfter=No
 17	,	,	PUNCT	_	PunctType=Comm	19	punct	_	_
 18	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	_
 19	desvió	desviar	NOUN	_	Gender=Masc|Number=Sing	16	obj	_	_
@@ -226044,7 +226044,7 @@
 
 # sent_id = es-train-015-s446
 # text = Pertenece al Distrito de Ventanilla de la Provincia Constitucional del Callao.
-1	Pertenece	pertenecer	VERB	_	VerbForm=Ger	0	root	_	_
+1	Pertenece	pertenecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -226764,7 +226764,7 @@
 
 # sent_id = es-train-015-s469
 # text = Divide al taxón en dos extensas clases: Liliopsida (cuya circunscripción coincide con lo que conocemos como monocotiledóneas) y Magnoliopsida (cuya circunscripción coincide con lo que conocemos como dicotiledóneas).
-1	Divide	dividir	VERB	_	VerbForm=Ger	0	root	_	_
+1	Divide	dividir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -245385,7 +245385,7 @@
 
 # sent_id = es-train-017-s85
 # text = Fui con una oferta de Groupalia, de 4,50 euros por pizza y la verdad que esperaba otra cosa.
-1	Fui	ser	VERB	_	VerbForm=Ger	0	root	_	_
+1	Fui	ir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 2	con	con	ADP	_	_	4	case	_	_
 3	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	oferta	oferta	NOUN	_	Gender=Fem|Number=Sing	1	obl	_	_
@@ -250058,7 +250058,7 @@
 
 # sent_id = es-train-017-s238
 # text = Finalizó los estudios de medicina en 1963, especializándose en medicina interna y aparato digestivo.
-1	Finalizó	finalizar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Finalizó	finalizar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	estudios	estudio	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 4	de	de	ADP	_	_	5	case	_	_
@@ -269854,7 +269854,7 @@
 
 # sent_id = es-train-018-s382
 # text = Entregó los materiales para su último libro a FARMS en los últimos meses de 2002.
-1	Entregó	entregar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Entregó	entregar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
 3	materiales	material	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 4	para	para	ADP	_	_	7	case	_	_
@@ -279349,7 +279349,7 @@
 
 # sent_id = es-train-019-s176
 # text = Engulle a sus presas extendiendo su boca y empujándolas hasta el estómago, el cual puede dilatarse en función del tamaño de la presa.
-1	Engulle	engullir	VERB	_	VerbForm=Ger	0	root	_	_
+1	Engulle	engullir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	presas	presa	NOUN	_	Gender=Fem|Number=Plur	1	obj	_	_
@@ -299010,7 +299010,7 @@
 
 # sent_id = es-train-020-s302
 # text = Incluye por tanto, un gran número de plazas para Costas Peninsulares, Islas Canarias, Islas Baleares y Caribe, "destinos que seguirán liderando el ranking de destinos veraniegos más demandados" apunta Coloma Horrach, Directora de Producto Vacacional de Viajes Iberia.
-1	Incluye	incluir	VERB	_	VerbForm=Ger	0	root	_	_
+1	Incluye	incluir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	por	por	ADP	_	_	3	case	_	_
 3	tanto	tanto	PRON	_	Gender=Masc|Number=Sing|NumType=Card|PronType=Dem	1	obl	_	SpaceAfter=No
 4	,	,	PUNCT	_	PunctType=Comm	7	punct	_	_
@@ -305785,7 +305785,7 @@
 
 # sent_id = es-train-021-s24
 # text = Limita al norte con el distrito de Nacala - a - Velha, al oeste con Monapo, al sur y al sudoeste con Mogincual, al este con el océano Índico y con Isla de Mozambique.
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -325525,7 +325525,7 @@
 
 # sent_id = es-train-022-s160
 # text = Establece con especial énfasis, de un modo similar a Celso, la trascendencia absoluta de Dios y lo divino, así como la referencia del mal a la materia, no admitiendo que lo corporeo sea obra de la divinidad.
-1	Establece	establecer	VERB	_	VerbForm=Ger	0	root	_	_
+1	Establece	establecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	con	con	ADP	_	_	4	case	_	_
 3	especial	especial	ADJ	_	Number=Sing	4	amod	_	_
 4	énfasis	énfasis	NOUN	_	Gender=Masc	1	obl	_	SpaceAfter=No
@@ -332624,7 +332624,7 @@
 12	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	13	det	_	_
 13	pares	par	NOUN	_	Gender=Masc|Number=Plur	6	obl:arg	_	_
 14	y	y	CCONJ	_	_	15	cc	_	_
-15	extrae	extraer	VERB	_	VerbForm=Ger	6	conj	_	_
+15	extrae	extraer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	conj	_	_
 16	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	17	det	_	_
 17	valores	valor	NOUN	_	Gender=Masc|Number=Plur	15	obj	_	_
 18	TTL	Ttl	PROPN	_	Gender=Masc|Number=Plur	17	appos	_	_
@@ -352607,7 +352607,7 @@
 
 # sent_id = es-train-024-s22
 # text = Limita al norte con la ciudad costera de Coatzacoalcos y el municipio de Cosoleacaque, al noreste con Ixhuatlán del Sureste, al este con Moloacán y Las Choapas, al sur con Uxpanapa, y al suroeste Hidalgotitlán y Jáltipan.
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -382862,7 +382862,7 @@
 
 # sent_id = es-train-026-s20
 # text = Limita al norte con las comunas de Zollikon y Zumikon, al este con Maur, al sur con Herrliberg y Erlenbach, y al oeste con Thalwil, Rüschlikon y Kilchberg.
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -385327,7 +385327,7 @@
 
 # sent_id = es-train-026-s97
 # text = Corresponde a la ruta nacional 90A y al tramo 04 de dicha troncal.
-1	Corresponde	corresponder	VERB	_	VerbForm=Ger	0	root	_	_
+1	Corresponde	corresponder	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	_
 4	ruta	ruta	NOUN	_	Gender=Fem|Number=Sing	1	obl:arg	_	_
@@ -391074,7 +391074,7 @@
 
 # sent_id = es-train-026-s289
 # text = Disputa sus partidos en el Novgorod Palace of Sports of Trade Union, con capacidad para 5.000 espectadores.
-1	Disputa	disputar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Disputa	disputar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	sus	su	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	3	det	_	_
 3	partidos	partido	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 4	en	en	ADP	_	_	6	case	_	_
@@ -408199,7 +408199,7 @@
 
 # sent_id = es-train-027-s358
 # text = Equivale al So Chic en Francia
-1	Equivale	equivaler	VERB	_	VerbForm=Ger	0	root	_	_
+1	Equivale	equivaler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -411890,7 +411890,7 @@
 
 # sent_id = es-train-027-s484
 # text = Llega al punto de establecer una relación con él.
-1	Llega	llegar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Llega	llegar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -425007,7 +425007,7 @@
 14	pueblo	pueblo	NOUN	_	Gender=Masc|Number=Sing	11	obl	_	_
 15	lituano	lituano	ADJ	_	Gender=Masc|Number=Sing	14	amod	_	_
 16	y	y	CCONJ	_	_	17	cc	_	_
-17	derroca	derrocar	VERB	_	VerbForm=Ger	11	conj	_	_
+17	derroca	derrocar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	conj	_	_
 18	a	a	ADP	_	_	20	case	_	_
 19	la	el	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	_
 20	cruzada	cruzada	NOUN	_	Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
@@ -431400,7 +431400,7 @@
 20	es	ser	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	_
 21	excepcional	excepcional	ADJ	_	Number=Sing	3	parataxis	_	SpaceAfter=No
 22	,	,	PUNCT	_	PunctType=Comm	23	punct	_	_
-23	alcanzas	alcanzar	VERB	_	VerbForm=Ger	3	parataxis	_	_
+23	alcanzas	alcanzar	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	3	parataxis	_	_
 24	un	uno	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	25	det	_	_
 25	grado	grado	NOUN	_	Gender=Masc|Number=Sing	23	obj	_	_
 26	de	de	ADP	_	_	27	case	_	_

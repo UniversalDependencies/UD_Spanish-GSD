@@ -6687,7 +6687,7 @@
 
 # sent_id = es-test-001-s65
 # text = Destaca por su sistema GPS (sGPS), Bluetooth, entrada para auriculares 3,5 milímetros, slot para tarjetas MicroSD y reproduce música en formato MP3.
-1	Destaca	destacar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Destaca	destacar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	por	por	ADP	_	_	4	case	_	_
 3	su	su	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	4	det	_	_
 4	sistema	sistema	NOUN	_	Gender=Masc|Number=Sing	1	obl	_	_
@@ -11128,7 +11128,7 @@
 19	cosas	cosa	NOUN	_	Gender=Fem|Number=Plur	17	obj	_	_
 20	difíciles	difícil	ADJ	_	Number=Plur	17	xcomp	_	SpaceAfter=No
 21	,	,	PUNCT	_	PunctType=Comm	22	punct	_	_
-22	amo	amar	VERB	_	VerbForm=Ger	3	conj	_	_
+22	amo	amar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	3	conj	_	_
 23	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	24	det	_	_
 24	retos	reto	NOUN	_	Gender=Masc|Number=Plur	22	obj	_	SpaceAfter=No
 25	.	.	PUNCT	_	PunctType=Peri	3	punct	_	_
@@ -13367,7 +13367,7 @@
 35	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	36	det	_	_
 36	quesos	queso	NOUN	_	Gender=Masc|Number=Plur	33	nsubj	_	SpaceAfter=No
 37	,	,	PUNCT	_	PunctType=Comm	33	punct	_	_
-38	cambiamos	cambiar	VERB	_	VerbForm=Ger	1	parataxis	_	_
+38	cambiamos	cambiar	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	1	parataxis	_	_
 39	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	40	det	_	_
 40	plato	plato	NOUN	_	Gender=Masc|Number=Sing	38	obj	_	_
 41	de	de	ADP	_	_	42	case	_	_

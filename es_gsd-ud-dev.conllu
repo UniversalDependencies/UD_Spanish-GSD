@@ -563,7 +563,7 @@
 
 # sent_id = es-dev-001-s25
 # text = Limita al norte y al este con la comuna de Cama, al sur con Grono, y al occidente con Verdabbio.
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -6637,7 +6637,7 @@
 
 # sent_id = es-dev-001-s227
 # text = Dudo que tengan licencia de porteros y están más preocupados por empujar y demostrar el poco cerebro que tienen.
-1	Dudo	dudar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Dudo	dudar	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	_
 2	que	que	SCONJ	_	_	3	mark	_	_
 3	tengan	tener	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	1	ccomp	_	_
 4	licencia	licencia	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	_
@@ -7811,7 +7811,7 @@
 
 # sent_id = es-dev-001-s269
 # text = Limita al norte con la provincia de Paucartambo, al este con el distrito de Urcos, al sur con el distrito de Huaro y la provincia de Acomayo y al oeste con el distrito de Lucre.
-1	Limita	limitar	VERB	_	VerbForm=Ger	0	root	_	_
+1	Limita	limitar	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
@@ -8538,7 +8538,7 @@
 10	una	uno	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	11	det	_	_
 11	mudanza	mudanza	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
 12	,	,	PUNCT	_	PunctType=Comm	13	punct	_	_
-13	recorrimos	recorrer	VERB	_	VerbForm=Ger	4	conj	_	_
+13	recorrimos	recorrer	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	4	conj	_	_
 14	bastantes	bastante	DET	_	Number=Plur|NumType=Card|PronType=Ind	15	det	_	_
 15	kilometros	kilómetro	NOUN	_	Gender=Masc|Number=Plur|Typo=Yes	13	obj	_	CorrectForm=kilómetros
 16	y	y	CCONJ	_	_	21	cc	_	_
@@ -17063,7 +17063,7 @@
 6	sentimentales	sentimental	ADJ	_	Number=Plur	5	amod	_	SpaceAfter=No
 7	)	)	PUNCT	_	PunctSide=Fin|PunctType=Brck	5	punct	_	SpaceAfter=No
 8	,	,	PUNCT	_	PunctType=Comm	3	punct	_	_
-9	cogí	coger	VERB	_	VerbForm=Ger	0	root	_	_
+9	cogí	coger	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	0	root	_	_
 10	varios	varios	DET	_	Gender=Masc|Number=Plur|PronType=Ind	11	det	_	_
 11	objetos	objeto	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	_
 12	de	de	ADP	_	_	13	case	_	_
@@ -39881,7 +39881,7 @@
 
 # sent_id = es-dev-003-s342
 # text = Pertenece al municipio de Cillorigo de Liébana, en la comarca de Liébana (Cantabria, España).
-1	Pertenece	pertenecer	VERB	_	VerbForm=Ger	0	root	_	_
+1	Pertenece	pertenecer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
 2-3	al	_	_	_	_	_	_	_	_
 2	a	a	ADP	_	_	4	case	_	_
 3	el	el	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	4	det	_	_
