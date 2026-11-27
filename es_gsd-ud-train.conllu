@@ -87128,7 +87128,7 @@
 # text = Creó los hospitales Guernica, Euzkadi y Ochandiano, todos ellos en Cataluña, y el hospital para mutilados, la maternidad y el dispensario de La Roseraie en Biarriz, así como el sanatorio antituberculosos de Cambo - les - Bains.
 1	Creó	crear	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	_
 2	los	el	DET	_	Definite=Def|Gender=Masc|Number=Plur|PronType=Art	3	det	_	_
-3	hospitales	hospital	NOUN	_	Gender=Masc|Number=Plur	1	nsubj	_	_
+3	hospitales	hospital	NOUN	_	Gender=Masc|Number=Plur	1	obj	_	_
 4	Guernica	Guernica	PROPN	_	_	3	appos	_	SpaceAfter=No
 5	,	,	PUNCT	_	PunctType=Comm	6	punct	_	_
 6	Euzkadi	Euzkadi	PROPN	_	_	4	conj	_	_
